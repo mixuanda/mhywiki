@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+site/
+easy_updates/backups/
+easy_updates/entity_backups/
+releases/
