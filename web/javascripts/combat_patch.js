@@ -4,6 +4,7 @@
     "/index",
     "/about",
     "/yhb",
+    "/admin",
     "/gi/monster",
     "/gi/boss",
     "/gi/char",
@@ -31,14 +32,14 @@
     "/sr/change",
     "/sr/future",
     "/sr/formulae",
-    "/sr/linecount",
+    "/sr/linecount"
   ];
 
   const BLOCKED_EXACT = new Set([
     "/yunli",
     "/sr/yunli2",
     "/sr/yunli4",
-    "/sr/yunli5",
+    "/sr/yunli5"
   ]);
 
   function normalizePath(pathname) {
@@ -91,43 +92,29 @@
       markBlockedLink(anchor);
       const maybeCard = anchor.closest(".hover-shadow, .panel, .panelw, .new_block, .new_section, .menu_CTRL section");
       const navLike = anchor.closest(".menu_GI, .menu_SR, .menu_GI_2, .menu_SR_2, .d1, .d2, .home_select");
-      if (maybeCard && navLike) {
-        maybeCard.remove();
-      }
+      if (maybeCard && navLike) maybeCard.remove();
     }
   }
 
-  document.addEventListener(
-    "click",
-    function (event) {
-      const anchor = event.target && event.target.closest ? event.target.closest("a[href]") : null;
-      if (!anchor || !isLocalHref(anchor.href)) return;
-      const url = new URL(anchor.href, window.location.origin);
-      const path = normalizePath(url.pathname);
-      if (path === "/home") {
-        event.preventDefault();
-        window.location.href = "/index";
-        return;
-      }
-      if (isAllowed(path)) return;
+  document.addEventListener("click", function (event) {
+    const anchor = event.target && event.target.closest ? event.target.closest("a[href]") : null;
+    if (!anchor || !isLocalHref(anchor.href)) return;
+    const url = new URL(anchor.href, window.location.origin);
+    const path = normalizePath(url.pathname);
+    if (path === "/home") {
       event.preventDefault();
-      event.stopPropagation();
-    },
-    true
-  );
-
-  function hideTranslateUi() {
-    document.querySelectorAll("._translate_, h3 .lang, .lang").forEach((n) => {
-      n.style.display = "none";
-    });
-  }
+      window.location.href = "/index";
+      return;
+    }
+    if (isAllowed(path)) return;
+    event.preventDefault();
+    event.stopPropagation();
+  }, true);
 
   const observer = new MutationObserver(function () {
     sanitizeAnchors();
-    hideTranslateUi();
   });
   observer.observe(document.documentElement, { subtree: true, childList: true });
   sanitizeAnchors();
-  hideTranslateUi();
 })();
 

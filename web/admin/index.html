@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>HomDGCat Combat Admin</title>
+  <link rel="stylesheet" href="/stylesheets/thin.css">
+  <link rel="stylesheet" href="/stylesheets/style_.css">
+  <link rel="stylesheet" href="/stylesheets/admin.css">
+</head>
+<body>
+  <div class="admin-wrap">
+    <h1>Combat Wiki Admin</h1>
+
+    <section class="card" id="login-card">
+      <h2>Login</h2>
+      <div class="row">
+        <label for="admin-password">Password</label>
+        <input id="admin-password" type="password" placeholder="Enter admin password">
+      </div>
+      <button id="login-btn">Login</button>
+      <p id="login-status" class="status"></p>
+    </section>
+
+    <section class="card hidden" id="editor-card">
+      <h2>Create / Update Entity</h2>
+      <div class="grid">
+        <div class="row">
+          <label for="game">Game</label>
+          <select id="game">
+            <option value="gi">Genshin Impact</option>
+            <option value="sr">Honkai: Star Rail</option>
+          </select>
+        </div>
+        <div class="row">
+          <label for="kind">Entity Type</label>
+          <select id="kind">
+            <option value="character">Character</option>
+            <option value="weapon">Weapon (GI)</option>
+            <option value="artifact">Artifact (GI)</option>
+            <option value="enemy">Enemy</option>
+            <option value="banner">Banner</option>
+            <option value="lightcone">Light Cone (SR)</option>
+            <option value="relic">Relic (SR)</option>
+          </select>
+        </div>
+        <div class="row">
+          <label for="entity-id">Entity ID</label>
+          <input id="entity-id" type="text" placeholder="e.g. 1001 / Keqing">
+        </div>
+        <div class="row">
+          <label for="entity-name">Name</label>
+          <input id="entity-name" type="text" placeholder="Display name">
+        </div>
+      </div>
+      <div class="row">
+        <label for="entity-text">Human-readable text input</label>
+        <textarea id="entity-text" rows="14" placeholder="Paste plain text here. You can mix Chinese/English labels like Name/ID/Skills/Materials/etc."></textarea>
+      </div>
+      <div class="grid">
+        <div class="row">
+          <label for="skills-text">Skills / Skill Notes (one per line)</label>
+          <textarea id="skills-text" rows="6" placeholder="Normal Attack: ...&#10;E Skill: ...&#10;Q Skill: ..."></textarea>
+        </div>
+        <div class="row">
+          <label for="materials-text">Materials / Upgrade Costs</label>
+          <textarea id="materials-text" rows="6" placeholder="104312&#10;113002&#10;Common drops ..."></textarea>
+        </div>
+        <div class="row">
+          <label for="talents-text">Talents / Constellation / Eidolons / Traces</label>
+          <textarea id="talents-text" rows="6" placeholder="Talent 1 ...&#10;Constellation 1 ..."></textarea>
+        </div>
+        <div class="row">
+          <label for="notes-text">Extra Notes</label>
+          <textarea id="notes-text" rows="6" placeholder="Any extra detail to preserve"></textarea>
+        </div>
+      </div>
+      <div class="actions">
+        <button id="preview-btn">Parse Draft</button>
+        <button id="save-btn">Save + Sync Legacy Web</button>
+        <button id="logout-btn">Logout</button>
+      </div>
+      <p id="editor-status" class="status"></p>
+      <pre id="preview-json" class="json"></pre>
+    </section>
+
+    <section class="card hidden" id="github-card">
+      <h2>GitHub PR (Optional)</h2>
+      <p class="hint">For hosted workflow, submit changed local files to a new branch and open PR via GitHub API.</p>
+      <div class="grid">
+        <div class="row">
+          <label for="gh-repo">Repo (owner/name)</label>
+          <input id="gh-repo" type="text" placeholder="mixuanda/MHYwiki">
+        </div>
+        <div class="row">
+          <label for="gh-base">Base branch</label>
+          <input id="gh-base" type="text" value="main">
+        </div>
+        <div class="row">
+          <label for="gh-token">GitHub Token</label>
+          <input id="gh-token" type="password" placeholder="ghp_xxx">
+        </div>
+        <div class="row">
+          <label for="gh-title">PR Title</label>
+          <input id="gh-title" type="text" value="admin: content update">
+        </div>
+      </div>
+      <div class="row">
+        <label for="gh-body">PR Body</label>
+        <textarea id="gh-body" rows="6">Created from local admin workflow.</textarea>
+      </div>
+      <div class="row">
+        <label for="gh-paths">Changed file paths (one per line)</label>
+        <textarea id="gh-paths" rows="6" placeholder="combat-wiki/data/gi/characters/xxxx.json&#10;web/gi/CH/avatar.js"></textarea>
+      </div>
+      <button id="gh-pr-btn">Create PR from Local Files</button>
+      <p id="gh-status" class="status"></p>
+    </section>
+  </div>
+
+  <script src="/javascripts/admin.js"></script>
+</body>
+</html>
