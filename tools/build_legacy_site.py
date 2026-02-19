@@ -74,7 +74,7 @@ SR_LOCALE_FILES = [
 ]
 SR_LOCALE_DIRS = ["Avatar", "Weapon", "Relic"]
 
-ROOT_COPY_DIRS = ["plugins", "stylesheets", "javascripts", "fonts", "index", "about", "yhb", "Char"]
+ROOT_COPY_DIRS = ["plugins", "stylesheets", "javascripts", "fonts", "index", "yhb", "Char"]
 ROOT_COPY_FILES = ["favicon.ico"]
 ROOT_DATA_FILES = ["banner.js", "Stage.js", "New.js", "LevelCurves.js", "LevelCurvesSimple.js"]
 GI_ROOT_FILES = ["avatar.js", "banner.js"]
@@ -98,7 +98,6 @@ COMBAT_PATCH_JS = r"""(function () {
   const ALLOWED_PREFIXES = [
     "/",
     "/index",
-    "/about",
     "/yhb",
     "/admin",
     "/gi/monster",

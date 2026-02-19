@@ -2,7 +2,6 @@
   const ALLOWED_PREFIXES = [
     "/",
     "/index",
-    "/about",
     "/yhb",
     "/admin",
     "/gi/monster",

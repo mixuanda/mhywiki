@@ -11,7 +11,6 @@ VAR_RE = re.compile(r"^\s*(?:var|let|const)\s+([A-Za-z_$][A-Za-z0-9_$]*)\s*=", r
 DEFAULT_BANNED_FIELD_KEYWORDS = {
     "story",
     "voice",
-    "fetter",
     "cv",
     "quest",
     "chapter",

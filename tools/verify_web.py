@@ -25,6 +25,8 @@ CORE_ROUTES = [
     "/gi/monster/",
     "/gi/banner/",
     "/gi/abyss/",
+    "/gi/3boss/",
+    "/gi/ach/",
     "/gi/tut/",
     "/gi/change/",
     "/gi/formulae/",
@@ -37,6 +39,7 @@ CORE_ROUTES = [
     "/sr/arbitration/",
     "/sr/du/",
     "/sr/du31/",
+    "/sr/ach/",
     "/sr/stage/",
     "/sr/effect/",
     "/sr/change/",
@@ -44,6 +47,7 @@ CORE_ROUTES = [
     "/sr/formulae/",
     "/sr/linecount/",
     "/yhb/",
+    "/admin/",
 ]
 
 BLOCKED_ROUTES = [
@@ -53,6 +57,7 @@ BLOCKED_ROUTES = [
     "/sr/yunli5/",
     "/gi/quest/",
     "/sr/readable/",
+    "/about/",
 ]
 
 
