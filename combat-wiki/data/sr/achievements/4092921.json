@@ -1,0 +1,18 @@
+{
+  "id": "4092921",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "时间足够你玩",
+  "description": "通关「模拟宇宙：黄金与机械」时，使用自定义骰「倒计时」，倒计时大于等于 30.0 点",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

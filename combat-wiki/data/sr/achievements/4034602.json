@@ -1,0 +1,18 @@
+{
+  "id": "4034602",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "于是，金色的血流淌而出",
+  "description": "总有些「记忆」是被焚烧的代价<br><color style='color:#8790ab;'>※击退金血忆灵，与长夜月直接对话</color>",
+  "reward": 10,
+  "version": 3.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

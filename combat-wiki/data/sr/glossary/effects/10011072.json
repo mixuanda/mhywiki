@@ -1,0 +1,17 @@
+{
+  "id": "10011072",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "反击标记",
+  "description": "该目标已被史瓦罗标记。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011072,
+    "MDF": "MAvatar_Klara_00_BPSkill_Revenge",
+    "Name": "反击标记",
+    "Desc": "该目标已被史瓦罗标记。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84554",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "结题时刻",
+  "description": "见证爱拉尼在须弥的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

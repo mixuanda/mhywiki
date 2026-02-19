@@ -1,0 +1,18 @@
+{
+  "id": "4053051",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "漫长的告别",
+  "description": "愿她早日告别旧时阴霾<br><color style='color:#8790ab;'>※见证卢•阿彻的故事</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

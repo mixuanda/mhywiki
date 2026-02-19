@@ -1,0 +1,28 @@
+{
+  "id": "30211",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「巴拉奇科」",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2,
+    "Fire": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "fpa"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.0 地方传奇"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

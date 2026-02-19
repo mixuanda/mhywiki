@@ -1,0 +1,39 @@
+{
+  "id": "4014033",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "灰黯之手，遐蝶",
+  "description": "「死亡」遗留在生死交界地的残躯，为抗争命运再度苏醒。<br>半神不忍目睹故友迈向比「死亡」更残酷的末路，因而伸出长臂挽留。即便仅余槁骨腐肉，其威能与决心仍不可小觑。",
+  "stats": {
+    "HP": 60.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 80.0,
+    "Stance": 18.0
+  },
+  "weakness": [
+    "Wind",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4014030.png",
+  "figure": "monsterfigure/Monster_4014030.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

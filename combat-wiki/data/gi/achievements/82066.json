@@ -1,0 +1,15 @@
+{
+  "id": "82066",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "抢断",
+  "description": "打落冰弹丘丘人手中的冰史莱姆。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "15"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "53102",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "镀金旅团 · 炽阳凝冰",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "emsf"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 镀金旅团中层"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

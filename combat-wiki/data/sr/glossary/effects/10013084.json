@@ -1,0 +1,18 @@
+{
+  "id": "10013084",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "终结技伤害易伤",
+  "description": "受到终结技的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013084,
+    "MDF": "MAvatar_Acheron_00_Rank04_AllDamageTypeTakenRatio",
+    "Name": "终结技伤害易伤",
+    "Desc": "受到终结技的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

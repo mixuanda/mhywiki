@@ -1,0 +1,18 @@
+{
+  "id": "4072003",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "强攻！不计代价！",
+  "description": "触发 4.0 次以上银鬃尉官「盾反」并将其击败",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "210130223",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "速率修复",
+  "description": "处于停止行动状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210130223,
+    "MDF": "Monster_W1_Mecha04_00_RL_Enhance_Dormancy",
+    "Name": "速率修复",
+    "Desc": "处于停止行动状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

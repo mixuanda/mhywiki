@@ -1,0 +1,15 @@
+{
+  "id": "86027",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "超古代文明遗产",
+  "description": "与其他玩家一同战胜遗迹巨蛇。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "33"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

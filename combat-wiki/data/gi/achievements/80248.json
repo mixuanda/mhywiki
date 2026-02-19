@@ -1,0 +1,15 @@
+{
+  "id": "80248",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "荒场的冒险家",
+  "description": "在荒石苍漠、浮罗囿完成<color style='color:#FF0000;'><b>16</b></color>个大世界限时挑战。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "41"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

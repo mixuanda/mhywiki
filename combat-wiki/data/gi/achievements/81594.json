@@ -1,0 +1,15 @@
+{
+  "id": "81594",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "这里曾有一条归家之路",
+  "description": "在提提岛体验一次热舞乐台。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

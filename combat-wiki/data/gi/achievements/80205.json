@@ -1,0 +1,15 @@
+{
+  "id": "80205",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "胜利的拼图已在手中",
+  "description": "在获胜的牌局中，累计打出<color style='color:#FF0000;'><b>600</b></color>张行动牌。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

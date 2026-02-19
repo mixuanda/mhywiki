@@ -1,0 +1,17 @@
+{
+  "id": "230030321",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "使者带锁链",
+  "description": "即将释放【笼中传福音】。当前伤害级别为<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030321,
+    "MDF": "Monster_W3_Figure_02_RLElite_IsAiming",
+    "Name": "使者带锁链",
+    "Desc": "即将释放【笼中传福音】。当前伤害级别为<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

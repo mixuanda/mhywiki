@@ -1,0 +1,25 @@
+{
+  "id": "40901",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "秘源机兵 · 寻捕械",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_ToothTrap"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 秘源机兵"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

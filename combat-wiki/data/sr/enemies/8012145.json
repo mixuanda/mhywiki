@@ -1,0 +1,37 @@
+{
+  "id": "8012145",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "黎明的左手",
+  "description": "在末日来临之前的最后一个黎明，明洁的朝阳也会颤抖着悄然退场。<br>黎明的左手善于使用量子属性的力量，针对单个个体发起攻击。",
+  "stats": {
+    "HP": 4.0,
+    "ATK": 14.4,
+    "DEF": 1.0,
+    "SPD": 135.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind"
+  ],
+  "resistance": {
+    "Elec": 0.2,
+    "Quantum": 0.4,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8012142.png",
+  "figure": "monsterfigure/BossIconTemporary.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

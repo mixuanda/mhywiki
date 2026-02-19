@@ -1,0 +1,15 @@
+{
+  "id": "81587",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "她说「我愿意」",
+  "description": "帮助斯奇完成告白。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

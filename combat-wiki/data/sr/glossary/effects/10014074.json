@@ -1,0 +1,18 @@
+{
+  "id": "10014074",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "西风的驻足",
+  "description": "每层使造成的伤害提高<color> <b>A</b> </color>，持续至本回合结束。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014074,
+    "MDF": "MAvatar_Castorice_00_PointB3_AllDamageTypeAddedRatio",
+    "Name": "西风的驻足",
+    "Desc": "每层使造成的伤害提高<color> <b>A</b> </color>，持续至本回合结束。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

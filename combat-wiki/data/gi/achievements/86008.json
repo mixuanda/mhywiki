@@ -1,0 +1,15 @@
+{
+  "id": "86008",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…微笑就可以了。」",
+  "description": "与其他玩家一同战胜无相之雷。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "13"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

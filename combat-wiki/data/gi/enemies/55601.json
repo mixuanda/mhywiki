@@ -1,0 +1,25 @@
+{
+  "id": "55601",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "最后的特诺奇兹托克人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tenoyollotzin"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.8"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

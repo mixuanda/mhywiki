@@ -1,0 +1,15 @@
+{
+  "id": "81598",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「最后的特诺奇兹托克人」",
+  "description": "战胜地方传奇 · 最后的特诺奇兹托克人。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

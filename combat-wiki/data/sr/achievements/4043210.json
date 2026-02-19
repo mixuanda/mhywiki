@@ -1,0 +1,18 @@
+{
+  "id": "4043210",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "取消参赛资格！",
+  "description": "打破海选广场处的所有石头老板气球",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

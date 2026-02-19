@@ -1,0 +1,15 @@
+{
+  "id": "81427",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "我相信有仙子存在",
+  "description": "帮助佩妮解决她的心灵危机。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

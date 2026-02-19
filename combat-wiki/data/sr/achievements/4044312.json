@@ -1,0 +1,18 @@
+{
+  "id": "4044312",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "巴特鲁斯什么也不知道",
+  "description": "见证一只贼灵消灭宝箱旁的怪物",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

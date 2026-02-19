@@ -1,0 +1,15 @@
+{
+  "id": "70000002",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "雷霆耳光",
+  "description": "受到雷属性终结技的攻击后，会额外造成雷属性附加伤害。",
+  "content": {
+    "_id": 70000002,
+    "Name": "雷霆耳光",
+    "Desc": "受到雷属性终结技的攻击后，会额外造成雷属性附加伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

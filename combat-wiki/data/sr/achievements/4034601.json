@@ -1,0 +1,18 @@
+{
+  "id": "4034601",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "聆听我，甜蜜的黑暗",
+  "description": "既然这扇门背后就是翁法罗斯……<br><color style='color:#8790ab;'>※见证长夜月登上舞台</color>",
+  "reward": 10,
+  "version": 3.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

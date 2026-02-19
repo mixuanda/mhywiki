@@ -1,0 +1,19 @@
+{
+  "id": "10012043",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "法体",
+  "description": "景元的普攻、战技、终结技造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012043,
+    "MDF": "MAvatar_JingYuan_00_Rank02_DamageAddedRatio",
+    "Name": "法体",
+    "Desc": "景元的普攻、战技、终结技造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

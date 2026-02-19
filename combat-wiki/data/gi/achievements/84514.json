@@ -1,0 +1,15 @@
+{
+  "id": "84514",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "时也运也",
+  "description": "一次就选中了最高价值的璞石。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "117",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "死水深潜的先驱",
+  "icon": "71028.png",
+  "setBonuses": [
+    "对受负面状态影响的敌人造成的伤害提高 <b>12%</b> 。",
+    "暴击率提高 <b>4%</b> ，装备者对陷入不少于 <b>2</b> / <b>3</b> 个负面效果的敌方目标造成的暴击伤害提高 <b>8%</b> / <b>12%</b> 。装备者对敌方目标施加负面效果后，上述效果提高 <b>100%</b> ，持续 <b>1</b> 回合。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/117.js"
+  }
+}

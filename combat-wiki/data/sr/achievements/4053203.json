@@ -1,0 +1,18 @@
+{
+  "id": "4053203",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "黄金与机械…表？",
+  "description": "在热砂海选会场发现钟表小子化石为金的奥秘",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

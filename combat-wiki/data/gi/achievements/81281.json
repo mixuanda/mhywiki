@@ -1,0 +1,15 @@
+{
+  "id": "81281",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "赤王时代的沙漠与大赤沙海",
+  "description": "探索沙漠中三处巨大的尖碑。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

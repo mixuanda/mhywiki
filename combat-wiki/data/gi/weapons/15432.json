@@ -1,0 +1,57 @@
+{
+  "id": "15432",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "冷寂迸音",
+  "description": "专为极限远射和寂静刺杀所铸的机关长弓，迸发之声隐于夜色，音调凄冷幽长。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 509.605949,
+  "subStatType": "HP",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112085",
+    "112121",
+    "114052"
+  ],
+  "affix": {
+    "115432": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "攻击命中敌人时，在目标位置基于生命值上限的 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，造成范围伤害。该效果每15秒至多触发一次。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "攻击命中敌人时，在目标位置基于生命值上限的 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，造成范围伤害。该效果每15秒至多触发一次。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "攻击命中敌人时，在目标位置基于生命值上限的 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，造成范围伤害。该效果每15秒至多触发一次。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "攻击命中敌人时，在目标位置基于生命值上限的 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，造成范围伤害。该效果每15秒至多触发一次。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "攻击命中敌人时，在目标位置基于生命值上限的 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，造成范围伤害。该效果每15秒至多触发一次。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "攻击命中敌人时，在目标位置基于生命值上限的 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，造成范围伤害。该效果每15秒至多触发一次。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15432.js"
+  }
+}

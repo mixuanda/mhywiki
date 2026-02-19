@@ -1,0 +1,39 @@
+{
+  "id": "13993",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13993",
+  "tags": [],
+  "content": {
+    "_id": 13993,
+    "N": "特殊的霄灯…",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_1_01",
+        "D": "在海灯节期间，旅行者们可以获取特殊的「节礼霄灯」与「节庆霄灯」。<color style='color:#ec9d1f'>在璃月港之内#，可以自由摆放此类霄灯，并附上祝词。"
+      },
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_1_02",
+        "D": "当旅行者处于自己的世界中时，可以<color style='color:#ec9d1f'>收到其他旅行者在其自己世界中所放飞的「节庆霄灯」#。同样，旅行者在自己的世界中所放飞的「节庆霄灯」，也可以被其他世界的旅行者接取。接引霄灯的同时，也会为放飞这盏霄灯的旅行者<color style='color:#ec9d1f'>送上赞赏#。"
+      },
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_1_03",
+        "D": "在海灯节期间，旅行者们也可以获取特殊的「节礼霄灯」，借助「节礼霄灯」，<color style='color:#ec9d1f'>旅行者可以将各类礼物赠送给自己的伙伴#。"
+      },
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_1_04",
+        "D": "在海灯节期间，总务司在璃月港内放置了许多包着吉语钱的「吉事宝树」。用普通攻击即可为「吉事宝树」修剪枝干，修剪完成后，可以从中获取吉语钱。"
+      },
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_3_01",
+        "D": "当旅行者<color style='color:#ec9d1f'>修剪「吉事宝树」#，或是<color style='color:#ec9d1f'>放飞的霄灯被其他旅行者所接引时#，便可以获得<color style='color:#ec9d1f'>赞赏#。<br>另外，如果<color style='color:#ec9d1f'>在伙伴身边放飞霄灯#的话，或许也能获得他们的<color style='color:#ec9d1f'>赞赏#…？"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

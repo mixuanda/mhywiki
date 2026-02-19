@@ -1,0 +1,15 @@
+{
+  "id": "84309",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "海底下的不可思议",
+  "description": "知晓梅洛彼得堡的历史与秘密。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

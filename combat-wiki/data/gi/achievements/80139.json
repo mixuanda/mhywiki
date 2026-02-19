@@ -1,0 +1,15 @@
+{
+  "id": "80139",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "卡伊洛斯的时时刻刻",
+  "description": "在渊下宫完成6个大世界机关限时挑战。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "28"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "12405",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "雨裁",
+  "description": "散发着黯淡荧光的无锋大剑，纯粹以气势和力量碾碎敌人。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 509.605949,
+  "subStatType": "EM",
+  "subStatValue": 165.38400000000001,
+  "materialRefs": [
+    "112010",
+    "112028",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12405.js"
+  }
+}

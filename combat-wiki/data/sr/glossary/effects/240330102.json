@@ -1,0 +1,17 @@
+{
+  "id": "240330102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "厄堕",
+  "description": "下一次行动会施放【浑流奔涌】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330102,
+    "MDF": "MMonster_XP_Elite01_02_Charge_Enhance",
+    "Name": "厄堕",
+    "Desc": "下一次行动会施放【浑流奔涌】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

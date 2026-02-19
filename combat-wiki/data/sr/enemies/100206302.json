@@ -1,0 +1,39 @@
+{
+  "id": "100206302",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "无尽寒冬之槊",
+  "description": "可可利亚召唤出的巨大冰矛，环绕着能如刀刃般撕裂肉身的极寒气流。",
+  "stats": {
+    "HP": 4.0,
+    "ATK": 11.25,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 4.0
+  },
+  "weakness": [
+    "Fire"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1002013.png",
+  "figure": "monsterfigure/Monster_1002014.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "86040",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "探海索珠",
+  "description": "与其他玩家一同战胜千年珍珠骏麟。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "53"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

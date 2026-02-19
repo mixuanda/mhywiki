@@ -1,0 +1,17 @@
+{
+  "id": "10011015",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "养精蓄锐",
+  "description": "【养精蓄锐】的效果尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011015,
+    "MDF": "MAvatar_Bronya_Rank01_CoolDown",
+    "Name": "养精蓄锐",
+    "Desc": "【养精蓄锐】的效果尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "230030133",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "火上蕉油",
+  "description": "造成的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030133,
+    "MDF": "MModifier_Monster_W3_Theater_00_RLBoss_AllDamageTypeAddedRatio",
+    "Name": "火上蕉油",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "30221",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的愚人众 · 火之债务处理人",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2,
+    "Fire": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "fpa"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

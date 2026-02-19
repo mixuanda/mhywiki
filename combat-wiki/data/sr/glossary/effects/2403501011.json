@@ -1,0 +1,18 @@
+{
+  "id": "2403501011",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "愿你化作初生的烈阳",
+  "description": "卡厄斯兰那期待着黎明。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2403501011,
+    "MDF": "MMonster_W4_Phainon_00_Phase3",
+    "Name": "愿你化作初生的烈阳",
+    "Desc": "卡厄斯兰那期待着黎明。",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

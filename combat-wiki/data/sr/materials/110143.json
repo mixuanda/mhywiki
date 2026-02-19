@@ -1,0 +1,10 @@
+{
+  "id": "110143",
+  "game": "sr",
+  "entityType": "material",
+  "name": "琥珀的坚守",
+  "icon": "itemicon/110143.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

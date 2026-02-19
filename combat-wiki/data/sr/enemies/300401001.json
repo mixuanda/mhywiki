@@ -1,0 +1,30 @@
+{
+  "id": "300401001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "昔在、今在、永在的剧目",
+  "description": "美梦剧团的演员们蒙受了「秩序」的恩典，化作宣明法度的傀儡。它们在至高的诫命下起舞，献演迎接乐园的剧目。",
+  "stats": {
+    "HP": 52.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 0.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3004010.png",
+  "figure": "monsterfigure/Monster_3004010.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

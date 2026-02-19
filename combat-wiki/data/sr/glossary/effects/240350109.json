@@ -1,0 +1,18 @@
+{
+  "id": "240350109",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "愿你能终结长夜",
+  "description": "卡厄斯兰那期待着你的归来。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350109,
+    "MDF": "MMonster_W4_Phainon_00_Phase1",
+    "Name": "愿你能终结长夜",
+    "Desc": "卡厄斯兰那期待着你的归来。",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

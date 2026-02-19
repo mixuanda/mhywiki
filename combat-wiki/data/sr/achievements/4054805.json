@@ -1,0 +1,18 @@
+{
+  "id": "4054805",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "传奇挑战者",
+  "description": "在「黄金嗷呜大师赛」中，与玩家对战获得8.0场全胜",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

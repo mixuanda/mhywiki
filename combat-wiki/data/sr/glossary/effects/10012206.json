@@ -1,0 +1,17 @@
+{
+  "id": "10012206",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "礼辰祷月",
+  "description": "天赋效果中，我方目标每施放1次追加攻击即可使飞霄获得1点【飞黄】。该效果还可以触发<color> <b>A</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012206,
+    "MDF": "MAvatar_Feixiao_00_Rank02_CD",
+    "Name": "礼辰祷月",
+    "Desc": "天赋效果中，我方目标每施放1次追加攻击即可使飞霄获得1点【飞黄】。该效果还可以触发<color> <b>A</b> </color>次。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

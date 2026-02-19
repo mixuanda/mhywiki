@@ -1,0 +1,15 @@
+{
+  "id": "81220",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「只需一些柴火、一些醋…」",
+  "description": "通往地面的密道…大概不止一条。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

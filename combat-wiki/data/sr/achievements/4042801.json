@@ -1,0 +1,18 @@
+{
+  "id": "4042801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "初极狭，才通人",
+  "description": "穿过铜镜，打开藏在浮空岛上的战利品",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

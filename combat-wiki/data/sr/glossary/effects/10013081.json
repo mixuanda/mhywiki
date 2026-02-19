@@ -1,0 +1,17 @@
+{
+  "id": "10013081",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "集真赤",
+  "description": "被消去时，立即对敌方全体造成1次等同于黄泉<color> <b>A</b> </color>攻击力的雷属性伤害，每消去1层【集真赤】本次伤害倍率额外提高，最多提高至<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013081,
+    "MDF": "MAvatar_Acheron_00_PassiveFlag01",
+    "Name": "集真赤",
+    "Desc": "被消去时，立即对敌方全体造成1次等同于黄泉<color> <b>A</b> </color>攻击力的雷属性伤害，每消去1层【集真赤】本次伤害倍率额外提高，最多提高至<color> <b>B</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

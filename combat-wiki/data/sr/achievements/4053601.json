@@ -1,0 +1,18 @@
+{
+  "id": "4053601",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "周日夜现场",
+  "description": "找齐三位「不太一样」的梦境迷钟，并与它们共聚留念",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

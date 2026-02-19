@@ -1,0 +1,15 @@
+{
+  "id": "82289",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「雷吉」",
+  "description": "在完成一次挑战的过程中，角色被来自雷吉的攻击命中时均处于护盾庇护下，且护盾从未被攻击破坏。",
+  "reward": 10,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

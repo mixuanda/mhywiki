@@ -1,0 +1,17 @@
+{
+  "id": "230030304",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "锁定目标",
+  "description": "被<color>%CasterName</color>锁定为攻击目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030304,
+    "MDF": "Monster_W3_Figure_01_DotMark",
+    "Name": "锁定目标",
+    "Desc": "被<color>%CasterName</color>锁定为攻击目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

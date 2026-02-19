@@ -1,0 +1,15 @@
+{
+  "id": "81274",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "斜倚在大地之上",
+  "description": "完成「阿弗拉图之惑」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

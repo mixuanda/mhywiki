@@ -1,0 +1,15 @@
+{
+  "id": "82223",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「科西霍」",
+  "description": "战胜地方传奇 · 科西霍。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

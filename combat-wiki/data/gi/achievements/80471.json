@@ -1,0 +1,15 @@
+{
+  "id": "80471",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如果种子不死",
+  "description": "纵然花朵败落，叶片也会信守承诺。",
+  "reward": 10,
+  "version": "6.3",
+  "group": {
+    "id": "66"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

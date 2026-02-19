@@ -1,0 +1,15 @@
+{
+  "id": "84042",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "牢屋敷花火祭",
+  "description": "成功营救正胜。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

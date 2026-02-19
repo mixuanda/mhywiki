@@ -1,0 +1,18 @@
+{
+  "id": "280030401",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "dev_战斗姿态",
+  "description": "dev_守护者之影换皮进入战斗姿态，速度大幅提升",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030401,
+    "MDF": "Monster_XP_Elite02_01_Battle",
+    "Name": "dev_战斗姿态",
+    "Desc": "dev_守护者之影换皮进入战斗姿态，速度大幅提升",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

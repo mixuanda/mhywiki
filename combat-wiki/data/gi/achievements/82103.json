@@ -1,0 +1,15 @@
+{
+  "id": "82103",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "Smells like Animal Spirit!",
+  "description": "被无相之火的拟态三连击命中后，击败它。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

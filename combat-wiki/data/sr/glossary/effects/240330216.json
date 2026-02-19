@@ -1,0 +1,17 @@
+{
+  "id": "240330216",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "天谴决斗",
+  "description": "该目标只可攻击【泰坦眷属】，且只可被【泰坦眷属】攻击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330216,
+    "MDF": "MMonster_W4_Claymore_01_LocalLegend_WhiteCurse_Active",
+    "Name": "天谴决斗",
+    "Desc": "该目标只可攻击【泰坦眷属】，且只可被【泰坦眷属】攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

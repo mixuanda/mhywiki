@@ -1,0 +1,15 @@
+{
+  "id": "10000016",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "离场",
+  "description": "处于离场状态的目标无法成为技能目标，且不会出现在行动序列上。",
+  "content": {
+    "_id": 10000016,
+    "Name": "离场",
+    "Desc": "处于离场状态的目标无法成为技能目标，且不会出现在行动序列上。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

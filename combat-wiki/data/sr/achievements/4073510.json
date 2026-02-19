@@ -1,0 +1,18 @@
+{
+  "id": "4073510",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "兵不血刃",
+  "description": "单场战斗中，在貊泽没有触发天赋追加攻击的情况下，获得战斗胜利",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "20301",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深渊咏者 · 紫电",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "alvl"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 深渊使者"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

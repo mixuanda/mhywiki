@@ -1,0 +1,25 @@
+{
+  "id": "5101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "湖畔的尼尼安涅",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Necalevia_Normal"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.0"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

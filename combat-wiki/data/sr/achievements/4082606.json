@@ -1,0 +1,18 @@
+{
+  "id": "4082606",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "帕姆总冠军！",
+  "description": "累计对 5.0 个好友发送帕姆的表情图片",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

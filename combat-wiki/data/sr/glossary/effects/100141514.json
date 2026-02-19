@@ -1,0 +1,18 @@
+{
+  "id": "100141514",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "岁月的旅人",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141514,
+    "MDF": "MAvatar_Cyrene_00_PointB2",
+    "Name": "岁月的旅人",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

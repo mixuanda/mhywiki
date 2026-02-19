@@ -1,0 +1,18 @@
+{
+  "id": "4054602",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "无我所忆",
+  "description": "完成与神秘少女的最后一次交谈…真的是最后一次吗？",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

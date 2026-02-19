@@ -1,0 +1,22 @@
+{
+  "id": "15304",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "弹弓",
+  "description": "其实就是一把弓。在无数的改进和实验中，发明出究极弹弓的人发现自己做了一把弓。",
+  "rarity": 3,
+  "weaponType": 5,
+  "baseAtk": 354.37940000000003,
+  "subStatType": "CR",
+  "subStatValue": 0.31239200000000006,
+  "materialRefs": [
+    "112007",
+    "112031",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15304.js"
+  }
+}

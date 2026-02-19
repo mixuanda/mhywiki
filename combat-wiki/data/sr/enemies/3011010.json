@@ -1,0 +1,39 @@
+{
+  "id": "3011010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "忆域迷因「视线无处不在」",
+  "description": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>注目、回望、审视…在生命的生存行为和对自身生存的领悟中，「视」与「看」的记忆如影随形，最终成为生命本身。",
+  "stats": {
+    "HP": 1.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_3011010.png",
+  "figure": "monsterfigure/Monster_3011010.png",
+  "camp": {
+    "id": "11",
+    "name": "忆域迷因"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

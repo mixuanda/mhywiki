@@ -1,0 +1,25 @@
+{
+  "id": "52105",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "镀金旅团 · 刀舞者",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "emsd"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 镀金旅团低层"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

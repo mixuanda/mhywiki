@@ -1,0 +1,28 @@
+{
+  "id": "10010",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "冒险家",
+  "icon": "UI_RelicIcon_10010",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "生命值上限提高1000点。"
+    },
+    {
+      "Num": 4,
+      "Skill": "开启各类宝箱后的5秒内，持续恢复30%生命值。"
+    }
+  ],
+  "parts": [
+    "冒险家之花",
+    "冒险家尾羽",
+    "冒险家怀表",
+    "冒险家金杯",
+    "冒险家头带"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

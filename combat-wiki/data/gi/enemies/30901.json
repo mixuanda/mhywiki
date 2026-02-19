@@ -1,0 +1,34 @@
+{
+  "id": "30901",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "超重型陆巡舰 · 机动战垒",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuimecha_AMP"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 全地形战争机关"
+  ],
+  "analysis": {
+    "Name": "超重型陆巡舰 · 机动战垒",
+    "Icon": "UI_MonsterIcon_Fatuimecha_AMP",
+    "DescList": [
+      "• 初始@全部抗性极高#，受到 @120# 次@火元素攻击#后进入冷却，每 @1U# 附着额外视为一次攻击，进度过半时@全部抗性降低#",
+      "• 冷却时展开@冰元素护盾#，在限定时间内破除使其瘫痪，@全部抗性额外降低#，否则将退回初始状态",
+      "• 抗性：@150%# / @50%# / @-20%#",
+      "• 护盾：@28U# / @18s# ，瘫痪损失 @30%# 当前生命值"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10080065",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "10080065",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 10080065,
+    "MDF": "MAvatar_PlayerGirl_20_SkillP01_ListenBreakDamage_Self",
+    "Name": {},
+    "Desc": {},
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

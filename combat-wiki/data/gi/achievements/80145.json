@@ -1,0 +1,15 @@
+{
+  "id": "80145",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "丹砂高为千岩镇",
+  "description": "点亮「层岩巨渊」地面区域的地图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "30"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

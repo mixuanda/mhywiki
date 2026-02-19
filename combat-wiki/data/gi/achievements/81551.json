@@ -1,0 +1,15 @@
+{
+  "id": "81551",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "饥饿派画家",
+  "description": "向着山壁肆意倾泻心中的色彩。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

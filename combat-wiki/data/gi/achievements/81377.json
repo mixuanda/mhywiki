@@ -1,0 +1,15 @@
+{
+  "id": "81377",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "非零和博弈",
+  "description": "完成了特许食堂内部满意度调研。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

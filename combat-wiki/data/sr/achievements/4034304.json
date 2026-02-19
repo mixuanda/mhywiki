@@ -1,0 +1,18 @@
+{
+  "id": "4034304",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "出卖世界的女孩",
+  "description": "见证一则谎言的落幕<br><color style='color:#8790ab;'>※见证千年之谎被揭穿的时刻</color>",
+  "reward": 10,
+  "version": 3.3,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

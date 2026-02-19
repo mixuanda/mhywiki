@@ -1,0 +1,19 @@
+{
+  "id": "10013072",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "揭露",
+  "description": "自身回合内受到的伤害提高<color> <b>A</b> </color>，且处于【奥迹】状态时，也会被视为同时陷入了风化、裂伤、灼烧、触电状态，并且【奥迹】每回合开始造成伤害后不会重置层数，该效果还可触发<color> <b>C</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013072,
+    "MDF": "MAvatar_BlackSwan_00_DOT_Enhance",
+    "Name": "揭露",
+    "Desc": "自身回合内受到的伤害提高<color> <b>A</b> </color>，且处于【奥迹】状态时，也会被视为同时陷入了风化、裂伤、灼烧、触电状态，并且【奥迹】每回合开始造成伤害后不会重置层数，该效果还可触发<color> <b>C</b> </color>次。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

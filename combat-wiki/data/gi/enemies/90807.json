@@ -1,0 +1,27 @@
+{
+  "id": "90807",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "筑巢的增殖生命体",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Grass": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "ap"
+  ],
+  "figure": null,
+  "groups": [
+    "值得铭记的强敌 > 阿佩普的子嗣"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

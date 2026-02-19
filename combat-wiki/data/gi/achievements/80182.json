@@ -1,0 +1,15 @@
+{
+  "id": "80182",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大漠引路人 · 其一",
+  "description": "在列柱沙原 、上风蚀地、下风蚀地追随10个仙灵，并点亮仙灵之庭。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "35"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

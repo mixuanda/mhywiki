@@ -1,0 +1,39 @@
+{
+  "id": "102201003",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "永冬灾影",
+  "description": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
+  "stats": {
+    "HP": 2.9,
+    "ATK": 14.99994,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Ice": 0.4,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_1022010.png",
+  "figure": "monsterfigure/Monster_1022010.png",
+  "camp": {
+    "id": "3",
+    "name": "裂界造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

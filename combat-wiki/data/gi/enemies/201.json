@@ -1,0 +1,25 @@
+{
+  "id": "201",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "狂风之核",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "eos"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 元素凝核"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

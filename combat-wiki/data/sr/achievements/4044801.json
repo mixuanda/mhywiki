@@ -1,0 +1,18 @@
+{
+  "id": "4044801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "钟末视界",
+  "description": "修复「橡木鸣蛀之梦」中所有坏掉的梦境迷钟",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

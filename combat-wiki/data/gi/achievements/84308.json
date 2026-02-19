@@ -1,0 +1,15 @@
+{
+  "id": "84308",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "浪潮已至",
+  "description": "菲米尼回忆起了自己的遭遇…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

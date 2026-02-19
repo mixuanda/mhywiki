@@ -1,0 +1,15 @@
+{
+  "id": "84321",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "龙的国度",
+  "description": "一切都很特别。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

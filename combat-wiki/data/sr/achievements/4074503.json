@@ -1,0 +1,18 @@
+{
+  "id": "4074503",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "永远，忠于凯撒",
+  "description": "单场战斗中，我方角色刻律德菈授予队友【爵位】 3 次",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

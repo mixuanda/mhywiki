@@ -1,0 +1,18 @@
+{
+  "id": "4044505",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "海底二十米",
+  "description": "在「酣歌海垠」斯缇科西亚内，借助场景中的机关完成挑战，并获取战利品",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

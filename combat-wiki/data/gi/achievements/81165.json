@@ -1,0 +1,15 @@
+{
+  "id": "81165",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大天云峠",
+  "description": "解开天云峠之底的机关。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

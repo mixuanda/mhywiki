@@ -1,0 +1,39 @@
+{
+  "id": "4035011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "反造物主，流溢之恨",
+  "description": "古老「权杖」的核心，翁法罗斯具象化的「恨」。上亿灵魂的苦难被悉数刻录，无数羔羊的血汇成一片至黑的黑暗，无限无终的黑暗自一具残破的躯壳中流溢而出，驱动无首的巨人行进。\n这躯壳由流涌不息的「恨」所铸，在它的深处，似乎有一颗包裹在混沌之火中的心。",
+  "stats": {
+    "HP": 160.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 160.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4035010.png",
+  "figure": "monsterfigure/Monster_4035010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

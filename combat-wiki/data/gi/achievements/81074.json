@@ -1,0 +1,15 @@
+{
+  "id": "81074",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "哟嚯嚯，再来瓶蒲公英酒",
+  "description": "登上「浪船」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

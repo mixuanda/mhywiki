@@ -1,0 +1,18 @@
+{
+  "id": "4043020",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "警戒度 100% ",
+  "description": "在《小小哈努行动》中死里逃生",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

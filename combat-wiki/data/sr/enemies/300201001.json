@@ -1,0 +1,39 @@
+{
+  "id": "300201001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "惊梦剧团的圆幕先生（投影）",
+  "description": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是电视节目中的娱乐演员，失控后仍在演绎自己多变的身份，为观众带来惊喜或是惊吓。",
+  "stats": {
+    "HP": 100.0,
+    "ATK": 5.9999400000000005,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002010.png",
+  "figure": "monsterfigure/Monster_3002010.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

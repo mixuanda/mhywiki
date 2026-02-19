@@ -1,0 +1,18 @@
+{
+  "id": "10014144",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "金石立誓，此身为舟",
+  "description": "受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014144,
+    "MDF": "MAvatar_DanHengPT_00_Rank04_Buff",
+    "Name": "金石立誓，此身为舟",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

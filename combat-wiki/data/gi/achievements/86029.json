@@ -1,0 +1,15 @@
+{
+  "id": "86029",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "谨防触电",
+  "description": "与其他玩家一同战胜掣电树。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "33"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84016",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "文物保护",
+  "description": "虽然无缘得见「椰羊」…但修好了古迹。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

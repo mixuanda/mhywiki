@@ -1,0 +1,22 @@
+{
+  "id": "14511",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "千夜浮梦",
+  "description": "浮映千夜之梦的灯盏，苍翠的光中流溢着遥世的歌。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 541.829758,
+  "subStatType": "EM",
+  "subStatValue": 264.61440000000005,
+  "materialRefs": [
+    "112061",
+    "112073",
+    "114044"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14511.js"
+  }
+}

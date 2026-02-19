@@ -1,0 +1,18 @@
+{
+  "id": "240440106",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "无限递归",
+  "description": "每层使【求解：第一因之果】的伤害提高<color> <b>A</b> </color>，并额外使<color> <b>B</b> </color>个目标陷入纠缠状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240440106,
+    "MDF": "Monster_W4_Theoroi_00_Reload",
+    "Name": "无限递归",
+    "Desc": "每层使【求解：第一因之果】的伤害提高<color> <b>A</b> </color>，并额外使<color> <b>B</b> </color>个目标陷入纠缠状态。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

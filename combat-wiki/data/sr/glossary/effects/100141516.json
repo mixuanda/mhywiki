@@ -1,0 +1,17 @@
+{
+  "id": "100141516",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "故事",
+  "description": "达到<color> <b>A</b> </color>点时立即获得1个额外回合并自动施放【花与箭的舞曲】。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141516,
+    "MDF": "MServant_CyreneServant_00_Energy",
+    "Name": "故事",
+    "Desc": "达到<color> <b>A</b> </color>点时立即获得1个额外回合并自动施放【花与箭的舞曲】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

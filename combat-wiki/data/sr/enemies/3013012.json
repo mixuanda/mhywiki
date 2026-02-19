@@ -1,0 +1,36 @@
+{
+  "id": "3013012",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "忆域迷因「狂怒褪去之壳」",
+  "description": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>哀苦的回忆如炽焰灼心，当苦难褪去，怨恨化作的生命便会于灰烬中诞生，积聚无穷的盛怒。",
+  "stats": {
+    "HP": 9.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 10.0
+  },
+  "weakness": [],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.4,
+    "Elec": 0.4,
+    "Quantum": 0.4,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3013010.png",
+  "figure": "monsterfigure/Monster_3013010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

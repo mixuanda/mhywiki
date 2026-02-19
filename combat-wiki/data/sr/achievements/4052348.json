@@ -1,0 +1,18 @@
+{
+  "id": "4052348",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "机巧鸟七故障：傲慢",
+  "description": "完成「罗浮四大恶人」（自称）的挑战",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

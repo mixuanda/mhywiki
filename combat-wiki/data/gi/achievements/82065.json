@@ -1,0 +1,15 @@
+{
+  "id": "82065",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "异邦人与异邦人",
+  "description": "队伍中所有角色都不被「公子」标记的后续攻击命中的情况下，击败「公子」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

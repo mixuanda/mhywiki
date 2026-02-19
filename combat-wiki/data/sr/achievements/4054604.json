@@ -1,0 +1,18 @@
+{
+  "id": "4054604",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "善恶的彼岸",
+  "description": "在「辉痕圣林」神悟树庭，长久凝视那无言的空洞",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

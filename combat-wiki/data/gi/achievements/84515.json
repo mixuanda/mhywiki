@@ -1,0 +1,15 @@
+{
+  "id": "84515",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "略表歉意",
+  "description": "向提米道歉。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

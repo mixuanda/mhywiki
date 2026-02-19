@@ -1,0 +1,15 @@
+{
+  "id": "80108",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "清籁逐雷记",
+  "description": "完成「清籁逐雷记」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "26"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

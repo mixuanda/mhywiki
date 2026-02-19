@@ -1,0 +1,19 @@
+{
+  "id": "10011061",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "通解",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011061,
+    "MDF": "MAvatar_Pela_00_Ultra_DroneAnalysis",
+    "Name": "通解",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

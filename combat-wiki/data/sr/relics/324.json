@@ -1,0 +1,15 @@
+{
+  "id": "324",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "天国@直播间",
+  "icon": "71051.png",
+  "setBonuses": [
+    "使装备者的暴击伤害提高 <b>16%</b> ，若在同一回合内消耗大于等于 <b>3</b> 点战技点，额外使装备者暴击伤害提高 <b>32%</b> ，持续 <b>3</b> 回合。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/324.js"
+  }
+}

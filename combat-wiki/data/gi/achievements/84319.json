@@ -1,0 +1,15 @@
+{
+  "id": "84319",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "存在的证明",
+  "description": "来到卡利贝尔的「意识空间」。",
+  "reward": 5,
+  "version": "4.7",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

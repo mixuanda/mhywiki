@@ -1,0 +1,15 @@
+{
+  "id": "82265",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「波塔波的声援」",
+  "description": "在完成一次挑战的过程中，没有角色倒下，且让「佑灵身」释放过「决胜 · 晨昏破晓之束」。",
+  "reward": 20,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "15411",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "落霞",
+  "description": "以白金精制而成的宝弓，其上镶嵌着霞光闪烁的宝珠。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112010",
+    "112031",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15411.js"
+  }
+}

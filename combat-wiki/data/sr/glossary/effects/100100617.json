@@ -1,0 +1,19 @@
+{
+  "id": "100100617",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "缺陷2型",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100617,
+    "MDF": "MAvatar_Advanced_Silwolf_00_Normal_Bug2",
+    "Name": "缺陷2型",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

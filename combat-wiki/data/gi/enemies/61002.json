@@ -1,0 +1,25 @@
+{
+  "id": "61002",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "狂蔓 · 圣骸牙兽",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "csfb"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 圣骸兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

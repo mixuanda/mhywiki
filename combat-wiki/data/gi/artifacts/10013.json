@@ -1,0 +1,28 @@
+{
+  "id": "10013",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "游医",
+  "icon": "UI_RelicIcon_10013",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "角色受到的治疗效果提高20%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "施放元素爆发时，恢复20%生命值。"
+    }
+  ],
+  "parts": [
+    "游医的银莲",
+    "游医的枭羽",
+    "游医的怀钟",
+    "游医的药壶",
+    "游医的方巾"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

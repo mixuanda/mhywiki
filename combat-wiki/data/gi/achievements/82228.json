@@ -1,0 +1,15 @@
+{
+  "id": "82228",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「海浪中的莎孚」",
+  "description": "在不让冰元素喷罐爆炸的情况下，击败「海浪中的莎孚」。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

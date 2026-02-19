@@ -1,0 +1,39 @@
+{
+  "id": "403302101",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "戮力双雄 · 歃血联战的黑斗士",
+  "description": "传说中的多洛斯强盗双子，武艺超群，配合无间。双拳总难敌四手，令无数英雄饮恨。",
+  "stats": {
+    "HP": 25.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4033020.png",
+  "figure": "monsterfigure/Monster_4033020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

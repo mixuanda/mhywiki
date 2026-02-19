@@ -1,0 +1,21 @@
+{
+  "id": "1004051",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "霜夜巡天灵主 · 晦蚀",
+  "description": "傲然巡行于霜夜的奇异生灵，能自如驱使如今早已被高天之主驯化的古老力量。但在地脉逐渐扭曲的重现下，它驱逐敌人时的庄严仪容，逐渐展露出狂暴的动态…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_HerraFrost01",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1023021",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "深寒徘徊者（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者（错误）会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.4,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1023020.png",
+  "figure": "monsterfigure/Monster_1023020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

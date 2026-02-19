@@ -1,0 +1,19 @@
+{
+  "id": "230020303",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "加速",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230020303,
+    "MDF": "Monster_Common_SpeedAddedRatio",
+    "Name": "加速",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

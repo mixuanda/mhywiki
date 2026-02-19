@@ -1,0 +1,18 @@
+{
+  "id": "4044315",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "光化学合成",
+  "description": "真正的强者，可以踏空而行…<br><color style='color:#8790ab;'>※在「云端遗堡」晨昏之眼中，利用「奇迹宝珠」抵达平台另一侧</color>",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

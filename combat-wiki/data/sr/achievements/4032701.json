@@ -1,0 +1,18 @@
+{
+  "id": "4032701",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "晴天收伞，雨天借伞",
+  "description": "（再次）帮助雅利洛-Ⅵ和贝洛伯格解决巨大的危机<br><color style='color:#8790ab;'>※完成开拓续闻「未来市场」</color>",
+  "reward": 10,
+  "version": 1.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "280150102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "余威",
+  "description": "【灾虐的右手】【黎明的左手】【反物质引擎】被全部击溃前无法被指定为攻击目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150102,
+    "MDF": "MMonster_WMonster_W0_Boss_00_Unselectable",
+    "Name": "余威",
+    "Desc": "【灾虐的右手】【黎明的左手】【反物质引擎】被全部击溃前无法被指定为攻击目标。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

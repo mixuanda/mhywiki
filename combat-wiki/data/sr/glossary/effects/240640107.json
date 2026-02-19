@@ -1,0 +1,17 @@
+{
+  "id": "240640107",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "从犯",
+  "description": "【%DynamicTargetName】施放【罪血枭首】时，承受伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240640107,
+    "MDF": "MMonster_W4_Serpent_01_Charge02_Target_Sub",
+    "Name": "从犯",
+    "Desc": "【%DynamicTargetName】施放【罪血枭首】时，承受伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

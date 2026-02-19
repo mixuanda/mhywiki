@@ -1,0 +1,15 @@
+{
+  "id": "81353",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "就像雨中的泪水",
+  "description": "揪出隐藏在猎刀鳐中的伪装者。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

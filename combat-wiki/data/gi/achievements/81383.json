@@ -1,0 +1,15 @@
+{
+  "id": "81383",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "长日留痕",
+  "description": "花费了许多时间培育审美。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

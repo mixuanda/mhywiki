@@ -1,0 +1,23 @@
+{
+  "id": "13990",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13990",
+  "tags": [],
+  "content": {
+    "_id": 13990,
+    "N": "获得赞赏…",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_3_01",
+        "D": "当旅行者<color style='color:#ec9d1f'>修剪「吉事宝树」#，或是<color style='color:#ec9d1f'>放飞的霄灯被其他旅行者所接引时#，便可以获得<color style='color:#ec9d1f'>赞赏#。<br>另外，如果<color style='color:#ec9d1f'>在伙伴身边放飞霄灯#的话，或许也能获得他们的<color style='color:#ec9d1f'>赞赏#…？"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

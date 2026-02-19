@@ -1,0 +1,15 @@
+{
+  "id": "84010",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "辞行久远之躯",
+  "description": "完成「辞行久远之躯」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

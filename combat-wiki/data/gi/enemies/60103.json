@@ -1,0 +1,25 @@
+{
+  "id": "60103",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "电气骗骗花",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "ewp"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 骗骗花"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "11304",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "暗铁剑",
+  "description": "其实就是稍微有些黑的铁剑。",
+  "rarity": 3,
+  "weaponType": 1,
+  "baseAtk": 401.2935898,
+  "subStatType": "EM",
+  "subStatValue": 140.5764,
+  "materialRefs": [
+    "112007",
+    "112031",
+    "114016"
+  ],
+  "affix": {
+    "111304": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "触发超载、超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11304.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4074508",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "纯粹理性批判",
+  "description": "单场战斗中，我方角色累计使用赞达尔【二律背反】激活的终结技3.0次",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

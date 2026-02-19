@@ -1,0 +1,18 @@
+{
+  "id": "4054060",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "火与铁剑在何方？",
+  "description": "见证奥赫玛的社会难题<br><color style='color:#8790ab;'>※我们该去往何方？面对这一永恒之问，你选择以强硬作答</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84318",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "渴盼已久之时",
+  "description": "在你不知道的时候，戴因斯雷布与你的血亲展开了战斗…",
+  "reward": 5,
+  "version": "4.7",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3-0-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "3.0",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Ganyu",
+      "X": 3
+    },
+    {
+      "N": "Kokomi",
+      "X": 3
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Dori",
+      "X": 1
+    },
+    {
+      "N": "Xingqiu",
+      "X": 7
+    },
+    {
+      "N": "Sucrose",
+      "X": 7
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4030104",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "1/2绿野仙踪",
+  "description": "击败铁皮人和小女孩<br><color style='color:#8790ab;'>※史瓦罗与克拉拉成为你的同伴了！</color>",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

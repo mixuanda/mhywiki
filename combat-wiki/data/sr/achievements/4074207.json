@@ -1,0 +1,18 @@
+{
+  "id": "4074207",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "死后自会…也不会长眠",
+  "description": "在「冥魂渡者，死龙残躯，玻吕刻斯」释放【死亡想要更多的死亡】时，我方全体角色未陷入【沉沦于长眠】状态",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

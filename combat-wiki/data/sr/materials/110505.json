@@ -1,0 +1,10 @@
+{
+  "id": "110505",
+  "game": "sr",
+  "entityType": "material",
+  "name": "同愿的遗音",
+  "icon": "itemicon/110505.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

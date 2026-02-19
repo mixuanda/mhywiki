@@ -1,0 +1,19 @@
+{
+  "id": "10014072",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害提高",
+  "description": "每层使造成的伤害提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014072,
+    "MDF": "MAvatar_Castorice_00_Passive_AllDamageTypeAddedRatio",
+    "Name": "伤害提高",
+    "Desc": "每层使造成的伤害提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

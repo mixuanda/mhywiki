@@ -1,0 +1,15 @@
+{
+  "id": "84320",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "睡前故事",
+  "description": "完成「睡前故事」。",
+  "reward": 10,
+  "version": "4.7",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

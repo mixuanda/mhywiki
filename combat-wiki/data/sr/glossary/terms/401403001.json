@@ -1,0 +1,15 @@
+{
+  "id": "401403001",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "不致命",
+  "description": "目标受到伤害时，若目标生命值不足，则会将生命值降低至1点。",
+  "content": {
+    "_id": 401403001,
+    "Name": "不致命",
+    "Desc": "目标受到伤害时，若目标生命值不足，则会将生命值降低至1点。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

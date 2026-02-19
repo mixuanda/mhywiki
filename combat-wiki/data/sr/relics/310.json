@@ -1,0 +1,15 @@
+{
+  "id": "310",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "折断的龙骨",
+  "icon": "71023.png",
+  "setBonuses": [
+    "使装备者的效果抵抗提高 <b>10%</b> 。当装备者的效果抵抗大于等于 <b>30%</b> 时，我方全体暴击伤害提高 <b>10%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/310.js"
+  }
+}

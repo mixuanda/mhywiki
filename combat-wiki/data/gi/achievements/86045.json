@@ -1,0 +1,15 @@
+{
+  "id": "86045",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "另一侧的厄月",
+  "description": "与其他玩家一同战胜「仆人」。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "53"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

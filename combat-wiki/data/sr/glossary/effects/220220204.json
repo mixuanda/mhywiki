@@ -1,0 +1,18 @@
+{
+  "id": "220220204",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "结丹者",
+  "description": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成1次伤害。\n当前陷入【引动雷劫】状态的我方目标有：<color>%DynamicTargetName</color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220220204,
+    "MDF": "Monster_W2_Abomi02_00_TargetList",
+    "Name": "结丹者",
+    "Desc": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成1次伤害。\n当前陷入【引动雷劫】状态的我方目标有：<color>%DynamicTargetName</color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81223",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "慧绝烟林",
+  "description": "须弥的声望等级达到10级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

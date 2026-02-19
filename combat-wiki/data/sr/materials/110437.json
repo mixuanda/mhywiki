@@ -1,0 +1,10 @@
+{
+  "id": "110437",
+  "game": "sr",
+  "entityType": "material",
+  "name": "纷争先兆",
+  "icon": "itemicon/110437.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

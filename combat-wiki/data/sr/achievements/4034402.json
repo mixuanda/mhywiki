@@ -1,0 +1,18 @@
+{
+  "id": "4034402",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "走过安眠地的花丛",
+  "description": "英雄啊，回返那安宁的家乡<br><color style='color:#8790ab;'>※在哀丽秘榭见到已故之人</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

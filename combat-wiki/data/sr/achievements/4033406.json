@@ -1,0 +1,18 @@
+{
+  "id": "4033406",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "破狱深牢",
+  "description": "而今，最危险的囚犯挣脱了枷锁<br><color style='color:#8790ab;'>※椒丘视角下，完成对呼雷的探视</color>",
+  "reward": 10,
+  "version": 2.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

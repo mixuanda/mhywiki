@@ -1,0 +1,18 @@
+{
+  "id": "4092931",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "巨人：福宾计划",
+  "description": "在折磨难度，属性难题等级大于等于 6.0 时，通关「模拟宇宙：黄金与机械」",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

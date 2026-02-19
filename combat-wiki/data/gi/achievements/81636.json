@@ -1,0 +1,15 @@
+{
+  "id": "81636",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "荣归之路向坟茔",
+  "description": "翦除了「教授」霍德望的所有党羽。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

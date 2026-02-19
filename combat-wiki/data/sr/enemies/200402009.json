@@ -1,0 +1,39 @@
+{
+  "id": "200402009",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "云骑骁卫 · 彦卿",
+  "description": "将军景元的侍卫，不过总角之年的御剑天才。",
+  "stats": {
+    "HP": 45.0,
+    "ATK": 18.94734,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Elec",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.4,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2004020.png",
+  "figure": "monsterfigure/Monster_2004020.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

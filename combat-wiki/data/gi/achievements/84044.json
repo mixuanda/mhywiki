@@ -1,0 +1,15 @@
+{
+  "id": "84044",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "异人一揆",
+  "description": "顺利融入反抗军中。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

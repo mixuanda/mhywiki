@@ -1,0 +1,15 @@
+{
+  "id": "81566",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "往后你可自由地…",
+  "description": "与龙伙伴告别。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

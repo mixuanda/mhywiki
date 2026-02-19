@@ -1,0 +1,15 @@
+{
+  "id": "81521",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "或许是个好的营地？",
+  "description": "第二次通过发光的遗迹石柱进入歇息处…",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10013044",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "坚垣筹码•黑桃",
+  "description": "获得能够抵消伤害的护盾，并使效果抵抗提高<color> <b>A</b> </color>。护盾耗尽或效果消失前敌方攻击不会对我方持有护盾角色的生命值造成削减，受到攻击后，砂金获得2点【盲注】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013044,
+    "MDF": "MAvatar_Aventurine_00_Skill02_BlackJack",
+    "Name": "坚垣筹码•黑桃",
+    "Desc": "获得能够抵消伤害的护盾，并使效果抵抗提高<color> <b>A</b> </color>。护盾耗尽或效果消失前敌方攻击不会对我方持有护盾角色的生命值造成削减，受到攻击后，砂金获得2点【盲注】。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

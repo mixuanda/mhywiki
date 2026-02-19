@@ -1,0 +1,19 @@
+{
+  "id": "280120101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "速度提高",
+  "description": "速度提高<color> <b>A</b> </color>，最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280120101,
+    "MDF": "Monster_AML_Minion02_00_SpeedUp",
+    "Name": "速度提高",
+    "Desc": "速度提高<color> <b>A</b> </color>，最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

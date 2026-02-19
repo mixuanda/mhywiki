@@ -1,0 +1,22 @@
+{
+  "id": "14414",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "白辰之环",
+  "description": "承载着过去的「狐斋宫」思念的法器。但她的思念之大，是无法完全装进这样小小的器物当中的。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112010",
+    "112052",
+    "114028"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14414.js"
+  }
+}

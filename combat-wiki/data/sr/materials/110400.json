@@ -1,0 +1,10 @@
+{
+  "id": "110400",
+  "game": "sr",
+  "entityType": "material",
+  "name": "深邃的星外质",
+  "icon": "itemicon/110400.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10011106",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "抵抗负面效果",
+  "description": "抵抗1次负面效果。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011106,
+    "MDF": "MAvatar_Lynx_00_Rank02_Resist",
+    "Name": "抵抗负面效果",
+    "Desc": "抵抗1次负面效果。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80158",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「揭开封印之时…」",
+  "description": "解除进入矿坑前的阻碍。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "30"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

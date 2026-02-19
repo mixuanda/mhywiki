@@ -1,0 +1,15 @@
+{
+  "id": "81292",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「那只是永恒的奴役而已！」",
+  "description": "沉睡千百年的镇灵利露帕尔与你订立了契约。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

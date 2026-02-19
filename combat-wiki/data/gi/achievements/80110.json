@@ -1,0 +1,15 @@
+{
+  "id": "80110",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "循雷的冒险家 · 其二",
+  "description": "在海祇岛与清籁岛完成6个大世界机关限时挑战。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "26"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

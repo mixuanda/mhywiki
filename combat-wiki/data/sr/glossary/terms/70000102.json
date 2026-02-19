@@ -1,0 +1,15 @@
+{
+  "id": "70000102",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "反震",
+  "description": "关卡增益造成的附加伤害，若在受到攻击时触发，则无法消灭敌方目标。",
+  "content": {
+    "_id": 70000102,
+    "Name": "反震",
+    "Desc": "关卡增益造成的附加伤害，若在受到攻击时触发，则无法消灭敌方目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

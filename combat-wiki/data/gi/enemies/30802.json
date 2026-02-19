@@ -1,0 +1,25 @@
+{
+  "id": "30802",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "巡陆艇 · 近战斥候型",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuimecha_CoreA_MoveA_AttackC_Water"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 巡陆艇 I"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

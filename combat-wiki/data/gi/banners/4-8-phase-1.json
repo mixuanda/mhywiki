@@ -1,0 +1,34 @@
+{
+  "id": "4-8-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.8",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Navia",
+      "X": 2
+    },
+    {
+      "N": "Nilou",
+      "X": 3
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Kaveh",
+      "X": 2
+    },
+    {
+      "N": "Momoka",
+      "X": 3
+    },
+    {
+      "N": "Ningguang",
+      "X": 9
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

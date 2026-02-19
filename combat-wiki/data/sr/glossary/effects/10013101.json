@@ -1,0 +1,18 @@
+{
+  "id": "10013101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "火萤Ⅳ型-完全燃烧",
+  "description": "施放强化普攻、强化战技时自身弱点击破效率提高<color> <b>A</b> </color>、使敌方目标受到装甲「萨姆」造成的击破伤害提高<color> <b>D</b> </color>。速度提高<color> <b>B</b> </color>点，效果抵抗提高<color> <b>C</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013101,
+    "MDF": "MAvatar_Sam_00_PassiveSkill_RedMode",
+    "Name": "火萤Ⅳ型-完全燃烧",
+    "Desc": "施放强化普攻、强化战技时自身弱点击破效率提高<color> <b>A</b> </color>、使敌方目标受到装甲「萨姆」造成的击破伤害提高<color> <b>D</b> </color>。速度提高<color> <b>B</b> </color>点，效果抵抗提高<color> <b>C</b> </color>。",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

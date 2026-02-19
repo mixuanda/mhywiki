@@ -1,0 +1,25 @@
+{
+  "id": "512",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "水形幻人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Narcissusborn_Normal_01"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 浊水幻灵"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

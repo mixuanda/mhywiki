@@ -1,0 +1,15 @@
+{
+  "id": "82093",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "傀儡谣",
+  "description": "在魔偶剑鬼挑衅时击败魔偶剑鬼。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "20"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

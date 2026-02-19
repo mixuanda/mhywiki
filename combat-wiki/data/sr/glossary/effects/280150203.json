@@ -1,0 +1,19 @@
+{
+  "id": "280150203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "愈合",
+  "description": "每次行动回复<color> <b>A</b> </color>的生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150203,
+    "MDF": "Monster_W2_HuanlongPart_00_Heal",
+    "Name": "愈合",
+    "Desc": "每次行动回复<color> <b>A</b> </color>的生命值。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

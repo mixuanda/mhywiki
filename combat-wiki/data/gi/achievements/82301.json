@@ -1,0 +1,15 @@
+{
+  "id": "82301",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「现在是我的了！」",
+  "description": "…果然还是自己的武器趁手。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

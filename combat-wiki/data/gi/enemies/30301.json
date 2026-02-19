@@ -1,0 +1,25 @@
+{
+  "id": "30301",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众 · 雷萤术士",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fecm"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 萤术士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

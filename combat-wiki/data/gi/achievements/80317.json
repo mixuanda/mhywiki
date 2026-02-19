@@ -1,0 +1,15 @@
+{
+  "id": "80317",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "金宫引路人",
+  "description": "在诺思托伊区、旧日之海追随<color style='color:#FF0000;'><b>6</b></color>个仙灵，并点亮仙灵之庭。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

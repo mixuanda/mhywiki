@@ -1,0 +1,23 @@
+{
+  "id": "20005",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "齐颂",
+  "rarity": 3,
+  "path": "Harmony",
+  "skillId": 20005,
+  "baseStats": {
+    "HP": 846.72,
+    "ATK": 317.52,
+    "DEF": 264.6
+  },
+  "materialRefs": [
+    "110163",
+    "112003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/20005.js"
+  }
+}

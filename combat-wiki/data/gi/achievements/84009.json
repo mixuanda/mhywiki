@@ -1,0 +1,15 @@
+{
+  "id": "84009",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "浮世浮生千岩间",
+  "description": "完成「浮世浮生千岩间」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

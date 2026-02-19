@@ -1,0 +1,39 @@
+{
+  "id": "8012214",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "破灭玄莲",
+  "description": "无根自开、凭空生就的幻花。乘间抵隙的煽动者托体「建木」，炼成肉身，却不曾放下毁灭的权柄。",
+  "stats": {
+    "HP": 7.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 8.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.4,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_8012210.png",
+  "figure": "monsterfigure/Monster_8012210.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

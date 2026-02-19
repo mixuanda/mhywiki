@@ -1,0 +1,15 @@
+{
+  "id": "81210",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "秀逗炼金术士",
+  "description": "解救克里托夫。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

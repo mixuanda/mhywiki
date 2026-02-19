@@ -1,0 +1,17 @@
+{
+  "id": "10012245",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "白刃耀雪舞骇浪",
+  "description": "【白刃耀雪舞骇浪】的效果尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012245,
+    "MDF": "MAvatar_Mar_7th_10_Rank02_CD",
+    "Name": "白刃耀雪舞骇浪",
+    "Desc": "【白刃耀雪舞骇浪】的效果尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

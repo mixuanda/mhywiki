@@ -1,0 +1,22 @@
+{
+  "id": "15425",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "静谧之曲",
+  "description": "外观奇异如海中生物的长弓，弦振之时似乎毫无声音。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112013",
+    "112088",
+    "114052"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15425.js"
+  }
+}

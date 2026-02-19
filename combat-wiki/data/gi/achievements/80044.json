@@ -1,0 +1,15 @@
+{
+  "id": "80044",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "尽览群岩",
+  "description": "解锁璃月的所有传送锚点（层岩巨渊与沉玉谷另外计算 ）。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "5"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

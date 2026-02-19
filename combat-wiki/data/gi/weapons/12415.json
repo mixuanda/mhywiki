@@ -1,0 +1,22 @@
+{
+  "id": "12415",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "玛海菈的水色",
+  "description": "一柄光泽如水的古老大剑，经过千年流沙磨洗，锋刃依然锐利异常。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 509.605949,
+  "subStatType": "EM",
+  "subStatValue": 165.38400000000001,
+  "materialRefs": [
+    "112037",
+    "112070",
+    "114048"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12415.js"
+  }
+}

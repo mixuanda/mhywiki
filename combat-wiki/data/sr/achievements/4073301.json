@@ -1,0 +1,18 @@
+{
+  "id": "4073301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "盛会之星专项组",
+  "description": "使用同时包含托帕&账账、真理医生、砂金、翡翠的队伍获得 1.0 场战斗的胜利",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

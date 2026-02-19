@@ -1,0 +1,16 @@
+{
+  "id": "105",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "街头出身的拳王",
+  "icon": "71004.png",
+  "setBonuses": [
+    "物理属性伤害提高 <b>10%</b> 。",
+    "当装备者施放攻击或受到攻击后，其在本场战斗中攻击力提高 <b>5%</b> ，最多叠加 <b>5</b> 层。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/105.js"
+  }
+}

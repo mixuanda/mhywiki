@@ -1,0 +1,15 @@
+{
+  "id": "81345",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "枫丹式的消息",
+  "description": "和维吉尔友好地聊了聊。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

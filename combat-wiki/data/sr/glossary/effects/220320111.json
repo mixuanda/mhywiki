@@ -1,0 +1,18 @@
+{
+  "id": "220320111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "月狂",
+  "description": "进入【月狂】状态，速度提高<color> <b>A</b> </color>，当攻击我方目标后，回复其自身生命值。此状态在自身弱点被击破时将被移除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220320111,
+    "MDF": "MMonster_W2_Lycan_01_RageStatus",
+    "Name": "月狂",
+    "Desc": "进入【月狂】状态，速度提高<color> <b>A</b> </color>，当攻击我方目标后，回复其自身生命值。此状态在自身弱点被击破时将被移除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

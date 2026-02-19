@@ -1,0 +1,17 @@
+{
+  "id": "280250112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "生长激素",
+  "description": "每层使攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280250112,
+    "MDF": "MMonster_SW_Boss_01_IF_MinionsEnhancement",
+    "Name": "生长激素",
+    "Desc": "每层使攻击力提高<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

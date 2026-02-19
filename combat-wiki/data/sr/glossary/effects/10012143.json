@@ -1,0 +1,19 @@
+{
+  "id": "10012143",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "击破特攻提高",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012143,
+    "MDF": "MAvatar_Xueyi_SkillRank04",
+    "Name": "击破特攻提高",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

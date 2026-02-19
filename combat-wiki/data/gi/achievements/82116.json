@@ -1,0 +1,15 @@
+{
+  "id": "82116",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "碍于归途艰险…",
+  "description": "利用障碍物、击飞等方式，在不破坏「水滴」的情况下，阻止无相之水复苏。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "29"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

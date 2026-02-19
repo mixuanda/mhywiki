@@ -1,0 +1,25 @@
+{
+  "id": "54102",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "镀金旅团 · 灵风猎手",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "emgh"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 镀金旅团高层"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

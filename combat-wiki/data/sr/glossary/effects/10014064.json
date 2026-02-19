@@ -1,0 +1,18 @@
+{
+  "id": "10014064",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "嘿，空手套白银",
+  "description": "对我方造成的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014064,
+    "MDF": "MAvatar_Cipher_BP_Debuff",
+    "Name": "嘿，空手套白银",
+    "Desc": "对我方造成的伤害降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

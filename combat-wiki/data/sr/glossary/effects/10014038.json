@@ -1,0 +1,17 @@
+{
+  "id": "10014038",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "猜猜这里住着谁",
+  "description": "结界存在期间敌方全体受到的伤害提高<color> <b>A</b> </color>，并且我方全体攻击敌人时造成附加伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014038,
+    "MDF": "MAvatar_Tribbie_00_SKL03_Buff",
+    "Name": "猜猜这里住着谁",
+    "Desc": "结界存在期间敌方全体受到的伤害提高<color> <b>A</b> </color>，并且我方全体攻击敌人时造成附加伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

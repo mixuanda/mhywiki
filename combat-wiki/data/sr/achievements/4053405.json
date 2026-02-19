@@ -1,0 +1,18 @@
+{
+  "id": "4053405",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "明明超强却过分慎重",
+  "description": "在「初花习剑录」中，三月七的4.0项训练属性达到1000.0以上",
+  "reward": 5,
+  "version": 2.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

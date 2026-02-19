@@ -1,0 +1,18 @@
+{
+  "id": "4053045",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "全民公敌",
+  "description": "精准而迅速地冒犯遇见的每位皮皮西<br><color style='color:#8790ab;'>※尝试触摸「黄金的时刻」中所有皮皮西的绒球</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

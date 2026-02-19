@@ -1,0 +1,18 @@
+{
+  "id": "4054403",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "欢迎加入哀丽秘榭",
+  "description": "打扰妖精的安眠<br><color style='color:#8790ab;'>※逼出家里蹲的妖精</color>",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

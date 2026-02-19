@@ -1,0 +1,15 @@
+{
+  "id": "80371",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "公园、长椅与奏鸣",
+  "description": "获得「千音雅集」，成为自由的音乐人。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "58"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

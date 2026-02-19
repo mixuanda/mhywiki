@@ -1,0 +1,17 @@
+{
+  "id": "230030523",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "福杯满溢",
+  "description": "即将施放【为你洗去一切罪】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030523,
+    "MDF": "Monster_W3_Figure_01_RLElite_DotMarkListener",
+    "Name": "福杯满溢",
+    "Desc": "即将施放【为你洗去一切罪】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

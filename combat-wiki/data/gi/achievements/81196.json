@@ -1,0 +1,15 @@
+{
+  "id": "81196",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "射程之内好说话",
+  "description": "完成弓术的挑战。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

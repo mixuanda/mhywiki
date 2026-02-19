@@ -1,0 +1,39 @@
+{
+  "id": "100205027",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "银鬃射手",
+  "description": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
+  "stats": {
+    "HP": 1.1,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_1002050.png",
+  "figure": "monsterfigure/Monster_1002050.png",
+  "camp": {
+    "id": "1",
+    "name": "雅利洛-Ⅵ"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

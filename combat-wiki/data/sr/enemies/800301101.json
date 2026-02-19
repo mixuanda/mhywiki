@@ -1,0 +1,39 @@
+{
+  "id": "800301101",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "外宇宙之冰（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固并使其行动推迟。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.4,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8003010.png",
+  "figure": "monsterfigure/Monster_8003010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10012237",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "攻击力提高",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012237,
+    "MDF": "MAvatar_Moze_00_Rank02_Buff",
+    "Name": "攻击力提高",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

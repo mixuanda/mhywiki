@@ -1,0 +1,15 @@
+{
+  "id": "81362",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "真是让人垂涎欲滴",
+  "description": "帮助恩里改变命运。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

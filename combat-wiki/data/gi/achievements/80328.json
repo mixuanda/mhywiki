@@ -1,0 +1,15 @@
+{
+  "id": "80328",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 万火燎灼之原 · 其一",
+  "description": "点亮纳塔区域中，万火之瓯、坚岩隘谷、踞石山、涌流地的地图。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

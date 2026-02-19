@@ -1,0 +1,15 @@
+{
+  "id": "81540",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猎人从不追丢他的猎物",
+  "description": "完成「目随羽视」挑战。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "120",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "风举云飞的勇烈",
+  "icon": "71033.png",
+  "setBonuses": [
+    "攻击力提高 <b>12%</b> 。",
+    "使装备者的暴击率提高 <b>6%</b> ，装备者施放追加攻击时，使终结技造成的伤害提高 <b>36%</b> ，持续 <b>1</b> 回合。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/120.js"
+  }
+}

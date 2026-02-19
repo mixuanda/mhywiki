@@ -1,0 +1,15 @@
+{
+  "id": "82038",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「略大于突如其来的爱情。」",
+  "description": "达成5次：2秒内，通过感电反应打败4名敌人。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "6"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

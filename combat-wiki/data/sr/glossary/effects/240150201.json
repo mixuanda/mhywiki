@@ -1,0 +1,18 @@
+{
+  "id": "240150201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "腐化",
+  "description": "可回复的生命上限降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150201,
+    "MDF": "Modifier_Monster_W4_DawnsEye_01_WheaterRognarokSub",
+    "Name": "腐化",
+    "Desc": "可回复的生命上限降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

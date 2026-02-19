@@ -1,0 +1,17 @@
+{
+  "id": "230240202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "弱点无效",
+  "description": "进入【次级燃烧】前，萨姆的韧性无法被削减。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240202,
+    "MDF": "Monster_W3_Sam_00_WeakPointProtected",
+    "Name": "弱点无效",
+    "Desc": "进入【次级燃烧】前，萨姆的韧性无法被削减。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "86034",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沙漠之民的成人礼",
+  "description": "与其他玩家一同战胜风蚀沙虫。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "44"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

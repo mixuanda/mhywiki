@@ -1,0 +1,34 @@
+{
+  "id": "5-2-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.2",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Neuvillette",
+      "X": 3
+    },
+    {
+      "N": "Zhongli",
+      "X": 6
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Heizo",
+      "X": 4
+    },
+    {
+      "N": "Yaoyao",
+      "X": 4
+    },
+    {
+      "N": "Fischl",
+      "X": 9
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

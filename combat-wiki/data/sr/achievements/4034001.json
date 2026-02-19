@@ -1,0 +1,18 @@
+{
+  "id": "4034001",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "面涂黄金的婴孩",
+  "description": "这一次，你们的所作所为将令阿基维利感到骄傲<br><color style='color:#8790ab;'>※在翁法罗斯插下第一支界域定锚</color>",
+  "reward": 10,
+  "version": 3.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

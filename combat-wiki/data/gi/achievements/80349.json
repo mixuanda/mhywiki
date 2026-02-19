@@ -1,0 +1,15 @@
+{
+  "id": "80349",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 万火燎灼之原 · 其二",
+  "description": "点亮纳塔区域中，镜璧山、翘枝崖、奥奇卡纳塔的地图。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

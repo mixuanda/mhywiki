@@ -1,0 +1,15 @@
+{
+  "id": "81194",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "神的孩子全跳舞",
+  "description": "和所有的「法厄同」残影对话。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

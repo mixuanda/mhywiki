@@ -1,0 +1,15 @@
+{
+  "id": "80315",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "从大海到大海",
+  "description": "解锁枫丹区域中，诺思托伊区、旧日之海所有传送锚点。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

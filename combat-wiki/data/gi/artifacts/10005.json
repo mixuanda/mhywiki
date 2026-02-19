@@ -1,0 +1,28 @@
+{
+  "id": "10005",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "战狂",
+  "icon": "UI_RelicIcon_10005",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "暴击率提高12%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "生命值低于70%时，暴击率额外提升24%。"
+    }
+  ],
+  "parts": [
+    "战狂的蔷薇",
+    "战狂的翎羽",
+    "战狂的时计",
+    "战狂的骨杯",
+    "战狂的鬼面"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

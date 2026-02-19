@@ -1,0 +1,10 @@
+{
+  "id": "110506",
+  "game": "sr",
+  "entityType": "material",
+  "name": "吉光片羽",
+  "icon": "itemicon/110506.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

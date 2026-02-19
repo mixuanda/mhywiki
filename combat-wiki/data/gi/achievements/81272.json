@@ -1,0 +1,15 @@
+{
+  "id": "81272",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "通往光明之路",
+  "description": "无人知晓这些巨大的遗迹如何建成，又因何失落。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

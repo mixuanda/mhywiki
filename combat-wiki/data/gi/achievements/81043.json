@@ -1,0 +1,15 @@
+{
+  "id": "81043",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "冷静点！",
+  "description": "击败处于狂暴状态下的大雪猪王。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

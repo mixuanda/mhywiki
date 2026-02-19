@@ -1,0 +1,15 @@
+{
+  "id": "82101",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…全靠我们自己",
+  "description": "不触发「原岩喷吐」的反噬的情况下，击败古岩龙蜥。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

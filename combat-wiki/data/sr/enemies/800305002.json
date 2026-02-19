@@ -1,0 +1,39 @@
+{
+  "id": "800305002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "兴风者",
+  "description": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
+  "stats": {
+    "HP": 6.3,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.4,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8003050.png",
+  "figure": "monsterfigure/Monster_8003050.png",
+  "camp": {
+    "id": "3",
+    "name": "裂界造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

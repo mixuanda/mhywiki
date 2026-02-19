@@ -1,0 +1,28 @@
+{
+  "id": "60512",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "西尼阿斯",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 0.3,
+    "Water": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "pbv"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.6"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

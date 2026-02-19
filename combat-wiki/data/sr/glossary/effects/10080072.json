@@ -1,0 +1,19 @@
+{
+  "id": "10080072",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "迷迷的声援",
+  "description": "每造成1次伤害，都会再额外造成1次等同于原伤害<color> <b>A</b> </color>的真实伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080072,
+    "MDF": "MServant_PlayerBoyServant_30_UltraBuff",
+    "Name": "迷迷的声援",
+    "Desc": "每造成1次伤害，都会再额外造成1次等同于原伤害<color> <b>A</b> </color>的真实伤害。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

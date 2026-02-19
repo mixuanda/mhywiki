@@ -1,0 +1,17 @@
+{
+  "id": "10014141",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "同袍",
+  "description": "【龙灵】持有者。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014141,
+    "MDF": "MAvatar_DanHengPT_00_LongLing",
+    "Name": "同袍",
+    "Desc": "【龙灵】持有者。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

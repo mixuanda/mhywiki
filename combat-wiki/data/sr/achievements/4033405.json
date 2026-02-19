@@ -1,0 +1,18 @@
+{
+  "id": "4033405",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "剑花秋莲光出匣",
+  "description": "接下师父们的礼物与殷切期待<br><color style='color:#8790ab;'>※三月七视角下，开始学习仙舟剑术</color>",
+  "reward": 10,
+  "version": 2.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

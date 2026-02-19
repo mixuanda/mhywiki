@@ -1,0 +1,15 @@
+{
+  "id": "82096",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "飞越水疗馆",
+  "description": "不被「水牢」攻击命中的情况下，击败藏镜仕女。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "20"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

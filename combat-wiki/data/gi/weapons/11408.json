@@ -1,0 +1,22 @@
+{
+  "id": "11408",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黑岩长剑",
+  "description": "黑岩锻造而成的长剑。玄色的剑身隐隐流露血光。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 564.7837244,
+  "subStatType": "CD",
+  "subStatValue": 0.36752,
+  "materialRefs": [
+    "112013",
+    "112031",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11408.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "70000213",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "发射",
+  "description": "此类型的武器会对敌方目标发射多次攻击并施加对应效果。",
+  "content": {
+    "_id": 70000213,
+    "Name": "发射",
+    "Desc": "此类型的武器会对敌方目标发射多次攻击并施加对应效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

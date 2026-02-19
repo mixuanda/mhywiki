@@ -1,0 +1,15 @@
+{
+  "id": "80327",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "谐律上的咏叙诗",
+  "description": "完成「谐律上的咏叙诗」。",
+  "reward": 10,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

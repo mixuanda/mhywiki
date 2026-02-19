@@ -1,0 +1,15 @@
+{
+  "id": "81209",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "黑雾，痛苦，像出生一样…",
+  "description": "击败黑雾中浮现之物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

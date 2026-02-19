@@ -1,0 +1,15 @@
+{
+  "id": "80474",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "聚所共建 · 西风戍垒",
+  "description": "将「西风戍垒」共建至满级。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "66"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

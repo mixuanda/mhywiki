@@ -1,0 +1,19 @@
+{
+  "id": "10011052",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "防御提高",
+  "description": "防御力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011052,
+    "MDF": "MAvatar_Natasha_00_BPSkill_DefenceRatioUp",
+    "Name": "防御提高",
+    "Desc": "防御力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

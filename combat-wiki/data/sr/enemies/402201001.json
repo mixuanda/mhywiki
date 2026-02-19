@@ -1,0 +1,39 @@
+{
+  "id": "402201001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "流星铁鹰",
+  "description": "在遥远的造物世，艾格勒打造黎明机器后，它又在刻法勒协助下创造了代表各种泰坦的奇兽。据信，流星铁鹰代表着光照万物的艾格勒偶尔掉落尘世的羽毛。",
+  "stats": {
+    "HP": 3.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Wind",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4022010.png",
+  "figure": "monsterfigure/Monster_4022010.png",
+  "camp": {
+    "id": "13",
+    "name": "晨昏奇兽"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

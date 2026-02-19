@@ -1,0 +1,17 @@
+{
+  "id": "280150224",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "毁灭增益",
+  "description": "消灭【破灭玄莲】可使击破特攻提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150224,
+    "MDF": "Monster_W2_Huanlong_00_IF_Black_DeathRattle",
+    "Name": "毁灭增益",
+    "Desc": "消灭【破灭玄莲】可使击破特攻提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

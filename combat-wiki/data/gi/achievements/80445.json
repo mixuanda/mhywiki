@@ -1,0 +1,15 @@
+{
+  "id": "80445",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "月尘的冒险家 · 其一",
+  "description": "在伦波岛、希汐岛、帕哈岛完成<color style='color:#FF0000;'><b>3</b></color>个大世界限时挑战。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

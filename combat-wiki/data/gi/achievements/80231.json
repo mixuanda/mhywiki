@@ -1,0 +1,15 @@
+{
+  "id": "80231",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "流沙的寻宝者 · 其二",
+  "description": "在千壑沙地开启<color style='color:#FF0000;'><b>50</b></color>个宝箱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "38"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

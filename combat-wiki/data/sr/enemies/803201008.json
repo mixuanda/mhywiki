@@ -1,0 +1,39 @@
+{
+  "id": "803201008",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "基层员工 · 外勤",
+  "description": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。",
+  "stats": {
+    "HP": 2.5,
+    "ATK": 5.9999400000000005,
+    "DEF": 1.0,
+    "SPD": 118.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_8032010.png",
+  "figure": "monsterfigure/Monster_8032010.png",
+  "camp": {
+    "id": "9",
+    "name": "星际和平公司"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82232",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「嵌合神骨的蛇姬」",
+  "description": "战胜地方传奇 · 嵌合神骨的蛇姬。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

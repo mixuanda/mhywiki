@@ -1,0 +1,15 @@
+{
+  "id": "81558",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "总是雕像机关",
+  "description": "将秘源龙仆放置回了为它空出的位置。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

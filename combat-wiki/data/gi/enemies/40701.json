@@ -1,0 +1,25 @@
+{
+  "id": "40701",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "冰风组曲 · 科培琉司的劫罚",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_MachinaIustitia_Nutcracker"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 冰风组曲"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

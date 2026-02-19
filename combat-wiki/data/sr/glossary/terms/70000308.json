@@ -1,0 +1,15 @@
+{
+  "id": "70000308",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "部位再生",
+  "description": "部位在被消灭后进入【假死】状态，一定时间后再生",
+  "content": {
+    "_id": 70000308,
+    "Name": "部位再生",
+    "Desc": "部位在被消灭后进入【假死】状态，一定时间后再生"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

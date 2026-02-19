@@ -1,0 +1,15 @@
+{
+  "id": "84012",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…五丘丘怎么了？",
+  "description": "与小冥约定一起玩。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

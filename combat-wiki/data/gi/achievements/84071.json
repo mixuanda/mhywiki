@@ -1,0 +1,15 @@
+{
+  "id": "84071",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "负荷口味的既视感",
+  "description": "依靠本能选到日落果口味的糖果盒。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

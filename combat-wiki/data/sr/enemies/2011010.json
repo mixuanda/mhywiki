@@ -1,0 +1,39 @@
+{
+  "id": "2011010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "入魔机巧 · 率从狻猊",
+  "description": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以示警招众的警铃，如今却因为某些异变被赋予了短暂的「生命」。",
+  "stats": {
+    "HP": 0.9,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_2011010.png",
+  "figure": "monsterfigure/Monster_2011010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

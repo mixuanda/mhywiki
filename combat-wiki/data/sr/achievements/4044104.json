@@ -1,0 +1,18 @@
+{
+  "id": "4044104",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "阿多尼斯电梯",
+  "description": "在「呓语密林」神悟树庭探索时，第一次站到了识之花上面",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "61001",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "沧流 · 圣骸角鳄",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "cshc"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 圣骸兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

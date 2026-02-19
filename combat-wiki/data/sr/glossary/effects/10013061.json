@@ -1,0 +1,19 @@
+{
+  "id": "10013061",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "梦游鱼",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013061,
+    "MDF": "MAvatar_Sparkle_Skill02_CritDmgAddedRatio02",
+    "Name": "梦游鱼",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4072503",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "BOOM～",
+  "description": "单场战斗中，使用卡芙卡单次施放「月光摩挲连绵」触发4个不同的持续伤害的效果",
+  "reward": 5,
+  "version": 1.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

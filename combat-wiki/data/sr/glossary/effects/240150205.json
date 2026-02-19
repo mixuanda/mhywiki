@@ -1,0 +1,17 @@
+{
+  "id": "240150205",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "暗潮将至",
+  "description": "下次攻击对我方全体施放【烬灰死寂•诸神屠灭】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150205,
+    "MDF": "MMonster_W4_DawnsEye_01_Skill03_Charge",
+    "Name": "暗潮将至",
+    "Desc": "下次攻击对我方全体施放【烬灰死寂•诸神屠灭】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

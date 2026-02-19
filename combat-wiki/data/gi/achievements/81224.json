@@ -1,0 +1,15 @@
+{
+  "id": "81224",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "美德的报酬",
+  "description": "在森林中帮助许多兰那罗。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

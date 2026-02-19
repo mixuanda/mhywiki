@@ -1,0 +1,15 @@
+{
+  "id": "82262",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「陨落的晨星之灵」",
+  "description": "在从未被「曜石风暴」命中过的情况下，击败「陨落的晨星之灵」。",
+  "reward": 20,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

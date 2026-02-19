@@ -1,0 +1,23 @@
+{
+  "id": "21027",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "早餐的仪式感",
+  "rarity": 4,
+  "path": "Erudition",
+  "skillId": 21027,
+  "baseStats": {
+    "HP": 846.72,
+    "ATK": 476.28,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110133",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21027.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10014145",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "蜕却旧鳞的荒龙",
+  "description": "全属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014145,
+    "MDF": "MAvatar_DanHengPT_00_Rank01",
+    "Name": "蜕却旧鳞的荒龙",
+    "Desc": "全属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

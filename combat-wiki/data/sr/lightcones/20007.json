@@ -1,0 +1,23 @@
+{
+  "id": "20007",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "离弦",
+  "rarity": 3,
+  "path": "Hunt",
+  "skillId": 20007,
+  "baseStats": {
+    "HP": 740.88,
+    "ATK": 370.44,
+    "DEF": 264.6
+  },
+  "materialRefs": [
+    "110123",
+    "112003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/20007.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84083",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "胜利的方程式",
+  "description": "完成「计划」的准备工作。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

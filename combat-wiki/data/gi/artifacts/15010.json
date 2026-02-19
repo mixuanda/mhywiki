@@ -1,0 +1,20 @@
+{
+  "id": "15010",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "祭水之人",
+  "icon": "UI_RelicIcon_15010",
+  "setBonuses": [
+    {
+      "Num": 1,
+      "Skill": "受到的水元素附着效果的持续时间减少40%。"
+    }
+  ],
+  "parts": [
+    "祭水礼冠"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

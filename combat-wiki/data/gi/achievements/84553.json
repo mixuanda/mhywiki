@@ -1,0 +1,15 @@
+{
+  "id": "84553",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "天有多高，地有多…",
+  "description": "协助法伽尼进行测量工作。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

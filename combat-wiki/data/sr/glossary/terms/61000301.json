@@ -1,0 +1,15 @@
+{
+  "id": "61000301",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "谛苦除灭",
+  "description": "生命上限提高 <b>75%</b> ，造成的伤害提高 <b>150%</b> ，免疫负面效果。",
+  "content": {
+    "_id": 61000301,
+    "Name": "谛苦除灭",
+    "Desc": "生命上限提高 <b>75%</b> ，造成的伤害提高 <b>150%</b> ，免疫负面效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

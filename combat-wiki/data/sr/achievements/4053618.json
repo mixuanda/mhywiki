@@ -1,0 +1,18 @@
+{
+  "id": "4053618",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "真的假的？",
+  "description": "找到折纸大学吹奏部的社团摊位",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

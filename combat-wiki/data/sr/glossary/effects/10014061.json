@@ -1,0 +1,18 @@
+{
+  "id": "10014061",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "老主顾",
+  "description": "【老主顾】状态下被我方目标造成的伤害会被赛飞儿记录，赛飞儿的终结技会根据记录值造成真实伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014061,
+    "MDF": "MAvatar_Cipher_BpKuoSan",
+    "Name": "老主顾",
+    "Desc": "【老主顾】状态下被我方目标造成的伤害会被赛飞儿记录，赛飞儿的终结技会根据记录值造成真实伤害。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

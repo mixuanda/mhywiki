@@ -1,0 +1,15 @@
+{
+  "id": "82204",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无法预测的命运馈赠",
+  "description": "幻想真境剧诗：在任意难度下，完成整场演出时，选择过至少8次神秘收获事件。",
+  "reward": 5,
+  "version": "4.7",
+  "group": {
+    "id": "50"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

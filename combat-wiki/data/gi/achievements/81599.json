@@ -1,0 +1,15 @@
+{
+  "id": "81599",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "灯火不歇",
+  "description": "与伙伴们共同参与开业仪式。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

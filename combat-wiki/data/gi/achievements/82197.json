@@ -1,0 +1,15 @@
+{
+  "id": "82197",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "若你渴盼鲜血…",
+  "description": "在一次「仆人」挑战中，释放四次血汐冲击。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "49"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

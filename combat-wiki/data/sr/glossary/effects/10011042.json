@@ -1,0 +1,18 @@
+{
+  "id": "10011042",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "不屈之身",
+  "description": "受到致命攻击时杰帕德不会陷入无法战斗状态并立即回复等同于自身<color> <b>A</b> </color>生命上限的生命值。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011042,
+    "MDF": "MAvatar_Gepard_00_PassiveSkill_UnDead",
+    "Name": "不屈之身",
+    "Desc": "受到致命攻击时杰帕德不会陷入无法战斗状态并立即回复等同于自身<color> <b>A</b> </color>生命上限的生命值。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

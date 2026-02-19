@@ -1,0 +1,15 @@
+{
+  "id": "81186",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "日月回轮",
+  "description": "转换一次「白夜」与「常夜」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

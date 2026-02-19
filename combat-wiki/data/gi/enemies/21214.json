@@ -1,0 +1,25 @@
+{
+  "id": "21214",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深邃拟态 · 绒翼龙武士 · 长空明焰",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_TheAbyss_Rhizome"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

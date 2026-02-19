@@ -1,0 +1,18 @@
+{
+  "id": "4080305",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "圣人",
+  "description": "让居住在我们心中的崇高存在对你竖起大拇指<br><color style='color:#8790ab;'>※累计获得 20.0 次「崇高道德的赞许」</color>",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4-3-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.3",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Shougun",
+      "X": 4
+    },
+    {
+      "N": "Yoimiya",
+      "X": 5
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Chevreuse",
+      "X": 1
+    },
+    {
+      "N": "Sara",
+      "X": 4
+    },
+    {
+      "N": "Bennett",
+      "X": 10
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

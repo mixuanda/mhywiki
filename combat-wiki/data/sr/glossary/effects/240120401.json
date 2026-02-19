@@ -1,0 +1,18 @@
+{
+  "id": "240120401",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "不摧战意",
+  "description": "【战甲】的层数上限提高，<color>%CasterName</color>的【战甲】被破坏时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240120401,
+    "MDF": "MModifier_Monster_AML_Minion03_01_StoneShieldEnhance",
+    "Name": "不摧战意",
+    "Desc": "【战甲】的层数上限提高，<color>%CasterName</color>的【战甲】被破坏时解除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84032",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "狂言破碎之时",
+  "description": "击退深渊使徒。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

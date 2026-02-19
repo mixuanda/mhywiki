@@ -1,0 +1,15 @@
+{
+  "id": "84121",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "料理效果：移动速度降低",
+  "description": "没能劝阻早柚的暴饮暴食…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

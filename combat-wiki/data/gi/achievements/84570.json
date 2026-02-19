@@ -1,0 +1,15 @@
+{
+  "id": "84570",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一场风波",
+  "description": "见证艾尤恩的工作故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "111003",
+  "game": "sr",
+  "entityType": "material",
+  "name": "蠢动原核",
+  "icon": "itemicon/111003.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044002",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "顺着这光柱走去",
+  "description": "第一次走入「奇迹宝珠」的照射范围",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4084003",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "柱倒啦—",
+  "description": "感受「真理」的重量<br><color style='color:#8790ab;'>※在翁法罗斯探索过程中，被残留有记忆的柱子砸中</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

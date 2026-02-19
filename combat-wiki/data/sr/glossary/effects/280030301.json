@@ -1,0 +1,19 @@
+{
+  "id": "280030301",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "禁令",
+  "description": "攻击<color>%CasterName</color>会立即受到1次攻击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030301,
+    "MDF": "Monster_XP_Elite02_00_Edict01",
+    "Name": "禁令",
+    "Desc": "攻击<color>%CasterName</color>会立即受到1次攻击。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

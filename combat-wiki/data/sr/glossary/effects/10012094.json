@@ -1,0 +1,18 @@
+{
+  "id": "10012094",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "御剑真诀",
+  "description": "对当前生命值百分比大于等于<color> <b>A</b> </color>的敌方目标造成的伤害提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012094,
+    "MDF": "MAvatar_Yanqing_00_MazeSkill_AttackRatioUp",
+    "Name": "御剑真诀",
+    "Desc": "对当前生命值百分比大于等于<color> <b>A</b> </color>的敌方目标造成的伤害提高<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

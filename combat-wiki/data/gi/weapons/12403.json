@@ -1,0 +1,22 @@
+{
+  "id": "12403",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "祭礼大剑",
+  "description": "在漫长岁月中石化的道具大剑，上面的仪式性装饰依然清晰可见。拥有受时间之风冲刷的祝福力量。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112013",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12403.js"
+  }
+}

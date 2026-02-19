@@ -1,0 +1,18 @@
+{
+  "id": "4092915",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "变化的位面",
+  "description": "在「模拟宇宙：黄金与机械」中，使用自定义骰「追猎」，连续进入 5.0 个及以上不相邻的区域",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

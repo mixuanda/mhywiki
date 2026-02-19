@@ -1,0 +1,15 @@
+{
+  "id": "82226",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「海浪中的莎孚」",
+  "description": "战胜地方传奇「海浪中的莎孚」。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

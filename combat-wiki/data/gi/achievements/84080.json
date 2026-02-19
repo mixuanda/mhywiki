@@ -1,0 +1,15 @@
+{
+  "id": "84080",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "残阳浩劫之后",
+  "description": "通过赤王祭司的「遗言」了解到过去的事情。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

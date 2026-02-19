@@ -1,0 +1,25 @@
+{
+  "id": "108",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "冰史莱姆",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "cslm"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 小史莱姆"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

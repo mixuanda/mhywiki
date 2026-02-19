@@ -1,0 +1,28 @@
+{
+  "id": "56001",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的盗宝团精锐",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 地方传奇",
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

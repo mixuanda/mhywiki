@@ -1,0 +1,15 @@
+{
+  "id": "82169",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "像太阳一般通过",
+  "description": "在阿佩普的绿洲守望者的挑战中，在没有角色承受末日的余波攻击的情况下，将其击败。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "39"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

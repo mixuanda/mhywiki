@@ -1,0 +1,15 @@
+{
+  "id": "80440",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "阿夏引力之虹",
+  "description": "解锁阿夏的所有颜色。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "62"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4073006",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "打上花火",
+  "description": "单场战斗中，使用花火的终结技「一人千役」共计获得20.0个战技点",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

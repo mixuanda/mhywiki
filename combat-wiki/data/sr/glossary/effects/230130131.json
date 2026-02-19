@@ -1,0 +1,18 @@
+{
+  "id": "230130131",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "灼骨恶火",
+  "description": "每层使【痛恶如刺剔骨】额外造成1次伤害，最多叠加<color> <b>A</b> </color>层。弱点被击破时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230130131,
+    "MDF": "MMonster_W3_Dinosaur_01_Common_Growth_Enhance",
+    "Name": "灼骨恶火",
+    "Desc": "每层使【痛恶如刺剔骨】额外造成1次伤害，最多叠加<color> <b>A</b> </color>层。弱点被击破时解除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

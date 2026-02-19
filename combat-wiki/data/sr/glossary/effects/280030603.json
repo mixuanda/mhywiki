@@ -1,0 +1,18 @@
+{
+  "id": "280030603",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "持咒",
+  "description": "下次行动对我方全体施放【玄气噬身】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030603,
+    "MDF": "Monster_XP_Elite02_02_ChargeEffect",
+    "Name": "持咒",
+    "Desc": "下次行动对我方全体施放【玄气噬身】。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

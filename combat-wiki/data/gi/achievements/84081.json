@@ -1,0 +1,15 @@
+{
+  "id": "84081",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "赤土之王与三朝圣者",
+  "description": "完成「赤土之王与三朝圣者」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

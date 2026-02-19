@@ -1,0 +1,22 @@
+{
+  "id": "14506",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "不灭月华",
+  "description": "出自深海的美玉之环，闪烁着清澈如月的光泽，一如遥远往昔。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 608.0745972,
+  "subStatType": "HP",
+  "subStatValue": 0.49615200000000004,
+  "materialRefs": [
+    "112052",
+    "112055",
+    "114028"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14506.js"
+  }
+}

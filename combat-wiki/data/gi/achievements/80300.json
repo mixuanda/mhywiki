@@ -1,0 +1,15 @@
+{
+  "id": "80300",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 碧水萦纡之乡",
+  "description": "点亮璃月区域中，沉玉谷的地图。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "47"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

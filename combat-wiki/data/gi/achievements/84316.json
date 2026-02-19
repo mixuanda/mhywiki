@@ -1,0 +1,15 @@
+{
+  "id": "84316",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "罪人舞步旋",
+  "description": "完成「罪人舞步旋」。",
+  "reward": 10,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

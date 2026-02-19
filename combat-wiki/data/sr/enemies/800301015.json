@@ -1,0 +1,39 @@
+{
+  "id": "800301015",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "外宇宙之冰",
+  "description": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
+  "stats": {
+    "HP": 7.5,
+    "ATK": 30.00006,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.4,
+    "Elec": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8003010.png",
+  "figure": "monsterfigure/Monster_8003010.png",
+  "camp": {
+    "id": "3",
+    "name": "裂界造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

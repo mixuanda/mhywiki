@@ -1,0 +1,22 @@
+{
+  "id": "14417",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "盈满之实",
+  "description": "从兰那罗的故事中得到的果实。其中蕴含着战胜任何危机的潜能。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 509.605949,
+  "subStatType": "ER",
+  "subStatValue": 0.45940000000000003,
+  "materialRefs": [
+    "112019",
+    "112061",
+    "114044"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14417.js"
+  }
+}

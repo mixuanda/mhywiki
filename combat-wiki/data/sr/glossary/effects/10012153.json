@@ -1,0 +1,18 @@
+{
+  "id": "10012153",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "六正",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012153,
+    "MDF": "MAvatar_Hanya_Rank06",
+    "Name": "六正",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

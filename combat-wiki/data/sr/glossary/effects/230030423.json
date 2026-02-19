@@ -1,0 +1,17 @@
+{
+  "id": "230030423",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "圣善夜",
+  "description": "即将释放【静享天赐安眠】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030423,
+    "MDF": "Monster_W3_Figure_00_RLElite_ChargeEffect",
+    "Name": "圣善夜",
+    "Desc": "即将释放【静享天赐安眠】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

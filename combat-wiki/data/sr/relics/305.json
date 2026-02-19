@@ -1,0 +1,15 @@
+{
+  "id": "305",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "星体差分机",
+  "icon": "71016.png",
+  "setBonuses": [
+    "使装备者的暴击伤害提高 <b>16%</b> 。当装备者的暴击伤害大于等于 <b>120%</b> 时，进入战斗后装备者的暴击率提高 <b>60%</b> ，持续到施放首次攻击后结束。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/305.js"
+  }
+}

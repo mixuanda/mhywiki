@@ -1,0 +1,19 @@
+{
+  "id": "210140112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "防御降低",
+  "description": "防御力降低<color> <b>A</b> </color>，该效果可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210140112,
+    "MDF": "Monster_W1_Svarog_00_RL_DefenceRatioDown",
+    "Name": "防御降低",
+    "Desc": "防御力降低<color> <b>A</b> </color>，该效果可叠加。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

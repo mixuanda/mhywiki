@@ -1,0 +1,19 @@
+{
+  "id": "220220803",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "复还",
+  "description": "受到攻击后，对攻击者造成伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220220803,
+    "MDF": "MMonster_W2_Xuanlu_02_Counter_RL",
+    "Name": "复还",
+    "Desc": "受到攻击后，对攻击者造成伤害。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

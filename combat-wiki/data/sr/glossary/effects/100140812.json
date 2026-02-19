@@ -1,0 +1,19 @@
+{
+  "id": "100140812",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "永劫燔世，其将背负",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100140812,
+    "MDF": "MAvatar_Phainon_00_UltraEnd_Property",
+    "Name": "永劫燔世，其将背负",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

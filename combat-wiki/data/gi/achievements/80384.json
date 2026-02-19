@@ -1,0 +1,15 @@
+{
+  "id": "80384",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣山引路人",
+  "description": "解锁纳塔区域中，远古圣山、安饶之野所有传送锚点。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "60"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

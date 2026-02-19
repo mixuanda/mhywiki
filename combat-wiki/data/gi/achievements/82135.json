@@ -1,0 +1,15 @@
+{
+  "id": "82135",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "彼竭我盈故克之",
+  "description": "击败活化状态结束后，正处于力竭状态下的翠翎恐蕈。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "34"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

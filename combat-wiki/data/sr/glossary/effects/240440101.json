@@ -1,0 +1,18 @@
+{
+  "id": "240440101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "潜能实现",
+  "description": "造成伤害提高<color> <b>A</b> </color>，回合开始时回复<color> <b>B</b> </color>的生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240440101,
+    "MDF": "Monster_W4_Theoroi_00_Creation",
+    "Name": "潜能实现",
+    "Desc": "造成伤害提高<color> <b>A</b> </color>，回合开始时回复<color> <b>B</b> </color>的生命值。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4074011",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "金线降神",
+  "description": "单场战斗中，使用我方角色阿格莱雅召唤 1 次「衣匠」",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "62102",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "鳍游龙",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Natsaurus_Mosasaurus_Normal"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 龙"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

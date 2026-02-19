@@ -1,0 +1,19 @@
+{
+  "id": "10012075",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "天舶飞将，枕弧待战",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012075,
+    "MDF": "MAvatar_Yukong_00_Rank01_SpeedUp",
+    "Name": "天舶飞将，枕弧待战",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

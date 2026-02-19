@@ -1,0 +1,15 @@
+{
+  "id": "84556",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "梦想，梦想！你们去了哪里？",
+  "description": "见证贾维与「梦想」的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8025010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "碎星王虫 · 斯喀拉卡巴兹（拟造）",
+  "description": "阮 · 梅培育的「繁育」令使复制体，以残缺的姿态短暂现世。原型为继承虫皇之颚的巨蠹，能以口器凝聚裂解天体的死光，将破碎的群星作为诞育子嗣的温床，曾是寰宇蝗灾中的诸界噩梦之一。",
+  "stats": {
+    "HP": 24.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 18.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_8025010.png",
+  "figure": "monsterfigure/Monster_8025010.png",
+  "camp": {
+    "id": "8",
+    "name": "虫群"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

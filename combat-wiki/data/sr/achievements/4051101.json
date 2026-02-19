@@ -1,0 +1,18 @@
+{
+  "id": "4051101",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "浪费是可耻的",
+  "description": "从垃圾桶中获得「吉姆•罗杰面包味汽水」",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

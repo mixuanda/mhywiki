@@ -1,0 +1,18 @@
+{
+  "id": "4074404",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "是谁得了MVP?",
+  "description": "使用同时包含白厄、万敌的队伍获得一场战斗的胜利，并且万敌消灭的敌人数量超过白厄",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

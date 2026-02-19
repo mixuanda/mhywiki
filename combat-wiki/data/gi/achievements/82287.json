@@ -1,0 +1,15 @@
+{
+  "id": "82287",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「微末」",
+  "description": "在「微末」首次陷入虚耗状态时，将其击败。",
+  "reward": 20,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

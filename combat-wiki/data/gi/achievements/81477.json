@@ -1,0 +1,15 @@
+{
+  "id": "81477",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "根本就没藏嘛！",
+  "description": "搜集朱利亚诺遗留的四处宝藏。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

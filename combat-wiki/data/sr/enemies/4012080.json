@@ -1,0 +1,39 @@
+{
+  "id": "4012080",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "阳雷之鸦",
+  "description": "围绕在融合神身畔的鸦群。拥有极化天气的能力，放任不管可能会造成危险。",
+  "stats": {
+    "HP": 7.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 6.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_4012080.png",
+  "figure": "monsterfigure/Monster_4012080.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

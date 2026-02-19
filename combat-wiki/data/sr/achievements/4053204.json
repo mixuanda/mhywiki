@@ -1,0 +1,18 @@
+{
+  "id": "4053204",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "只是一道行走的影子",
+  "description": "聆听匹诺康尼大剧院舞台边八位人偶的故事",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

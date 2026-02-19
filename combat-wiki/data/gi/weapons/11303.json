@@ -1,0 +1,32 @@
+{
+  "id": "11303",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "旅行剑",
+  "description": "趁手的钢剑，剑柄里藏着剪子、放大镜、火绒等方便旅行的小物件。",
+  "rarity": 3,
+  "weaponType": 1,
+  "baseAtk": 448.2215814,
+  "subStatType": "DEF",
+  "subStatValue": 0.29278940200000003,
+  "materialRefs": [
+    "112010",
+    "112025",
+    "114012"
+  ],
+  "affix": {
+    "111303": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "获得元素晶球或元素微粒时，恢复 <color style='color:#99FFFFFF'>1%</color> / <color style='color:#99FFFFFF'>1.25%</color> / <color style='color:#99FFFFFF'>1.5%</color> / <color style='color:#99FFFFFF'>1.75%</color> / <color style='color:#99FFFFFF'>2%</color> 生命值。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11303.js"
+  }
+}

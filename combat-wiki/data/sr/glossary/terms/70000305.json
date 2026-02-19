@@ -1,0 +1,15 @@
+{
+  "id": "70000305",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "韧性保护",
+  "description": "韧性值无法受到削减。",
+  "content": {
+    "_id": 70000305,
+    "Name": "韧性保护",
+    "Desc": "韧性值无法受到削减。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

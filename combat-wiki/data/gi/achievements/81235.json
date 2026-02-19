@@ -1,0 +1,15 @@
+{
+  "id": "81235",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "桓那兰那一番！",
+  "description": "帮助兰帕卡提的哥哥们完成各自的「至上珍馐」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

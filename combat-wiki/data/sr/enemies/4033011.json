@@ -1,0 +1,39 @@
+{
+  "id": "4033011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "蚀心影魔 · 浑流奔涌的腐坏者",
+  "description": "从黑潮中诞生的扭曲造物，对杀戮的渴求成为了空洞躯壳中仅存的意志，此时获得强大力量的它，已经没有任何人可以阻挡。",
+  "stats": {
+    "HP": 1.0,
+    "ATK": 72.0,
+    "DEF": 1.0,
+    "SPD": 210.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4033010.png",
+  "figure": "monsterfigure/Monster_4033010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4073212",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "然后，是星期一…",
+  "description": "累积足够的护盾，完全抵挡「哲学的胎儿」星期日技能「太初有为」造成的伤害",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

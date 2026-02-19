@@ -1,0 +1,18 @@
+{
+  "id": "4034603",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "你永远不会独行",
+  "description": "探索、了解、建立、连结——然后，我们会一起回家<br><color style='color:#8790ab;'>※与三月七汇合</color>",
+  "reward": 10,
+  "version": 3.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

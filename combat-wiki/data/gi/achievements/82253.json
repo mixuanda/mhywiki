@@ -1,0 +1,15 @@
+{
+  "id": "82253",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "元素穿甲弹",
+  "description": "破除一次深邃摹结株的虚界力护罩。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

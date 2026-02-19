@@ -1,0 +1,39 @@
+{
+  "id": "403302004",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「开山者」吉奥刻勒斯",
+  "description": "「开山者」，山之民的英雄，荒笛曾经的战友，化作执念的记忆。",
+  "stats": {
+    "HP": 18.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 132.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4033020.png",
+  "figure": "monsterfigure/Monster_4033020.png",
+  "camp": {
+    "id": "14",
+    "name": "黑潮造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

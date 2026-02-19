@@ -1,0 +1,18 @@
+{
+  "id": "4092347",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "眼泪消匿于雨中",
+  "description": "在「模拟宇宙」酒馆事件的战斗中落败",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

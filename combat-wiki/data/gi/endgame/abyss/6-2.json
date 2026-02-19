@@ -1,0 +1,681 @@
+{
+  "id": "6-2",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "abyss",
+  "name": "6.2",
+  "openTime": "2025/12/16 - 2026/01/16",
+  "generation": 6,
+  "phases": [
+    110
+  ],
+  "floors": [
+    {
+      "floorId": "103",
+      "config": {
+        "Disorder": "角色的月曜反应造成的伤害提升50%。",
+        "ShowVers": [
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "9-1",
+            "Level": 72,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30801,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 30802,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30803,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30801,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30802,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 62701,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-2",
+            "Level": 74,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30804,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30805,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30851,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30804,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30805,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 40302,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-3",
+            "Level": 76,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30853,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30803,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 803,
+                    "Num": 1,
+                    "HPOverride": 3.575
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Guide": [
+          803
+        ]
+      }
+    },
+    {
+      "floorId": "104",
+      "config": {
+        "Disorder": "角色的月曜反应造成的伤害提升50%。",
+        "ShowVers": [
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "10-1",
+            "Level": 80,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30801,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30701,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30791,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30701,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 62603,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-2",
+            "Level": 82,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30803,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30741,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30793,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30721,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 802,
+                    "Num": 1,
+                    "HPOverride": 2.805
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-3",
+            "Level": 85,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30761,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30741,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30792,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30781,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 63002,
+                    "Num": 1,
+                    "HPOverride": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Guide": [
+          802
+        ]
+      }
+    },
+    {
+      "floorId": "111",
+      "config": {
+        "Disorder": "队伍中所有角色获得60%火元素伤害加成。<br>队伍中所有角色获得60%雷元素伤害加成。",
+        "ShowVers": [
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "11-1",
+            "Level": 88,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 109,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 111,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 108,
+                    "Num": 30
+                  },
+                  {
+                    "ID": 110,
+                    "Num": 30
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "ExtraDesc": "<b>维持2个</b>",
+                "Monsters": [
+                  {
+                    "ID": 50801,
+                    "Num": 10
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-2",
+            "Level": 90,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "ExtraDesc": "<b>维持5个</b>",
+                "Monsters": [
+                  {
+                    "ID": 601,
+                    "Num": 15
+                  },
+                  {
+                    "ID": 604,
+                    "Num": 15
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 62702,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62702,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-3",
+            "Level": 92,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30401,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30101,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 30793,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4,
+                "Monsters": [
+                  {
+                    "ID": 30501,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 61101,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "112",
+      "config": {
+        "Disorder": "<b>上半</b> 处于队伍后台的角色获得75%火元素伤害加成。<br><b>下半</b> 角色的下落攻击造成伤害提升75%。",
+        "ShowVers": [
+          1,
+          3
+        ],
+        "Chambers": [
+          {
+            "Name": "12-1",
+            "Level": 95,
+            "GoalType": 0,
+            "DPS": {
+              "1": [
+                12,
+                18.7
+              ]
+            },
+            "Upper": [
+              {
+                "WaveDesc": 4208,
+                "Vers": [
+                  1
+                ],
+                "Monsters": [
+                  {
+                    "ID": 109,
+                    "Num": 7
+                  },
+                  {
+                    "ID": 111,
+                    "Num": 14
+                  },
+                  {
+                    "ID": 61902,
+                    "Num": 4
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4209,
+                "Vers": [
+                  1
+                ],
+                "Monsters": [
+                  {
+                    "ID": 40662,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 6201,
+                "Vers": [
+                  3
+                ],
+                "Monsters": [
+                  {
+                    "ID": 40651,
+                    "Num": 25
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 6202,
+                "Vers": [
+                  3
+                ],
+                "Monsters": [
+                  {
+                    "ID": 30401,
+                    "Num": 15
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 6203,
+                "Vers": [
+                  3
+                ],
+                "Monsters": [
+                  {
+                    "ID": 40662,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 62901,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62901,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-2",
+            "Level": 98,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30791,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30701,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 51001,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 51002,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 40101,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4,
+                "Monsters": [
+                  {
+                    "ID": 40301,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 5112,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 5102,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-3",
+            "Level": 100,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 30901,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 40632,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Guide": [
+          62901,
+          30901,
+          40632
+        ]
+      }
+    }
+  ],
+  "blessings": [
+    {
+      "blessingId": "106",
+      "config": {
+        "Name": "奔飙之月",
+        "Desc": "当前场上角色对敌人触发扩散反应时，将在敌人的位置<color style='color:#0000FF'>释放冲击波</color>，造成真实伤害，此效果每2秒至多触发一次。"
+      }
+    }
+  ],
+  "source": {
+    "files": [
+      "gi/CH/database.js",
+      "gi/CH/database_extra.js"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "15301",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "鸦羽弓",
+  "description": "相传渡鸦是死的使者。将鸦羽装饰在弓臂上，射出的每一箭都宣告着猎物的终末。",
+  "rarity": 3,
+  "weaponType": 5,
+  "baseAtk": 448.2215814,
+  "subStatType": "EM",
+  "subStatValue": 93.7176,
+  "materialRefs": [
+    "112013",
+    "112016",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15301.js"
+  }
+}

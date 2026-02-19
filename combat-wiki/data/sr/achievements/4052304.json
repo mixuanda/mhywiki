@@ -1,0 +1,18 @@
+{
+  "id": "4052304",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "为了忘却的纪念",
+  "description": "寻访科员荣仓终的纪念碑",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

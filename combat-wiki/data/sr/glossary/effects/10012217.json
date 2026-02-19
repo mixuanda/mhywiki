@@ -1,0 +1,18 @@
+{
+  "id": "10012217",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "剑为地纪，刃惊天宗",
+  "description": "下一次反击造成的暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012217,
+    "MDF": "MAvatar_Yunli_00_Blocking_CritDamage",
+    "Name": "剑为地纪，刃惊天宗",
+    "Desc": "下一次反击造成的暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

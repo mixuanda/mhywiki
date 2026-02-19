@@ -1,0 +1,16 @@
+{
+  "id": "118",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "机心戏梦的钟表匠",
+  "icon": "71029.png",
+  "setBonuses": [
+    "击破特攻提高 <b>16%</b> 。",
+    "当装备者对我方目标施放终结技时，我方全体击破特攻提高 <b>30%</b> ，持续 <b>2</b> 回合，该效果无法叠加。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/118.js"
+  }
+}

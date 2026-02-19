@@ -1,0 +1,19 @@
+{
+  "id": "10010063",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "缺陷3型",
+  "description": "速度降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010063,
+    "MDF": "MAvatar_Silwolf_00_Normal_Bug3",
+    "Name": "缺陷3型",
+    "Desc": "速度降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

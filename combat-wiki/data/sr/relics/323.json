@@ -1,0 +1,30 @@
+{
+  "id": "323",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "永恒之地翁法罗斯",
+  "icon": "71050.png",
+  "setBonuses": [
+    "使装备者的暴击率提高 <b>8%</b> 。装备者的忆灵在场时，我方全体速度提高 <b>8%</b> ，该效果无法叠加。"
+  ],
+  "detail": {
+    "_relicitem_": {
+      "323": [
+        {
+          "Name": "翁法罗斯的西风尽途",
+          "Desc": "位面球中封装着「如我所书」中的一个章节：「一页永恒」。它被赋予了鲜花的芬芳，西风的温暖…以及一个开放的结局。",
+          "Icon": "IconRelic_323_5.png"
+        },
+        {
+          "Name": "翁法罗斯的永恒诗篇",
+          "Desc": "在故事的尾声，三千万世的数据化作完整的诗篇，执笔者写下的岁月，将留在银河的回忆之中，永不褪色。",
+          "Icon": "IconRelic_323_6.png"
+        }
+      ]
+    }
+  },
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/323.js"
+  }
+}

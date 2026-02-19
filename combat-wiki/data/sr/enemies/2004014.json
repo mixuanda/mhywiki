@@ -1,0 +1,39 @@
+{
+  "id": "2004014",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "勾魂摄魄的支配者",
+  "description": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
+  "stats": {
+    "HP": 77.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 150.0,
+    "Stance": 30.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Ice": 0.4,
+    "Elec": 0.4,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2004010.png",
+  "figure": "monsterfigure/Monster_2004010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

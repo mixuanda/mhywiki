@@ -1,0 +1,15 @@
+{
+  "id": "82142",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "遗迹先生，别再冲了——！",
+  "description": "通过攻击头部的核心，中断兆载永劫龙兽的冲锋攻击。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4052917",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "微物之神",
+  "description": "在「异宠拾遗」活动中收集所有的造物特征",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

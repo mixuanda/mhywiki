@@ -1,0 +1,18 @@
+{
+  "id": "4044611",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我在树庭修文物",
+  "description": "使用「欧洛尼斯祷言」恢复被震碎的小雕像",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

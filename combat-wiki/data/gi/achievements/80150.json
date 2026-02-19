@@ -1,0 +1,15 @@
+{
+  "id": "80150",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "岩渊引路人",
+  "description": "在层岩巨渊追随24只仙灵，并点亮仙灵之庭。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "30"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

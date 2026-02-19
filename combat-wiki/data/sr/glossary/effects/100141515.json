@@ -1,0 +1,18 @@
+{
+  "id": "100141515",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "三相的因果",
+  "description": "冰属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141515,
+    "MDF": "MAvatar_Cyrene_00_PointB3_Sub2",
+    "Name": "三相的因果",
+    "Desc": "冰属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

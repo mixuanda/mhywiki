@@ -1,0 +1,18 @@
+{
+  "id": "4082401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "尘世百态",
+  "description": "使用我方角色罗刹提供治疗时，触发 10.0 句不同的回复生命语音",
+  "reward": 5,
+  "version": 1.1,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

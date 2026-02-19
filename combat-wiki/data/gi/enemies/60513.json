@@ -1,0 +1,25 @@
+{
+  "id": "60513",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的深海龙蜥 · 原种",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "pbv"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10012239",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "墨毫绣衣",
+  "description": "行迹【墨毫绣衣】效果自动触发尚在冷却中。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012239,
+    "MDF": "MAvatar_Moze_00_Point01_CD",
+    "Name": "墨毫绣衣",
+    "Desc": "行迹【墨毫绣衣】效果自动触发尚在冷却中。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

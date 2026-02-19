@@ -1,0 +1,15 @@
+{
+  "id": "84060",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "窥伺「深渊」时…",
+  "description": "虽然与戴因再会，却正被深渊窥伺…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

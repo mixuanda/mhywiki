@@ -1,0 +1,25 @@
+{
+  "id": "63003",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "蕴光璇蛸",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Magbeast_Squid"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 蕴光异兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

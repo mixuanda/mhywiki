@@ -1,0 +1,22 @@
+{
+  "id": "11502",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "天空之刃",
+  "description": "象征风龙的荣誉的骑士剑，如今失而复得。剑脊上吹息着风之神的赐福，蕴含苍空与长风的力量。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 608.0745972,
+  "subStatType": "ER",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112004",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11502.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81211",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "勇气的余晖",
+  "description": "冒险之意义，究竟存在于哪里呢？",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

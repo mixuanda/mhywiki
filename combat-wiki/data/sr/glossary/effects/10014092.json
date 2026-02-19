@@ -1,0 +1,18 @@
+{
+  "id": "10014092",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "雨过天晴",
+  "description": "生命上限提高<color> <b>A</b> </color>+<color> <b>B</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014092,
+    "MDF": "MAvatar_Hyacine_Skill03_MaxHP_Grow",
+    "Name": "雨过天晴",
+    "Desc": "生命上限提高<color> <b>A</b> </color>+<color> <b>B</b> </color>点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10012204",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "驱飓听冰",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012204,
+    "MDF": "MAvatar_Feixiao_00_Rank04_Property",
+    "Name": "驱飓听冰",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10010083",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "抗御",
+  "description": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010083,
+    "MDF": "BlockDamage_Count",
+    "Name": "抗御",
+    "Desc": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

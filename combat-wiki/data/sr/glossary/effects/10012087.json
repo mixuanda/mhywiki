@@ -1,0 +1,18 @@
+{
+  "id": "10012087",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "鉴知",
+  "description": "使生命上限提高<color> <b>A</b> </color>点，暴击率提高<color> <b>B</b> </color>，暴击伤害提高<color> <b>C</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012087,
+    "MDF": "MAvatar_FuXuan_00_JianZhi_Rank01",
+    "Name": "鉴知",
+    "Desc": "使生命上限提高<color> <b>A</b> </color>点，暴击率提高<color> <b>B</b> </color>，暴击伤害提高<color> <b>C</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

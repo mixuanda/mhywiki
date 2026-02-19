@@ -1,0 +1,18 @@
+{
+  "id": "4043401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "青鸟探看",
+  "description": "利用机巧鸟打开隐藏的地下通路",
+  "reward": 5,
+  "version": 2.4,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

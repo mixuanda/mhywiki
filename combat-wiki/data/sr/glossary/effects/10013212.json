@@ -1,0 +1,18 @@
+{
+  "id": "10013212",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "舔舐…背叛伸出火舌",
+  "description": "未处于弱点击破状态时承受的削韧值也能够转化为超击破伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013212,
+    "MDF": "MAvatar_Constance_00_Aura_OnEnemy",
+    "Name": "舔舐…背叛伸出火舌",
+    "Desc": "未处于弱点击破状态时承受的削韧值也能够转化为超击破伤害。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

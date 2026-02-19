@@ -1,0 +1,22 @@
+{
+  "id": "11501",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "风鹰剑",
+  "description": "西风骑士团的灵魂。历经千年仍在呼唤你卷起正义之风，祓除奸邪，一如上一位挥舞此剑的女杰。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "Phys",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112013",
+    "112016",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11501.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10014027",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "盈虚无常的金线",
+  "description": "雷属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014027,
+    "MDF": "MAvatar_Aglaea_Rank06_Effect2",
+    "Name": "盈虚无常的金线",
+    "Desc": "雷属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044102",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "瑟希斯不完备定理",
+  "description": "2.0次阻止贼灵从瑟希斯眼皮底下偷走东西",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

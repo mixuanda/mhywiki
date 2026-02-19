@@ -1,0 +1,25 @@
+{
+  "id": "101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "草史莱姆",
+  "description": "因为充沛的草元素，而发生了生态上的质变的史莱姆。\n从生态而言，也获得了草元素的弱点。一旦遇上明火，就会剧烈地燃烧。",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "dslm"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 小史莱姆"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "61203",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "陆行水本真蕈",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "ghs"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 真蕈"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

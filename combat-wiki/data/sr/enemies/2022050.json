@@ -1,0 +1,39 @@
+{
+  "id": "2022050",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "丰饶灵兽 · 奎木",
+  "description": "身披烟雾的奔狼，行动飘忽不定。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。奎木即为伴随军阵行进的战兽之一。",
+  "stats": {
+    "HP": 2.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2022050.png",
+  "figure": "monsterfigure/Monster_2022050.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

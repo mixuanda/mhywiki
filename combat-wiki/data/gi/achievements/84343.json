@@ -1,0 +1,15 @@
+{
+  "id": "84343",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "瓦尔普吉斯的游戏",
+  "description": "通过魔女会设下的试炼。",
+  "reward": 5,
+  "version": "5.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

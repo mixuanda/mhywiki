@@ -1,0 +1,18 @@
+{
+  "id": "4054219",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "标本为谁沉默",
+  "description": "在元老院的墙壁上留下你的战利品，但……",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81115",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "三千里的起点",
+  "description": "在踏鞴砂和鸣神岛找到长次。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

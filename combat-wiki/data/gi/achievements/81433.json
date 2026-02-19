@@ -1,0 +1,15 @@
+{
+  "id": "81433",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「魔剑柯鲁日」",
+  "description": "战胜地方传奇 · 魔剑柯鲁日。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

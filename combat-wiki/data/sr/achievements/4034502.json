@@ -1,0 +1,18 @@
+{
+  "id": "4034502",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "被缚的普罗米修斯",
+  "description": "我把盲目的希望放在他们心里。此外，我把火也给了他们<br><color style='color:#8790ab;'>※落入来古士的囚笼</color>",
+  "reward": 10,
+  "version": 3.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

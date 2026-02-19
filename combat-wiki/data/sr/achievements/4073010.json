@@ -1,0 +1,18 @@
+{
+  "id": "4073010",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "燃我心火，焚尽其身",
+  "description": "在和「星核猎手」萨姆的战斗中，使用燃烧的战技点使我方1.0名角色的生命值低于5.0%",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

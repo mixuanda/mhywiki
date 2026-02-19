@@ -1,0 +1,25 @@
+{
+  "id": "30805",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "巡陆艇 · 强侦地效型",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuimecha_CoreB_MoveE_AttackB_Wind"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 巡陆艇 I"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

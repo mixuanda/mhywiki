@@ -1,0 +1,32 @@
+{
+  "id": "11302",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黎明神剑",
+  "description": "一把曾经耀若朝阳的宝剑，掌握它的人会获得「自我感觉良好」的力量加持。剑身上的发光材料已经褪去。",
+  "rarity": 3,
+  "weaponType": 1,
+  "baseAtk": 401.2935898,
+  "subStatType": "CD",
+  "subStatValue": 0.468588,
+  "materialRefs": [
+    "112004",
+    "112022",
+    "114008"
+  ],
+  "affix": {
+    "111302": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "生命值高于90%时，暴击率提升 <color style='color:#99FFFFFF'>14%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24.5%</color> / <color style='color:#99FFFFFF'>28%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11302.js"
+  }
+}

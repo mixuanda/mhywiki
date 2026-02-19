@@ -1,0 +1,18 @@
+{
+  "id": "230040102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "司律",
+  "description": "每回合可再次行动，并小幅提高其速度。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230040102,
+    "MDF": "MMonster_W3_DollElite_Commnon_TheChosenOne",
+    "Name": "司律",
+    "Desc": "每回合可再次行动，并小幅提高其速度。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

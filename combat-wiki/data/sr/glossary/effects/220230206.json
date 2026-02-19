@@ -1,0 +1,18 @@
+{
+  "id": "220230206",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "dev_debuff减防",
+  "description": "dev_1层减防<color> <b>A</b> </color>,2层减防<color> <b>B</b> </color>,3层减防<color> <b>C</b> </color>",
+  "effectType": "monster",
+  "content": {
+    "_id": 220230206,
+    "MDF": "Monster_W2_Beast02_00_DefenceDown",
+    "Name": "dev_debuff减防",
+    "Desc": "dev_1层减防<color> <b>A</b> </color>,2层减防<color> <b>B</b> </color>,3层减防<color> <b>C</b> </color>",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

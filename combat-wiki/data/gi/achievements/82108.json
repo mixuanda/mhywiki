@@ -1,0 +1,15 @@
+{
+  "id": "82108",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雷自东来",
+  "description": "被雷斧丘丘暴徒引来的落雷击中…",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

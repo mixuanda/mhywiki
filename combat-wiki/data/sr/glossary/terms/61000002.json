@@ -1,0 +1,15 @@
+{
+  "id": "61000002",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "基石",
+  "description": "带有该效果的区域不会发生塌陷",
+  "content": {
+    "_id": 61000002,
+    "Name": "基石",
+    "Desc": "带有该效果的区域不会发生塌陷"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

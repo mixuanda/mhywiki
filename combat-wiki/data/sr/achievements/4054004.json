@@ -1,0 +1,18 @@
+{
+  "id": "4054004",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我呼唤丰盛的和平",
+  "description": "阅读「浴血战端」悬锋城所有启目集",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

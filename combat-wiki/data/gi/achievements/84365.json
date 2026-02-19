@@ -1,0 +1,15 @@
+{
+  "id": "84365",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "回望湮灭的月光",
+  "description": "完成「回望湮灭的月光」。",
+  "reward": 10,
+  "version": "6.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

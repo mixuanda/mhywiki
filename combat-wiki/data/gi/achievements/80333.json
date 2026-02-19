@@ -1,0 +1,15 @@
+{
+  "id": "80333",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "幻写引路人 · 其一",
+  "description": "在万火之瓯、坚岩隘谷、踞石山、涌流地追随<color style='color:#FF0000;'><b>8</b></color>个幻写灵，并完成涂鸦。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

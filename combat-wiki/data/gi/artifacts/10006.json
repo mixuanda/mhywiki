@@ -1,0 +1,28 @@
+{
+  "id": "10006",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "武人",
+  "icon": "UI_RelicIcon_10006",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "普通攻击与重击造成的伤害提高15%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "施放元素战技后的8秒内，普通攻击和重击造成的伤害提升25%。"
+    }
+  ],
+  "parts": [
+    "武人的红花",
+    "武人的羽饰",
+    "武人的水漏",
+    "武人的酒杯",
+    "武人的头巾"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

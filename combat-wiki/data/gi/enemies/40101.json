@@ -1,0 +1,25 @@
+{
+  "id": "40101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "遗迹守卫",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "rgi"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 原初机关"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

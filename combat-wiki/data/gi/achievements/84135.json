@@ -1,0 +1,15 @@
+{
+  "id": "84135",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "再看一眼！",
+  "description": "一睹久岐忍身着巫女服的风采。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

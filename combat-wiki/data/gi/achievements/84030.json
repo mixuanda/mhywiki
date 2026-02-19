@@ -1,0 +1,15 @@
+{
+  "id": "84030",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "命运交叉的废都",
+  "description": "逃离诡异的遗迹。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

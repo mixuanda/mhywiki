@@ -1,0 +1,31 @@
+{
+  "id": "13957",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13957",
+  "tags": [],
+  "content": {
+    "_id": 13957,
+    "N": "战斗规则",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_MonsterChess2_Battle_01",
+        "D": "战斗开始后，双方的交战单位将依照小队顺序<color style='color:#FFCC33'>自动#入场，向对方行进，并发起攻击。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Battle_02",
+        "D": "战斗开始时，双方只能同时派出一队阵列。<br>当<color style='color:#FFCC33'>阵列战败#或<color style='color:#FFCC33'>战斗时间过长#时，阵容中下一队阵列将按照顺序入场，继续战斗。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Battle_03",
+        "D": "如果战斗进行了一段时间而未分出胜负，则将进入<color style='color:#FFCC33'>消耗战阶段#：场上所有交战单位<color style='color:#FFCC33'>持续损失生命值#。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "113003",
+  "game": "sr",
+  "entityType": "material",
+  "name": "永寿荣枝",
+  "icon": "itemicon/113003.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

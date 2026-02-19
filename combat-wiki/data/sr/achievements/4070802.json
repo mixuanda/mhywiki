@@ -1,0 +1,18 @@
+{
+  "id": "4070802",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "秘技破阵（一）",
+  "description": "累计使用秘技伤害消灭 10.0 名敌人",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

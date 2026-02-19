@@ -1,0 +1,15 @@
+{
+  "id": "80260",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沧浪的寻宝者 · 其一",
+  "description": "在枫丹廷区、白露区、苍晶区开启<color style='color:#FF0000;'><b>60</b></color>个宝箱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "42"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

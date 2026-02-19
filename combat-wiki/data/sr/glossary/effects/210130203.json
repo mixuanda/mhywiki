@@ -1,0 +1,17 @@
+{
+  "id": "210130203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "追猎",
+  "description": "若【砍伐指令】击中敌方单体时该目标没有护盾保护，则在施放攻击后再对敌方随机单体施放1次【解体拆除】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210130203,
+    "MDF": "Monster_W1_Mecha04_00_PassiveMDF",
+    "Name": "追猎",
+    "Desc": "若【砍伐指令】击中敌方单体时该目标没有护盾保护，则在施放攻击后再对敌方随机单体施放1次【解体拆除】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

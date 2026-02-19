@@ -1,0 +1,18 @@
+{
+  "id": "4074021",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "阅读理解",
+  "description": "单次战斗中，使用我方角色大黑塔累计5.0次叠加出42.0层的【解读】",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

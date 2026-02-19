@@ -1,0 +1,23 @@
+{
+  "id": "20013",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "灵钥",
+  "rarity": 3,
+  "path": "Erudition",
+  "skillId": 20013,
+  "baseStats": {
+    "HP": 740.88,
+    "ATK": 370.44,
+    "DEF": 264.6
+  },
+  "materialRefs": [
+    "110133",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/20013.js"
+  }
+}

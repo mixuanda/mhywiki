@@ -1,0 +1,15 @@
+{
+  "id": "81507",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "最后的仁慈",
+  "description": "再一次分享食物给拦路的匿叶龙。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "50803",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "野伏 · 机巧番",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "nkkb"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 野伏众"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

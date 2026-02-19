@@ -1,0 +1,19 @@
+{
+  "id": "10012224",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "欹枕垂云，烟奁红雪",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012224,
+    "MDF": "MAvatar_Lingsha_Rank02_BreakDamageAttackRatio",
+    "Name": "欹枕垂云，烟奁红雪",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

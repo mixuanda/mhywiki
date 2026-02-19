@@ -1,0 +1,18 @@
+{
+  "id": "4053702",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "洗个痛快澡！",
+  "description": "初次使用浴缸泡澡",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

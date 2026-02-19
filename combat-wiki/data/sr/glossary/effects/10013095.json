@@ -1,0 +1,18 @@
+{
+  "id": "10013095",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "即兴装饰",
+  "description": "发动追加攻击造成的暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013095,
+    "MDF": "MAvatar_Robin_00_SkillTree02_InsertDmgUp",
+    "Name": "即兴装饰",
+    "Desc": "发动追加攻击造成的暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

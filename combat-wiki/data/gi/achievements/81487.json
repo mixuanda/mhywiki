@@ -1,0 +1,15 @@
+{
+  "id": "81487",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "宽缓的归途",
+  "description": "帮助朱斯蒂诺返回故乡。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

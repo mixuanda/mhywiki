@@ -1,0 +1,15 @@
+{
+  "id": "61000010",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "休整",
+  "description": "休整区域，在这个区域中可以进行祝福强化、角色下载与角色重置。",
+  "content": {
+    "_id": 61000010,
+    "Name": "休整",
+    "Desc": "休整区域，在这个区域中可以进行祝福强化、角色下载与角色重置。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

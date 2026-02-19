@@ -1,0 +1,15 @@
+{
+  "id": "80298",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无影的塞谟奈",
+  "description": "结识伊黎耶岛上的一位神秘精灵。",
+  "reward": 10,
+  "version": "4.2",
+  "group": {
+    "id": "46"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

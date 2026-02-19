@@ -1,0 +1,15 @@
+{
+  "id": "84075",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "穿行躯壳之灵",
+  "description": "在纳西妲通过虚空「附身」他人后共享感官。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

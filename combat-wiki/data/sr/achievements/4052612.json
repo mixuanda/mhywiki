@@ -1,0 +1,18 @@
+{
+  "id": "4052612",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "夜市：天际线",
+  "description": "「金人旧巷市廛喧」中，任意一家商铺的航线规划分数达到 81.0 ",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

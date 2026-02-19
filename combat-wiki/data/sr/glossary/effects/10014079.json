@@ -1,0 +1,17 @@
+{
+  "id": "10014079",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "炽意",
+  "description": "可用来抵扣忆灵死龙忆灵技【燎尽黯泽的焰息】的生命值消耗，【炽意】最多持有<color> <b>A</b> </color>个。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014079,
+    "MDF": "MAvatar_Castorice_00_Rank02_Count",
+    "Name": "炽意",
+    "Desc": "可用来抵扣忆灵死龙忆灵技【燎尽黯泽的焰息】的生命值消耗，【炽意】最多持有<color> <b>A</b> </color>个。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

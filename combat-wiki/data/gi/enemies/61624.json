@@ -1,0 +1,25 @@
+{
+  "id": "61624",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "极彩的露珂菈",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Aplysia_Mature"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.1"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

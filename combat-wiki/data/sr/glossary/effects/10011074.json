@@ -1,0 +1,19 @@
+{
+  "id": "10011074",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害减免",
+  "description": "受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011074,
+    "MDF": "MAvatar_Klara_00_Rank04_DamageReduce",
+    "Name": "伤害减免",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

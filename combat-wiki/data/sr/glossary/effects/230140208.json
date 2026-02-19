@@ -1,0 +1,17 @@
+{
+  "id": "230140208",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "白日西沉",
+  "description": "已叠加2层【白日西沉】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230140208,
+    "MDF": "Modifier_W3_Death_00_HuntingMode2",
+    "Name": "白日西沉",
+    "Desc": "已叠加2层【白日西沉】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

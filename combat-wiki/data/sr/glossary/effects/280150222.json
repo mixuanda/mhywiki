@@ -1,0 +1,17 @@
+{
+  "id": "280150222",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "丰饶增益",
+  "description": "造成的伤害提高<color> <b>A</b> </color>，无法再获取【破灭玄莲】提供的增益。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150222,
+    "MDF": "Monster_W2_Huanlong_00_IF_WhiteBuff",
+    "Name": "丰饶增益",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>，无法再获取【破灭玄莲】提供的增益。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

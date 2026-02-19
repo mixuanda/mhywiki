@@ -1,0 +1,15 @@
+{
+  "id": "82139",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "抗性，有用吗？",
+  "description": "击败提升过至少两种不同元素抗性的兆载永劫龙兽。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "34"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

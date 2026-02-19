@@ -1,0 +1,39 @@
+{
+  "id": "201301001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "边塞诗人",
+  "description": "由小聪打造的「边塞诗人」。<br>内置「灵感玉兆」，搜集军旅生涯、豪情壮志等素材，用于「边塞诗」的类型创作。",
+  "stats": {
+    "HP": 10.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Elec",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2013010.png",
+  "figure": "monsterfigure/Monster_2013010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

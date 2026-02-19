@@ -1,0 +1,10 @@
+{
+  "id": "110503",
+  "game": "sr",
+  "entityType": "material",
+  "name": "无穷假身的遗恨",
+  "icon": "itemicon/110503.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

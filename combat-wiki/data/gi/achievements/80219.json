@@ -1,0 +1,15 @@
+{
+  "id": "80219",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "高倍率牌手传说",
+  "description": "累计获得<color style='color:#FF0000;'><b>70000</b></color>幸运牌币。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

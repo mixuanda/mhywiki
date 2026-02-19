@@ -1,0 +1,18 @@
+{
+  "id": "10014044",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "血祥罩衫",
+  "description": "暴击率提高<color> <b>A</b> </color>，受到来自敌方目标伤害造成的充能比例提高<color> <b>B</b> </color>，受到治疗时的回复量提高<color> <b>C</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014044,
+    "MDF": "Avatar_Mydeimos_00_SkillTree03_Sub",
+    "Name": "血祥罩衫",
+    "Desc": "暴击率提高<color> <b>A</b> </color>，受到来自敌方目标伤害造成的充能比例提高<color> <b>B</b> </color>，受到治疗时的回复量提高<color> <b>C</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

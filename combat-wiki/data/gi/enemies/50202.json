@@ -1,0 +1,25 @@
+{
+  "id": "50202",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "盗宝团 · 神射手",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "thma1"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 盗宝团瘦子"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

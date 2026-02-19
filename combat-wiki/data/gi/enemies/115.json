@@ -1,0 +1,25 @@
+{
+  "id": "115",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "大型岩史莱姆",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "lgslm"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 大史莱姆"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

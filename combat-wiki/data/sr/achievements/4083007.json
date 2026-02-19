@@ -1,0 +1,18 @@
+{
+  "id": "4083007",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "广——告——牌——",
+  "description": "想办法让匹诺康尼的广告牌被交通工具撞飞",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

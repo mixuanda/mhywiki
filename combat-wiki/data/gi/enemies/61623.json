@@ -1,0 +1,25 @@
+{
+  "id": "61623",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「渐渐隐去的老兵」",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "lgpfb"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.0"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

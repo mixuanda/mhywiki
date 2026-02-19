@@ -1,0 +1,39 @@
+{
+  "id": "801202012",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "虚卒 · 篡改者",
+  "description": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
+  "stats": {
+    "HP": 1.8,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_8012020.png",
+  "figure": "monsterfigure/Monster_8012020.png",
+  "camp": {
+    "id": "6",
+    "name": "反物质军团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

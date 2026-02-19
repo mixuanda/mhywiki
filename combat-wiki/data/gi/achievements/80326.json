@@ -1,0 +1,15 @@
+{
+  "id": "80326",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大乐章的回声",
+  "description": "奏响「古老的自鸣音乐盒」中的所有乐章。",
+  "reward": 10,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

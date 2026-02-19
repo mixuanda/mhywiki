@@ -1,0 +1,18 @@
+{
+  "id": "11420",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "「一心传」名刀",
+  "description": "破损不堪的妖刀暴露出真实的样貌，它的先天禀赋早已在漫长的旅途中消磨殆尽。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.0,
+  "materialRefs": [],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11420.js"
+  }
+}

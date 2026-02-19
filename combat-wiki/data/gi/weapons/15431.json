@@ -1,0 +1,57 @@
+{
+  "id": "15431",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "碎链",
+  "description": "装饰着玉石的长弓，弦上似乎总是缠卷着轻柔的风。传说是在更古老的时代中由龙的工匠所锻。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112097",
+    "112103",
+    "114072"
+  ],
+  "affix": {
+    "115431": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得 <color style='color:#99FFFFFF'>4.8%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.2%</color> / <color style='color:#99FFFFFF'>8.4%</color> / <color style='color:#99FFFFFF'>9.6%</color> 攻击力提升；上述角色不少于3名时，装备者的元素精通提升 <color style='color:#99FFFFFF'>24</color> / <color style='color:#99FFFFFF'>30</color> / <color style='color:#99FFFFFF'>36</color> / <color style='color:#99FFFFFF'>42</color> / <color style='color:#99FFFFFF'>48</color> 点。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15431.js"
+  }
+}

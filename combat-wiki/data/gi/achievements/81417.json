@@ -1,0 +1,15 @@
+{
+  "id": "81417",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "故事结束了，但是…",
+  "description": "「名为人生的冒险故事还在继续。」",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

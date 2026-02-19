@@ -1,0 +1,15 @@
+{
+  "id": "84331",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "镜与谜烟的彼方",
+  "description": "完成「镜与谜烟的彼方」。",
+  "reward": 10,
+  "version": "5.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

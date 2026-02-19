@@ -1,0 +1,18 @@
+{
+  "id": "4042401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "自投罗网",
+  "description": "累计在战斗中捕捉迷路的扑满 1.0 次",
+  "reward": 5,
+  "version": 1.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

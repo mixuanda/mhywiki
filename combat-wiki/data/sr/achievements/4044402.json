@@ -1,0 +1,18 @@
+{
+  "id": "4044402",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "黄金国",
+  "description": "为织者们建立一座大型乐园<br><color style='color:#8790ab;'>※搜集190.0只创生若虫的赐福</color>",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

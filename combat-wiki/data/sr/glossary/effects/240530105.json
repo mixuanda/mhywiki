@@ -1,0 +1,17 @@
+{
+  "id": "240530105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "共舞的渴望",
+  "description": "每次行动时施放【波涛与你相拥】，被弱点击破时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530105,
+    "MDF": "MMonster_W4_Manta_00_Charge",
+    "Name": "共舞的渴望",
+    "Desc": "每次行动时施放【波涛与你相拥】，被弱点击破时解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

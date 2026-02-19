@@ -1,0 +1,15 @@
+{
+  "id": "303",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "泛银河商业公司",
+  "icon": "71014.png",
+  "setBonuses": [
+    "使装备者的效果命中提高 <b>10%</b> 。同时提高装备者等同于当前效果命中 <b>25%</b> 的攻击力，最多提高 <b>25%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/303.js"
+  }
+}

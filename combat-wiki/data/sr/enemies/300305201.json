@@ -1,0 +1,39 @@
+{
+  "id": "300305201",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「醉于盛会的此刻」（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为美梦剧团中取悦宾客的酒侍。本应于「谐乐大典」之中献杯，如今却被「秩序」所缚，上演着关于「当下」的剧目。此刻是彻夜的欢宴，喜乐的渴望在杯中荡漾，以佳酿进献设宴的主人。",
+  "stats": {
+    "HP": 180.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3003050.png",
+  "figure": "monsterfigure/Monster_3003050.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

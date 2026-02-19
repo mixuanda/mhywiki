@@ -1,0 +1,18 @@
+{
+  "id": "4044109",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "蝶恋花",
+  "description": "金丝与树叶交织成一纸恋曲<br><color style='color:#8790ab;'>※通过神识之蝶的考验</color>",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

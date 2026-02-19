@@ -1,0 +1,15 @@
+{
+  "id": "82178",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "送葬的风暴",
+  "description": "通过芒性的攻击，削弱歌裴莉娅演出高潮时的旋风。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

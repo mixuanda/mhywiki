@@ -1,0 +1,15 @@
+{
+  "id": "81168",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "Nihil Sub Caligine Novum",
+  "description": "似乎又恢复了原状…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

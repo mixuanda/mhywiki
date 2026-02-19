@@ -1,0 +1,15 @@
+{
+  "id": "82026",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "白色的季节",
+  "description": "达成5次：2秒内，冻结4名敌人。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "6"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

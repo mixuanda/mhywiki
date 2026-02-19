@@ -1,0 +1,18 @@
+{
+  "id": "4072904",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "冥狱无常",
+  "description": "使用同时包含寒鸦、雪衣的队伍获得 1.0 场战斗的胜利",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

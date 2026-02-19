@@ -1,0 +1,18 @@
+{
+  "id": "10013136",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "主日渴慕",
+  "description": "战技不消耗战技点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013136,
+    "MDF": "MAvatar_Sunday_10_Skill02_DecreaseBPCost",
+    "Name": "主日渴慕",
+    "Desc": "战技不消耗战技点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

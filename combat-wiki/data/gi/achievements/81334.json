@@ -1,0 +1,15 @@
+{
+  "id": "81334",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "黑泥流中的光辉",
+  "description": "第一次利用灵光的力量，清除灰余晶。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

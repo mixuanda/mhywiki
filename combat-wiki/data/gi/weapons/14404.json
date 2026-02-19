@@ -1,0 +1,22 @@
+{
+  "id": "14404",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "宗室秘法录",
+  "description": "属于曾支配蒙德的贵族麾下的宫廷魔导师，其中记载的史话与法术同样翔实。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112016",
+    "112034",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14404.js"
+  }
+}

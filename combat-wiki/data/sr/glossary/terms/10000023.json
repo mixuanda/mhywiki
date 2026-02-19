@@ -1,0 +1,15 @@
+{
+  "id": "10000023",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "奇袭",
+  "description": "复制一次即将施放的技能并提前施放，随后施放原技能。\n奇袭不会再次触发奇袭。",
+  "content": {
+    "_id": 10000023,
+    "Name": "奇袭",
+    "Desc": "复制一次即将施放的技能并提前施放，随后施放原技能。\n奇袭不会再次触发奇袭。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

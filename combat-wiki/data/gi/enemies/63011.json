@@ -1,0 +1,32 @@
+{
+  "id": "63011",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "蕴光月幻蝶",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Magbeast_Pergesa"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 蕴光异兽"
+  ],
+  "analysis": {
+    "Name": "蕴光月幻蝶",
+    "Icon": "UI_MonsterIcon_Magbeast_Pergesa",
+    "DescList": [
+      "• 会使我方全体@基于生命上限损失生命值#、造成的伤害 @-50%#，受到的治疗 @-40%#，暴击率 @-100%#",
+      "• 每个角色@回复至生命上限#时，解除自身的负面效果，并使暴击率 @+15%#，造成的伤害 @+50%#"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

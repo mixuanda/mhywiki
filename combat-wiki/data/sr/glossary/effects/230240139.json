@@ -1,0 +1,18 @@
+{
+  "id": "230240139",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "众星拱卫",
+  "description": "每层使造成的伤害提高<color> <b>A</b> </color>，受到的伤害降低<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240139,
+    "MDF": "MMonster_W2_Argenti_IF_EX_EnemyCount_Sub",
+    "Name": "众星拱卫",
+    "Desc": "每层使造成的伤害提高<color> <b>A</b> </color>，受到的伤害降低<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

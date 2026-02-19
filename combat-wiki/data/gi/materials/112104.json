@@ -1,0 +1,11 @@
+{
+  "id": "112104",
+  "game": "gi",
+  "entityType": "material",
+  "name": "UI_ItemIcon_112104",
+  "icon": null,
+  "description": null,
+  "source": {
+    "file": "gi/CH/avatar.js"
+  }
+}

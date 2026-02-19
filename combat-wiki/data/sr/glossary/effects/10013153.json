@@ -1,0 +1,18 @@
+{
+  "id": "10013153",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "绝命对峙",
+  "description": "视为嘲讽状态，只能选择<color>%CasterName</color>为攻击目标。受到<color>%CasterName</color>攻击时受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013153,
+    "MDF": "MAvatar_Boothill_00_DuelTarget",
+    "Name": "绝命对峙",
+    "Desc": "视为嘲讽状态，只能选择<color>%CasterName</color>为攻击目标。受到<color>%CasterName</color>攻击时受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044511",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "向着新的海洋",
+  "description": "万物闪着常新的光华，在空间和时间上面午睡沉沉…<br><color style='color:#8790ab;'>※借助「贼灵」巴特鲁斯归还的灵水盆前往创世涡心</color>",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

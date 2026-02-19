@@ -1,0 +1,15 @@
+{
+  "id": "61000014",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "冒险",
+  "description": "冒险区域，在这个区域中完成各种挑战可以获得奖励。",
+  "content": {
+    "_id": 61000014,
+    "Name": "冒险",
+    "Desc": "冒险区域，在这个区域中完成各种挑战可以获得奖励。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

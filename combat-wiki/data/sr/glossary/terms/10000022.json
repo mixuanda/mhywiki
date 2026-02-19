@@ -1,0 +1,15 @@
+{
+  "id": "10000022",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "持续效果",
+  "description": "包含增益效果、负面效果和其他效果。",
+  "content": {
+    "_id": 10000022,
+    "Name": "持续效果",
+    "Desc": "包含增益效果、负面效果和其他效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "280030201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "熔火",
+  "description": "攻击提高<color> <b>A</b> </color>，可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030201,
+    "MDF": "XP_Elite_Fire_Skill07_AttackUp_Modifier",
+    "Name": "熔火",
+    "Desc": "攻击提高<color> <b>A</b> </color>，可叠加。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61000024",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "事件•异常",
+  "description": "特殊事件区域，在这个区域中会更容易遇到风险较大的事件。",
+  "content": {
+    "_id": 61000024,
+    "Name": "事件•异常",
+    "Desc": "特殊事件区域，在这个区域中会更容易遇到风险较大的事件。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

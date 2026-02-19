@@ -1,0 +1,15 @@
+{
+  "id": "81313",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "漫长的盟约",
+  "description": "尽管命运已各自破碎，盟约依旧在沉眠中存续…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

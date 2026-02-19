@@ -1,0 +1,15 @@
+{
+  "id": "82147",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "草草炸弹，轰轰火花",
+  "description": "达成5次：2秒内，通过烈绽放击败4名敌人。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "36"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

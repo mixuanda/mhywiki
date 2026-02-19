@@ -1,0 +1,15 @@
+{
+  "id": "80175",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "撷草瞻华",
+  "description": "掌握「草」的元素力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "32"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

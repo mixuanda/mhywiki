@@ -1,0 +1,17 @@
+{
+  "id": "10080075",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "史诗",
+  "description": "迷迷在场时，普攻强化为【明天，一同写下！】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080075,
+    "MDF": "MAvatar_PlayerBoy_30_UltraState",
+    "Name": "史诗",
+    "Desc": "迷迷在场时，普攻强化为【明天，一同写下！】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

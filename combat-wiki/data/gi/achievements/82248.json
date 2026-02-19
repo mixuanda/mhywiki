@@ -1,0 +1,15 @@
+{
+  "id": "82248",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「阿特拉托的佑助」",
+  "description": "在完成一次挑战的过程中，使用「格挡」，反击「阿特拉托的佑助」的所有强力攻击并对其造成伤害。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

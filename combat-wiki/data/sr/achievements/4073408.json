@@ -1,0 +1,18 @@
+{
+  "id": "4073408",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "蜜三刀",
+  "description": "单场战斗中，使用云璃触发3.0次「勘破·灭」",
+  "reward": 5,
+  "version": 2.4,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

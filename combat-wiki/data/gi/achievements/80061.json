@@ -1,0 +1,15 @@
+{
+  "id": "80061",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雪山的寻宝者",
+  "description": "在龙脊雪山开启40个宝箱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "16"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

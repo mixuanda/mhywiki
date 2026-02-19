@@ -1,0 +1,15 @@
+{
+  "id": "80455",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "聚所共建 · 霜月之坊",
+  "description": "将「霜月之坊」共建至满级。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

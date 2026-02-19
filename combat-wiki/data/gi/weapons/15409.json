@@ -1,0 +1,22 @@
+{
+  "id": "15409",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "苍翠猎弓",
+  "description": "高洁的青绿猎弓，曾属于在林间狩猎的某人。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 509.605949,
+  "subStatType": "CR",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112013",
+    "112016",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15409.js"
+  }
+}

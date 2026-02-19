@@ -1,0 +1,18 @@
+{
+  "id": "220350123",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "渴血",
+  "description": "已叠加<color> <b>A</b> </color>层【渴血】。当【渴血】层数达到上限时将施放【吞天】并解除<color>%DynamicTargetName</color>的【厉咒】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220350123,
+    "MDF": "MAvatar_AvatarChange_W2_Lycan_00_RageMark",
+    "Name": "渴血",
+    "Desc": "已叠加<color> <b>A</b> </color>层【渴血】。当【渴血】层数达到上限时将施放【吞天】并解除<color>%DynamicTargetName</color>的【厉咒】状态。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

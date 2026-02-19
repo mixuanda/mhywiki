@@ -1,0 +1,18 @@
+{
+  "id": "4073207",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一首歌的时间",
+  "description": "聆听知更鸟的歌声<br><color style='color:#8790ab;'>※战斗中，施放知更鸟的终结技「千音迭奏，群星赋格」后，在战斗实况观看知更鸟10.0秒以上</color>",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

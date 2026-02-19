@@ -1,0 +1,15 @@
+{
+  "id": "82194",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "未兆的封印咒缚",
+  "description": "击败吸收半幻人后正处于强化状态下的水形幻人。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "49"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

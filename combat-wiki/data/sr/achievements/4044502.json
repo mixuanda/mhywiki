@@ -1,0 +1,18 @@
+{
+  "id": "4044502",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我是你的迷宫",
+  "description": "给我滚烫的手，给我心灵的炭盆，给我这最孤寂者冰，呵！七倍的冰<br><color style='color:#8790ab;'>※找到通往斯缇科西亚水下海宫的密道</color>",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

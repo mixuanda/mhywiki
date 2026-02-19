@@ -1,0 +1,18 @@
+{
+  "id": "100141524",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "铭记",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 100141524,
+    "MDF": "MServant_CyreneServant_Passive_Memory",
+    "Name": "铭记",
+    "Desc": {},
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

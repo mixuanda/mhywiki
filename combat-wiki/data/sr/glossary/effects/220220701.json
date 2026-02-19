@@ -1,0 +1,19 @@
+{
+  "id": "220220701",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "怒噪",
+  "description": "无法操控，自动攻击随机敌方目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220220701,
+    "MDF": "MMonster_W2_Xuanlu_01_Crazy",
+    "Name": "怒噪",
+    "Desc": "无法操控，自动攻击随机敌方目标。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

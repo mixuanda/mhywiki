@@ -1,0 +1,18 @@
+{
+  "id": "2403501014",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "错误：主进程受损",
+  "description": "【最终进程：错误日志3】\n\nPoleMos600：异常加载██数据擦除攻击▄▄副本丢失\nEpieiKeia216：异常加载█▀子进程僵死▄█无法终止\nEleOs252：异常加载▀▄栈溢出█▄重置内存不足\n\n警告：运算进程中止，检测到大量损坏",
+  "effectType": "monster",
+  "content": {
+    "_id": 2403501014,
+    "MDF": "MMonster_W4_IronTombPhantom_00_Phase3",
+    "Name": "错误：主进程受损",
+    "Desc": "【最终进程：错误日志3】\n\nPoleMos600：异常加载██数据擦除攻击▄▄副本丢失\nEpieiKeia216：异常加载█▀子进程僵死▄█无法终止\nEleOs252：异常加载▀▄栈溢出█▄重置内存不足\n\n警告：运算进程中止，检测到大量损坏",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

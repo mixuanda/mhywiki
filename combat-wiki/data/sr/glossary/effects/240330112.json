@@ -1,0 +1,18 @@
+{
+  "id": "240330112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害提高",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330112,
+    "MDF": "MMonster_XP_Elite01_02_LocalLegend_DamageAdded",
+    "Name": "伤害提高",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

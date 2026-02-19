@@ -1,0 +1,19 @@
+{
+  "id": "210220102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "甲胄",
+  "description": "受到的伤害降低<color> <b>A</b> </color>，弱点被击破时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210220102,
+    "MDF": "MMonster_WRSoldier_01_UnFeverResistance",
+    "Name": "甲胄",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>，弱点被击破时解除。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

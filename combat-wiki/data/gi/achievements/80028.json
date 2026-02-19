@@ -1,0 +1,15 @@
+{
+  "id": "80028",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "神话秘藏",
+  "description": "获得五星圣遗物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

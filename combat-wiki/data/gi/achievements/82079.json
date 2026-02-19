@@ -1,0 +1,15 @@
+{
+  "id": "82079",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "千风散尽还复来",
+  "description": "在一场战斗中，吸收至少10个无相之风创造的元素晶球。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

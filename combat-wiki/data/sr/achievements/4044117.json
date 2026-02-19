@@ -1,0 +1,18 @@
+{
+  "id": "4044117",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "地下拳击手",
+  "description": "使用扎格列斯之手的冲拳动作，击败藏在「神谕圣地」雅努萨波利斯大桥下方的敌人",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

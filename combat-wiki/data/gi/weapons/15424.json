@@ -1,0 +1,22 @@
+{
+  "id": "15424",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "烈阳之嗣",
+  "description": "赤王国度的古老时代所留下的古代长弓，其上雕刻着不可理解的古老文字与庄严图案。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 564.7837244,
+  "subStatType": "CR",
+  "subStatValue": 0.18376,
+  "materialRefs": [
+    "112061",
+    "112079",
+    "114048"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15424.js"
+  }
+}

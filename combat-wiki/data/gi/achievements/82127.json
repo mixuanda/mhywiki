@@ -1,0 +1,15 @@
+{
+  "id": "82127",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "光之流溢",
+  "description": "在遗迹巨蛇的挑战中，利用一次「纯光绽放」破坏二个「淤泥涌口」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

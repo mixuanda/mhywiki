@@ -1,0 +1,17 @@
+{
+  "id": "230020112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "课堂频道",
+  "description": "「蕉研组」成员能够使用【课堂频道】相关技能。受到攻击后转变为【课间频道】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230020112,
+    "MDF": "MModifier_Monster_W3_TV_02_Side2",
+    "Name": "课堂频道",
+    "Desc": "「蕉研组」成员能够使用【课堂频道】相关技能。受到攻击后转变为【课间频道】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

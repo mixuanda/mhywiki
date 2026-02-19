@@ -1,0 +1,188 @@
+{
+  "id": "6-1b",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "theater",
+  "name": "6.1B",
+  "version": "6.1B",
+  "time": "2025-11-22 - 2025-11-23",
+  "elements": [
+    "Fire",
+    "Ice",
+    "Wind"
+  ],
+  "initialCast": [
+    {
+      "ID": 29,
+      "Icon": "UI_AvatarIcon_Klee"
+    },
+    {
+      "ID": 32,
+      "Icon": "UI_AvatarIcon_Bennett"
+    },
+    {
+      "ID": 107,
+      "Icon": "UI_AvatarIcon_Citlali"
+    },
+    {
+      "ID": 39,
+      "Icon": "UI_AvatarIcon_Diona"
+    },
+    {
+      "ID": 104,
+      "Icon": "UI_AvatarIcon_Chasca"
+    },
+    {
+      "ID": 43,
+      "Icon": "UI_AvatarIcon_Sucrose"
+    }
+  ],
+  "invitationCast": [
+    {
+      "ID": 102,
+      "Icon": "UI_AvatarIcon_Mualani"
+    },
+    {
+      "ID": 38,
+      "Icon": "UI_AvatarIcon_Albedo"
+    },
+    {
+      "ID": 41,
+      "Icon": "UI_AvatarIcon_Mona"
+    },
+    {
+      "ID": 31,
+      "Icon": "UI_AvatarIcon_Fischl"
+    }
+  ],
+  "chambers": [
+    [
+      {
+        "_id": 1,
+        "Level": 85,
+        "Configs": [
+          13,
+          131,
+          9
+        ]
+      },
+      {
+        "_id": 2,
+        "Level": 85,
+        "Configs": [
+          18,
+          224,
+          139
+        ]
+      },
+      {
+        "_id": 3,
+        "Level": 90,
+        "Configs": [
+          68
+        ],
+        "Time": "70s"
+      }
+    ],
+    [
+      {
+        "_id": 4,
+        "Level": 90,
+        "Configs": [
+          96,
+          119,
+          94
+        ]
+      },
+      {
+        "_id": 5,
+        "Level": 90,
+        "Configs": [
+          140,
+          130,
+          122
+        ]
+      },
+      {
+        "_id": 6,
+        "Level": 92,
+        "Configs": [
+          47
+        ],
+        "Time": "80s"
+      }
+    ],
+    [
+      {
+        "_id": 7,
+        "Level": 92,
+        "Configs": [
+          216,
+          181,
+          177
+        ]
+      },
+      {
+        "_id": 8,
+        "Level": 95,
+        "Configs": [
+          93
+        ],
+        "Time": "75s"
+      }
+    ],
+    [
+      {
+        "_id": 9,
+        "Level": 95,
+        "Configs": [
+          138,
+          106,
+          204
+        ]
+      },
+      {
+        "_id": 10,
+        "Level": 100,
+        "Configs": [
+          160
+        ],
+        "Time": "75s"
+      }
+    ],
+    [
+      {
+        "_id": 4,
+        "Level": 100,
+        "Configs": [
+          236
+        ],
+        "Time": "x9"
+      },
+      {
+        "_id": 7,
+        "Level": 100,
+        "Configs": [
+          237
+        ],
+        "Time": "70s"
+      }
+    ]
+  ],
+  "hpProfile": {
+    "Ver": "6.1B",
+    "Time": "2025/12",
+    "HP": [
+      2.9,
+      4.2,
+      4.3,
+      4.3,
+      1.5,
+      4.8
+    ]
+  },
+  "shared": "_shared.json",
+  "source": {
+    "file": "gi/CH/maze.js"
+  }
+}

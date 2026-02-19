@@ -1,0 +1,39 @@
+{
+  "id": "200203104",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "幽府武弁",
+  "description": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
+  "stats": {
+    "HP": 1.5,
+    "ATK": 25.71426,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2002030.png",
+  "figure": "monsterfigure/Monster_2002030.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

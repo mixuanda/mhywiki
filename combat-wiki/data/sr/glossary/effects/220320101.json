@@ -1,0 +1,18 @@
+{
+  "id": "220320101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "月狂",
+  "description": "进入【月狂】状态，速度提高<color> <b>A</b> </color>，在攻击时大概率为目标附加【裂伤】。此状态在自身弱点被击破时将被移除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220320101,
+    "MDF": "MMonster_W2_Lycan_00_RageStatus",
+    "Name": "月狂",
+    "Desc": "进入【月狂】状态，速度提高<color> <b>A</b> </color>，在攻击时大概率为目标附加【裂伤】。此状态在自身弱点被击破时将被移除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

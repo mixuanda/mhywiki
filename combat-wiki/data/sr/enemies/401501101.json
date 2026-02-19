@@ -1,0 +1,39 @@
+{
+  "id": "401501101",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "至高，至阳，天空的化身",
+  "description": "天空之泰坦。融合神。被人征服，与人融合，不再宰制翁法罗斯的昼夜，却仍不改孤绝高傲的本性。<br>在它眼中，破碎世界的凡俗是如此丑陋——比起由光明守护的世界，浑浑噩噩的庸人反而与黑潮更加相配。",
+  "stats": {
+    "HP": 62.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 32.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4015010.png",
+  "figure": "monsterfigure/Monster_4015010.png",
+  "camp": {
+    "id": "12",
+    "name": "泰坦眷属"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

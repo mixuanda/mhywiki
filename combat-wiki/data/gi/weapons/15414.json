@@ -1,0 +1,32 @@
+{
+  "id": "15414",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "破魔之弓",
+  "description": "曾经属于某个巫女的战弓。以优越的技法打造，精巧而耐用。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ATK",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112013",
+    "112052",
+    "114032"
+  ],
+  "affix": {
+    "115414": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，重击造成的伤害提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> 。当装备该武器的角色元素能量等于100%时，这个效果提升100%。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15414.js"
+  }
+}

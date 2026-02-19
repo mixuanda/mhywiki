@@ -1,0 +1,16 @@
+{
+  "id": "unknown",
+  "game": "gi",
+  "entityType": "formula",
+  "language": "CH",
+  "title": "防御力 抗性",
+  "subtitle": null,
+  "content": [
+    "通用抗性公式：$$抗性系数=\\left|\\;\\;\\begin{aligned} &1-\\frac{抗性}{2}&抗性\\leqslant 0\\\\ &1-抗性&0\\leqslant抗性\\leqslant 75\\%\\\\ &\\frac{1}{4\\times抗性+1}&75\\%\\leqslant抗性\\end{aligned}\\right.$$",
+    "角色攻击敌人时的防御系数：$$防御系数=\\frac{角色等级 + 100}{(角色等级 + 100) + (敌人等级 + 100) \\times (1 - 减防) \\times (1 - 无视防御)}$$（来自角色的减防不能超过 @90%# ，无视防御不能超过 @100%# ）",
+    "敌人攻击角色时的防御系数：$$防御系数=\\frac{5 \\times 敌人等级 + 500}{5 \\times 敌人等级 + 500 + 角色防御}$$"
+  ],
+  "source": {
+    "file": "javascripts/formulae_gi.js"
+  }
+}

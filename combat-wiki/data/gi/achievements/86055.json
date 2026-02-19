@@ -1,0 +1,15 @@
+{
+  "id": "86055",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "拳力以赴！",
+  "description": "与其他玩家一同战胜重拳出击鸭。",
+  "reward": 10,
+  "version": "6.0",
+  "group": {
+    "id": "64"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

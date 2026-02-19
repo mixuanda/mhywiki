@@ -1,0 +1,18 @@
+{
+  "id": "4054614",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "红土小当家",
+  "description": "在「天气真好，养它！」中，从来没有让小大地兽抱怨过饭菜口味",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80164",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大梦的锚点",
+  "description": "将桓那兰那的梦之树等级提升至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "31"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "15511",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "猎人之径",
+  "description": "以珍贵的白枝制成的饰金猎弓，曾经射落无数侵入森林的恶兽。",
+  "rarity": 5,
+  "weaponType": 5,
+  "baseAtk": 541.829758,
+  "subStatType": "CR",
+  "subStatValue": 0.441024,
+  "materialRefs": [
+    "112064",
+    "112067",
+    "114048"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15511.js"
+  }
+}

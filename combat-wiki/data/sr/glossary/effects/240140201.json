@@ -1,0 +1,17 @@
+{
+  "id": "240140201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "受征服",
+  "description": "可回复的生命上限降低<color> <b>A</b> </color>，通过攻击自身对应的【征服或被征服】，取回受到考验的魂灵。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140201,
+    "MDF": "Monster_W4_HearsePart_00_BlackBlood",
+    "Name": "受征服",
+    "Desc": "可回复的生命上限降低<color> <b>A</b> </color>，通过攻击自身对应的【征服或被征服】，取回受到考验的魂灵。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "210040253",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "愈挫愈勇",
+  "description": "陷入无法战斗状态，等待恢复。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040253,
+    "MDF": "MMonster_IF_LimboMark",
+    "Name": "愈挫愈勇",
+    "Desc": "陷入无法战斗状态，等待恢复。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

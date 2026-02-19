@@ -1,0 +1,57 @@
+{
+  "id": "12431",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "撼地者",
+  "description": "人称「窃火者」的英杰爱用的重剑，据说就连烬城之王的烈火也未能将其焚断。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112106",
+    "112112",
+    "114064"
+  ],
+  "affix": {
+    "112431": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "队伍中的角色触发火元素相关反应时，装备者元素战技造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "队伍中的角色触发火元素相关反应时，装备者元素战技造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "队伍中的角色触发火元素相关反应时，装备者元素战技造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12431.js"
+  }
+}

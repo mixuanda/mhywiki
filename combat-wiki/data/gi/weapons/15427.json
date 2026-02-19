@@ -1,0 +1,22 @@
+{
+  "id": "15427",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "测距规",
+  "description": "如今几乎绝迹的测量工具，具有发射箭矢的能力。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112082",
+    "112088",
+    "114052"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15427.js"
+  }
+}

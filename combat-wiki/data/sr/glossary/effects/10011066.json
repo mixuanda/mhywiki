@@ -1,0 +1,19 @@
+{
+  "id": "10011066",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "冰属性抗性降低",
+  "description": "冰属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011066,
+    "MDF": "MAvatar_Pela_SkillRank04_IceResistanceDown",
+    "Name": "冰属性抗性降低",
+    "Desc": "冰属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

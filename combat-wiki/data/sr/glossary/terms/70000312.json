@@ -1,0 +1,15 @@
+{
+  "id": "70000312",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "翻倍召唤物",
+  "description": "出现后一定时间后会离开战斗，消灭该召唤物可将我方角色的【点数】翻倍。",
+  "content": {
+    "_id": 70000312,
+    "Name": "翻倍召唤物",
+    "Desc": "出现后一定时间后会离开战斗，消灭该召唤物可将我方角色的【点数】翻倍。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

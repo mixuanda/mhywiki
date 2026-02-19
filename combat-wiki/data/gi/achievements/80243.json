@@ -1,0 +1,15 @@
+{
+  "id": "80243",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "荒场的寻宝者",
+  "description": "在荒石苍漠、浮罗囿开启<color style='color:#FF0000;'><b>40</b></color>个宝箱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "41"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

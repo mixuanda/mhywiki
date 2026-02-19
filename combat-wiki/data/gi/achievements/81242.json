@@ -1,0 +1,15 @@
+{
+  "id": "81242",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…请悄悄将我忘记",
+  "description": "完成「吉祥具书」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

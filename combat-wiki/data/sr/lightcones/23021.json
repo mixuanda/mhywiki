@@ -1,0 +1,23 @@
+{
+  "id": "23021",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "游戏尘寰",
+  "rarity": 5,
+  "path": "Harmony",
+  "skillId": 23021,
+  "baseStats": {
+    "HP": 1164.24,
+    "ATK": 529.2,
+    "DEF": 463.05
+  },
+  "materialRefs": [
+    "110233",
+    "114013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/23021.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "230130101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "无明火",
+  "description": "每层使【痛恶如刺剔骨】额外造成1次伤害，最多叠加5层。弱点被击破时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230130101,
+    "MDF": "MMonster_W3_Dinosaur_01_Common_Growth",
+    "Name": "无明火",
+    "Desc": "每层使【痛恶如刺剔骨】额外造成1次伤害，最多叠加5层。弱点被击破时解除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

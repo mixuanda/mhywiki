@@ -1,0 +1,18 @@
+{
+  "id": "4092911",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "太平州还是那个太平州",
+  "description": "在「模拟宇宙：黄金与机械」中，在「作弊代码（其二）」事件触发的战斗中失败",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

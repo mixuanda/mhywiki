@@ -1,0 +1,19 @@
+{
+  "id": "10013105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "绽放在终竟的明天",
+  "description": "火属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013105,
+    "MDF": "MAvatar_Sam_00_Rank06_UltraDamageTypeAddRatio",
+    "Name": "绽放在终竟的明天",
+    "Desc": "火属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

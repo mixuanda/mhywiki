@@ -1,0 +1,15 @@
+{
+  "id": "84082",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "Eremitis ne credite",
+  "description": "协同赛诺将拉赫曼一行带入须弥。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

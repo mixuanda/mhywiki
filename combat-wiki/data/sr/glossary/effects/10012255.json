@@ -1,0 +1,17 @@
+{
+  "id": "10012255",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "云火昭",
+  "description": "在初始韧性被削减至0时可被继续削减【云火昭】，【云火昭】被削减至0时会再次受到弱点击破伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012255,
+    "MDF": "MAvatar_Fugue_00_RedStance",
+    "Name": "云火昭",
+    "Desc": "在初始韧性被削减至0时可被继续削减【云火昭】，【云火昭】被削减至0时会再次受到弱点击破伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

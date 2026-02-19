@@ -1,0 +1,17 @@
+{
+  "id": "240140363",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "死亡的芬芳",
+  "description": "提高<color> <b>A</b> </color>速度，【枯茎朽骨的引路人】或【哀悯长臂】受到攻击时可削减【濒死梦泡】并回复我方生命值，【濒死梦泡】完全耗尽时解除【死亡的芬芳】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140363,
+    "MDF": "MMonster_W4_Pollux_00_IF_Strengthen",
+    "Name": "死亡的芬芳",
+    "Desc": "提高<color> <b>A</b> </color>速度，【枯茎朽骨的引路人】或【哀悯长臂】受到攻击时可削减【濒死梦泡】并回复我方生命值，【濒死梦泡】完全耗尽时解除【死亡的芬芳】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

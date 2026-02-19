@@ -1,0 +1,15 @@
+{
+  "id": "82149",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "超绽放马戏",
+  "description": "达成1次：2秒内，通过超绽放击败4名敌人。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "36"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

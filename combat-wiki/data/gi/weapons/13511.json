@@ -1,0 +1,22 @@
+{
+  "id": "13511",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "赤沙之杖",
+  "description": "黑曜石塑造的一对的权杖中的一件。在传说中，具有引领沙之民的权威，但如今已经没有能辨别出这件王器形象的臣子了。",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 541.829758,
+  "subStatType": "CR",
+  "subStatValue": 0.441024,
+  "materialRefs": [
+    "112061",
+    "112070",
+    "114044"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13511.js"
+  }
+}

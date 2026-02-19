@@ -1,0 +1,16 @@
+{
+  "id": "109",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "激奏雷电的乐队",
+  "icon": "71008.png",
+  "setBonuses": [
+    "雷属性伤害提高 <b>10%</b> 。",
+    "当装备者施放战技时，使装备者的攻击力提高 <b>20%</b> ，持续 <b>1</b> 回合。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/109.js"
+  }
+}

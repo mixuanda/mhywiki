@@ -1,0 +1,18 @@
+{
+  "id": "4043036",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "《吃豆人》",
+  "description": "击碎克劳克影视乐园迷宫花园中的所有可破坏物",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

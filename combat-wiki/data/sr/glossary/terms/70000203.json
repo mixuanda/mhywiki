@@ -1,0 +1,15 @@
+{
+  "id": "70000203",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "风怒",
+  "description": "角色持有【风怒】时，回合结束时消耗1层【风怒】，行动立即提前100%。",
+  "content": {
+    "_id": 70000203,
+    "Name": "风怒",
+    "Desc": "角色持有【风怒】时，回合结束时消耗1层【风怒】，行动立即提前100%。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

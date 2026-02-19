@@ -1,0 +1,23 @@
+{
+  "id": "13961",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13961",
+  "tags": [],
+  "content": {
+    "_id": 13961,
+    "N": "退换单位",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_MonsterChess2_Prepare_02",
+        "D": "可以通过执行退换单位操作，退回暂时派不上用场的单位，换取机会抽选新的单位。<br>每退换一个1/2/3阶交战单位，分别可以获得1/2/4点增援点数，<color style='color:#FFCC33'>消耗3点增援点数，可以获得1次抽选新单位的机会#。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

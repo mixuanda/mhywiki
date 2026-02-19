@@ -1,0 +1,15 @@
+{
+  "id": "82114",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "红莲冰河与红莲魔女",
+  "description": "在不破坏任何「炎之心」与「霜之眼」的情况下，击败「女士」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

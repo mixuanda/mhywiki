@@ -1,0 +1,15 @@
+{
+  "id": "81351",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "未来水世界",
+  "description": "见到「水面」之下的「水体」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

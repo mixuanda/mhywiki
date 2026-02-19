@@ -1,0 +1,15 @@
+{
+  "id": "82012",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…不代表最终品质」",
+  "description": "击败一个进行了四种元素转变的无相之风。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

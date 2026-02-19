@@ -1,0 +1,18 @@
+{
+  "id": "100141537",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「大地」之诗",
+  "description": "使【同袍】造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141537,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_DanHengPT",
+    "Name": "献予「大地」之诗",
+    "Desc": "使【同袍】造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

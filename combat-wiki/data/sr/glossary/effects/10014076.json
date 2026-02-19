@@ -1,0 +1,18 @@
+{
+  "id": "10014076",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "拥悲怜哀歌安眠",
+  "description": "受到治疗时的回复量提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014076,
+    "MDF": "MAvatar_Castorice_00_Rank04_HealTakenRatio",
+    "Name": "拥悲怜哀歌安眠",
+    "Desc": "受到治疗时的回复量提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

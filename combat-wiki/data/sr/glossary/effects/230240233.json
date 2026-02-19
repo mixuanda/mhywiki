@@ -1,0 +1,19 @@
+{
+  "id": "230240233",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "焚身",
+  "description": "可回复的生命上限降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240233,
+    "MDF": "MMonster_W3_Sam_00_RLBoss_BlackBlood",
+    "Name": "焚身",
+    "Desc": "可回复的生命上限降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

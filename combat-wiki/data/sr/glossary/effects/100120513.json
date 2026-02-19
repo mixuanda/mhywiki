@@ -1,0 +1,18 @@
+{
+  "id": "100120513",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "百骸回春",
+  "description": "生命上限提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100120513,
+    "MDF": "MAvatar_Advanced_Ren_Rank04",
+    "Name": "百骸回春",
+    "Desc": "生命上限提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1001042",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "熔岩辉龙像 · 常形",
+  "description": "能够自身持续产生热量，以维持活动状态的魔物。<br>无法从纯粹的能量中诞生智慧，无知无觉，而徒具伟大种族形廓的失败品。<br>这一失败品的侥幸在于其无知与麻木，仅仅顺从本能去厮杀…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_LavaTitan",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

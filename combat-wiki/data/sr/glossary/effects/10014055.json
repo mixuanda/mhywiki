@@ -1,0 +1,19 @@
+{
+  "id": "10014055",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "月掩星夜的魔术师",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014055,
+    "MDF": "MAvatar_Anaxa_00_Rank01_Property",
+    "Name": "月掩星夜的魔术师",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

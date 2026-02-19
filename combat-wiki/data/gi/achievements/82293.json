@@ -1,0 +1,15 @@
+{
+  "id": "82293",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「图普的繁茂」",
+  "description": "在完成一次挑战的过程中，从未使「图普的繁茂」生成的雷元素护罩达到护罩最大值的一半及以上。",
+  "reward": 20,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

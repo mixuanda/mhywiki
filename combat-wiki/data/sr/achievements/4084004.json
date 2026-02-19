@@ -1,0 +1,18 @@
+{
+  "id": "4084004",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "美丽的淑女",
+  "description": "桥塌啦？还好你不在桥上——在桥下？<br><color style='color:#8790ab;'>※在翁法罗斯探索过程中，被不稳定的桥砸中</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

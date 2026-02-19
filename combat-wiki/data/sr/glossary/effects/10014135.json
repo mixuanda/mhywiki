@@ -1,0 +1,17 @@
+{
+  "id": "10014135",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "至暗之谜",
+  "description": "忆灵「长夜」施放【迷梦，流失，如露】后消耗1点充能。长夜月回合开始时，若无剩余充能则退出【至暗之谜】状态。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014135,
+    "MDF": "MAvatar_Evernight_00_UltraMode_Energy",
+    "Name": "至暗之谜",
+    "Desc": "忆灵「长夜」施放【迷梦，流失，如露】后消耗1点充能。长夜月回合开始时，若无剩余充能则退出【至暗之谜】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

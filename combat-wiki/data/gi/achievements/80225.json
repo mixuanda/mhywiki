@@ -1,0 +1,15 @@
+{
+  "id": "80225",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "越过沙暴与蜃气楼 · 其二",
+  "description": "解锁须弥区域中，千壑沙地所有传送锚点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "38"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82137",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "龙兽射落之日",
+  "description": "一次挑战中，通过攻击双翼上的核心，使兆载永劫龙兽坠落。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "34"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

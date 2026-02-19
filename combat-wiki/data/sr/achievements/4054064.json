@@ -1,0 +1,18 @@
+{
+  "id": "4054064",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "书中自有……",
+  "description": "好粉的书中精灵！<br><color style='color:#8790ab;'>※发现书中的精灵</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80314",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "永恒的颂福纳",
+  "description": "点亮枫丹区域中，旧日之海的地图。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

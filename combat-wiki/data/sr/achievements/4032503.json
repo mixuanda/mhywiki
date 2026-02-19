@@ -1,0 +1,18 @@
+{
+  "id": "4032503",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "若木折枝",
+  "description": "一切阴谋诡计必将覆灭<br><color style='color:#8790ab;'>※帮助景元击败幻胧</color>",
+  "reward": 20,
+  "version": 1.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

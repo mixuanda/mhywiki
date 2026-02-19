@@ -1,0 +1,19 @@
+{
+  "id": "280120301",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "起爆",
+  "description": "被<color>虚卒•抹消者</color>附上起爆物，遭到攻击后额外受到1次附加伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280120301,
+    "MDF": "MMonster_AML_Minion04_00_Mark",
+    "Name": "起爆",
+    "Desc": "被<color>虚卒•抹消者</color>附上起爆物，遭到攻击后额外受到1次附加伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

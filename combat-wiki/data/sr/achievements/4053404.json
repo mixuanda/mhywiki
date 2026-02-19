@@ -1,0 +1,18 @@
+{
+  "id": "4053404",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "奥卡姆剃刀没有出鞘",
+  "description": "在「初花习剑录」中，收集完所有的结局",
+  "reward": 10,
+  "version": 2.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

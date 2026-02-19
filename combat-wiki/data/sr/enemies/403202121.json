@@ -1,0 +1,39 @@
+{
+  "id": "403202121",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "残破容器",
+  "description": "盗火行者以灾难之力创造的分身，皆是寄宿着破坏意志的祸端。",
+  "stats": {
+    "HP": 2.0,
+    "ATK": 9.0,
+    "DEF": 1.0,
+    "SPD": 0.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.4,
+    "Wind": 0.4,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4032020.png",
+  "figure": "monsterfigure/Monster_4032020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

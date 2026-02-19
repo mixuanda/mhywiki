@@ -1,0 +1,15 @@
+{
+  "id": "81318",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "就在这里敲吧",
+  "description": "回收全部五个「俱利般地」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "21102",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "碎石隙境原体",
+  "description": "主要出现在厄里那斯的奇异生命体。\n在遇到荒性或芒性能量似乎会受到很强的刺激，因此尽管并不具有很强的攻击性与侵略性，这种手段似乎能够有效驱除隙境原体。",
+  "stats": {},
+  "resistance": {
+    "Rock": 0.3
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Ovacua_Order_02"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 隙境原体"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

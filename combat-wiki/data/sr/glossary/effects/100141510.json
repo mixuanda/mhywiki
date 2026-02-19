@@ -1,0 +1,19 @@
+{
+  "id": "100141510",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「浪漫」之诗",
+  "description": "阿格莱雅与衣匠造成的伤害提高<color> <b>A</b> </color>并无视目标<color> <b>B</b> </color>的防御。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141510,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Aglaea",
+    "Name": "献予「浪漫」之诗",
+    "Desc": "阿格莱雅与衣匠造成的伤害提高<color> <b>A</b> </color>并无视目标<color> <b>B</b> </color>的防御。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

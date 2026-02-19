@@ -1,0 +1,17 @@
+{
+  "id": "230240304",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "天敌",
+  "description": "击破特攻提高<color> <b>A</b> </color>，攻击处于【速效进化】状态的敌方目标时，无视【速效进化】的无法造成暴击效果。【幼蛰虫】将优先攻击处于【天敌】状态的我方角色。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240304,
+    "MDF": "MMonster_W3_Sam_01_Skill04Target",
+    "Name": "天敌",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>，攻击处于【速效进化】状态的敌方目标时，无视【速效进化】的无法造成暴击效果。【幼蛰虫】将优先攻击处于【天敌】状态的我方角色。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

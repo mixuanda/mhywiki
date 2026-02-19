@@ -1,0 +1,18 @@
+{
+  "id": "4073303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "致命契约",
+  "description": "单场战斗中，当友方持有翡翠战技【收债人】效果时，将当前生命值消耗至1.0",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

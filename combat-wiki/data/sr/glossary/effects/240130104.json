@@ -1,0 +1,17 @@
+{
+  "id": "240130104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "纷争袭来",
+  "description": "分摊天谴先锋【在滔滔血海中沉溺】的攻击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240130104,
+    "MDF": "MModifier_Monster_W4_Claymore_00_Skill03_Target_UI",
+    "Name": "纷争袭来",
+    "Desc": "分摊天谴先锋【在滔滔血海中沉溺】的攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240230101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "艾格勒印记",
+  "description": "当目标再获得<color>【艾格勒印记】</color>时，会解除所有印记，受到火属性伤害并减少能量。当目标再获得<color>【欧洛尼斯印记】</color>时，会解除所有印记，受到基于自身生命上限<color> <b>A</b> </color>的真实伤害，减少能量并大概率陷入纠缠状态。我方任意目标在消灭敌方目标后，可解除此印记，优先解除造成致命伤害的目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240230101,
+    "MDF": "MMonster_W4_Griffin_00_Debuff_Mark",
+    "Name": "艾格勒印记",
+    "Desc": "当目标再获得<color>【艾格勒印记】</color>时，会解除所有印记，受到火属性伤害并减少能量。当目标再获得<color>【欧洛尼斯印记】</color>时，会解除所有印记，受到基于自身生命上限<color> <b>A</b> </color>的真实伤害，减少能量并大概率陷入纠缠状态。我方任意目标在消灭敌方目标后，可解除此印记，优先解除造成致命伤害的目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

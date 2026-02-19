@@ -1,0 +1,39 @@
+{
+  "id": "2022010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "魔阴身士卒",
+  "description": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
+  "stats": {
+    "HP": 1.2,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.4,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2022010.png",
+  "figure": "monsterfigure/Monster_2022010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

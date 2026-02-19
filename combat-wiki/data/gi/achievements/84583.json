@@ -1,0 +1,15 @@
+{
+  "id": "84583",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "更高，更快，更强！",
+  "description": "为阿蕾梅做出完美的锻炼示范。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

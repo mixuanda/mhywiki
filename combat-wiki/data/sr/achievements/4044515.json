@@ -1,0 +1,18 @@
+{
+  "id": "4044515",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "古董局中局",
+  "description": "在时间的最深处找回一只失窃的水盆",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

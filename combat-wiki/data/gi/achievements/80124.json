@@ -1,0 +1,15 @@
+{
+  "id": "80124",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "迷失的冒险家",
+  "description": "在鹤观完成8个大世界机关限时挑战。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "27"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

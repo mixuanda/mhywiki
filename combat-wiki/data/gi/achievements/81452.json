@@ -1,0 +1,15 @@
+{
+  "id": "81452",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "五剑归王山",
+  "description": "找到全部五把「古华遗剑」。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

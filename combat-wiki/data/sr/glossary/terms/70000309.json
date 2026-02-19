@@ -1,0 +1,15 @@
+{
+  "id": "70000309",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "属性附魔",
+  "description": "处于【属性附魔】状态的我方目标可以对特定目标造成削韧",
+  "content": {
+    "_id": 70000309,
+    "Name": "属性附魔",
+    "Desc": "处于【属性附魔】状态的我方目标可以对特定目标造成削韧"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

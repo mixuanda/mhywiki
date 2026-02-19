@@ -1,0 +1,15 @@
+{
+  "id": "80046",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 璃月",
+  "description": "解除璃月所有地灵龛的封印。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "5"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

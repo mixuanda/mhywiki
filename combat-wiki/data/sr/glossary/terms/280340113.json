@@ -1,0 +1,15 @@
+{
+  "id": "280340113",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "芬戈的诅咒",
+  "description": "每层使受到的伤害提高。",
+  "content": {
+    "_id": 280340113,
+    "Name": "芬戈的诅咒",
+    "Desc": "每层使受到的伤害提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

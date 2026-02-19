@@ -1,0 +1,18 @@
+{
+  "id": "4044208",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "塔耳塔罗斯之上",
+  "description": "借助欧洛尼斯的奇迹，进入到冥河更深处",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

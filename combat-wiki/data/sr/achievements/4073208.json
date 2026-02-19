@@ -1,0 +1,18 @@
+{
+  "id": "4073208",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "哈梅尔的吹笛手",
+  "description": "探索中使用知更鸟秘技「酣醉序曲」后，吸引6.0个以上的敌方跟随",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

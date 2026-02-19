@@ -1,0 +1,25 @@
+{
+  "id": "40658",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "攻坚特化型机关 · 芒",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 大机关 · 芒"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

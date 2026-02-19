@@ -1,0 +1,15 @@
+{
+  "id": "80074",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 雷光所照之土 · 其一",
+  "description": "点亮稻妻区域中，鸣神岛、神无冢与八酝岛的地图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

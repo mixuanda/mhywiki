@@ -1,0 +1,19 @@
+{
+  "id": "10013034",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "拭琴抚罗袂",
+  "description": "攻击力提高。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013034,
+    "MDF": "MAvatar_RuanMei_00_MazeSkill_AttackRatioUp",
+    "Name": "拭琴抚罗袂",
+    "Desc": "攻击力提高。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

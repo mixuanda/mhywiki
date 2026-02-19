@@ -1,0 +1,15 @@
+{
+  "id": "80007",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "人铸赋形",
+  "description": "锻造一把四星武器。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "2"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

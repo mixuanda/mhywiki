@@ -1,0 +1,15 @@
+{
+  "id": "80155",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "岩渊的冒险家",
+  "description": "在层岩巨渊完成6个大世界限时机关挑战。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "30"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81409",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "平俗宇宙的不灭帝皇",
+  "description": "击败纳齐森科鲁兹。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

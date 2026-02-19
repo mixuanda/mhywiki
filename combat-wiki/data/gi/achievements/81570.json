@@ -1,0 +1,15 @@
+{
+  "id": "81570",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "孤独的坚守",
+  "description": "成功帮助秘源龙仆从被废弃的试验场中脱困。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82044",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "深邃的探究者",
+  "description": "深境螺旋：通过4层。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "9"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

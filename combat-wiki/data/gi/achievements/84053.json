@@ -1,0 +1,15 @@
+{
+  "id": "84053",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「诸事平安」",
+  "description": "与王平安一起重修铜雀的庙宇。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

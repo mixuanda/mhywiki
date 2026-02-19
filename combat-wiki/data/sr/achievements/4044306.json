@@ -1,0 +1,18 @@
+{
+  "id": "4044306",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "将黄金织作方舟",
+  "description": "集齐全部16.0块颂言石块后，与原型衣匠交流",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

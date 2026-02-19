@@ -1,0 +1,15 @@
+{
+  "id": "82111",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "海洋生物学者，欧拉！",
+  "description": "被无相之水幻化的某种生物击中…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

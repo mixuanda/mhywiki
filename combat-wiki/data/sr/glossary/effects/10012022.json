@@ -1,0 +1,19 @@
+{
+  "id": "10012022",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "庆云光覆仪祷",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012022,
+    "MDF": "MAvatar_TingYun_00_Skill03DamageUp",
+    "Name": "庆云光覆仪祷",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

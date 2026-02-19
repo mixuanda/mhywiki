@@ -1,0 +1,18 @@
+{
+  "id": "4053612",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天佑折纸大学！",
+  "description": "旁听两位热心学生的对话",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

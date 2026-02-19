@@ -1,0 +1,18 @@
+{
+  "id": "4034305",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一切终点的起点",
+  "description": "世上从无两全其美<br><color style='color:#8790ab;'>※完成逐火之旅</color>",
+  "reward": 10,
+  "version": 3.3,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

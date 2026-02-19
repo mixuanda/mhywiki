@@ -1,0 +1,21 @@
+{
+  "id": "1004052",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的执灯人 · 烈悲",
+  "description": "昔日对抗漆黑灾厄的英勇战士，即使生命之光已然消逝，其不屈的意志仍未消散，永誓猎杀狂猎之人时至今日仍继续着他的无尽战斗。受到混乱的地脉奔流影响，他尚存的斗志与武器的指向，全都聚焦在了陌生的来访者之上…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_WildHuntMaleSigurd",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

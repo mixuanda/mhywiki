@@ -1,0 +1,19 @@
+{
+  "id": "280340111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "芬戈的礼物",
+  "description": "每层使造成的伤害提高<color> <b>A</b> </color>，总计<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340111,
+    "MDF": "Monster_W3_Aventurine_00_DamageUp_RL",
+    "Name": "芬戈的礼物",
+    "Desc": "每层使造成的伤害提高<color> <b>A</b> </color>，总计<color> <b>B</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

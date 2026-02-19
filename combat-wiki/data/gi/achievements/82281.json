@@ -1,0 +1,15 @@
+{
+  "id": "82281",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「尖峰」",
+  "description": "在完成一次挑战的过程中，从未让尖峰成功释放过熔岩践踏。",
+  "reward": 20,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

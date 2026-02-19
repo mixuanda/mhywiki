@@ -1,0 +1,19 @@
+{
+  "id": "280030203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "焚烧",
+  "description": "一定回合内，每回合开始时受到火属性伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030203,
+    "MDF": "MMonster_XP_Elite01_00_Burn",
+    "Name": "焚烧",
+    "Desc": "一定回合内，每回合开始时受到火属性伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

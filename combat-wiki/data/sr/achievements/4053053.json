@@ -1,0 +1,18 @@
+{
+  "id": "4053053",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "奥帝经济学",
+  "description": "人人都发钱，等于没发钱<br><color style='color:#8790ab;'>※反复触发街头的喷钞机</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81450",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "锦落云开",
+  "description": "与灵渊一同进入尘封已久的锦落庭。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

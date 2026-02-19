@@ -1,0 +1,17 @@
+{
+  "id": "210130123",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "火力修复",
+  "description": "处于停止行动状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210130123,
+    "MDF": "Monster_W1_Mecha03_00_RL_Enhance_Dormancy",
+    "Name": "火力修复",
+    "Desc": "处于停止行动状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

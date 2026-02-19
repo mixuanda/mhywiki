@@ -1,0 +1,22 @@
+{
+  "id": "13504",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "贯虹之槊",
+  "description": "或许能贯穿一切的锋利长枪。挥舞当中，仿佛能见到空气被枪尖划破的裂痕。",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 608.0745972,
+  "subStatType": "ATK",
+  "subStatValue": 0.49615200000000004,
+  "materialRefs": [
+    "112037",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13504.js"
+  }
+}

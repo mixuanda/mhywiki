@@ -1,0 +1,18 @@
+{
+  "id": "4033005",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "老朋友，新朋友",
+  "description": "在记忆的深海中感受温暖…<br><color style='color:#8790ab;'>※与星核猎手萨姆交战</color>",
+  "reward": 10,
+  "version": 2.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

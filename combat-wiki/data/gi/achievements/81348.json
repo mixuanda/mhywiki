@@ -1,0 +1,15 @@
+{
+  "id": "81348",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "欢迎来到枫丹",
+  "description": "完成一次巡轨船的航行。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

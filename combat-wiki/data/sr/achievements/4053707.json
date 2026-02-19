@@ -1,0 +1,18 @@
+{
+  "id": "4053707",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "小糕当家",
+  "description": "在自己的房间中偶遇「垃圾糕」",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

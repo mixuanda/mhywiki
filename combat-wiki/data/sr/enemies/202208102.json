@@ -1,0 +1,39 @@
+{
+  "id": "202208102",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "缃叶之杪",
+  "description": "随玄鹿足迹而生的建木枝梢。",
+  "stats": {
+    "HP": 1.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Fire",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_2022080.png",
+  "figure": "monsterfigure/Monster_2022080.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

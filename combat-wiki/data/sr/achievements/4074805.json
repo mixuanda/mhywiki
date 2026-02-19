@@ -1,0 +1,18 @@
+{
+  "id": "4074805",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "擒虫先擒蝗",
+  "description": "在与「示死祸源：深魇蝗灾」的战斗中，在尚未消灭所有「幼蛰虫」时击破「示死祸源：深魇蝗灾」，且在未退出【基因复制】状态时恢复韧性",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

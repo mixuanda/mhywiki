@@ -1,0 +1,18 @@
+{
+  "id": "4053312",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "极品飞车",
+  "description": "在{TEXTJOIN#87}的专属车位停放车辆",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "id": "3007",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "apocalypticshadow",
+  "name": "猢狲博弈",
+  "content": {
+    "_id": 3007,
+    "Name": "猢狲博弈",
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Elec",
+          "Wind"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 772277,
+        "Upper": [
+          {
+            "_id": 420221,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 693,
+              "HP": 0.3
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 803401201,
+                  "HP": 128713,
+                  "HPCount": 2,
+                  "SPD": 120,
+                  "Stance": 17
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420231,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 701,
+              "ATK": 0.9,
+              "HP": 0.25
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402101,
+                  "HP": 257426,
+                  "HPCount": 2,
+                  "SPD": 50,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Elec",
+          "Wind"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 2782649,
+        "Upper": [
+          {
+            "_id": 420222,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 694,
+              "ATK": 1.05,
+              "HP": 0.6
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 803401202,
+                  "HP": 463775,
+                  "HPCount": 2,
+                  "SPD": 132,
+                  "Stance": 17
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420232,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 702,
+              "HP": 0.5
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402102,
+                  "HP": 927550,
+                  "HPCount": 2,
+                  "SPD": 55,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Elec",
+          "Wind"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 7804769,
+        "Upper": [
+          {
+            "_id": 420223,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 695,
+              "ATK": 1.05,
+              "HP": 1.08
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 803401203,
+                  "HP": 1300795,
+                  "HPCount": 2,
+                  "SPD": 144,
+                  "Stance": 17
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420233,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 703,
+              "HP": 0.9
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402103,
+                  "HP": 2601590,
+                  "HPCount": 2,
+                  "SPD": 60,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Elec",
+          "Wind"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 16091338,
+        "Upper": [
+          {
+            "_id": 420224,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 696,
+              "ATK": 1.08,
+              "HP": 1.3
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 803401204,
+                  "HP": 2502242,
+                  "HPCount": 2,
+                  "SPD": 158,
+                  "Stance": 19
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420234,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 82,
+              "HP": 1.2
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402104,
+                  "HP": 5543428,
+                  "HPCount": 2,
+                  "SPD": 76,
+                  "Stance": 16
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "Buff": {
+      "_id": 3110007,
+      "Name": "末法余烬",
+      "Desc": "拥有<color style='color:#f29e38;'>【坚防守备】</color>的敌方单位被<color style='color:#f29e38;'>弱点击破</color>时，使我方全体解除控制状态、恢复战技点并回复生命值。<br>敌方全体受到的普攻伤害提高<color style='color:#f29e38;'> 15% </color>，战技伤害提高<color style='color:#f29e38;'> 25% </color>。"
+    },
+    "UB": [
+      {
+        "_id": 3111041,
+        "Name": "博弈战场",
+        "Desc": "我方全体普攻造成的伤害提高<color style='color:#f29e38;'> 50% </color>。消灭敌方目标后，攻击者行动提前<color style='color:#f29e38;'> 10% </color>。"
+      },
+      {
+        "_id": 3111042,
+        "Name": "孤注一掷",
+        "Desc": "我方全体速度提高<color style='color:#f29e38;'> 15% </color>，受到的伤害降低<color style='color:#f29e38;'> 15% </color>。"
+      },
+      {
+        "_id": 3111043,
+        "Name": "时来运转",
+        "Desc": "角色造成的追加攻击伤害无视敌方目标<color style='color:#f29e38;'> 15% </color>的全属性抗性，同时对非弱点目标也能削减韧性，效果等同于原技能削韧值的<color style='color:#f29e38;'> 50% </color>。"
+      }
+    ],
+    "LB": [
+      {
+        "_id": 3111044,
+        "Name": "言传身蕉",
+        "Desc": "对我方单体目标施放战技或终结技时，使技能目标的暴击伤害提高<color style='color:#f29e38;'> 35% </color>，持续<color style='color:#f29e38;'> 2 </color>回合，该效果最多叠加<color style='color:#f29e38;'> 2 </color>次。"
+      },
+      {
+        "_id": 3111045,
+        "Name": "有蕉无类",
+        "Desc": "敌方全体受到的击破伤害提高<color style='color:#f29e38;'> 10% </color>。击破敌方弱点后，我方全体速度提高<color style='color:#f29e38;'> 20% </color>，持续<color style='color:#f29e38;'> 2 </color>回合。"
+      },
+      {
+        "_id": 3111046,
+        "Name": "蕉学相长",
+        "Desc": "我方全体造成的战技和终结技伤害提高<color style='color:#f29e38;'> 50% </color>。"
+      }
+    ],
+    "UC": [
+      100501,
+      100502,
+      100503,
+      100504
+    ],
+    "LC": [
+      100801,
+      100802,
+      100803,
+      100804
+    ],
+    "UG": [
+      10051,
+      10052
+    ],
+    "LG": [
+      10081
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/AS.js"
+    ]
+  }
+}

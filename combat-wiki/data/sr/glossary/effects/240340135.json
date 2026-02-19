@@ -1,0 +1,19 @@
+{
+  "id": "240340135",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害提高",
+  "description": "每层使造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340135,
+    "MDF": "MMonster_W4_FireProwler_01_IF_Bonus_AllDamageTypeAddedRatio",
+    "Name": "伤害提高",
+    "Desc": "每层使造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

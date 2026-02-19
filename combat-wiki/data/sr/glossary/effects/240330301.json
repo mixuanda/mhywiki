@@ -1,0 +1,17 @@
+{
+  "id": "240330301",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "混沌秩序",
+  "description": "【黑日弓手】不会主动行动，仅会在召唤自身的【黑日狮鹫】攻击后施放攻击，此时如果自身处于控制类负面状态或弱点击破状态，则改为解除自身的控制类负面状态与弱点击破状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330301,
+    "MDF": "MMonster_W4_Griffin_01_Skill02_ShadowControl",
+    "Name": "混沌秩序",
+    "Desc": "【黑日弓手】不会主动行动，仅会在召唤自身的【黑日狮鹫】攻击后施放攻击，此时如果自身处于控制类负面状态或弱点击破状态，则改为解除自身的控制类负面状态与弱点击破状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

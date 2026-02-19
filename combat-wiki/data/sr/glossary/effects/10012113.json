@@ -1,0 +1,18 @@
+{
+  "id": "10012113",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "鳞渊福泽",
+  "description": "受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012113,
+    "MDF": "MAvatar_Bailu_00_PointB3",
+    "Name": "鳞渊福泽",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

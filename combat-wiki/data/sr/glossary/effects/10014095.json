@@ -1,0 +1,18 @@
+{
+  "id": "10014095",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "疗愈世间的晨曦",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014095,
+    "MDF": "MAvatar_Hyacine_00_Passive_Effect",
+    "Name": "疗愈世间的晨曦",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

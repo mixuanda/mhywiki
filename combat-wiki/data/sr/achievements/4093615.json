@@ -1,0 +1,18 @@
+{
+  "id": "4093615",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "冲出概率泥沼",
+  "description": "在难题等级为6.0的情况下，通关「模拟宇宙：不可知域」",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

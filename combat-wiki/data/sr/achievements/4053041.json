@@ -1,0 +1,18 @@
+{
+  "id": "4053041",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "就没有皮皮西人吗？",
+  "description": "使用比切诺更矮的我方角色与她对话",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

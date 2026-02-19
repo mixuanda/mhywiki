@@ -1,0 +1,15 @@
+{
+  "id": "81608",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "人类灭绝之后…",
+  "description": "将会是怎样的世界？",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

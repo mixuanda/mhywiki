@@ -1,0 +1,22 @@
+{
+  "id": "13512",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "赤月之形",
+  "description": "色泽如赤月般刺眼的锋锐利器。据说在某个古老的王朝中曾被视为贯连两界的礼器，但如今早已不再有人记得彼时的信仰与典仪。",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "CR",
+  "subStatValue": 0.220512,
+  "materialRefs": [
+    "112085",
+    "112100",
+    "114060"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13512.js"
+  }
+}

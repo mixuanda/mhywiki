@@ -1,0 +1,22 @@
+{
+  "id": "15402",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "绝弦",
+  "description": "曾经作为乐器大放异彩的弓。如今已经不再能令人起舞。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 509.605949,
+  "subStatType": "EM",
+  "subStatValue": 165.38400000000001,
+  "materialRefs": [
+    "112013",
+    "112016",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15402.js"
+  }
+}

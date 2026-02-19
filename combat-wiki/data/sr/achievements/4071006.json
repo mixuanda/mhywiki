@@ -1,0 +1,18 @@
+{
+  "id": "4071006",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "似花过亡城",
+  "description": "单场战斗中，使 2.0 名陷入无法战斗状态角色回复至可战斗状态",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81581",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "并非空军",
+  "description": "钓上并战胜「豚兽 · 大王」。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

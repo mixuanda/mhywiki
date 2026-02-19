@@ -1,0 +1,18 @@
+{
+  "id": "4052321",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "《冒险鼹鼠队》超级成长版",
+  "description": "在贝洛伯格的书商处买到《冒险鼹鼠队：隐形的宝藏》",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

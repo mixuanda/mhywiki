@@ -1,0 +1,15 @@
+{
+  "id": "85001",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "与一位往昔神灵的谈话",
+  "description": "了解一位往昔神灵的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

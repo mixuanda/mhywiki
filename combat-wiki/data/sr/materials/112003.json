@@ -1,0 +1,10 @@
+{
+  "id": "112003",
+  "game": "sr",
+  "entityType": "material",
+  "name": "铁卫勋章",
+  "icon": "itemicon/112003.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

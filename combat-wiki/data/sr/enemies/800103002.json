@@ -1,0 +1,39 @@
+{
+  "id": "800103002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "无想面具",
+  "description": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
+  "stats": {
+    "HP": 0.375,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_8001030.png",
+  "figure": "monsterfigure/Monster_8001030.png",
+  "camp": {
+    "id": "3",
+    "name": "裂界造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

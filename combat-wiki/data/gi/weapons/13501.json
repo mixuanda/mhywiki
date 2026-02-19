@@ -1,0 +1,32 @@
+{
+  "id": "13501",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "护摩之杖",
+  "description": "在早已失落的古老祭仪中，使用的朱赤「柴火杖」。",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 608.0745972,
+  "subStatType": "CD",
+  "subStatValue": 0.661536,
+  "materialRefs": [
+    "112004",
+    "112022",
+    "114024"
+  ],
+  "affix": {
+    "113501": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "生命值提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。此外，基于装备该武器的角色生命值上限的 <color style='color:#99FFFFFF'>0.8%</color> / <color style='color:#99FFFFFF'>1%</color> / <color style='color:#99FFFFFF'>1.2%</color> / <color style='color:#99FFFFFF'>1.4%</color> / <color style='color:#99FFFFFF'>1.6%</color> ，获得攻击力加成。当装备该武器的角色生命值低于50%时，进一步获得 <color style='color:#99FFFFFF'>1%</color> / <color style='color:#99FFFFFF'>1.2%</color> / <color style='color:#99FFFFFF'>1.4%</color> / <color style='color:#99FFFFFF'>1.6%</color> / <color style='color:#99FFFFFF'>1.8%</color> 基于生命值上限的攻击力提升。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13501.js"
+  }
+}

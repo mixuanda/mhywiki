@@ -1,0 +1,21 @@
+{
+  "id": "1001041",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "水形幻人 · 常形",
+  "description": "由水凝聚成的初具人形的魔物。<br>曾有无数的意志消融在水中，但水中原本就与宇宙一样充满了渴求被诞下的灵魂。<br>在地脉破碎的记忆中，其危险如水下暗流般的一面，得以完成保留…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Narcissusborn",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4043602",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "再见，折纸鸟！",
+  "description": "帮助全部折纸小鸟回到「大树」和「学堂」",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

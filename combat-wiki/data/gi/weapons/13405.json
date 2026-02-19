@@ -1,0 +1,22 @@
+{
+  "id": "13405",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "决斗之枪",
+  "description": "血红色的锋利长枪，过去是某位角斗士无比珍视的宝物。枪芒上曾沾染了无数野兽与人的鲜血。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "CR",
+  "subStatValue": 0.36752,
+  "materialRefs": [
+    "112022",
+    "112040",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13405.js"
+  }
+}

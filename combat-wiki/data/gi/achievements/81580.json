@@ -1,0 +1,15 @@
+{
+  "id": "81580",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "终竟的悠悠花海",
+  "description": "装饰了悠悠度假村的全部花海。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

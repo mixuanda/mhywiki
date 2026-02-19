@@ -1,0 +1,15 @@
+{
+  "id": "84530",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "璃月一番",
+  "description": "用美味的料理治愈汤雯。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

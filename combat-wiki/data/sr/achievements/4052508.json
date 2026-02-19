@@ -1,0 +1,18 @@
+{
+  "id": "4052508",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "论心不论迹",
+  "description": "与「放生帮」共同完成1次成功的放生",
+  "reward": 5,
+  "version": 1.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240130143",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "蓄力",
+  "description": "蓄力中，被击破时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240130143,
+    "MDF": "MModifier_Monster_W4_Claymore_00_LocalLegend_Skill03_Aim",
+    "Name": "蓄力",
+    "Desc": "蓄力中，被击破时解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "230010101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "230010101",
+  "description": null,
+  "effectType": "monster",
+  "content": {
+    "_id": 230010101,
+    "MDF": "Monster_W2_Mecha01_02_ResistanceDown",
+    "Name": {},
+    "Desc": {},
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

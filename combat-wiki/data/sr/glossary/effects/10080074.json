@@ -1,0 +1,17 @@
+{
+  "id": "10080074",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "过往的拾遗者",
+  "description": "除迷迷以外的我方忆灵行动时，开拓者恢复<color> <b>A</b> </color>点能量。该效果还可以触发<color> <b>B</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080074,
+    "MDF": "MAvatar_PlayerBoy_30_Rank02_Count",
+    "Name": "过往的拾遗者",
+    "Desc": "除迷迷以外的我方忆灵行动时，开拓者恢复<color> <b>A</b> </color>点能量。该效果还可以触发<color> <b>B</b> </color>次。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

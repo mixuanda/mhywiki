@@ -1,0 +1,18 @@
+{
+  "id": "4074002",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "永恒极枪",
+  "description": "在和「天谴先锋」的战斗中，在破坏其【战甲】时完成制胜一击",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

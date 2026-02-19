@@ -1,0 +1,22 @@
+{
+  "id": "11418",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "西福斯的月光",
+  "description": "闪着月色光彩的古老双刃剑。据说其中寄寓着如今已经沉默的镇灵。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "EM",
+  "subStatValue": 165.38400000000001,
+  "materialRefs": [
+    "112067",
+    "112073",
+    "114040"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11418.js"
+  }
+}

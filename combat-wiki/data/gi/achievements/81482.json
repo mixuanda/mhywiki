@@ -1,0 +1,15 @@
+{
+  "id": "81482",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "时间的神秘形式",
+  "description": "向钟声致敬。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

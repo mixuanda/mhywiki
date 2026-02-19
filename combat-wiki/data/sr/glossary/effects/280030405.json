@@ -1,0 +1,17 @@
+{
+  "id": "280030405",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "追忆深度",
+  "description": "当前拥有<color> <b>A</b> </color>层【追忆刻度】，每次受到攻击后失去1层【追忆刻度】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030405,
+    "MDF": "Monster_XP_Elite02_01_EnergyLayer",
+    "Name": "追忆深度",
+    "Desc": "当前拥有<color> <b>A</b> </color>层【追忆刻度】，每次受到攻击后失去1层【追忆刻度】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

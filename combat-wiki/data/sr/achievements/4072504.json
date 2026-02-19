@@ -1,0 +1,18 @@
+{
+  "id": "4072504",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "求不得",
+  "description": "多事<br><color style='color:#8790ab;'>※单场战斗中，使用我方角色刃在单次攻击中从血量小于等于 5.0% 恢复至大于等于 30%  2.0 次</color>",
+  "reward": 5,
+  "version": 1.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

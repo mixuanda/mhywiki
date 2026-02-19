@@ -1,0 +1,19 @@
+{
+  "id": "10011043",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "防御提高",
+  "description": "防御力提高<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011043,
+    "MDF": "MAvatar_Gepard_00_MazeSkill_DefenceDeltaUp",
+    "Name": "防御提高",
+    "Desc": "防御力提高<color> <b>A</b> </color>点。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

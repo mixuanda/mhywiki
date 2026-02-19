@@ -1,0 +1,57 @@
+{
+  "id": "14517",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "祭星者之望",
+  "description": "以鹰之形雕刻的造像，烟谜主世代传承的圣物之一。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 541.829758,
+  "subStatType": "EM",
+  "subStatValue": 264.61440000000005,
+  "materialRefs": [
+    "112106",
+    "112109",
+    "114068"
+  ],
+  "affix": {
+    "114517": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，每14秒至多获得一次「照夜之镜」效果。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，每14秒至多获得一次「照夜之镜」效果。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，每14秒至多获得一次「照夜之镜」效果。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，每14秒至多获得一次「照夜之镜」效果。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，每14秒至多获得一次「照夜之镜」效果。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，每14秒至多获得一次「照夜之镜」效果。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14517.js"
+  }
+}

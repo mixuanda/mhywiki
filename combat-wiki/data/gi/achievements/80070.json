@@ -1,0 +1,15 @@
+{
+  "id": "80070",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "蒲公英的故乡",
+  "description": "集齐全套《蒲公英海的狐狸》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "22"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

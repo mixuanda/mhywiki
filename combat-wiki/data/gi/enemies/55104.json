@@ -1,0 +1,25 @@
+{
+  "id": "55104",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "匿叶龙武士 · 流火鸣空",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 匿叶龙武士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

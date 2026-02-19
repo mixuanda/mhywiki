@@ -1,0 +1,15 @@
+{
+  "id": "81513",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「为最美者」",
+  "description": "令火榴树的根系汲取到足够的液态燃素，使「山王火榴」成熟。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

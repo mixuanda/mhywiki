@@ -1,0 +1,15 @@
+{
+  "id": "84072",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "派蒙都不吃！",
+  "description": "吃掉一看就难吃的「椰炭饼」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

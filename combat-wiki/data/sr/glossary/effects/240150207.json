@@ -1,0 +1,18 @@
+{
+  "id": "240150207",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "撕裂高天",
+  "description": "我方目标攻击后，会基于【黑潮同步率】造成真实伤害，该伤害【不致命】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150207,
+    "MDF": "Modifier_Monster_W4_DawnsEye_00_WheaterRognarokTrueDamage",
+    "Name": "撕裂高天",
+    "Desc": "我方目标攻击后，会基于【黑潮同步率】造成真实伤害，该伤害【不致命】。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84307",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "向深水中的晨星",
+  "description": "完成「向深水中的晨星」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

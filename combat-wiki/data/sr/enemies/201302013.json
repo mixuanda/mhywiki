@@ -1,0 +1,39 @@
+{
+  "id": "201302013",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "金人勾魂使",
+  "description": "刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
+  "stats": {
+    "HP": 4.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2013020.png",
+  "figure": "monsterfigure/Monster_2013020.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

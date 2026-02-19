@@ -1,0 +1,18 @@
+{
+  "id": "4044211",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "所以，前进吧。",
+  "description": "你记得她说「所以，前进吧。不要停下向前的脚步…」<br><color style='color:#8790ab;'>※你已经走出了冥界，可以在她的花丛里停留半晌</color>",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80043",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 璃月",
+  "description": "点亮下列区域的地图：碧水原、琼玑野、珉林、璃沙郊、云来海。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "5"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

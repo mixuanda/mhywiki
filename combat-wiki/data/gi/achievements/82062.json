@@ -1,0 +1,15 @@
+{
+  "id": "82062",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "约等于天下无敌",
+  "description": "使一名角色同时处于三种或更多不同的护盾庇护下。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "14"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

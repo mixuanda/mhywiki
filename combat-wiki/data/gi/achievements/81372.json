@@ -1,0 +1,15 @@
+{
+  "id": "81372",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「渐渐隐去的老兵」",
+  "description": "战胜地方传奇「渐渐隐去的老兵」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

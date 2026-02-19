@@ -1,0 +1,19 @@
+{
+  "id": "10013022",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "玛瑙石的谦卑",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013022,
+    "MDF": "MAvatar_Argenti_00_Rank02_AttackRatioUp",
+    "Name": "玛瑙石的谦卑",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

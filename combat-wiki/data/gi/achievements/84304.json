@@ -1,0 +1,15 @@
+{
+  "id": "84304",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "水族馆的来访者",
+  "description": "在完成所有手续后，前往梅洛彼得堡。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

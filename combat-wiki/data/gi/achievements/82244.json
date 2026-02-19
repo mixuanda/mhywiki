@@ -1,0 +1,15 @@
+{
+  "id": "82244",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「切玛利的遮荫」",
+  "description": "战胜地方传奇「切玛利的遮荫」。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

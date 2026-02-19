@@ -1,0 +1,17 @@
+{
+  "id": "240340132",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "垂死的哽咽",
+  "description": "下次行动时施放【却是必要的苦难】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340132,
+    "MDF": "MMonster_W4_FireProwler_00_IF_Charge_Skill031",
+    "Name": "垂死的哽咽",
+    "Desc": "下次行动时施放【却是必要的苦难】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

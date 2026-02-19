@@ -1,0 +1,18 @@
+{
+  "id": "100130910",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "月隐的午夜",
+  "description": "终结技造成的物理属性附加伤害的暴击伤害额外提高<color> <b>A</b> </color>。剩余可触发次数为<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100130910,
+    "MDF": "MAvatar_Robin_00_SkillRank06_ExtraRatioForShow",
+    "Name": "月隐的午夜",
+    "Desc": "终结技造成的物理属性附加伤害的暴击伤害额外提高<color> <b>A</b> </color>。剩余可触发次数为<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

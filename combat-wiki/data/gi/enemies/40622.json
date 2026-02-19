@@ -1,0 +1,25 @@
+{
+  "id": "40622",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "自律超算型场力发生装置",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_MachinaIustitia_Pylon"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.1"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

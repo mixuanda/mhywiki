@@ -1,0 +1,17 @@
+{
+  "id": "240140102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "荣耀",
+  "description": "每层【荣耀】使伤害提高<color> <b>A</b> </color>，能量恢复效率提高<color> <b>B</b> </color>，施放战技或终结技时增加1层【荣耀】。最多叠加<color> <b>C</b> </color>层。攻击时可解除对应【荣耀】层数的【泰坦神躯】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140102,
+    "MDF": "Monster_W4_Nikadory_00_Brave",
+    "Name": "荣耀",
+    "Desc": "每层【荣耀】使伤害提高<color> <b>A</b> </color>，能量恢复效率提高<color> <b>B</b> </color>，施放战技或终结技时增加1层【荣耀】。最多叠加<color> <b>C</b> </color>层。攻击时可解除对应【荣耀】层数的【泰坦神躯】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81031",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "见习勇者",
+  "description": "完成9次「居民请求」。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

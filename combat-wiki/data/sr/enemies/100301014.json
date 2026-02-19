@@ -1,0 +1,39 @@
+{
+  "id": "100301014",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "银鬃尉官",
+  "description": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
+  "stats": {
+    "HP": 10.0,
+    "ATK": 11.25,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 8.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1003010.png",
+  "figure": "monsterfigure/Monster_1003010.png",
+  "camp": {
+    "id": "1",
+    "name": "雅利洛-Ⅵ"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

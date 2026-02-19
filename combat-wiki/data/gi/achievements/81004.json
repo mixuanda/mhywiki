@@ -1,0 +1,15 @@
+{
+  "id": "81004",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "启动跃迁引擎！",
+  "description": "穿越誓言岬上空的时空隧道。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

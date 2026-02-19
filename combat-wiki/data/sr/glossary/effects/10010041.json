@@ -1,0 +1,19 @@
+{
+  "id": "10010041",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "减速",
+  "description": "速度降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010041,
+    "MDF": "MAvatar_Welt_00_BPSkill_SpeedDown",
+    "Name": "减速",
+    "Desc": "速度降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

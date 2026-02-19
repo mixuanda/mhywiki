@@ -1,0 +1,27 @@
+{
+  "id": "40304",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「铜锁」",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "rd"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.2 地方传奇"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

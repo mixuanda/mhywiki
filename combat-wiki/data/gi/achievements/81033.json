@@ -1,0 +1,15 @@
+{
+  "id": "81033",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "多冷的隆冬",
+  "description": "因为严寒而倒下…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

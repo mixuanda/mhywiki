@@ -1,0 +1,15 @@
+{
+  "id": "81502",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "真的能出成果吗？",
+  "description": "将收集到的「镌光铭印」碎片交给了研究员秋纽奥。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

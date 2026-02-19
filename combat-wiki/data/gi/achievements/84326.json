@@ -1,0 +1,15 @@
+{
+  "id": "84326",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "黑石湮落白石下",
+  "description": "完成「黑石湮落白石下」。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

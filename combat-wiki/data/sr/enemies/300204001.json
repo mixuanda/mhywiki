@@ -1,0 +1,39 @@
+{
+  "id": "300204001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "惊梦剧团的发条暴徒",
+  "description": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「白日梦」酒店的服务生，失控后仍在履行报时的职责，用最直接的方式将睡梦惊醒。",
+  "stats": {
+    "HP": 3.5,
+    "ATK": 14.99994,
+    "DEF": 1.0,
+    "SPD": 80.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002040.png",
+  "figure": "monsterfigure/Monster_3002040.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

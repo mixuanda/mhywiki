@@ -1,0 +1,18 @@
+{
+  "id": "4040201",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "直到光芒把我们带走",
+  "description": "激活空间站「黑塔」 5.0 个界域定锚",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

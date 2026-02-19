@@ -1,0 +1,34 @@
+{
+  "id": "1-5-phase-2",
+  "game": "sr",
+  "entityType": "banner",
+  "version": "1.5",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": 1302,
+      "X": 1
+    },
+    {
+      "N": 1006,
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": 1215,
+      "X": 1
+    },
+    {
+      "N": 1110,
+      "X": 2
+    },
+    {
+      "N": 1009,
+      "X": 3
+    }
+  ],
+  "source": {
+    "file": "data/banner.js"
+  }
+}

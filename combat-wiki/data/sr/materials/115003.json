@@ -1,0 +1,10 @@
+{
+  "id": "115003",
+  "game": "sr",
+  "entityType": "material",
+  "name": "荣耀洗礼身躯",
+  "icon": "itemicon/115003.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

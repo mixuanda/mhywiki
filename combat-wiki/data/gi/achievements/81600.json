@@ -1,0 +1,15 @@
+{
+  "id": "81600",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "藏骸所的织密者",
+  "description": "探索了最初的咏月使封锁的圣所。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81317",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "浓雾之下",
+  "description": "驱散弥漫在锋刃林泽的紫色烟霭。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

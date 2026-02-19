@@ -1,0 +1,30 @@
+{
+  "id": "300401002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "朱明三不",
+  "description": "朱明三人组的终极形态。",
+  "stats": {
+    "HP": 225.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 0.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3004010.png",
+  "figure": "monsterfigure/Monster_3004010.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

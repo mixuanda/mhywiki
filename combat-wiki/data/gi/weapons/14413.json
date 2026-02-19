@@ -1,0 +1,22 @@
+{
+  "id": "14413",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "嘟嘟可故事集",
+  "description": "一本封面华丽的童书，内容皆是童言无忌的短小故事，读之令人忍俊不禁。<br>即使业已成年的读者，读到书中天真无邪的冒险故事，也会忍不住神往吧。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ATK",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112007",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14413.js"
+  }
+}

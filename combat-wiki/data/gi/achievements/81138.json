@@ -1,0 +1,15 @@
+{
+  "id": "81138",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "渔民杀机",
+  "description": "从钓鱼协会处购买一根鱼竿。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

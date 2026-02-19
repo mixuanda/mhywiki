@@ -1,0 +1,23 @@
+{
+  "id": "21009",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "朗道的选择",
+  "rarity": 4,
+  "path": "Preservation",
+  "skillId": 21009,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 423.36,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110143",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21009.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "12501",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "天空之傲",
+  "description": "象征风龙的骄傲广布长空的双手剑。挥舞时的低吟是风龙的气势，蕴含苍空与长风的力量。",
+  "rarity": 5,
+  "weaponType": 2,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "ER",
+  "subStatValue": 0.36752,
+  "materialRefs": [
+    "112004",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12501.js"
+  }
+}

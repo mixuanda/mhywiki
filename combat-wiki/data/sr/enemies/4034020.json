@@ -1,0 +1,30 @@
+{
+  "id": "4034020",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "毁灭的容器，卡厄斯兰那",
+  "description": "白厄，NeiKos 496 ，救世主，卡厄斯兰那，无名的英雄。在比岁月记叙更漫长的时光中，他反抗胸膛中的恨与怒火，身躯业已化作枯槁。只为待到此刻，命定之时，由另一位救世主熄灭夜火，带来新的破晓。",
+  "stats": {
+    "HP": 22.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 0.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4034020.png",
+  "figure": "monsterfigure/Monster_4034020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "300305102",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "何不乐",
+  "description": "来自朱明的武者。",
+  "stats": {
+    "HP": 11.0,
+    "ATK": 9.0,
+    "DEF": 1.0,
+    "SPD": 110.0,
+    "Stance": 6.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3003050.png",
+  "figure": "monsterfigure/Monster_3003050.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

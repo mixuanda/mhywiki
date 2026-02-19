@@ -1,0 +1,15 @@
+{
+  "id": "10000019",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "连携攻击",
+  "description": "多个目标在一次行动中，分别对敌方目标施放攻击。",
+  "content": {
+    "_id": 10000019,
+    "Name": "连携攻击",
+    "Desc": "多个目标在一次行动中，分别对敌方目标施放攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

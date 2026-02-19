@@ -1,0 +1,10 @@
+{
+  "id": "110422",
+  "game": "sr",
+  "entityType": "material",
+  "name": "忿火之心",
+  "icon": "itemicon/110422.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

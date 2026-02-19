@@ -1,0 +1,15 @@
+{
+  "id": "82249",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「阿特拉托的佑助」",
+  "description": "在不受到来自「阿特拉托的佑助」的伤害的情况下，将其击败。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

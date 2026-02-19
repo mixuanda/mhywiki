@@ -1,0 +1,303 @@
+{
+  "id": "3014",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "apocalypticshadow",
+  "name": "猢狲骑士",
+  "content": {
+    "_id": 3014,
+    "Name": "猢狲骑士",
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Phys",
+          "Fire",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 1068929,
+        "Upper": [
+          {
+            "_id": 420371,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 904,
+              "ATK": 0.75,
+              "HP": 0.4
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 302401301,
+                  "HP": 122584,
+                  "HPCount": 2,
+                  "SPD": 105,
+                  "Stance": 14
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420361,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 74,
+              "HP": 0.4
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402101,
+                  "HP": 411881,
+                  "HPCount": 2,
+                  "SPD": 50,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Phys",
+          "Fire",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 4222560,
+        "Upper": [
+          {
+            "_id": 420372,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 905,
+              "ATK": 0.85,
+              "HP": 0.8
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 302401302,
+                  "HP": 441690,
+                  "HPCount": 2,
+                  "SPD": 116,
+                  "Stance": 18
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420362,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 79,
+              "HP": 0.9
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402102,
+                  "HP": 1669589,
+                  "HPCount": 2,
+                  "SPD": 55,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Phys",
+          "Fire",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 13971501,
+        "Upper": [
+          {
+            "_id": 420373,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 906,
+              "ATK": 0.85,
+              "HP": 1.4
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 302401303,
+                  "HP": 1204440,
+                  "HPCount": 2,
+                  "SPD": 126,
+                  "Stance": 22
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420363,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 90,
+              "HP": 2.0
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402103,
+                  "HP": 5781311,
+                  "HPCount": 2,
+                  "SPD": 60,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Phys",
+          "Fire",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 41663698,
+        "Upper": [
+          {
+            "_id": 420374,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 156,
+              "HP": 4.4
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 302401304,
+                  "HP": 6049375,
+                  "HPCount": 2,
+                  "SPD": 139,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420364,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 150,
+              "HP": 3.2
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402104,
+                  "HP": 14782474,
+                  "HPCount": 2,
+                  "SPD": 76,
+                  "Stance": 16
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "Buff": {
+      "_id": 3110014,
+      "Name": "末法余烬",
+      "Desc": "拥有<color style='color:#f29e38;'>【坚防守备】</color>的敌方目标被<color style='color:#f29e38;'>弱点击破</color>时，使我方全体目标解除控制状态、立即行动并恢复战技点。<br>敌方全体目标受到的击破伤害提高<color style='color:#f29e38;'> 25% </color>，忆灵技伤害提高<color style='color:#f29e38;'> 15% </color>。"
+    },
+    "UB": [
+      {
+        "_id": 3111077,
+        "Name": "攻心扼吭",
+        "Desc": "我方全体目标造成的击破伤害提高<color style='color:#f29e38;'> 10% </color>，当场上有敌方目标进入弱点击破状态后额外提高<color style='color:#f29e38;'> 5% </color>，最多叠加<color style='color:#f29e38;'> 4 </color>次。"
+      },
+      {
+        "_id": 3111078,
+        "Name": "摧锋陷阵",
+        "Desc": "编队中的第1位角色造成的伤害无视敌方目标<color style='color:#f29e38;'> 15% </color>的防御力。"
+      },
+      {
+        "_id": 3111079,
+        "Name": "聚气化神",
+        "Desc": "我方目标每次消耗战技点后，使自身暴击伤害提高<color style='color:#f29e38;'> 6% </color>，最多叠加<color style='color:#f29e38;'> 10 </color>层。"
+      }
+    ],
+    "LB": [
+      {
+        "_id": 3111080,
+        "Name": "前尘影事",
+        "Desc": "当前在场的我方忆灵数量大于等于3时，我方全体目标造成的伤害提高<color style='color:#f29e38;'> 60% </color>。"
+      },
+      {
+        "_id": 3111081,
+        "Name": "疾如旋踵",
+        "Desc": "我方目标对持有大于等于<color style='color:#f29e38;'> 1 </color>个持续伤害状态的敌方目标施放攻击后，使自身速度提高<color style='color:#f29e38;'> 25% </color>，持续<color style='color:#f29e38;'> 3 </color>个回合。"
+      },
+      {
+        "_id": 3111082,
+        "Name": "智圆行方",
+        "Desc": "我方队伍中存在智识命途的角色时，我方全体全属性抗性穿透提高<color style='color:#f29e38;'> 15% </color>。"
+      }
+    ],
+    "UC": [
+      100201,
+      100202,
+      100203,
+      100204
+    ],
+    "LC": [
+      100801,
+      100802,
+      100803,
+      100804
+    ],
+    "UG": [
+      10021,
+      10022
+    ],
+    "LG": [
+      10081
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/AS.js"
+    ]
+  }
+}

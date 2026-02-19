@@ -1,0 +1,25 @@
+{
+  "id": "10208",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "丘丘雷兜王",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "tlc"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > 丘丘王"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

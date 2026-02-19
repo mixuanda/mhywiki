@@ -1,0 +1,28 @@
+{
+  "id": "15031",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "逐影猎人",
+  "icon": "UI_RelicIcon_15031",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "普通攻击与重击造成的伤害提高15%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "当前生命值提升或降低时，暴击率提升12%，该效果持续5秒，至多叠加3次。"
+    }
+  ],
+  "parts": [
+    "猎人的胸花",
+    "杰作的序曲",
+    "裁判的时刻",
+    "遗忘的容器",
+    "老兵的容颜"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

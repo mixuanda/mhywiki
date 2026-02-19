@@ -1,0 +1,15 @@
+{
+  "id": "84546",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "捉猫记",
+  "description": "帮莎莉寻找过所有小猫。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

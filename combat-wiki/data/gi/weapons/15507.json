@@ -1,0 +1,32 @@
+{
+  "id": "15507",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "冬极白星",
+  "description": "如同深冬坚冰一样尖锐的无垢之弓。",
+  "rarity": 5,
+  "weaponType": 5,
+  "baseAtk": 608.0745972,
+  "subStatType": "CR",
+  "subStatValue": 0.330768,
+  "materialRefs": [
+    "112055",
+    "112058",
+    "114036"
+  ],
+  "affix": {
+    "115507": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "元素战技和元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ；普通攻击、重击、元素战技或元素爆发命中敌人后，将产生1层持续12秒的「白夜极星」效果。处于1/2/3/4层「白夜极星」效果下时，攻击力将提高 <color style='color:#99FFFFFF'>10/20/30/48%</color> / <color style='color:#99FFFFFF'>12.5/25/37.5/60%</color> / <color style='color:#99FFFFFF'>15/30/45/72%</color> / <color style='color:#99FFFFFF'>17.5/35/52.5/84%</color> / <color style='color:#99FFFFFF'>20/40/60/96%</color> 。由普通攻击、重击、元素战技或元素爆发产生的「白夜极星」将分别独立存在。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15507.js"
+  }
+}

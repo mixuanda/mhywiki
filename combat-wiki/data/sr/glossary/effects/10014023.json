@@ -1,0 +1,18 @@
+{
+  "id": "10014023",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "飞驰之阳",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014023,
+    "MDF": "MAvatar_Aglaea_SkillPointB3_ServantAddDmg",
+    "Name": "飞驰之阳",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

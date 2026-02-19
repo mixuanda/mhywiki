@@ -1,0 +1,15 @@
+{
+  "id": "70000214",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "连击",
+  "description": "此类型武器有一定概率连续触发。",
+  "content": {
+    "_id": 70000214,
+    "Name": "连击",
+    "Desc": "此类型武器有一定概率连续触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

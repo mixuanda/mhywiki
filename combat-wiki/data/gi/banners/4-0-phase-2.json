@@ -1,0 +1,34 @@
+{
+  "id": "4-0-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.0",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Tartaglia",
+      "X": 5
+    },
+    {
+      "N": "Zhongli",
+      "X": 5
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Freminet",
+      "X": 1
+    },
+    {
+      "N": "Sayu",
+      "X": 6
+    },
+    {
+      "N": "Noel",
+      "X": 8
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

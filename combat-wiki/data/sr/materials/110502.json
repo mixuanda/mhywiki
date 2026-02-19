@@ -1,0 +1,10 @@
+{
+  "id": "110502",
+  "game": "sr",
+  "entityType": "material",
+  "name": "守护者的悲愿",
+  "icon": "itemicon/110502.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

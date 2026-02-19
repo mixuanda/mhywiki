@@ -1,0 +1,25 @@
+{
+  "id": "20201",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深渊使徒 · 激流",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "ahwt"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 深渊使者"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

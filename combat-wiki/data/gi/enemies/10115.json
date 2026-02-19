@@ -1,0 +1,25 @@
+{
+  "id": "10115",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "奇怪的丘丘人",
+  "description": "「Homu, Homu, mimi domu!」",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "uhil"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > Mimi domu!"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4020202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "列车乘员登记名册",
+  "description": "获得 20.0 名角色",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 2,
+    "Name": "流光遗痕",
+    "Icon": "CollectAchievementIcon.png",
+    "Count": 14
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10013143",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "收债人",
+  "description": "施放攻击后，每击中1个敌方目标，翡翠获得1点充能并造成附加伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013143,
+    "MDF": "MAvatar_Jade_00_BPSkillSelf",
+    "Name": "收债人",
+    "Desc": "施放攻击后，每击中1个敌方目标，翡翠获得1点充能并造成附加伤害。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

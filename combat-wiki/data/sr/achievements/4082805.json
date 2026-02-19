@@ -1,0 +1,18 @@
+{
+  "id": "4082805",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "晚安玛卡巴卡",
+  "description": "使用安眠锤后进入战斗，并有任意角色陷入强烈震荡状态",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

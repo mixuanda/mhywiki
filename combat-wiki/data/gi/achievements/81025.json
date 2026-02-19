@@ -1,0 +1,15 @@
+{
+  "id": "81025",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "名震云来",
+  "description": "璃月的声望等级达到8级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

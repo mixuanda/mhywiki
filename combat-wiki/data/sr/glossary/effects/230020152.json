@@ -1,0 +1,17 @@
+{
+  "id": "230020152",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "狂乱",
+  "description": "「斯科特」成员能够使用【狂乱】相关技能。受到攻击后转变为【讥讽】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230020152,
+    "MDF": "MModifier_Monster_W3_TV_02_Side2Scot",
+    "Name": "狂乱",
+    "Desc": "「斯科特」成员能够使用【狂乱】相关技能。受到攻击后转变为【讥讽】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

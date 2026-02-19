@@ -1,0 +1,22 @@
+{
+  "id": "14406",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "试作金珀",
+  "description": "黑岩厂中秘藏的金珀法器。其中黯黯绽放着日月星光。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 509.605949,
+  "subStatType": "HP",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112013",
+    "112028",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14406.js"
+  }
+}

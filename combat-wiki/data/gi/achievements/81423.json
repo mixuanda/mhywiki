@@ -1,0 +1,15 @@
+{
+  "id": "81423",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "未祛魅的世界",
+  "description": "三次出让神秘的异色结晶石给「锈舵」掌舵人。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

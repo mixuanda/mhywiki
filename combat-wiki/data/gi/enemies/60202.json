@@ -1,0 +1,34 @@
+{
+  "id": "60202",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "爆炎树",
+  "description": "吸收了地脉中奔涌的古老烈焰的巨大藤蔓。\n如同充满怒火一般，永不止息的植物。\n诗人、歌手乃至一些学者认为「元素」中蕴含着情感和愿望。如果属实，又是什么情感与愿望驱使着爆炎树恒常燃烧，如同渴求着挣脱大地的束缚一般挣扎舞动呢…",
+  "stats": {},
+  "resistance": {
+    "Phys": 1.3,
+    "Fire": 1.7,
+    "Water": 1.1,
+    "Elec": 1.1,
+    "Ice": 1.1,
+    "Grass": 1.1,
+    "Wind": 1.1,
+    "Rock": 1.1
+  },
+  "weakness": [],
+  "icon": [
+    "pr"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 巨藤树"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

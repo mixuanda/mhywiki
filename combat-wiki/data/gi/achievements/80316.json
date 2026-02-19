@@ -1,0 +1,15 @@
+{
+  "id": "80316",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 古海狂诗",
+  "description": "解除枫丹区域中，诺思托伊区、旧日之海所有地灵龛的封印。",
+  "reward": 10,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

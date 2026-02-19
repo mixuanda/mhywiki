@@ -1,0 +1,18 @@
+{
+  "id": "4043403",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "还是门比较硬",
+  "description": "被幽囚狱大门夹到脑袋",
+  "reward": 5,
+  "version": 2.4,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

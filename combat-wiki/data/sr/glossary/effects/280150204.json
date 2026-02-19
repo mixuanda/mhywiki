@@ -1,0 +1,19 @@
+{
+  "id": "280150204",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "绽放",
+  "description": "下次行动施放【破灭】，该状态可被技能解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150204,
+    "MDF": "Monster_W2_HuanlongPart_01_Activity",
+    "Name": "绽放",
+    "Desc": "下次行动施放【破灭】，该状态可被技能解除。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10012214",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "却邪",
+  "description": "抵抗受到的控制类负面状态，并使受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012214,
+    "MDF": "MAvatar_Yunli_00_SkillTree02_ControlResist",
+    "Name": "却邪",
+    "Desc": "抵抗受到的控制类负面状态，并使受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "220230203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "屏障",
+  "description": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220230203,
+    "MDF": "MMonster_W2_Beast02_00_BlockDamage",
+    "Name": "屏障",
+    "Desc": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

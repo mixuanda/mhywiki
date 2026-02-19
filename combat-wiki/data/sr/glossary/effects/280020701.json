@@ -1,0 +1,17 @@
+{
+  "id": "280020701",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "治…治好你",
+  "description": "当【丰饶扑满】队友受到我方目标攻击后，消耗自身当前生命值为被受到攻击的敌方目标回复生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280020701,
+    "MDF": "MMonster_XP_Minion04_03_Introduce",
+    "Name": "治…治好你",
+    "Desc": "当【丰饶扑满】队友受到我方目标攻击后，消耗自身当前生命值为被受到攻击的敌方目标回复生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

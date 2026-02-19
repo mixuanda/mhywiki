@@ -1,0 +1,15 @@
+{
+  "id": "81575",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "巨像之影",
+  "description": "完成所有的挑战，击败失落在外的秘源龙像。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

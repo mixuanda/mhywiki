@@ -1,0 +1,39 @@
+{
+  "id": "300101001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "柯柯娜的善良",
+  "description": "善良之心，曾相信人人本性良善。",
+  "stats": {
+    "HP": 1.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_3001010.png",
+  "figure": "monsterfigure/Monster_3001010.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

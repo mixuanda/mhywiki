@@ -1,0 +1,15 @@
+{
+  "id": "84051",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「他们」的愿望…",
+  "description": "回应「千手百眼神像」中所有的愿望。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

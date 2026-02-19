@@ -1,0 +1,15 @@
+{
+  "id": "82165",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "这才叫四风守护！",
+  "description": "在一次风蚀沙虫挑战中，通过冰元素、火元素、雷元素与水元素攻击，分别使风蚀弹触发扩散反应。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "39"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

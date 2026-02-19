@@ -1,0 +1,15 @@
+{
+  "id": "81378",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "零余者的自述",
+  "description": "听克兰茨讲述了一些往事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

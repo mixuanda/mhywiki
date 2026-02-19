@@ -1,0 +1,15 @@
+{
+  "id": "82002",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "百步穿杨",
+  "description": "在远距离，通过瞄准射击击中敌人要害。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "7"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054810",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "无暇赴死",
+  "description": "在与「戮力双雄」任意难度的战斗中，触发一次敌方首领的【戮力同心】",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

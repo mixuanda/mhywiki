@@ -1,0 +1,15 @@
+{
+  "id": "82121",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "犬神家的末路",
+  "description": "短时间内击破两个「兽境犬首」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

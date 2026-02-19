@@ -1,0 +1,18 @@
+{
+  "id": "4053205",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "贴纸，好多贴纸",
+  "description": "「梦境护照」全部页面完成度 100% ",
+  "reward": 10,
+  "version": 2.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

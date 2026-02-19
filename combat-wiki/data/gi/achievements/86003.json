@@ -1,0 +1,15 @@
+{
+  "id": "86003",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「来坦，来补，来输出」",
+  "description": "与其他玩家一同完成100次秘境挑战。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "13"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

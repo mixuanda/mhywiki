@@ -1,0 +1,15 @@
+{
+  "id": "81447",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "何岁为春，何岁为秋",
+  "description": "见证古树重焕新生。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

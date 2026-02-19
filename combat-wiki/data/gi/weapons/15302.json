@@ -1,0 +1,22 @@
+{
+  "id": "15302",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "神射手之誓",
+  "description": "据说曾属于技艺高强的射手，是一把上好的弓。因为散发出强烈的气息，难以用于狩猎。",
+  "rarity": 3,
+  "weaponType": 5,
+  "baseAtk": 401.2935898,
+  "subStatType": "CD",
+  "subStatValue": 0.468588,
+  "materialRefs": [
+    "112004",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15302.js"
+  }
+}

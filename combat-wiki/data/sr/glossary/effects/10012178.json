@@ -1,0 +1,19 @@
+{
+  "id": "10012178",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "判官书符，镇尾锁灵",
+  "description": "当藿藿拥有【禳命】时，若我方目标受到致命攻击，不会陷入无法战斗状态，并立即回复等同于其自身生命上限<color> <b>A</b> </color>的生命值，使【禳命】的持续回合数减1。剩余可触发次数为<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012178,
+    "MDF": "MAvatar_Huohuo_Rank02_ReviveCount",
+    "Name": "判官书符，镇尾锁灵",
+    "Desc": "当藿藿拥有【禳命】时，若我方目标受到致命攻击，不会陷入无法战斗状态，并立即回复等同于其自身生命上限<color> <b>A</b> </color>的生命值，使【禳命】的持续回合数减1。剩余可触发次数为<color> <b>B</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

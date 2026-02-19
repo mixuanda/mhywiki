@@ -1,0 +1,18 @@
+{
+  "id": "4044210",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "这里的花会动",
+  "description": "被隐匿于花丛中的黑潮造物袭击",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

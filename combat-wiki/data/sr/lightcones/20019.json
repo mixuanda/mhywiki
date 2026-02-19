@@ -1,0 +1,23 @@
+{
+  "id": "20019",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "调和",
+  "rarity": 3,
+  "path": "Harmony",
+  "skillId": 20019,
+  "baseStats": {
+    "HP": 846.72,
+    "ATK": 317.52,
+    "DEF": 264.6
+  },
+  "materialRefs": [
+    "110163",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/20019.js"
+  }
+}

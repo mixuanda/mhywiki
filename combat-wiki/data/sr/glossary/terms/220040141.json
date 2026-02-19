@@ -1,0 +1,15 @@
+{
+  "id": "220040141",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "傀儡丝线",
+  "description": "消耗【傀儡丝线】对召唤物附加【诱狂】效果。",
+  "content": {
+    "_id": 220040141,
+    "Name": "傀儡丝线",
+    "Desc": "消耗【傀儡丝线】对召唤物附加【诱狂】效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

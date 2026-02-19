@@ -1,0 +1,25 @@
+{
+  "id": "701",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "雷音权现",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "tm"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 雷音权现"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

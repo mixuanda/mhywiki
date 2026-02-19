@@ -1,0 +1,15 @@
+{
+  "id": "81034",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "祭司、公主与记事者",
+  "description": "获得雪葬之都的宝物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

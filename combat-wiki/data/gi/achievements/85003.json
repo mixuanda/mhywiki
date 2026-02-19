@@ -1,0 +1,15 @@
+{
+  "id": "85003",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "战祸不息",
+  "description": "将某个古老遗迹中的宝物卖个好价钱…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

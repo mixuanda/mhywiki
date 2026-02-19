@@ -1,0 +1,15 @@
+{
+  "id": "82217",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "星光闪耀时",
+  "description": "幻想真境剧诗：获得6枚星章的情况下，完成整场演出。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "52"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

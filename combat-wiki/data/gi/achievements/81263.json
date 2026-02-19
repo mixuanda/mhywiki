@@ -1,0 +1,15 @@
+{
+  "id": "81263",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "宵暗与晓光之歌",
+  "description": "…我们一定会在何处相逢吧。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

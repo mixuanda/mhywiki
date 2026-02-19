@@ -1,0 +1,18 @@
+{
+  "id": "4054710",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我们是冠军",
+  "description": "在「点心糕饼向前冲」中，应援的选手取得赛段第一名",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

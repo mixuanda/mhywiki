@@ -1,0 +1,30 @@
+{
+  "id": "300205201",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "初号机",
+  "description": "模仿星核猎手的大主播。服装细节做的很好，一眼看过去居然有几分萨姆的风范。",
+  "stats": {
+    "HP": 87.4995,
+    "ATK": 9.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 12.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002052.png",
+  "figure": "monsterfigure/Monster_3002052.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

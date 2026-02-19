@@ -1,0 +1,15 @@
+{
+  "id": "23003051",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "荒宴醉",
+  "description": "一定回合内，每回合开始时受到风属性伤害，该效果可叠加。",
+  "content": {
+    "_id": 23003051,
+    "Name": "荒宴醉",
+    "Desc": "一定回合内，每回合开始时受到风属性伤害，该效果可叠加。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

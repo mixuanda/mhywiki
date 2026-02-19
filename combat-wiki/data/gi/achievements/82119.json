@@ -1,0 +1,15 @@
+{
+  "id": "82119",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无线电静默",
+  "description": "在攻击雷音权现之前，被它的侦测锁定。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "29"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

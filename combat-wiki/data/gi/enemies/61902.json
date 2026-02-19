@@ -1,0 +1,25 @@
+{
+  "id": "61902",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "玄文兽",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Striped"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 猊兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "300303004",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「身陷樊笼的往昔」",
+  "description": "美梦剧团中扮饰囚徒的艺者。本应于「谐乐大典」之中献演，如今却被「秩序」所缚，上演着关于「过去」的剧目。往昔是不朽的锁链，安宁的火苗在笼中点亮，以烛光招引司狱的权臣。",
+  "stats": {
+    "HP": 6.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3003030.png",
+  "figure": "monsterfigure/Monster_3003030.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

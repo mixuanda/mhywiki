@@ -1,0 +1,15 @@
+{
+  "id": "81546",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "烬火重燃",
+  "description": "重新打开五处烬火炽燃所中的秘源机关装置。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

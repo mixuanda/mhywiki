@@ -1,0 +1,15 @@
+{
+  "id": "81583",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "流彩的踪迹",
+  "description": "参加了「流彩设计工作室」的开业典礼。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

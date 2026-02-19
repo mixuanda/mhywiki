@@ -1,0 +1,18 @@
+{
+  "id": "10012252",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "狐祈",
+  "description": "击破特攻提高<color> <b>A</b> </color>。攻击没有对应属性弱点的敌人也能削减韧性，效果等同于原削韧值的<color> <b>B</b> </color>，无法与其他无视弱点属性削韧效果叠加。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012252,
+    "MDF": "MAvatar_Fugue_00_BPSkill",
+    "Name": "狐祈",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。攻击没有对应属性弱点的敌人也能削减韧性，效果等同于原削韧值的<color> <b>B</b> </color>，无法与其他无视弱点属性削韧效果叠加。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

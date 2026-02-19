@@ -1,0 +1,10 @@
+{
+  "id": "110411",
+  "game": "sr",
+  "entityType": "material",
+  "name": "幽府通令",
+  "icon": "itemicon/110411.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

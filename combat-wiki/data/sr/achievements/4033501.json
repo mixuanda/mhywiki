@@ -1,0 +1,18 @@
+{
+  "id": "4033501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "碧羽飞黄射天狼",
+  "description": "锋镝落定，狞兽敛爪，猎人收弓<br><color style='color:#8790ab;'>※平息「演武仪典」的风波</color>",
+  "reward": 10,
+  "version": 2.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

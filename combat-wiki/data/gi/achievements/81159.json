@@ -1,0 +1,15 @@
+{
+  "id": "81159",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猫的赠礼",
+  "description": "在清籁岛上为小猫喂食，并获得它们的好感。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240330302",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "死风将至",
+  "description": "下次行动施放【热寂颂歌】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330302,
+    "MDF": "MMonster_W4_Griffin_01_Skill03_Enhance",
+    "Name": "死风将至",
+    "Desc": "下次行动施放【热寂颂歌】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

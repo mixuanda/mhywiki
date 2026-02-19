@@ -1,0 +1,15 @@
+{
+  "id": "10000024",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "界外",
+  "description": "我方与敌方无法主动选中界外单位。",
+  "content": {
+    "_id": 10000024,
+    "Name": "界外",
+    "Desc": "我方与敌方无法主动选中界外单位。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

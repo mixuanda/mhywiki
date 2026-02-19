@@ -1,0 +1,18 @@
+{
+  "id": "220340111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "「颠踬散」",
+  "description": "每回合开始时消耗自身<color> <b>A</b> </color>生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340111,
+    "MDF": "MMonster_W2_LycanKing_00_Poison",
+    "Name": "「颠踬散」",
+    "Desc": "每回合开始时消耗自身<color> <b>A</b> </color>生命值。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

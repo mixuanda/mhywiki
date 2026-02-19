@@ -1,0 +1,15 @@
+{
+  "id": "81415",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "太空军校生",
+  "description": "全部命中！",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

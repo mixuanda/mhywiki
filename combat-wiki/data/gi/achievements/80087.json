@@ -1,0 +1,15 @@
+{
+  "id": "80087",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "循雷的寻宝者 · 其一",
+  "description": "在稻妻区域的鸣神岛、神无冢与八酝岛开启300个宝箱。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

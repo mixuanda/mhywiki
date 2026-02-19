@@ -1,0 +1,34 @@
+{
+  "id": "2-4-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "2.4",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Ganyu",
+      "X": 2
+    },
+    {
+      "N": "Zhongli",
+      "X": 3
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Feiyan",
+      "X": 4
+    },
+    {
+      "N": "Beidou",
+      "X": 5
+    },
+    {
+      "N": "Xingqiu",
+      "X": 6
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

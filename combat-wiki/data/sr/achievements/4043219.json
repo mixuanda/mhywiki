@@ -1,0 +1,18 @@
+{
+  "id": "4043219",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "再见，哈努努",
+  "description": "收集所有《小小哈努行动》故事书",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

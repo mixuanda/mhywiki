@@ -1,0 +1,18 @@
+{
+  "id": "4072805",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "真判官讨鬼传",
+  "description": "未受到伤害完成「降妖辑录」任意关卡",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

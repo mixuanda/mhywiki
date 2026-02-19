@@ -1,0 +1,15 @@
+{
+  "id": "84019",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一步登天",
+  "description": "登上俯瞰璃月港的「空中楼阁」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

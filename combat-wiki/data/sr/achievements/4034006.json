@@ -1,0 +1,18 @@
+{
+  "id": "4034006",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "回来吧，旧日的幻影！",
+  "description": "伴随战鼓，破碎的记忆再度浮现于世<br><color style='color:#8790ab;'>※回到全盛时期的悬锋城</color>",
+  "reward": 10,
+  "version": 3.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

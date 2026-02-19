@@ -1,0 +1,15 @@
+{
+  "id": "81363",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "旧日之歌",
+  "description": "聆听来自悠远年代的伟大乐章。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

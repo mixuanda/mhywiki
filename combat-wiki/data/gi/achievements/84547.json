@@ -1,0 +1,15 @@
+{
+  "id": "84547",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "推分算数原理",
+  "description": "帮助加尔恰完善他的机器。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

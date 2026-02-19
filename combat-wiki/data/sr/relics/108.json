@@ -1,0 +1,16 @@
+{
+  "id": "108",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "繁星璀璨的天才",
+  "icon": "71007.png",
+  "setBonuses": [
+    "量子属性伤害提高 <b>10%</b> 。",
+    "当装备者对敌方目标造成伤害时，无视其 <b>10%</b> 的防御力。若目标拥有量子属性弱点，额外无视其 <b>10%</b> 的防御力。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/108.js"
+  }
+}

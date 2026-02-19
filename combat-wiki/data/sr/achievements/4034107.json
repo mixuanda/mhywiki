@@ -1,0 +1,18 @@
+{
+  "id": "4034107",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "人世正如此：一代出生，一代凋零",
+  "description": "启封岁月自过去送向未来的信<br><color style='color:#8790ab;'>※见证缇里西庇俄丝与逐火的起点</color>",
+  "reward": 10,
+  "version": 3.1,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "21026",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "汪！散步时间！",
+  "rarity": 4,
+  "path": "Destruction",
+  "skillId": 21026,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 476.28,
+    "DEF": 330.75
+  },
+  "materialRefs": [
+    "110113",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21026.js"
+  }
+}

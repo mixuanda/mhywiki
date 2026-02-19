@@ -1,0 +1,17 @@
+{
+  "id": "2200401411",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "诱狂",
+  "description": "受到首领幻影的强化，进入蓄力状态，被弱点击破后解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2200401411,
+    "MDF": "Monster_W2_Kafka_00_IF03_SummonKillBonus03",
+    "Name": "诱狂",
+    "Desc": "受到首领幻影的强化，进入蓄力状态，被弱点击破后解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

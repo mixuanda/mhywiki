@@ -1,0 +1,17 @@
+{
+  "id": "280340114",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "赔率",
+  "description": "当前赔率1:<color> <b>A</b> </color>，最高赔率1:<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340114,
+    "MDF": "Monster_W3_AventurinePart_00_Odds_EnergyBar_RL",
+    "Name": "赔率",
+    "Desc": "当前赔率1:<color> <b>A</b> </color>，最高赔率1:<color> <b>B</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

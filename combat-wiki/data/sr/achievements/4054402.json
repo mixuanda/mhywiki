@@ -1,0 +1,18 @@
+{
+  "id": "4054402",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "昨日重现",
+  "description": "白厄视角下，与任意一名村民对话",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

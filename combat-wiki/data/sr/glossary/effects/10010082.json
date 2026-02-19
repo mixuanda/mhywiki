@@ -1,0 +1,18 @@
+{
+  "id": "10010082",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "绝处反击",
+  "description": "受到致命攻击时不会陷入无法战斗状态并立即回复等同于自身生命上限<color> <b>A</b> </color>的生命值。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010082,
+    "MDF": "MAvatar_Arlan_00_PassiveSkill_UnDead",
+    "Name": "绝处反击",
+    "Desc": "受到致命攻击时不会陷入无法战斗状态并立即回复等同于自身生命上限<color> <b>A</b> </color>的生命值。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

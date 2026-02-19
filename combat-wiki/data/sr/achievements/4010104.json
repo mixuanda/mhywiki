@@ -1,0 +1,18 @@
+{
+  "id": "4010104",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "圣•遗器（四）",
+  "description": "将1件4星遗器强化至最高等级",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

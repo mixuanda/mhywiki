@@ -1,0 +1,18 @@
+{
+  "id": "4053321",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "客随主便",
+  "description": "在获得{TEXTJOIN#87}所有权之前，在泳池中冲刺玩水并遭到训斥",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

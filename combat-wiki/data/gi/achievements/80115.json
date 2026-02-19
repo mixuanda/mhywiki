@@ -1,0 +1,15 @@
+{
+  "id": "80115",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 鹤观",
+  "description": "解锁鹤观所有地灵龛的封印。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "27"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

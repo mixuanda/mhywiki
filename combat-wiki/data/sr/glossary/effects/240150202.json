@@ -1,0 +1,18 @@
+{
+  "id": "240150202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "逐火",
+  "description": "生命上限提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150202,
+    "MDF": "Modifier_Monster_W4_DawnsEye_01_MaxHPAdd",
+    "Name": "逐火",
+    "Desc": "生命上限提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

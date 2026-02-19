@@ -1,0 +1,15 @@
+{
+  "id": "80181",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 沙海热梦 · 其一",
+  "description": "解除须弥区域中，列柱沙原 、上风蚀地、下风蚀地所有地灵龛的封印。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "35"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

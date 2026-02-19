@@ -1,0 +1,15 @@
+{
+  "id": "81543",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "天蛇船的翼下",
+  "description": "天蛇船之下的遗迹组件，从前究竟有何作用呢？",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

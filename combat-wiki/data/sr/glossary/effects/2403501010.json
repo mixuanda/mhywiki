@@ -1,0 +1,18 @@
+{
+  "id": "2403501010",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "愿你将黑云驱离天边",
+  "description": "卡厄斯兰那期待着与你一起拯救世界。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2403501010,
+    "MDF": "MMonster_W4_Phainon_00_Phase2",
+    "Name": "愿你将黑云驱离天边",
+    "Desc": "卡厄斯兰那期待着与你一起拯救世界。",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

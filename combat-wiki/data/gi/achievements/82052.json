@@ -1,0 +1,15 @@
+{
+  "id": "82052",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "神奇四…",
+  "description": "使用四个相同元素属性的角色完成一次秘境挑战。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

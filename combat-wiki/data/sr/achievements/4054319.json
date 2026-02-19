@@ -1,0 +1,18 @@
+{
+  "id": "4054319",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "球棒即正义！",
+  "description": "在「银河球棒侠传说」活动中，合成最强球棒",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

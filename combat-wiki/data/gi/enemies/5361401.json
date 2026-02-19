@@ -1,0 +1,32 @@
+{
+  "id": "5361401",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "魔像督军 · 协律师",
+  "description": "最高难度 90s | Lv105",
+  "stats": {},
+  "resistance": {
+    "Phys": -0.7,
+    "Fire": -0.7,
+    "Water": -0.7,
+    "Elec": -0.7,
+    "Ice": -0.7,
+    "Grass": -0.7,
+    "Wind": -0.7,
+    "Rock": -0.7
+  },
+  "weakness": [],
+  "icon": [
+    "moxiang1"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

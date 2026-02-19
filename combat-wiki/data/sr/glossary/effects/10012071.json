@@ -1,0 +1,18 @@
+{
+  "id": "10012071",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "鸣弦号令",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012071,
+    "MDF": "MAvatar_Yukong_00_Flower_ATK",
+    "Name": "鸣弦号令",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

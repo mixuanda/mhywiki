@@ -1,0 +1,15 @@
+{
+  "id": "81593",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "阿亚尔的后继者",
+  "description": "摘得阿亚尔英雄杯桂冠。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2100401412",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "金蝉脱壳",
+  "description": "弱点属性被转移给了【无尽寒冬之槊】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2100401412,
+    "MDF": "MMonster_W1_CocoliaP2_00_IF_SplitWeakness_Show",
+    "Name": "金蝉脱壳",
+    "Desc": "弱点属性被转移给了【无尽寒冬之槊】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

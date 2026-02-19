@@ -1,0 +1,27 @@
+{
+  "id": "30116",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "异色三连星 · 瓦西里",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "fsp"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.0 地方传奇"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

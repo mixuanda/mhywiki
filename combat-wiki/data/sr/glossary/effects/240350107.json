@@ -1,0 +1,18 @@
+{
+  "id": "240350107",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "渐入混沌",
+  "description": "可回复的生命上限和可回复的战技点上限降低，当【翁法罗斯的「恨」】降低时可削弱该效果。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350107,
+    "MDF": "MMonster_W4_IronTombCore_00_BlackBlood",
+    "Name": "渐入混沌",
+    "Desc": "可回复的生命上限和可回复的战技点上限降低，当【翁法罗斯的「恨」】降低时可削弱该效果。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

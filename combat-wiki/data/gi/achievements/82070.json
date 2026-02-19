@@ -1,0 +1,15 @@
+{
+  "id": "82070",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "这个丘丘不太冷",
+  "description": "在魔化状态结束前，击败丘丘霜铠王。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "15"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

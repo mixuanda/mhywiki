@@ -1,0 +1,15 @@
+{
+  "id": "81533",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "枫丹兽会吃纳塔鱼吗？",
+  "description": "解救被困在了犯罪营地里的膨膨兽。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

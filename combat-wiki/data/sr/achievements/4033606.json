@@ -1,0 +1,18 @@
+{
+  "id": "4033606",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "绳索与棍棒",
+  "description": "世界上有两种人，一种不讲道理，一种喜欢放屁<br>※波提欧视角下，用抢来的证件加入睡蕉社",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

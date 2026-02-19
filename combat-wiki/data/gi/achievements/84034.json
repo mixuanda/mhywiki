@@ -1,0 +1,15 @@
+{
+  "id": "84034",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雷电将至",
+  "description": "得到搭乘「死兆星」号前往稻妻的机会。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

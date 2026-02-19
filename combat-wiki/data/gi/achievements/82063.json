@@ -1,0 +1,15 @@
+{
+  "id": "82063",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「什么嘛，还不如冰雾花」",
+  "description": "不击破花冠弱点的情况下，击败急冻树。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

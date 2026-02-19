@@ -1,0 +1,19 @@
+{
+  "id": "10011051",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "虚弱",
+  "description": "对我方目标造成的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011051,
+    "MDF": "MAvatar_Natasha_00_Passive_FatigueRatio",
+    "Name": "虚弱",
+    "Desc": "对我方目标造成的伤害降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

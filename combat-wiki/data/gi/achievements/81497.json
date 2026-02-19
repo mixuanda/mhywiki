@@ -1,0 +1,15 @@
+{
+  "id": "81497",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "红海啊，让开道路吧…",
+  "description": "与龙伙伴携手完成「盗火贤者」的试炼，开启通往岩浆之底的通路。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

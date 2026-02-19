@@ -1,0 +1,18 @@
+{
+  "id": "4034005",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "蛛丝浮沉",
+  "description": "再见，我那未曾发生过的记忆<br><color style='color:#8790ab;'>※于不存在的记忆中同卡芙卡告别</color>",
+  "reward": 10,
+  "version": 3.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

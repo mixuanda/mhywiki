@@ -1,0 +1,15 @@
+{
+  "id": "86005",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「我来，我见，我征服」",
+  "description": "在其他玩家的世界中，采集20个地区特产。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "13"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

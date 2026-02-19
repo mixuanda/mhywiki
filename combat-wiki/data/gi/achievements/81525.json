@@ -1,0 +1,15 @@
+{
+  "id": "81525",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "正午的海鸟",
+  "description": "帮助帕尼娅解决了浮流鸟的困扰。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

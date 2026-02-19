@@ -1,0 +1,19 @@
+{
+  "id": "10014051",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "升华",
+  "description": "同时被添加物理、火、冰、雷、风、量子、虚数弱点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014051,
+    "MDF": "MAvatar_Anaxa_00_UltraDebuff",
+    "Name": "升华",
+    "Desc": "同时被添加物理、火、冰、雷、风、量子、虚数弱点。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82231",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「巴拉奇科」",
+  "description": "在完成一次挑战的过程中，连续击破3具「巴拉奇科」释放刃影战法之前制造的分身。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "26170105",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "铁甲熔火帝皇 · 敕命远征",
+  "description": "矗立在原海异种顶端的两位霸主之一，曾经是海员之间的逸闻。不遇天敌，能够一直狩猎、进食的重甲蟹会随着成长，不断寻找适合的螺与贝壳，作为新的甲胄。\n经由地脉乱象的扭曲演绎，它凶横的身姿已化作小型军队，对目之所及的事物大张挞伐，仿若一场会移动的蟹形凶灾…",
+  "stats": {},
+  "resistance": {
+    "Fire": 0.6
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_HermitCrab_Primo"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 幽境危战",
+    "幽境危战 > 6.3"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

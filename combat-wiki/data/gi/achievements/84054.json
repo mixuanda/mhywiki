@@ -1,0 +1,15 @@
+{
+  "id": "84054",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "安娜冒险记",
+  "description": "帮助安娜成为一名冒险家。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

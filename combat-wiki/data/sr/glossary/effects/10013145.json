@@ -1,0 +1,19 @@
+{
+  "id": "10013145",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "强化追加攻击",
+  "description": "使天赋的追加攻击造成的伤害倍率提高<color> <b>A</b> </color>，该效果最多生效<color> <b>B</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013145,
+    "MDF": "MAvatar_Jade_00_Ultra_Insert",
+    "Name": "强化追加攻击",
+    "Desc": "使天赋的追加攻击造成的伤害倍率提高<color> <b>A</b> </color>，该效果最多生效<color> <b>B</b> </color>次。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

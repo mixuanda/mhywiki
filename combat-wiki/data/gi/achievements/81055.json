@@ -1,0 +1,15 @@
+{
+  "id": "81055",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "壶中密友",
+  "description": "与壶灵的信任等阶达到10级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "18"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

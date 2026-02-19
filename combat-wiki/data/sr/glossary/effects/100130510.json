@@ -1,0 +1,18 @@
+{
+  "id": "100130510",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "我思故我在",
+  "description": "攻击力提高<color> <b>B</b> </color>、暴击率提高<color> <b>C</b> </color>、暴击伤害提高<color> <b>D</b> </color>、速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100130510,
+    "MDF": "MAvatar_Dr_Ratio_00_Passive_Buff",
+    "Name": "我思故我在",
+    "Desc": "攻击力提高<color> <b>B</b> </color>、暴击率提高<color> <b>C</b> </color>、暴击伤害提高<color> <b>D</b> </color>、速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

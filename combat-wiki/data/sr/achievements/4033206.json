@@ -1,0 +1,18 @@
+{
+  "id": "4033206",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "终结技是永远的真诚",
+  "description": "击败匹诺康尼公义的捍卫者<br><color style='color:#8790ab;'>※在「巨星巅峰战」中击败银枝</color>",
+  "reward": 10,
+  "version": 2.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

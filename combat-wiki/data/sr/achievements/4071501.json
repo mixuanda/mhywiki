@@ -1,0 +1,18 @@
+{
+  "id": "4071501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "转体四周半",
+  "description": "我方目标造成单次攻击后，黑塔触发天赋旋转 5.0 圈",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

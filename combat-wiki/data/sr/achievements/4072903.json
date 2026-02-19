@@ -1,0 +1,18 @@
+{
+  "id": "4072903",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "所作所为皆为美丽",
+  "description": "在与银枝对战时，「枪尖」、「盾」、「授勋」都没有进入过「灵魂释放」状态",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81367",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "追忆泉华的时光",
+  "description": "枫丹的声望等级达到10级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

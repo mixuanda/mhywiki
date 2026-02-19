@@ -1,0 +1,39 @@
+{
+  "id": "300301201",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "惊梦剧团的十七分熟（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
+  "stats": {
+    "HP": 22.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3003010.png",
+  "figure": "monsterfigure/Monster_3003010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

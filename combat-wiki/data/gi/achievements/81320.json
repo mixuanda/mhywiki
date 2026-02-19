@@ -1,0 +1,15 @@
+{
+  "id": "81320",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "看我正义的一击！",
+  "description": "使用遗迹重炮击破巨像的核心。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

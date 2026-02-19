@@ -1,0 +1,18 @@
+{
+  "id": "100141518",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「海洋」之诗",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。施放普攻/战技攻击敌方目标后，使持续伤害类负面状态额外产生1次伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141518,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Harscyline",
+    "Name": "献予「海洋」之诗",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。施放普攻/战技攻击敌方目标后，使持续伤害类负面状态额外产生1次伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

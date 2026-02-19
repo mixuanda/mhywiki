@@ -1,0 +1,15 @@
+{
+  "id": "80364",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "灼火的追忆",
+  "description": "掌握「火」的元素力。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "57"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

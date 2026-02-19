@@ -1,0 +1,17 @@
+{
+  "id": "10014078",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "月茧",
+  "description": "该角色暂时延后陷入无法战斗状态，且可以正常行动。行动后，若下一次回合开始前接受治疗或获得护盾时可解除【月茧】状态，否则将立即陷入无法战斗状态。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014078,
+    "MDF": "MAvatar_GlobalSkill_Castorice_DeathTime",
+    "Name": "月茧",
+    "Desc": "该角色暂时延后陷入无法战斗状态，且可以正常行动。行动后，若下一次回合开始前接受治疗或获得护盾时可解除【月茧】状态，否则将立即陷入无法战斗状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

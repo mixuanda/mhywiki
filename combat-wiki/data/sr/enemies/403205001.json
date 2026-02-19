@@ -1,0 +1,39 @@
+{
+  "id": "403205001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "黑潮朽弓",
+  "description": "从黑潮中诞生的扭曲造物，对杀戮的渴求成为了空洞躯壳中仅存的意志。<br>手握携带诅咒的弓箭，能够在射击中同时捕捉多个方向的目标。任何出现在它视野中的活物，都无法回避被箭矢瞄准的绝境。",
+  "stats": {
+    "HP": 2.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 155.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4032050.png",
+  "figure": "monsterfigure/Monster_4032050.png",
+  "camp": {
+    "id": "14",
+    "name": "黑潮造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

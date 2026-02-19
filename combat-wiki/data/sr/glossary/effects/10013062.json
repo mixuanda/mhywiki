@@ -1,0 +1,18 @@
+{
+  "id": "10013062",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "谜诡",
+  "description": "使花火天赋造成的伤害提高效果每层额外提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013062,
+    "MDF": "MAvatar_Sparkle_Skill03_PowerUp",
+    "Name": "谜诡",
+    "Desc": "使花火天赋造成的伤害提高效果每层额外提高<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81553",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "画中有话",
+  "description": "再现了昆图尔的冒险。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

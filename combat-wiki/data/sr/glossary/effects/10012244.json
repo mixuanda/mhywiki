@@ -1,0 +1,18 @@
+{
+  "id": "10012244",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "盖世女侠三月七",
+  "description": "下一次强化普攻的初始攻击段数增加<color> <b>A</b> </color>段，额外造成伤害的固定概率提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012244,
+    "MDF": "MAvatar_Mar_7th_10_Skill03_Enhance_Normal",
+    "Name": "盖世女侠三月七",
+    "Desc": "下一次强化普攻的初始攻击段数增加<color> <b>A</b> </color>段，额外造成伤害的固定概率提高<color> <b>B</b> </color>。",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

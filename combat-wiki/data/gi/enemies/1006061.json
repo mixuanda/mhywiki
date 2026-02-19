@@ -1,0 +1,21 @@
+{
+  "id": "1006061",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深黯魇语之主 · 袭掠锋刃",
+  "description": "伏行于深黯的裂隙，窥伺此世的深渊魔物。据说那怪异、亵渎的无面形貌不过是投射于世界上的影像，其真实姿态乃是以纯粹深渊能量形式存在的无形之物。<br>在地脉乱象狂乱的裹挟中，它疯狂与谵妄的低语被锻成了锐不可当的刀锋，誓要将此世的安稳秩序撕碎…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_LloigorPrimo",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

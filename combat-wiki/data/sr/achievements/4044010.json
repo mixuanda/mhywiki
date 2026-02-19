@@ -1,0 +1,18 @@
+{
+  "id": "4044010",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "反戴的荆棘冠冕",
+  "description": "有人头戴荆棘的冠冕。但也有人……<br><color style='color:#8790ab;'>※在「黄金替罪羊」中，失足跌落在荆棘上</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

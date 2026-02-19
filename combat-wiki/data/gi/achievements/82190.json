@@ -1,0 +1,15 @@
+{
+  "id": "82190",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「我警惕雷穆利亚人…」",
+  "description": "「…即使他们带着乐器。」",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

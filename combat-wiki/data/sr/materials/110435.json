@@ -1,0 +1,10 @@
+{
+  "id": "110435",
+  "game": "sr",
+  "entityType": "material",
+  "name": "暮晖烬蕾",
+  "icon": "itemicon/110435.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

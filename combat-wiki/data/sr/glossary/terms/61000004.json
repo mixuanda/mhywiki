@@ -1,0 +1,15 @@
+{
+  "id": "61000004",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "追忆",
+  "description": "进入带有该效果的区域时将提高我方全体效果命中",
+  "content": {
+    "_id": 61000004,
+    "Name": "追忆",
+    "Desc": "进入带有该效果的区域时将提高我方全体效果命中"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

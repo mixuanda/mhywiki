@@ -1,0 +1,15 @@
+{
+  "id": "82251",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "你也是迪诺巴鲁托？",
+  "description": "在贪食匿叶龙山王吞下火榴果之前将其点燃，使果子在被吞下后爆炸。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4040406",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "鼹鼠的故事",
+  "description": "集齐所有的《冒险鼹鼠队》",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

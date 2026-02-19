@@ -1,0 +1,15 @@
+{
+  "id": "82221",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「异色三连星」",
+  "description": "在先击败瓦西里后，再击败异色三连星的其他成员。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

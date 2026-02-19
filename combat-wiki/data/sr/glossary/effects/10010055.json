@@ -1,0 +1,19 @@
+{
+  "id": "10010055",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "狂想者，呜咽",
+  "description": "造成的持续伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010055,
+    "MDF": "MAvatar_Kafka_Rank02_Sub",
+    "Name": "狂想者，呜咽",
+    "Desc": "造成的持续伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "203401001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "步离战首 · 呼雷",
+  "description": "犯尽十恶，永镇于幽狱之底的步离人首领。<br>身负七百年苦狱仇恨，在脱出牢笼后，群狼之主向整个罗浮仙舟发起了挑战。但潜藏在疯狂之举的背后，似乎另有目标……",
+  "stats": {
+    "HP": 27.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 200.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Wind"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2034010.png",
+  "figure": "monsterfigure/Monster_2034010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

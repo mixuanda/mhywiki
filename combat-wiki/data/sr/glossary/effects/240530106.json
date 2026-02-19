@@ -1,0 +1,19 @@
+{
+  "id": "240530106",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "黑潮热",
+  "description": "<color> <b>A</b> </color>点伤害以持续伤害形式在一定回合内扣除。每回合开始时受到风化、灼烧、触电、裂伤持续伤害。自身在【在毁灭中狂欢】状态结束时立即解除该状态，免受该持续伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530106,
+    "MDF": "MMonster_W4_Manta_00_Virus_Monster",
+    "Name": "黑潮热",
+    "Desc": "<color> <b>A</b> </color>点伤害以持续伤害形式在一定回合内扣除。每回合开始时受到风化、灼烧、触电、裂伤持续伤害。自身在【在毁灭中狂欢】状态结束时立即解除该状态，免受该持续伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

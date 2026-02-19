@@ -1,0 +1,15 @@
+{
+  "id": "61000018",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "首领",
+  "description": "首领区域，在这个区域中战胜首领可以通关本位面，获得祝福和奇物。",
+  "content": {
+    "_id": 61000018,
+    "Name": "首领",
+    "Desc": "首领区域，在这个区域中战胜首领可以通关本位面，获得祝福和奇物。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

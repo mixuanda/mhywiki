@@ -1,0 +1,22 @@
+{
+  "id": "12412",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "衔珠海皇",
+  "description": "海中的大王。经过风干，是称手的兵器以及应急食品。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ATK",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112004",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12412.js"
+  }
+}

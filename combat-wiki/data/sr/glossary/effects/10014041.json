@@ -1,0 +1,17 @@
+{
+  "id": "10014041",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "血仇",
+  "description": "生命上限提高<color> <b>A</b> </color>点，防御力保持为0。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014041,
+    "MDF": "MAvatar_Mydeimos_00_Transfer",
+    "Name": "血仇",
+    "Desc": "生命上限提高<color> <b>A</b> </color>点，防御力保持为0。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

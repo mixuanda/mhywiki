@@ -1,0 +1,28 @@
+{
+  "id": "4660501",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "古岩龙蜥 · 溟冬",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 0.3,
+    "Rock": 0.7,
+    "Water": 0.7,
+    "Ice": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "pg"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

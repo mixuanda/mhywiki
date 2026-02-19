@@ -1,0 +1,22 @@
+{
+  "id": "15012",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "祭风之人",
+  "icon": "UI_RelicIcon_15012",
+  "setBonuses": [
+    {
+      "Num": 1,
+      "Skill": "受到的风元素附着效果的持续时间减少40%。"
+    }
+  ],
+  "parts": [
+    "祭风礼冠"
+  ],
+  "extra": [
+    "未实装"
+  ],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

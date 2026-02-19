@@ -1,0 +1,18 @@
+{
+  "id": "4054049",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "磐岩式社交",
+  "description": "有时候，人们只是害羞<br><color style='color:#8790ab;'>※锲而不舍地与佩特拉对话，并成功引起他的注意</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

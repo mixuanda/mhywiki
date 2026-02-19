@@ -1,0 +1,18 @@
+{
+  "id": "4084301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "真正的堂吉诃德",
+  "description": "真是个好天气，让我们把风扇搞坏吧！<br><color style='color:#8790ab;'>※短时间内改变同一个风场装置的状态10.0次</color>",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

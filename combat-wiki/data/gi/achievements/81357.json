@@ -1,0 +1,15 @@
+{
+  "id": "81357",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "你是否相信极乐城？",
+  "description": "帮助缔造膨膨兽的乐园。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

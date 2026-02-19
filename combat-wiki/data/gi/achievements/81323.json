@@ -1,0 +1,15 @@
+{
+  "id": "81323",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "七谷的试炼",
+  "description": "「灵光绝唱」的力量已在掌握之中。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

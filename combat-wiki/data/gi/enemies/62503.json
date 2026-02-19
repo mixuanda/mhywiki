@@ -1,0 +1,34 @@
+{
+  "id": "62503",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "尖峰",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 0.10000000149011612,
+    "Fire": 0.5,
+    "Water": 0.10000000149011612,
+    "Elec": 0.10000000149011612,
+    "Ice": 0.10000000149011612,
+    "Grass": 0.10000000149011612,
+    "Wind": 0.10000000149011612,
+    "Rock": 0.10000000149011612
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Natsaurus_Bisonsaurus_Crystal"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.5 地方传奇"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

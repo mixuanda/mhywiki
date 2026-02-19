@@ -1,0 +1,18 @@
+{
+  "id": "4082804",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "捉鬼敢死队",
+  "description": "使用同时包含藿藿、素裳、桂乃芬、开拓者的队伍获得 1.0 场战斗的胜利",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

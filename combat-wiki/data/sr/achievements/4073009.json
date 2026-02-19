@@ -1,0 +1,18 @@
+{
+  "id": "4073009",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "安静燃烧",
+  "description": "在与「星核猎手」萨姆的战斗中，敌方萨姆进入「次级燃烧」后没有使用「DHGDR-超新星过载」就解除该状态",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

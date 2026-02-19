@@ -1,0 +1,15 @@
+{
+  "id": "61000023",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "自我认知",
+  "description": "特殊事件区域，在这个区域中可以调整自我认知的数值，从而前往不同的分支。",
+  "content": {
+    "_id": 61000023,
+    "Name": "自我认知",
+    "Desc": "特殊事件区域，在这个区域中可以调整自我认知的数值，从而前往不同的分支。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

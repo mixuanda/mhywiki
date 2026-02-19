@@ -1,0 +1,39 @@
+{
+  "id": "1005011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "可可利亚，虚妄之母",
+  "description": "受「星核」漫溢的裂界能量同化之后，大守护者幻化为操控虚数能量的歌者，亦是祂所承诺的「新世界」的代言人。",
+  "stats": {
+    "HP": 19.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 18.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.6,
+    "Wind": 0.4,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_1005010.png",
+  "figure": "monsterfigure/Monster_1005010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

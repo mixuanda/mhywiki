@@ -1,0 +1,17 @@
+{
+  "id": "280340115",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "时来",
+  "description": "受到进入赌局的目标攻击时必定产生6的点数，并在赌局结束时施放【败罚】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340115,
+    "MDF": "Monster_W3_AventurinePart_00_DeathRattle_RL",
+    "Name": "时来",
+    "Desc": "受到进入赌局的目标攻击时必定产生6的点数，并在赌局结束时施放【败罚】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

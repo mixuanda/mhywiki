@@ -1,0 +1,17 @@
+{
+  "id": "240640101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "决狱从速",
+  "description": "受到的伤害降低<color> <b>A</b> </color>，被弱点击破时解除，行动额外延后，并对自身造成大量虚数属性伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240640101,
+    "MDF": "MMonster_W4_Serpent_01_Passive_Sub",
+    "Name": "决狱从速",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>，被弱点击破时解除，行动额外延后，并对自身造成大量虚数属性伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

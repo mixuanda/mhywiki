@@ -1,0 +1,30 @@
+{
+  "id": "300402104",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "心蕉如火的猴把戏",
+  "description": "被「源究森林」的树荫遮蔽理智的美梦剧团。它们携带着「奇想林」中结出的模因病毒，于梦中蕉横地宣扬睡蕉小猴的蕉旨与原始博士的蕉诲。",
+  "stats": {
+    "HP": 210.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 50.0,
+    "Stance": 13.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3004020.png",
+  "figure": "monsterfigure/Monster_3004020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

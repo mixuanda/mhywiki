@@ -1,0 +1,18 @@
+{
+  "id": "100141533",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "浪漫",
+  "description": "阿格莱雅或衣匠攻击后恢复<color> <b>A</b> </color>点能量。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141533,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Aglaea_Sub2",
+    "Name": "浪漫",
+    "Desc": "阿格莱雅或衣匠攻击后恢复<color> <b>A</b> </color>点能量。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "21044",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "无边曼舞",
+  "rarity": 4,
+  "path": "Nihility",
+  "skillId": 21044,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 476.28,
+    "DEF": 330.75
+  },
+  "materialRefs": [
+    "110223",
+    "114013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21044.js"
+  }
+}

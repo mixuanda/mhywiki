@@ -1,0 +1,15 @@
+{
+  "id": "81213",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "要求太多的大蘑头",
+  "description": "在层岩巨渊完成「赞玛兰」的委托。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

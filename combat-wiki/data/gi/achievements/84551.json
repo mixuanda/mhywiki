@@ -1,0 +1,15 @@
+{
+  "id": "84551",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "出港日",
+  "description": "拿到亚历山德拉的留信…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

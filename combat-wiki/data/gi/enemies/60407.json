@@ -1,0 +1,29 @@
+{
+  "id": "60407",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "赤璋巡岳府君 · 天虞",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 0.3,
+    "Rock": 0.5,
+    "Ice": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "gv"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.4"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

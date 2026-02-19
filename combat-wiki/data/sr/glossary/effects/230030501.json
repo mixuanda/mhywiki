@@ -1,0 +1,19 @@
+{
+  "id": "230030501",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "荒宴醉",
+  "description": "一定回合内，每回合开始时受到风属性伤害，该效果可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030501,
+    "MDF": "MMonster_W3_Figure_01_Poison",
+    "Name": "荒宴醉",
+    "Desc": "一定回合内，每回合开始时受到风属性伤害，该效果可叠加。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

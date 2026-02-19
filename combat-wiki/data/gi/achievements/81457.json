@@ -1,0 +1,15 @@
+{
+  "id": "81457",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "铁石为开",
+  "description": "帮助千岩军查获了「铁盐帮」的非法贸易。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

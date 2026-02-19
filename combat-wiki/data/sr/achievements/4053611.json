@@ -1,0 +1,18 @@
+{
+  "id": "4053611",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "' 39 ",
+  "description": "使用钟表把戏阅读哈里森的所有情绪",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

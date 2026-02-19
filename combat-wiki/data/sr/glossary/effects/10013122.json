@@ -1,0 +1,17 @@
+{
+  "id": "10013122",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "要…要迟到了！",
+  "description": "终结技的攻击段数。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013122,
+    "MDF": "MAvatar_Misha_00_EnergyCount",
+    "Name": "要…要迟到了！",
+    "Desc": "终结技的攻击段数。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "220040141",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "僵化",
+  "description": "造成的伤害降低<color> <b>A</b> </color>，效果命中降低<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040141,
+    "MDF": "Monster_W2_Kafka_00_IF03_SummonWeak",
+    "Name": "僵化",
+    "Desc": "造成的伤害降低<color> <b>A</b> </color>，效果命中降低<color> <b>B</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

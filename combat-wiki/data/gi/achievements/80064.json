@@ -1,0 +1,15 @@
+{
+  "id": "80064",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "赤红的新芽",
+  "description": "将忍冬之树供奉至4级。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "16"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

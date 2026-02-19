@@ -1,0 +1,18 @@
+{
+  "id": "10011124",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "10011124",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 10011124,
+    "MDF": "MAvatar_Topaz_BE_UltraEnhance_Text",
+    "Name": {},
+    "Desc": {},
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054014",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "大宇宙，小人间",
+  "description": "在完成「寻人记」任务后，与星穹列车上的小机器人对话",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

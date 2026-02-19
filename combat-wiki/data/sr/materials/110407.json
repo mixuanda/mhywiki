@@ -1,0 +1,10 @@
+{
+  "id": "110407",
+  "game": "sr",
+  "entityType": "material",
+  "name": "往日之影的金饰",
+  "icon": "itemicon/110407.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81075",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「乘风破浪真君」",
+  "description": "持续搭乘「浪船」达到一定时间。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

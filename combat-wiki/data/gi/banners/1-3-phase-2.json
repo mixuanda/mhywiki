@@ -1,0 +1,30 @@
+{
+  "id": "1-3-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "1.3",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Keqing",
+      "X": 1
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Bennett",
+      "X": 2
+    },
+    {
+      "N": "Ningguang",
+      "X": 2
+    },
+    {
+      "N": "Barbara",
+      "X": 2
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

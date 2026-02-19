@@ -1,0 +1,18 @@
+{
+  "id": "4043221",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "哈努的遗产",
+  "description": "在盛会海选中找到「枪火的试炼」中的隐藏密宝",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4033706",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "在第八日启程",
+  "description": "失去的乐园从未被抛在身后，它在前方<br><color style='color:#8790ab;'>※星期日视角下，完成最后的告别</color>",
+  "reward": 10,
+  "version": 2.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

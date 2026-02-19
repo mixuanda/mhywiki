@@ -1,0 +1,18 @@
+{
+  "id": "4074803",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "舞！舞！舞！",
+  "description": "单场战斗中，「同谐」命途开拓者、忘归人和大丽花全部施放过终结技",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "110153",
+  "game": "sr",
+  "entityType": "material",
+  "name": "沉沦黑曜",
+  "icon": "itemicon/110153.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

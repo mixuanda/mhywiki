@@ -1,0 +1,15 @@
+{
+  "id": "84576",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "纳塔博学者",
+  "description": "在凯塔的一轮提问中，正确地回答了所有问题。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

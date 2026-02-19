@@ -1,0 +1,15 @@
+{
+  "id": "81479",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "第十位缪斯",
+  "description": "得以掌握「乐章」的力量。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "103",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "风史莱姆",
+  "description": "逸散在自然之中的风元素凝聚形成的小小魔物。\n因为风元素的力量，所以具有一定程度的飘浮能力。",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "aslm"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 小史莱姆"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

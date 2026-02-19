@@ -1,0 +1,18 @@
+{
+  "id": "10012183",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "鼎阵妙法，奇正相生",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 10012183,
+    "MDF": "BUYONG_MAvatar_Jiaoqiu_00_Ultra_FriendForShow",
+    "Name": "鼎阵妙法，奇正相生",
+    "Desc": {},
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

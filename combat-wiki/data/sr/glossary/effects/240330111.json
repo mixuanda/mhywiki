@@ -1,0 +1,17 @@
+{
+  "id": "240330111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "可负载",
+  "description": "目标生命值最多降至1点，同时会将受到的伤害超出当前生命值的部分转化为【负载生命值】，受到治疗时会优先回复【负载生命值】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330111,
+    "MDF": "MMonster_XP_Elite01_02_LocalLegend_Skill03_Mark",
+    "Name": "可负载",
+    "Desc": "目标生命值最多降至1点，同时会将受到的伤害超出当前生命值的部分转化为【负载生命值】，受到治疗时会优先回复【负载生命值】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

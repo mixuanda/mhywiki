@@ -1,0 +1,25 @@
+{
+  "id": "30602",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众 · 幽风铃兰",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuus_Escadron_Wind"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 愚人众役人"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

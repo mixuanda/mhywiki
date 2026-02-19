@@ -1,0 +1,17 @@
+{
+  "id": "240640106",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "首犯",
+  "description": "【%DynamicTargetName】施放【罪血枭首】时，承受最高伤害，若有未被护盾抵消的伤害则会被施加【罪血腐蚀】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240640106,
+    "MDF": "MMonster_W4_Serpent_01_Charge02_Target",
+    "Name": "首犯",
+    "Desc": "【%DynamicTargetName】施放【罪血枭首】时，承受最高伤害，若有未被护盾抵消的伤害则会被施加【罪血腐蚀】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

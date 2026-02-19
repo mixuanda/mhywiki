@@ -1,0 +1,15 @@
+{
+  "id": "81449",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "壶中景迥日月长",
+  "description": "在沉玉谷的山川间，斟满所有的古茶杯。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

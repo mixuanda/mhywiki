@@ -1,0 +1,15 @@
+{
+  "id": "80015",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如日方升的旅程",
+  "description": "角色首次突破至4阶。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

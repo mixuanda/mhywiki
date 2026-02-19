@@ -1,0 +1,18 @@
+{
+  "id": "4054063",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不再喧嚣",
+  "description": "即使命运冰冷无情，也总有些事情会发生改变<br><color style='color:#8790ab;'>※找寻在夢中呼唤帕西提亚的幽灵</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

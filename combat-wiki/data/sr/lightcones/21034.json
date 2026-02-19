@@ -1,0 +1,23 @@
+{
+  "id": "21034",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "今日亦是和平的一日",
+  "rarity": 4,
+  "path": "Erudition",
+  "skillId": 21034,
+  "baseStats": {
+    "HP": 846.72,
+    "ATK": 529.2,
+    "DEF": 330.75
+  },
+  "materialRefs": [
+    "110133",
+    "113003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21034.js"
+  }
+}

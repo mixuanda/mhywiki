@@ -1,0 +1,15 @@
+{
+  "id": "317",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "沉陆海域露莎卡",
+  "icon": "71036.png",
+  "setBonuses": [
+    "使装备者的能量恢复效率提高 <b>5%</b> ，如果装备者不是编队中的第一位角色，使编队中的第一位角色攻击力提高 <b>12%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/317.js"
+  }
+}

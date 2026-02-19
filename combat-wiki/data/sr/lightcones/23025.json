@@ -1,0 +1,23 @@
+{
+  "id": "23025",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "梦应归于何处",
+  "rarity": 5,
+  "path": "Destruction",
+  "skillId": 23025,
+  "baseStats": {
+    "HP": 1164.24,
+    "ATK": 476.28,
+    "DEF": 529.2
+  },
+  "materialRefs": [
+    "110183",
+    "114013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/23025.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84518",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「您好，亲爱的爸爸…」",
+  "description": "了解提米的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4082501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "地下守护者",
+  "description": "使用同时包含娜塔莎、希儿、卢卡的队伍获得1场战斗的胜利",
+  "reward": 5,
+  "version": 1.2,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

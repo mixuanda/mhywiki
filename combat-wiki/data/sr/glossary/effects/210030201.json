@@ -1,0 +1,19 @@
+{
+  "id": "210030201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "集火",
+  "description": "被所有银鬃铁卫锁定为攻击目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210030201,
+    "MDF": "Monster_Gepard_Attack_Sign",
+    "Name": "集火",
+    "Desc": "被所有银鬃铁卫锁定为攻击目标。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

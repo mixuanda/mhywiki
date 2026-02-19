@@ -1,0 +1,15 @@
+{
+  "id": "81555",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "坏事不过三…",
+  "description": "在纳塔三次帮助倒霉的部落人逃离困境。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "14504",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "尘世之锁",
+  "description": "蕴含着某种悠远记忆的石锁，随着无穷的变换透露出其中的力量。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 608.0745972,
+  "subStatType": "ATK",
+  "subStatValue": 0.49615200000000004,
+  "materialRefs": [
+    "112007",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14504.js"
+  }
+}

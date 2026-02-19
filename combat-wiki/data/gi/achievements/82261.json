@@ -1,0 +1,15 @@
+{
+  "id": "82261",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「陨落的晨星之灵」",
+  "description": "在从未解冻被冰封的火炬的情况下，击败「陨落的晨星之灵」。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

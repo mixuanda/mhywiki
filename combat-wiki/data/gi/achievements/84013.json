@@ -1,0 +1,15 @@
+{
+  "id": "84013",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "春香窑的「副业」",
+  "description": "了解「岩王帝君」中意的香膏品类。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

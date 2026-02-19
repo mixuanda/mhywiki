@@ -1,0 +1,15 @@
+{
+  "id": "82050",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "My Precious",
+  "description": "深境螺旋：在地脉镇石完好的情况下完成第2层第2间。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "9"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

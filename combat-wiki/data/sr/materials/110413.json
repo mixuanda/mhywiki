@@ -1,0 +1,10 @@
+{
+  "id": "110413",
+  "game": "sr",
+  "entityType": "material",
+  "name": "苦寒晶壳",
+  "icon": "itemicon/110413.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

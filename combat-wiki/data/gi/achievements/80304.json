@@ -1,0 +1,15 @@
+{
+  "id": "80304",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "瑶庭引路人",
+  "description": "在沉玉谷追随<color style='color:#FF0000;'><b>16</b></color>个仙灵，并点亮仙灵之庭。",
+  "reward": 20,
+  "version": "4.4",
+  "group": {
+    "id": "47"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "110213",
+  "game": "sr",
+  "entityType": "material",
+  "name": "神体琥珀",
+  "icon": "itemicon/110213.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

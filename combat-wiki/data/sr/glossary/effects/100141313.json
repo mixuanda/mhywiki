@@ -1,0 +1,18 @@
+{
+  "id": "100141313",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "天黑黑，月寂寂",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141313,
+    "MDF": "MAvatar_Evernight_00_PointB1_Buff",
+    "Name": "天黑黑，月寂寂",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

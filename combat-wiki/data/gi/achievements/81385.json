@@ -1,0 +1,15 @@
+{
+  "id": "81385",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "打破时间墙",
+  "description": "击破棘球孢囊，使该水域得到净化。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

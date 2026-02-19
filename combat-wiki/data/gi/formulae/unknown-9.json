@@ -1,0 +1,19 @@
+{
+  "id": "unknown-9",
+  "game": "gi",
+  "entityType": "formula",
+  "language": "CH",
+  "title": "结晶反应",
+  "subtitle": null,
+  "content": [
+    [
+      "触发@结晶#反应时，会掉落对应火/水/雷/冰元素的晶片，拾取后可获得护盾",
+      "结晶护盾对其自身属性的伤害有 @250%# 的吸收效率"
+    ],
+    "$$结晶盾量=1851.06\\times \\left( 1 + \\frac{4.44\\times 元素精通}{元素精通 + 1400} \\right)$$",
+    "角色具有护盾时，护盾量还会受@护盾强效#影响，护盾强效取决于持有护盾的角色，而非创造晶片的角色"
+  ],
+  "source": {
+    "file": "javascripts/formulae_gi.js"
+  }
+}

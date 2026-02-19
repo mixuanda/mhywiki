@@ -1,0 +1,15 @@
+{
+  "id": "81473",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "龙蜥特急斯库拉号",
+  "description": "第一次使用斯库拉召唤的激流前往目标地点。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4090202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "爱的艺术",
+  "description": "「模拟宇宙」战斗内，我方所有角色累计获得护盾次数达到 50.0 ",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

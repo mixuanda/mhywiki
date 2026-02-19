@@ -1,0 +1,15 @@
+{
+  "id": "82055",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…出奇迹？",
+  "description": "击败「奇怪的丘丘人」1次。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "14"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

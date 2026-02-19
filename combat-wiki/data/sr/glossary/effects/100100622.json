@@ -1,0 +1,18 @@
+{
+  "id": "100100622",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "易伤",
+  "description": "受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100622,
+    "MDF": "MAvatar_Advanced_Silwolf_00_Rank02_AllDamageTypeTakenRatio",
+    "Name": "易伤",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

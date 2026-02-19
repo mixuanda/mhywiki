@@ -1,0 +1,15 @@
+{
+  "id": "82240",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「特拉扎库伊洛特尔」",
+  "description": "在不被来自「特拉扎库伊洛特尔」的攻击命中的情况下，将其击败。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

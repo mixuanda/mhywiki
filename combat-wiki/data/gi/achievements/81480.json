@@ -1,0 +1,15 @@
+{
+  "id": "81480",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "墙上的奥德赛",
+  "description": "完成褪色城堡的舞台演奏。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

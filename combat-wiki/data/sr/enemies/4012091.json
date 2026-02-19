@@ -1,0 +1,39 @@
+{
+  "id": "4012091",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "百眼之末",
+  "description": "融合神游离的单眼。不具有成像能力，主要功能是辅助主眼极化天气。",
+  "stats": {
+    "HP": 12.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4012091.png",
+  "figure": "monsterfigure/Monster_4012091.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

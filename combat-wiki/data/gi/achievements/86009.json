@@ -1,0 +1,15 @@
+{
+  "id": "86009",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「原来那个柱子能打啊」",
+  "description": "与其他玩家一同战胜无相之岩。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "13"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

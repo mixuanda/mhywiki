@@ -1,0 +1,18 @@
+{
+  "id": "4053305",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Omega Ruby",
+  "description": "「折纸小鸟对对碰」活动中，将银狼小鸟、流萤小鸟与开拓小鸟摆放在同一侧街机上",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

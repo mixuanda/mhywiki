@@ -1,0 +1,15 @@
+{
+  "id": "84539",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "同心训练家？",
+  "description": "协助朝仓进行5次训练。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80312",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沉玉祝珑",
+  "description": "完成「沉玉祝珑」。",
+  "reward": 10,
+  "version": "4.4",
+  "group": {
+    "id": "47"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

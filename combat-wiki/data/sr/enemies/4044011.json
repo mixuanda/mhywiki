@@ -1,0 +1,39 @@
+{
+  "id": "4044011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "第一位天才，隐德来希，赞达尔",
+  "description": "以吕枯耳戈斯之名静观千百万次轮回的神礼观众，承载天才俱乐部#1赞达尔 · 壹 · 桑原的意志。以最初的「天才」权柄，执掌超越神话的伟力，试将漫长的实验导向「毁灭」的宿命。",
+  "stats": {
+    "HP": 100.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 160.0,
+    "Stance": 20.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4044010.png",
+  "figure": "monsterfigure/Monster_4044010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

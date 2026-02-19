@@ -1,0 +1,17 @@
+{
+  "id": "10012034",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "白花的祈望",
+  "description": "战技效果自动触发尚在冷却中。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012034,
+    "MDF": "MAvatar_Luocha_00_Passive01_HealHPCD",
+    "Name": "白花的祈望",
+    "Desc": "战技效果自动触发尚在冷却中。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

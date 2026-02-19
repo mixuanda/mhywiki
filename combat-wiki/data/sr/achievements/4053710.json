@@ -1,0 +1,18 @@
+{
+  "id": "4053710",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "今夜无事发生",
+  "description": "在属于你的房间，度过悠然无事的夜晚<br><color style='color:#8790ab;'>※ 完成活动「宇宙家装指南」</color>",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

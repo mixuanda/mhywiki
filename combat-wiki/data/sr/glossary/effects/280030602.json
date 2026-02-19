@@ -1,0 +1,19 @@
+{
+  "id": "280030602",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "test_黑血",
+  "description": "test_使血量上限减少至添加该效果时的血量，可净化",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030602,
+    "MDF": "Monster_XP_Elite02_02_DirtyHPSpecial",
+    "Name": "test_黑血",
+    "Desc": "test_使血量上限减少至添加该效果时的血量，可净化",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

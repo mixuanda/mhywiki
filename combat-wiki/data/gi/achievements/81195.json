@@ -1,0 +1,15 @@
+{
+  "id": "81195",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "阴阳割昏晓",
+  "description": "前往大日御舆之顶。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

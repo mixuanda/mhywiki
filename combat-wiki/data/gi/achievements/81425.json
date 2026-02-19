@@ -1,0 +1,15 @@
+{
+  "id": "81425",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "乌鸦还是乌鸫？",
+  "description": "是鹈鹕啦！",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

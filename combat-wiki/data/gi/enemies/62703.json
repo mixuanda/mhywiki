@@ -1,0 +1,33 @@
+{
+  "id": "62703",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "熔岩辉龙像",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_LavaTitan"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 熔岩游像"
+  ],
+  "analysis": {
+    "Name": "熔岩辉龙像",
+    "Icon": "UI_MonsterIcon_LavaTitan",
+    "DescList": [
+      "• @深渊版# - 初始处于「岩之人」状态：全抗 @150%# ，受到火元素攻击 @+2%# 进度，每被施加 1U 火附着额外 @+6.8%#",
+      "• 进度填满后进化为「熔焰之龙」：@自挂火#，火抗 @150%# ，其他抗 @45%#，受到火元素攻击 @+1%# 进度，每被施加 1U 火附着额外 @+3.4%# ，受到@冰/水#伤害 @-22%#",
+      "• 进度再次填满后瘫痪：全抗 @10%# ，持续 @17s# ，恢复后回到「岩之人」状态"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

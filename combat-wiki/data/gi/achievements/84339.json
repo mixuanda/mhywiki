@@ -1,0 +1,15 @@
+{
+  "id": "84339",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "终战之战",
+  "description": "在长夜的尽头，终现名为「希望」的曙光。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

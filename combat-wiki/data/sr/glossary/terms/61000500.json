@@ -1,0 +1,15 @@
+{
+  "id": "61000500",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "基础伤害",
+  "description": "敌方目标等级、阈值协议越高，造成的基础伤害越高。",
+  "content": {
+    "_id": 61000500,
+    "Name": "基础伤害",
+    "Desc": "敌方目标等级、阈值协议越高，造成的基础伤害越高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

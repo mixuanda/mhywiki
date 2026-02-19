@@ -1,0 +1,15 @@
+{
+  "id": "81297",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "被染红的月亮",
+  "description": "这片广阔的棋盘，曾在血红的月亮之下推演何种暴行？",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

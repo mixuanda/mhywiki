@@ -1,0 +1,21 @@
+{
+  "id": "1003061",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "兆载永劫龙兽 · 歼灭构型",
+  "description": "如同古时曾制御大地的君王一般，令人望而生畏的龙形战斗机械。<br>这架不知疲倦的神秘机械巨兽似乎证明，传说已经覆灭的国度确已触及了人所不应抵达的领域。<br>经由地脉乱象的长久侵染，它的框架竟已悄然演进，对歼灭任务产生了卓越的适应逻辑，成为战场上至为致命的噩梦…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_GargoyleFafnir",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

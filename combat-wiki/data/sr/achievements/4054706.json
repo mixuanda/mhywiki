@@ -1,0 +1,18 @@
+{
+  "id": "4054706",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "昨日与明天",
+  "description": "「开拓」一向如此：做好准备，也心怀希望<br><color style='color:#8790ab;'>※与翁法罗斯告别后，重回空间站「黑塔」主控舱段</color>",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

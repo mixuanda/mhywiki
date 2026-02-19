@@ -1,0 +1,15 @@
+{
+  "id": "80143",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "昨日重现",
+  "description": "通过「千籁至音」系列摆设在尘歌壶内激活30首旋律。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

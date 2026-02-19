@@ -1,0 +1,18 @@
+{
+  "id": "4053009",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "千爵时代的故事",
+  "description": "通过作弊的方式赢得「幸运转盘」的特殊奖励",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

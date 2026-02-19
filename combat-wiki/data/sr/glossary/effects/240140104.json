@@ -1,0 +1,17 @@
+{
+  "id": "240140104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "纷争袭来",
+  "description": "分摊【蛮神，疯王，纷争的化身】所释放的【千邦荡平，万军成灰】的攻击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140104,
+    "MDF": "Monster_W4_Nikadory_00_Skill05Split",
+    "Name": "纷争袭来",
+    "Desc": "分摊【蛮神，疯王，纷争的化身】所释放的【千邦荡平，万军成灰】的攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

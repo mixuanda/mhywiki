@@ -1,0 +1,18 @@
+{
+  "id": "4034707",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "彼之灵魂即全宇宙",
+  "description": "群星将看见翁法罗斯的答案<br><color style='color:#8790ab;'>※「你好，世界」</color>",
+  "reward": 10,
+  "version": 3.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

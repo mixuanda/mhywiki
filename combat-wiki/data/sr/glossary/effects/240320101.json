@@ -1,0 +1,17 @@
+{
+  "id": "240320101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "侵蚀",
+  "description": "攻击后回复侵蚀部分的生命值，击中的目标数量越多，回复的生命值越高。通过回复生命值的方式解除侵蚀时，使自身获得【焕新】效果。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240320101,
+    "MDF": "MMonster_AML_Minion02_01_RallyHP_V2",
+    "Name": "侵蚀",
+    "Desc": "攻击后回复侵蚀部分的生命值，击中的目标数量越多，回复的生命值越高。通过回复生命值的方式解除侵蚀时，使自身获得【焕新】效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

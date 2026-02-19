@@ -1,0 +1,22 @@
+{
+  "id": "12302",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "沐浴龙血的剑",
+  "description": "据说是北方英雄浸过龙血的钢铁大剑，有刀枪不入的神力…这种护佑并不会延伸到挥舞它的人身上。",
+  "rarity": 3,
+  "weaponType": 2,
+  "baseAtk": 354.37940000000003,
+  "subStatType": "EM",
+  "subStatValue": 187.4352,
+  "materialRefs": [
+    "112013",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12302.js"
+  }
+}

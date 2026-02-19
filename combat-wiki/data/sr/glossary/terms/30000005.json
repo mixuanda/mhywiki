@@ -1,0 +1,15 @@
+{
+  "id": "30000005",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "抗性穿透",
+  "description": "当造成伤害时，无视敌方目标的一部分对应伤害属性的抗性值。",
+  "content": {
+    "_id": 30000005,
+    "Name": "抗性穿透",
+    "Desc": "当造成伤害时，无视敌方目标的一部分对应伤害属性的抗性值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

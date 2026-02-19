@@ -1,0 +1,32 @@
+{
+  "id": "11417",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "原木刀",
+  "description": "从兰那罗的故事中得到的武器。具有刀的形制，能够贯穿森林的敌人。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112067",
+    "112070",
+    "114040"
+  ],
+  "affix": {
+    "111417": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "触发燃烧、原激化、超激化、蔓激化、绽放、月绽放、超绽放或烈绽放后，将在角色周围产生至多存在10秒的「种识之叶」。拾取种识之叶的角色元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续12秒。每20秒至多通过这种方式产生一枚种识之叶。角色处于队伍后台时也能触发。种识之叶的效果无法叠加。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11417.js"
+  }
+}

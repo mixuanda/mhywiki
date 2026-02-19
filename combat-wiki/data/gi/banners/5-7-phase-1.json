@@ -1,0 +1,34 @@
+{
+  "id": "5-7-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.7",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "SkirkNew",
+      "X": 1
+    },
+    {
+      "N": "Shenhe",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Dahlia",
+      "X": 1
+    },
+    {
+      "N": "Candace",
+      "X": 5
+    },
+    {
+      "N": "Diona",
+      "X": 11
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

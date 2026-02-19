@@ -1,0 +1,15 @@
+{
+  "id": "81142",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「切，原来是来钓鱼的…」",
+  "description": "抛竿时吓跑了鱼儿。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

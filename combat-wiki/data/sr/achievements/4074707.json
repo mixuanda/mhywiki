@@ -1,0 +1,18 @@
+{
+  "id": "4074707",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "随风而逝，如露如电",
+  "description": "在「飓风大母」进入【孵育狂潮】状态后，使其行动提前时无法孵化【泡影稚子】",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

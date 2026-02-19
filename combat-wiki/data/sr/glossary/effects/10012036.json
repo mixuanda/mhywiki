@@ -1,0 +1,18 @@
+{
+  "id": "10012036",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "濯洗生者",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012036,
+    "MDF": "MAvatar_Luocha_00_Rank01_ATKUp",
+    "Name": "濯洗生者",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

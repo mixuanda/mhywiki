@@ -1,0 +1,17 @@
+{
+  "id": "10013151",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "优势口袋",
+  "description": "每层使强化普攻的削韧值提高<color> <b>B</b> </color>。施放强化普攻期间，若目标处于弱点击破状态，基于【优势口袋】层数额外造成物理属性击破伤害。该效果最多叠加<color> <b>A</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013151,
+    "MDF": "MAvatar_Boothill_00_SelfModification",
+    "Name": "优势口袋",
+    "Desc": "每层使强化普攻的削韧值提高<color> <b>B</b> </color>。施放强化普攻期间，若目标处于弱点击破状态，基于【优势口袋】层数额外造成物理属性击破伤害。该效果最多叠加<color> <b>A</b> </color>层。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

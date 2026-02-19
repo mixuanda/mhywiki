@@ -1,0 +1,18 @@
+{
+  "id": "4072101",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "意外失忆",
+  "description": "清空蚕食者之影的「追忆刻度」使其施放「黄金年代的解放」失败",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10013172",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "忍法帖•枯叶",
+  "description": "受到的击破伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013172,
+    "MDF": "MAvatar_Rappa_00_PointB3_Enemy",
+    "Name": "忍法帖•枯叶",
+    "Desc": "受到的击破伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

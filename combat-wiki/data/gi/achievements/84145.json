@@ -1,0 +1,15 @@
+{
+  "id": "84145",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "仙灵与星空之秘",
+  "description": "得到「知慧仙灵」真正的回信。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

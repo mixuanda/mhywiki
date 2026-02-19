@@ -1,0 +1,15 @@
+{
+  "id": "70000301",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "冻结",
+  "description": "一定回合内不能行动，且每回合开始时受到额外的冰属性附加伤害。",
+  "content": {
+    "_id": 70000301,
+    "Name": "冻结",
+    "Desc": "一定回合内不能行动，且每回合开始时受到额外的冰属性附加伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

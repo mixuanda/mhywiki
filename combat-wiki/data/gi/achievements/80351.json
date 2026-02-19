@@ -1,0 +1,15 @@
+{
+  "id": "80351",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 万火燎灼之原 · 其二",
+  "description": "解除纳塔区域中，翘枝崖、奥奇卡纳塔所有地灵龛的封印。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

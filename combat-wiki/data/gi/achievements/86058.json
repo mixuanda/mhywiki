@@ -1,0 +1,15 @@
+{
+  "id": "86058",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "巫士的最终试炼",
+  "description": "与其他玩家一同战胜灵觉隐修的迷者。",
+  "reward": 10,
+  "version": "6.0",
+  "group": {
+    "id": "64"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

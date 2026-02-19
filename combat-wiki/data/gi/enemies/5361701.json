@@ -1,0 +1,25 @@
+{
+  "id": "5361701",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "铁甲熔火暴君",
+  "description": "最高难度 90s | Lv105",
+  "stats": {},
+  "resistance": {
+    "Fire": 0.6
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_HermitCrab_Primo"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

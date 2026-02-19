@@ -1,0 +1,19 @@
+{
+  "id": "10012221",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "馨气当盛，除邪避讳",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012221,
+    "MDF": "MAvatar_Lingsha_Rank01_DefenceRatioDown",
+    "Name": "馨气当盛，除邪避讳",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

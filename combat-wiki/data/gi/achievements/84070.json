@@ -1,0 +1,15 @@
+{
+  "id": "84070",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "穿越烟帷与暗林",
+  "description": "完成「穿越烟帷与暗林」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

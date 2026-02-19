@@ -1,0 +1,18 @@
+{
+  "id": "4034408",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "丧钟为谁而鸣",
+  "description": "赝品有赝品的好处，正品有正品的优势<br><color style='color:#8790ab;'>※战胜邪恶的钟表老子</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

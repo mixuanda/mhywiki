@@ -1,0 +1,22 @@
+{
+  "id": "11505",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "磐岩结绿",
+  "description": "由纯净的翠玉精琢细雕而成的仪礼宝剑，挥舞时剑风中似有叹息之声。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 541.829758,
+  "subStatType": "CR",
+  "subStatValue": 0.441024,
+  "materialRefs": [
+    "112028",
+    "112037",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11505.js"
+  }
+}

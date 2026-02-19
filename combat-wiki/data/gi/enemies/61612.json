@@ -1,0 +1,25 @@
+{
+  "id": "61612",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「深谷之剑」",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "lghtr"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.0"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

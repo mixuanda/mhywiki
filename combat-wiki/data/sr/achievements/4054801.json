@@ -1,0 +1,18 @@
+{
+  "id": "4054801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "长眠之梦的呓语",
+  "description": "在「橡木鸣蛀之梦」中，重温昔日旧梦",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

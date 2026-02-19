@@ -1,0 +1,39 @@
+{
+  "id": "300204009",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "钟表老子",
+  "description": "以钟表小子为原型制作的恶灵。无数倒霉的小孩被家长带进影院，只因将它错认为钟表小子系列的电影。其邪典的剧情，也成为了众多人难以忘却的童年阴影。",
+  "stats": {
+    "HP": 18.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 80.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002040.png",
+  "figure": "monsterfigure/Monster_3002040.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

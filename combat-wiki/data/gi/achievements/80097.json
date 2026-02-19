@@ -1,0 +1,15 @@
+{
+  "id": "80097",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "跨越雷鸣的大地 · 其二",
+  "description": "解锁稻妻区域中，海祇岛与清籁岛所有的传送锚点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "26"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

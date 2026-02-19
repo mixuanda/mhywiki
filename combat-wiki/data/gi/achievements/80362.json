@@ -1,0 +1,15 @@
+{
+  "id": "80362",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "流灰之国的迷旅人",
+  "description": "完成「流灰之国的迷旅人」。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

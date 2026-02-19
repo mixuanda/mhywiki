@@ -1,0 +1,15 @@
+{
+  "id": "81475",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "为书所爱的人",
+  "description": "使用魔导书激活褪色城堡里的全部神秘书柜。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

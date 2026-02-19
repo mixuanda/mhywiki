@@ -1,0 +1,18 @@
+{
+  "id": "220130112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "罚恶模式•慎刑",
+  "description": "金人司阍的韧性无法被削减且速度提高<color> <b>A</b> </color>，并开启使用技能：追摄。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220130112,
+    "MDF": "Monster_W2_Mecha03_00_Overdrive_On_RLElite",
+    "Name": "罚恶模式•慎刑",
+    "Desc": "金人司阍的韧性无法被削减且速度提高<color> <b>A</b> </color>，并开启使用技能：追摄。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

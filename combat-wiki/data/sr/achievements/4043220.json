@@ -1,0 +1,18 @@
+{
+  "id": "4043220",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "最后的血",
+  "description": "在「哈努战线」中首次命中所有靶子",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

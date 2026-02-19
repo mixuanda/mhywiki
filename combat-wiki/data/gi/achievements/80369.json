@@ -1,0 +1,15 @@
+{
+  "id": "80369",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "火山之印与烈火之针",
+  "description": "集齐全套《火山大王与缝影针》。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "57"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

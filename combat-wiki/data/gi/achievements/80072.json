@@ -1,0 +1,15 @@
+{
+  "id": "80072",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "百亿昼夜的百亿青春",
+  "description": "集齐全套《少女薇拉的忧郁》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "22"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

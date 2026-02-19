@@ -1,0 +1,18 @@
+{
+  "id": "210020301",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "支援",
+  "description": "受到自身支援的敌方单体对我方目标施放攻击后，自身立刻对受到攻击的该目标发动1次追加攻击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210020301,
+    "MDF": "MMonster_W1_Soldier04_00_SkillP01_Supporting",
+    "Name": "支援",
+    "Desc": "受到自身支援的敌方单体对我方目标施放攻击后，自身立刻对受到攻击的该目标发动1次追加攻击。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

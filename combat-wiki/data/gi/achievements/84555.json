@@ -1,0 +1,15 @@
+{
+  "id": "84555",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "蔷薇绽放的若干条件",
+  "description": "帮助柯莱照顾须弥蔷薇。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

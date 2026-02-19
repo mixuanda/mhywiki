@@ -1,0 +1,18 @@
+{
+  "id": "4072902",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我心我行澄如明镜",
+  "description": "在与银枝对战时，分别消灭处于「灵魂释放」状态的「枪尖」、「盾」、「授勋」。",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

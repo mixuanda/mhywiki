@@ -1,0 +1,15 @@
+{
+  "id": "81111",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "不再变老",
+  "description": "向殁者献上花束。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

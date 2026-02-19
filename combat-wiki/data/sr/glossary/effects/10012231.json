@@ -1,0 +1,18 @@
+{
+  "id": "10012231",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "猎物",
+  "description": "成为【猎物】，每次受到攻击后，会受到等同于貊泽<color> <b>A</b> </color>攻击力的雷属性附加伤害，同时貊泽消耗1点充能。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012231,
+    "MDF": "MAvatar_Moze_00_Skill02_ShadowTargetModifier",
+    "Name": "猎物",
+    "Desc": "成为【猎物】，每次受到攻击后，会受到等同于貊泽<color> <b>A</b> </color>攻击力的雷属性附加伤害，同时貊泽消耗1点充能。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

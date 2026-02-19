@@ -1,0 +1,38 @@
+{
+  "id": "803401005",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "金色通行魔",
+  "description": "穿梭在银河间的恐怖通行魔，金色的身影既是财富，也是死亡的象征。",
+  "stats": {
+    "HP": 22.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 15.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Elec"
+  ],
+  "resistance": {
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_8034010.png",
+  "figure": "monsterfigure/Monster_8034010.png",
+  "camp": {
+    "id": "9",
+    "name": "星际和平公司"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

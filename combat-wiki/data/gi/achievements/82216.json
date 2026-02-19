@@ -1,0 +1,15 @@
+{
+  "id": "82216",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "至高的杰作",
+  "description": "幻想真境剧诗：在卓越模式下，完成整场演出。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "52"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

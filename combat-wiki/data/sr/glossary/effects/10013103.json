@@ -1,0 +1,19 @@
+{
+  "id": "10013103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "额外火弱点",
+  "description": "被添加的额外火弱点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013103,
+    "MDF": "MAvatar_Sam_00_Skill21_FireWeakType",
+    "Name": "额外火弱点",
+    "Desc": "被添加的额外火弱点。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

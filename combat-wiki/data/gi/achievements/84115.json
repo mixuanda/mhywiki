@@ -1,0 +1,15 @@
+{
+  "id": "84115",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猫咪殿下",
+  "description": "将所有猫咪带回「猫尾酒馆」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

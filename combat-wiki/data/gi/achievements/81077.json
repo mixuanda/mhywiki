@@ -1,0 +1,15 @@
+{
+  "id": "81077",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…其名为「玛丽 · 塞勒斯特」",
+  "description": "「浪船」被破坏了…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

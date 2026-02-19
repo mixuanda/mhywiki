@@ -1,0 +1,15 @@
+{
+  "id": "70000001",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "连续鞭腿",
+  "description": "一定回合内，每回合开始时受到风属性伤害，该状态层数可以叠加。",
+  "content": {
+    "_id": 70000001,
+    "Name": "连续鞭腿",
+    "Desc": "一定回合内，每回合开始时受到风属性伤害，该状态层数可以叠加。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

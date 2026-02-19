@@ -1,0 +1,23 @@
+{
+  "id": "13933",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13933",
+  "tags": [],
+  "content": {
+    "_id": 13933,
+    "N": "「浮霄笼」",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Detail_03",
+        "D": "<color style='color:#ec9d1f'>抛射薪火命中「浮霄笼」#，能将其点亮，并使其高飞起来。放飞「浮霄笼」后，<color style='color:#ec9d1f'>会出现更多的玉石#供旅行者获取。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

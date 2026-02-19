@@ -1,0 +1,17 @@
+{
+  "id": "10012033",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "生息的轮转",
+  "description": "对敌方目标施放攻击后，自身回复生命值。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012033,
+    "MDF": "MAvatar_Luocha_00_Passive01_HealHPSelf",
+    "Name": "生息的轮转",
+    "Desc": "对敌方目标施放攻击后，自身回复生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

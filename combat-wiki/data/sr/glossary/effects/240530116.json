@@ -1,0 +1,17 @@
+{
+  "id": "240530116",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "魂契",
+  "description": "受到致命攻击时，对我方全体目标造成大量冰属性伤害并解除【幻身】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530116,
+    "MDF": "MAvatar_AvatarChange_W2_Mecha02_02_PassiveSkill",
+    "Name": "魂契",
+    "Desc": "受到致命攻击时，对我方全体目标造成大量冰属性伤害并解除【幻身】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

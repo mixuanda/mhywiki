@@ -1,0 +1,18 @@
+{
+  "id": "230040212",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "留堂作业",
+  "description": "当前「心蕉如火的猴把戏」处于【坚防守备】状态，自身受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230040212,
+    "MDF": "MModifier_Monster_W3_Theater_00_IF_MinionsSuperArmor",
+    "Name": "留堂作业",
+    "Desc": "当前「心蕉如火的猴把戏」处于【坚防守备】状态，自身受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

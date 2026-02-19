@@ -1,0 +1,19 @@
+{
+  "id": "10012251",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "有道祥见，衔书摇风",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012251,
+    "MDF": "MAvatar_Fugue_00_DefenceDown",
+    "Name": "有道祥见，衔书摇风",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

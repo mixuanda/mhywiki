@@ -1,0 +1,36 @@
+{
+  "id": "800302203",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "外宇宙之炎",
+  "description": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
+  "stats": {
+    "HP": 8.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 10.0
+  },
+  "weakness": [],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.4,
+    "Elec": 0.4,
+    "Wind": 0.2,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8003020.png",
+  "figure": "monsterfigure/Monster_8003020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80119",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "深雾引路人",
+  "description": "在鹤观追随6个仙灵，并点亮仙灵之庭。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "27"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

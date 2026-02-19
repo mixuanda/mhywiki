@@ -1,0 +1,15 @@
+{
+  "id": "84069",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "罐装时光屋",
+  "description": "使用罐装知识提升了战力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

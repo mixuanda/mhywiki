@@ -1,0 +1,17 @@
+{
+  "id": "230040201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "补课",
+  "description": "处于补课状态，被攻击时不会切换频道。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230040201,
+    "MDF": "MModifier_Monster_W3_TV_02_FaceLock",
+    "Name": "补课",
+    "Desc": "处于补课状态，被攻击时不会切换频道。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "11425",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "海渊终曲",
+  "description": "如神秘海渊一般沉默的长剑，比它看似所属的年代还要更加古老。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112046",
+    "112088",
+    "114056"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11425.js"
+  }
+}

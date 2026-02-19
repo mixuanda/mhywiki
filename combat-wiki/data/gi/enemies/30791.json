@@ -1,0 +1,25 @@
+{
+  "id": "30791",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众特辖队 · 火刃突击队",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 愚人众特辖队 II"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

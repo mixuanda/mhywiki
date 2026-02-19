@@ -1,0 +1,18 @@
+{
+  "id": "4010103",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "时间足够你爱",
+  "description": "拥有4枚等级达到 80 级的光锥",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

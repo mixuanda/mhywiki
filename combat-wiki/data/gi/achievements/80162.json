@@ -1,0 +1,15 @@
+{
+  "id": "80162",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 须弥林海",
+  "description": "解除须弥区域中，道成林、护世森、阿陀河谷、善见地、二净甸、失落的苗圃、桓那兰那所有地灵龛的封印。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "31"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

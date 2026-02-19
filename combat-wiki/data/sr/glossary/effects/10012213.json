@@ -1,0 +1,18 @@
+{
+  "id": "10012213",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "真刚",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012213,
+    "MDF": "MAvatar_Yunli_00_SkillTree03_Sub",
+    "Name": "真刚",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

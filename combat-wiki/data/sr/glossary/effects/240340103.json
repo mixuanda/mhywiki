@@ -1,0 +1,17 @@
+{
+  "id": "240340103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "镣锁",
+  "description": "受到致命攻击后，若【%CasterName】的【灾难之力】层数不为0，立即被其重新召唤并进入【镣锁】状态，但会使【%CasterName】失去1层【灾难之力】和一定比例的生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340103,
+    "MDF": "MMonster_W4_FireProwler_01_HPBack",
+    "Name": "镣锁",
+    "Desc": "受到致命攻击后，若【%CasterName】的【灾难之力】层数不为0，立即被其重新召唤并进入【镣锁】状态，但会使【%CasterName】失去1层【灾难之力】和一定比例的生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

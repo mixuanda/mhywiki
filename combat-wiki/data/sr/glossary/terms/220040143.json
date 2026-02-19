@@ -1,0 +1,15 @@
+{
+  "id": "220040143",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "僵化",
+  "description": "造成的伤害降低，效果命中降低。",
+  "content": {
+    "_id": 220040143,
+    "Name": "僵化",
+    "Desc": "造成的伤害降低，效果命中降低。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81428",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "柔灯铃的花语…？",
+  "description": "在无人留意的角落发现一朵无人留意的小花。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

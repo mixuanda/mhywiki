@@ -1,0 +1,15 @@
+{
+  "id": "84579",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "音乐不灭！",
+  "description": "将唱片完整地交给米卢 · 努伊。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

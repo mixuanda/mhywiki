@@ -1,0 +1,18 @@
+{
+  "id": "4034202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "用铁锈色的渡船超度亡魂",
+  "description": "它曾乘着她到世间来，它将乘着她到冥地去<br><color style='color:#8790ab;'>※击败「死龙」玻吕刻斯</color>",
+  "reward": 10,
+  "version": 3.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

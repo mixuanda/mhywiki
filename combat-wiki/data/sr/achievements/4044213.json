@@ -1,0 +1,18 @@
+{
+  "id": "4044213",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "聚光灯效应",
+  "description": "第一次使用「追忆符文」，被欧洛尼斯的奇迹照射",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

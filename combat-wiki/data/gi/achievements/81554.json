@@ -1,0 +1,15 @@
+{
+  "id": "81554",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "套圈也是圈套",
+  "description": "让每只浮流鸟都有圈可居。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

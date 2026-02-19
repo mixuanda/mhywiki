@@ -1,0 +1,15 @@
+{
+  "id": "61000012",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "战斗•虫群",
+  "description": "特殊战斗区域，在这个区域中战胜虫群敌人可以获得「繁育」祝福。",
+  "content": {
+    "_id": 61000012,
+    "Name": "战斗•虫群",
+    "Desc": "特殊战斗区域，在这个区域中战胜虫群敌人可以获得「繁育」祝福。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

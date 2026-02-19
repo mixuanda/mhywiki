@@ -1,0 +1,34 @@
+{
+  "id": "5-1-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.1",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Xilonen",
+      "X": 1
+    },
+    {
+      "N": "Chiori",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Collei",
+      "X": 4
+    },
+    {
+      "N": "Candace",
+      "X": 4
+    },
+    {
+      "N": "Dori",
+      "X": 5
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "11512",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "裁叶萃光",
+  "description": "以珍贵的白枝制成的饰金之刃，曾经斩断无数浸染森林的黯毒。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 541.829758,
+  "subStatType": "CD",
+  "subStatValue": 0.882048,
+  "materialRefs": [
+    "112067",
+    "112076",
+    "114040"
+  ],
+  "affix": {
+    "111512": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "暴击率提升 <color style='color:#99FFFFFF'>4%</color> / <color style='color:#99FFFFFF'>5%</color> / <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7%</color> / <color style='color:#99FFFFFF'>8%</color> ；普通攻击造成元素伤害后，获得「裁叶」效果：普通攻击和元素战技造成的伤害提高，提高值相当于元素精通的 <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> 。该效果在生效28次或12秒后消失，每12秒至多获得一次「裁叶」效果。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11512.js"
+  }
+}

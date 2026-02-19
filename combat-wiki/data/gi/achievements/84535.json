@@ -1,0 +1,15 @@
+{
+  "id": "84535",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「给您添蘑菇了！」",
+  "description": "在「售后服务」中收到顾客绀田传助的抱怨。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

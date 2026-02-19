@@ -1,0 +1,15 @@
+{
+  "id": "84506",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "旅者且留步…",
+  "description": "在「且听下回分解」中听完《裁雨声》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "12"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "61301",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "风蚀沙虫",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "sw"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 沙虫"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

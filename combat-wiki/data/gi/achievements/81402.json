@@ -1,0 +1,15 @@
+{
+  "id": "81402",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "多谢惠顾！",
+  "description": "抽到了两倍幸运的幸运签。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81592",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "飞起来也是十分！",
+  "description": "在呼呼丘的跳水台完成一次跳水。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

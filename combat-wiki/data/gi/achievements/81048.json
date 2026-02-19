@@ -1,0 +1,15 @@
+{
+  "id": "81048",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…你其实听得见吧？",
+  "description": "派蒙也会累的。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

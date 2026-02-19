@@ -1,0 +1,27 @@
+{
+  "id": "24080105",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "实验性场力发生装置 · 极端势能",
+  "description": "枫丹动能工程科学研究院的作品，拥有「抵消」重力的效果，因为事故而失控。\n在紊乱地脉的作用下，其核心狂暴异常，释放的重力场能量如海啸般奔涌，仿佛要将大地倾覆…",
+  "stats": {},
+  "resistance": {
+    "Rock": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_MachinaIustitia_Gravitas"
+  ],
+  "figure": null,
+  "groups": [
+    "幽境危战 > 6.2"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

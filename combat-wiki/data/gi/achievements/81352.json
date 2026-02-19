@@ -1,0 +1,15 @@
+{
+  "id": "81352",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "丑的美学",
+  "description": "枫丹朝美的方向前进了两步。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

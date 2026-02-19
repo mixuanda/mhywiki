@@ -1,0 +1,18 @@
+{
+  "id": "10013049",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "猎鹿游戏",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013049,
+    "MDF": "MAvatar_Aventurine_Rank06_Sub",
+    "Name": "猎鹿游戏",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

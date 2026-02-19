@@ -1,0 +1,17 @@
+{
+  "id": "280240105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "繁殖",
+  "description": "下个回合进行繁殖。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280240105,
+    "MDF": "Monster_SW_Minion01_00_SplitEffect",
+    "Name": "繁殖",
+    "Desc": "下个回合进行繁殖。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

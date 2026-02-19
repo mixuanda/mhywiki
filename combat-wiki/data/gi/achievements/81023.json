@@ -1,0 +1,15 @@
+{
+  "id": "81023",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "朋友遍天下",
+  "description": "在冒险中，与各种各样的人相识。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

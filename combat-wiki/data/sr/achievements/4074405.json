@@ -1,0 +1,18 @@
+{
+  "id": "4074405",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "魔力放出",
+  "description": "我方角色Saber施放【风王铁锤】时，一次性消耗 15 点【炉心共鸣】恢复能量",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

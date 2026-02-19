@@ -1,0 +1,15 @@
+{
+  "id": "81052",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "前方高仙力反应",
+  "description": "3个洞天形态的洞天仙力达到20000。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "18"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

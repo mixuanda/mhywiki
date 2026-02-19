@@ -1,0 +1,15 @@
+{
+  "id": "308",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "生命的翁瓦克",
+  "icon": "71019.png",
+  "setBonuses": [
+    "使装备者的能量恢复效率提高 <b>5%</b> 。当装备者的速度大于等于 <b>120</b> 时，进入战斗时立刻使行动提前 <b>40%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/308.js"
+  }
+}

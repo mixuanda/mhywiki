@@ -1,0 +1,19 @@
+{
+  "id": "10013123",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "锁接",
+  "description": "效果命中提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013123,
+    "MDF": "MAvatar_Misha_00_Skill03_StatusProbabilityUp",
+    "Name": "锁接",
+    "Desc": "效果命中提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

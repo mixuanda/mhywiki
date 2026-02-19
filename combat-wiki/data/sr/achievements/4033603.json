@@ -1,0 +1,18 @@
+{
+  "id": "4033603",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "建筑师之腹",
+  "description": "这点苦都受不了，干别的肯定也不行<br>※成为筑梦学院的学生",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

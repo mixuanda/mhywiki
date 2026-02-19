@@ -1,0 +1,17 @@
+{
+  "id": "230140201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "梦死",
+  "description": "无法被选定，无法行动。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230140201,
+    "MDF": "M_Death_CTRL",
+    "Name": "梦死",
+    "Desc": "无法被选定，无法行动。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

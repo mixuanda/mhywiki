@@ -1,0 +1,19 @@
+{
+  "id": "220020303",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "强烈震荡",
+  "description": "行动延后，且一定回合内无法行动。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220020303,
+    "MDF": "MCommon_Shake_IgnoreImmune",
+    "Name": "强烈震荡",
+    "Desc": "行动延后，且一定回合内无法行动。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

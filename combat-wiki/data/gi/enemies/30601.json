@@ -1,0 +1,28 @@
+{
+  "id": "30601",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众 · 霜剑律从",
+  "description": "愚人众当中精锐的特务。\n自幼就被选中的人，经长久年月的教化与训练，在无数次的汰换后才能成为所谓的「役人」。是愚人众的阵列中最优秀的士兵，有着出色的身手与不渝的忠诚心。",
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2,
+    "Ice": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuus_Escadron_Ice"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 愚人众役人"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

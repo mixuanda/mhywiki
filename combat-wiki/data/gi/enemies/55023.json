@@ -1,0 +1,25 @@
+{
+  "id": "55023",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "灵觉勇士 · 控念师",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Human_Male_Sword_Shamansaurus"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 灵觉勇士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

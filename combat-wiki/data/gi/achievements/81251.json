@@ -1,0 +1,15 @@
+{
+  "id": "81251",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "搜索者",
+  "description": "利用激化反应，发现原本被隐藏的事物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

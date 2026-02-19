@@ -1,0 +1,18 @@
+{
+  "id": "10014057",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "万物皆在万物之中",
+  "description": "造成的伤害为原伤害的<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014057,
+    "MDF": "MAvatar_Anaxa_00_Rank06_DamageUp",
+    "Name": "万物皆在万物之中",
+    "Desc": "造成的伤害为原伤害的<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81361",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "两万里格的漫游",
+  "description": "随波逐流…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

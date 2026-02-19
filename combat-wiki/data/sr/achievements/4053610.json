@@ -1,0 +1,18 @@
+{
+  "id": "4053610",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "笔自己画画！",
+  "description": "在涂鸦墙上再次留下属于你的涂鸦",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

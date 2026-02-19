@@ -1,0 +1,18 @@
+{
+  "id": "4054514",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "炉火纯青",
+  "description": "在「黄金迷境大饭店」中，所有菜品均升至最高等级",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

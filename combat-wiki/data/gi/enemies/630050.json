@@ -1,0 +1,28 @@
+{
+  "id": "630050",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「望乡的孤狼」",
+  "description": "与当地狼群格格不入的孤狼，碧色的鬃毛昭示着它的血统来自遥远的异乡。或许是因为先祖的记忆依旧在血脉中流淌，它始终守护着那座早已被世人遗忘的剑冢，在月光的照拂下，等待着那位永不归乡的骑士。",
+  "stats": {},
+  "resistance": {
+    "Wind": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Magbeast_Steppenwolf_02"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 地方传奇",
+    "地方传奇 > 6.3"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

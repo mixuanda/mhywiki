@@ -1,0 +1,18 @@
+{
+  "id": "4062501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "重天渡尽",
+  "description": "通关「忘却之庭•仙舟回忆其六」",
+  "reward": 10,
+  "version": 1.2,
+  "series": {
+    "_id": 6,
+    "Name": "不屈者的荣光",
+    "Icon": "ChallengeAchievementIcon.png",
+    "Count": 12
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

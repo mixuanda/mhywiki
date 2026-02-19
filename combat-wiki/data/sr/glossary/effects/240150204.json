@@ -1,0 +1,18 @@
+{
+  "id": "240150204",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "黑蚀",
+  "description": "无法被选中，无法行动。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150204,
+    "MDF": "Modifier_Monster_W4_DawnsEye_01_MuteSpeed",
+    "Name": "黑蚀",
+    "Desc": "无法被选中，无法行动。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

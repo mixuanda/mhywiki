@@ -1,0 +1,18 @@
+{
+  "id": "100141523",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「生死」之诗",
+  "description": "触发天赋【灼掠幽墟的晦翼】的技能效果时造成的伤害倍率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141523,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Castorice_Sub",
+    "Name": "献予「生死」之诗",
+    "Desc": "触发天赋【灼掠幽墟的晦翼】的技能效果时造成的伤害倍率提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4072907",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "毁人不倦",
+  "description": "单场战斗中，使用真理医生连续 4.0 个回合触发天赋「我思故我在」的追加攻击效果",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "13414",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "喜多院十文字",
+  "description": "曾经在八酝岛守望「祟神」的枪法名士所用的特殊长枪。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "EM",
+  "subStatValue": 110.256,
+  "materialRefs": [
+    "112037",
+    "112049",
+    "114036"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13414.js"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "803",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "灼烜 · 霜夜灵嗣",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Moonbeast_Fire"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 霜夜灵嗣"
+  ],
+  "analysis": {
+    "Name": "灼烜 · 霜夜灵嗣",
+    "Icon": "UI_MonsterIcon_Moonbeast_Fire",
+    "DescList": [
+      "• 正常状态下，@免疫对应元素#",
+      "• 进入强化后，对应抗性 @100%#，其他抗性 @60%#，受到一定次数对应元素伤害或月反应伤害才会退出",
+      "• 深渊版：入战立刻进入强化，退出强化所需的伤害次数增加，且对应抗性 @170%#，其他抗性 @130%#"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

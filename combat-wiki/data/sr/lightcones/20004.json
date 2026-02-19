@@ -1,0 +1,23 @@
+{
+  "id": "20004",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "幽邃",
+  "rarity": 3,
+  "path": "Nihility",
+  "skillId": 20004,
+  "baseStats": {
+    "HP": 846.72,
+    "ATK": 317.52,
+    "DEF": 264.6
+  },
+  "materialRefs": [
+    "110153",
+    "112013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/20004.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84526",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…而尽人事。」",
+  "description": "破坏了四种爱情运来临的征兆。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

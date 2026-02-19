@@ -1,0 +1,15 @@
+{
+  "id": "82291",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「图普的繁茂」",
+  "description": "战胜地方传奇「图普的繁茂」。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

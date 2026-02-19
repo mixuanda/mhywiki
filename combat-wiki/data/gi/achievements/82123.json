@@ -1,0 +1,15 @@
+{
+  "id": "82123",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "正法眼藏",
+  "description": "仅仅击落真正的对手…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

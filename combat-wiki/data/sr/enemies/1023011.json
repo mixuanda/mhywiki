@@ -1,0 +1,39 @@
+{
+  "id": "1023011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "炽燃徘徊者（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者（错误）的攻击会对处于灼烧状态的敌人造成额外效果。",
+  "stats": {
+    "HP": 14.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.4,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1023010.png",
+  "figure": "monsterfigure/Monster_1023010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

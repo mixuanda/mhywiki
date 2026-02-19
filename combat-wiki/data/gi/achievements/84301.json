@@ -1,0 +1,15 @@
+{
+  "id": "84301",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "灰河往事",
+  "description": "在刺玫会的据点下榻并了解到娜维娅父亲的事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

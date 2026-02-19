@@ -1,0 +1,15 @@
+{
+  "id": "81561",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "天轴轮转",
+  "description": "启动「天轴」，前往远古圣城的深处。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

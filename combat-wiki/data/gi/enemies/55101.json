@@ -1,0 +1,25 @@
+{
+  "id": "55101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "嵴锋龙武士 · 碎晶打者",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 嵴锋龙武士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

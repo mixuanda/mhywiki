@@ -1,0 +1,15 @@
+{
+  "id": "81590",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「一个伟大的计划」",
+  "description": "两次挫败了乔克力爪牙的伟大计划。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

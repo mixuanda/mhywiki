@@ -1,0 +1,19 @@
+{
+  "id": "220020101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "test_列阵",
+  "description": "test_防御力提高<color> <b>A</b> </color>，场上每有一个云骑军士卒效果额外增加一倍，保护所有弱点，阵亡时移除所有列阵效果",
+  "effectType": "monster",
+  "content": {
+    "_id": 220020101,
+    "MDF": "Monster_W2_Knight01_00_Formation",
+    "Name": "test_列阵",
+    "Desc": "test_防御力提高<color> <b>A</b> </color>，场上每有一个云骑军士卒效果额外增加一倍，保护所有弱点，阵亡时移除所有列阵效果",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

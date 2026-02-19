@@ -1,0 +1,17 @@
+{
+  "id": "230240203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "熔火垓心",
+  "description": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color> <b>A</b> </color>的固定数值火属性伤害，并且接受自身之外的治疗时，生命值回复量大幅降低。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240203,
+    "MDF": "Monster_W3_Sam_00_BurningBP",
+    "Name": "熔火垓心",
+    "Desc": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color> <b>A</b> </color>的固定数值火属性伤害，并且接受自身之外的治疗时，生命值回复量大幅降低。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

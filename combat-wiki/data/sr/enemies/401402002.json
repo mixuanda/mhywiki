@@ -1,0 +1,38 @@
+{
+  "id": "401402002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "颁赐者，千军首，天谴之矛",
+  "description": "不败者，一切战场的领主，悬锋城与废墟的王，<br>战车大匠，尸山王座，胜利父，<br>荣耀僭主，裂地惊海的雷，翁法罗斯的守护者，<br>纷争的泰坦，天谴之矛，尼卡多利。<br>全体世间应听遣的将领，永恒且锋利的兵戈，纷争与断绝纷争的法则。<br>礼赞尼卡多利，最伟大的征服者，最伟大的守护者。",
+  "stats": {
+    "HP": 60.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 60.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4014020.png",
+  "figure": "monsterfigure/Monster_4014020.png",
+  "camp": {
+    "id": "12",
+    "name": "泰坦眷属"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

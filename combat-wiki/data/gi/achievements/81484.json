@@ -1,0 +1,15 @@
+{
+  "id": "81484",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "条条大路通雷马",
+  "description": "造访静滞的「永恒之城」。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

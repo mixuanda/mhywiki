@@ -1,0 +1,18 @@
+{
+  "id": "4022302",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "扭曲光线的超级富豪",
+  "description": "累计获得 100000000.0 信用点",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 2,
+    "Name": "流光遗痕",
+    "Icon": "CollectAchievementIcon.png",
+    "Count": 14
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

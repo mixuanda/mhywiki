@@ -1,0 +1,15 @@
+{
+  "id": "81582",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "悠悠村的金色闪光",
+  "description": "在悠悠极速大赛中战胜「来无影」和「去无踪」。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

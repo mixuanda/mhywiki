@@ -1,0 +1,19 @@
+{
+  "id": "10012063",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "其身百炼",
+  "description": "受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012063,
+    "MDF": "MAvatar_Sushang_00_Rank02_Buff",
+    "Name": "其身百炼",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

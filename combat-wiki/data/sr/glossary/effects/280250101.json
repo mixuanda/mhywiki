@@ -1,0 +1,18 @@
+{
+  "id": "280250101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "易伤",
+  "description": "受到的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280250101,
+    "MDF": "Monster_SW_Boss_01_DamageTakenUp",
+    "Name": "易伤",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

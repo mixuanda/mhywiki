@@ -1,0 +1,17 @@
+{
+  "id": "280340106",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "赌局",
+  "description": "攻击「所有或一无所有」可获得点数，忆师当前获得的点数为<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340106,
+    "MDF": "Monster_W3_Aventurine_00_Gambling_Servant",
+    "Name": "赌局",
+    "Desc": "攻击「所有或一无所有」可获得点数，忆师当前获得的点数为<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

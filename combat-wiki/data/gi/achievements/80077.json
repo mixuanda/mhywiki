@@ -1,0 +1,15 @@
+{
+  "id": "80077",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "隽永如电",
+  "description": "将稻妻的七天神像供奉至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

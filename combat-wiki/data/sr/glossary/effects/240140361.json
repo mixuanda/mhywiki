@@ -1,0 +1,18 @@
+{
+  "id": "240140361",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "觐见死神",
+  "description": "回合开始时受到伤害，目标当前生命值百分比越高受到的伤害越高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140361,
+    "MDF": "MMonster_W4_Pollux_00_IF_ThirstBlood",
+    "Name": "觐见死神",
+    "Desc": "回合开始时受到伤害，目标当前生命值百分比越高受到的伤害越高。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

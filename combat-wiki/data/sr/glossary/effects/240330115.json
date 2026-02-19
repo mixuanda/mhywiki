@@ -1,0 +1,17 @@
+{
+  "id": "240330115",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "负载生命值",
+  "description": "目标已累积【负载生命值】，治疗<color> <b>A</b> </color>点生命值可移除此状态。当【负载清算】回合开始时，该目标将受到致命伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330115,
+    "MDF": "MMonster_AML_Minion02_01_LocalLegend_NegativeBlood_Avatar",
+    "Name": "负载生命值",
+    "Desc": "目标已累积【负载生命值】，治疗<color> <b>A</b> </color>点生命值可移除此状态。当【负载清算】回合开始时，该目标将受到致命伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81238",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "转桓摩王",
+  "description": "转动每一个藏有宝箱的「桓摩达」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

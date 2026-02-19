@@ -1,0 +1,18 @@
+{
+  "id": "4033202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "自由，一如我们的父辈",
+  "description": "继承「钟表匠」的遗产<br><color style='color:#8790ab;'>※继续匹诺康尼最后一位无名客未尽的旅途</color>",
+  "reward": 10,
+  "version": 2.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

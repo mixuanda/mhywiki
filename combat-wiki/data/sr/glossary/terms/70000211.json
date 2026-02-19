@@ -1,0 +1,15 @@
+{
+  "id": "70000211",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "范围",
+  "description": "此类型的武器会对多个相邻的目标进行范围攻击。",
+  "content": {
+    "_id": 70000211,
+    "Name": "范围",
+    "Desc": "此类型的武器会对多个相邻的目标进行范围攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

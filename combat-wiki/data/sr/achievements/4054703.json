@@ -1,0 +1,18 @@
+{
+  "id": "4054703",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "寒风与烈火",
+  "description": "善意如同火炬，传递下去才烧得更旺<br><color style='color:#8790ab;'>※与翁法罗斯告别后，重回雅利洛-Ⅵ行政区</color>",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

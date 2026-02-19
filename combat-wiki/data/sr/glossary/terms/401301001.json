@@ -1,0 +1,15 @@
+{
+  "id": "401301001",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "平均分摊",
+  "description": "本次攻击结算前的伤害和负面效果由所有受击目标平均承受。",
+  "content": {
+    "_id": 401301001,
+    "Name": "平均分摊",
+    "Desc": "本次攻击结算前的伤害和负面效果由所有受击目标平均承受。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

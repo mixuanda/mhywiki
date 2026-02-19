@@ -1,0 +1,18 @@
+{
+  "id": "4054046",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "土装在另一个胃里",
+  "description": "能吃，但不建议<br><color style='color:#8790ab;'>※在与克特西的交谈中，亲自尝试他做给大地兽的「菜色」</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

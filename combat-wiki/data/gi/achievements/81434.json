@@ -1,0 +1,15 @@
+{
+  "id": "81434",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「罗基 · 艾威尔森」",
+  "description": "战胜地方传奇 · 罗基 · 艾威尔森。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

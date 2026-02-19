@@ -1,0 +1,32 @@
+{
+  "id": "13509",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "薙草之稻光",
+  "description": "用于「斩草」的薙刀。对向此物之军势，也会如苇草般倒下吧…",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 608.0745972,
+  "subStatType": "ER",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112046",
+    "112049",
+    "114036"
+  ],
+  "affix": {
+    "113509": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "攻击力获得提升，提升程度相当于元素充能效率超出100%部分的 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，至多通过这种方式提升 <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>110%</color> / <color style='color:#99FFFFFF'>120%</color> 。施放元素爆发后的12秒内，元素充能效率提升 <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>45%</color> / <color style='color:#99FFFFFF'>50%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13509.js"
+  }
+}

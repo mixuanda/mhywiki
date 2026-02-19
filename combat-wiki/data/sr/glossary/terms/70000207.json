@@ -1,0 +1,15 @@
+{
+  "id": "70000207",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "呐喊",
+  "description": "每层【呐喊】都将使持有者造成的伤害提高。",
+  "content": {
+    "_id": 70000207,
+    "Name": "呐喊",
+    "Desc": "每层【呐喊】都将使持有者造成的伤害提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

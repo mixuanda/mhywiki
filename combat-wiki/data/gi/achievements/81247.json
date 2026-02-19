@@ -1,0 +1,15 @@
+{
+  "id": "81247",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「众花园中的一棵核桃树…」",
+  "description": "向海亚姆问起失落的记忆。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

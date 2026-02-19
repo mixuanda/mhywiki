@@ -1,0 +1,18 @@
+{
+  "id": "4052722",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "冰原熊之旅",
+  "description": "与冰原熊幼崽亲切互动",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

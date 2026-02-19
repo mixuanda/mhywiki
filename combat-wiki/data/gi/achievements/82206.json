@@ -1,0 +1,15 @@
+{
+  "id": "82206",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "比珠宝还珍贵",
+  "description": "累计获得3枚玩具勋章。",
+  "reward": 5,
+  "version": "4.7",
+  "group": {
+    "id": "50"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

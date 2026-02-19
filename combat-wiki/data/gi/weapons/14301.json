@@ -1,0 +1,22 @@
+{
+  "id": "14301",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "魔导绪论",
+  "description": "第十二版。结合时代发展加注了新内容，并修订了第十一版的错别字。",
+  "rarity": 3,
+  "weaponType": 3,
+  "baseAtk": 354.37940000000003,
+  "subStatType": "EM",
+  "subStatValue": 187.4352,
+  "materialRefs": [
+    "112004",
+    "112016",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14301.js"
+  }
+}

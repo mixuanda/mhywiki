@@ -1,0 +1,29 @@
+{
+  "id": "6-3-phase-0",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "6.3",
+  "phase": 0,
+  "featuredFiveStar": [
+    {
+      "N": "Columbina",
+      "X": 1
+    },
+    {
+      "N": "Zibai",
+      "X": 1
+    },
+    {
+      "N": "Ineffa",
+      "X": 2
+    },
+    {
+      "N": "Neuvillette",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81299",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「我也讨厌沙虫！」",
+  "description": "第一次遭受沙虫的袭击。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

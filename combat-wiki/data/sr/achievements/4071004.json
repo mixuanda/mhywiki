@@ -1,0 +1,18 @@
+{
+  "id": "4071004",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "勿忘汝终有一死",
+  "description": "在生命值为 100% 的情况下受到敌人的致命攻击",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

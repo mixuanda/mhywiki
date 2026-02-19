@@ -1,0 +1,39 @@
+{
+  "id": "1004011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "可可利亚（完整）",
+  "description": "代码受到影响后的完整投影。参照本体为贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚（完整）秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
+  "stats": {
+    "HP": 8.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.6,
+    "Wind": 0.4,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_1004010.png",
+  "figure": "monsterfigure/Monster_1004010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

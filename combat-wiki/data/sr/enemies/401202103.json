@@ -1,0 +1,39 @@
+{
+  "id": "401202103",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "天谴哲人",
+  "description": "由「纷争」雕琢的泰坦眷属，流淌着尼卡多利的金血，蕴藏掠夺而来的「理性」。被制造出来的意义并非是研究普遍的知识，而是钻研杀戮的兵法与弱肉强食的残酷理论，散布假名为哲学的疯病。",
+  "stats": {
+    "HP": 1.75,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Ice"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4012020.png",
+  "figure": "monsterfigure/Monster_4012020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

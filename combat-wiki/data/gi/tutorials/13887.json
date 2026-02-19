@@ -1,0 +1,27 @@
+{
+  "id": "13887",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13887",
+  "tags": [],
+  "content": {
+    "_id": 13887,
+    "N": "瞬影旅集",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_TimeStopPhoto_01",
+        "D": "在挑战的第一阶段，需要依据关卡给定的剪影，做出<color style='color:#FFCC33'>正确的动作#，并使用<color style='color:#FFCC33'>「瞬影」#留影机，捕捉与剪影相符的瞬间。挑战中经过一定时间后，可使用<color style='color:#FFCC33'>「动作提示」#功能，获得正确动作的提示。此外，挑战中角色处于部分特殊动作状态时，无法使用「瞬影」留影机。"
+      },
+      {
+        "I": "UI_Activity_TimeStopPhoto_02",
+        "D": "在挑战的第二阶段，还需要调整相机完成构图。当<color style='color:#FFCC33'>角色与剪影重合度达到一定程度#时，即可进行拍摄，完成挑战。此外，挑战中经过一定时间后，可使用<color style='color:#FFCC33'>「协助」#功能，获得镜头设置的帮助。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

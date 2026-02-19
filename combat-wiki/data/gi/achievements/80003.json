@@ -1,0 +1,15 @@
+{
+  "id": "80003",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "流水叮咛",
+  "description": "集齐全套《清泉之心》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "1"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81510",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "走入画中…",
+  "description": "打开画壁之后的世界。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

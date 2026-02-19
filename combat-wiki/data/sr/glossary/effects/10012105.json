@@ -1,0 +1,19 @@
+{
+  "id": "10012105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "倒立吃面条",
+  "description": "效果抵抗降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012105,
+    "MDF": "MAvatar_Guinaifen_00_Rank01_StatusResistance",
+    "Name": "倒立吃面条",
+    "Desc": "效果抵抗降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "230020101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "惊喜频道",
+  "description": "圆幕先生能够使用【惊喜综艺】技能。受到攻击后转变为【惊吓频道】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230020101,
+    "MDF": "MModifier_Monster_W3_TV_00_Side1",
+    "Name": "惊喜频道",
+    "Desc": "圆幕先生能够使用【惊喜综艺】技能。受到攻击后转变为【惊吓频道】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

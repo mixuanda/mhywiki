@@ -1,0 +1,22 @@
+{
+  "id": "13408",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "宗室猎枪",
+  "description": "某位曾支配蒙德的旧日贵族，曾经珍爱的长枪。过去不曾见过天日，但如今依然尖锐无比。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112028",
+    "112034",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13408.js"
+  }
+}

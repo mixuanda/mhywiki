@@ -1,0 +1,17 @@
+{
+  "id": "10011091",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "战技强化",
+  "description": "下一次施放的战技得到强化，变更为扩散攻击。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011091,
+    "MDF": "MAvatar_Hook_00_BPSkillAlter_Enable",
+    "Name": "战技强化",
+    "Desc": "下一次施放的战技得到强化，变更为扩散攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

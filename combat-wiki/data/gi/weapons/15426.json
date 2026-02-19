@@ -1,0 +1,52 @@
+{
+  "id": "15426",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "筑云",
+  "description": "解析昔日拱卫天衡的仙家机关后，由玉衡星委托黑岩厂锻造的实验型制式兵器。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 509.605949,
+  "subStatType": "EM",
+  "subStatValue": 165.38400000000001,
+  "materialRefs": [
+    "112034",
+    "112100",
+    "114024"
+  ],
+  "affix": {
+    "115426": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "元素能量减少时，装备者的元素精通提升 <color style='color:#99FFFFFF'>48</color> / <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>72</color> / <color style='color:#99FFFFFF'>84</color> / <color style='color:#99FFFFFF'>96</color> 点。该效果持续10秒，至多叠加2层。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "元素能量减少后，装备者的元素精通提升 <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>50</color> / <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>70</color> / <color style='color:#99FFFFFF'>80</color> 点。该效果持续18秒，至多叠加2层。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "元素能量减少后，装备者的元素精通提升 <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>50</color> / <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>70</color> / <color style='color:#99FFFFFF'>80</color> 点。该效果持续18秒，至多叠加2层。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "元素能量减少后，装备者的元素精通提升 <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>50</color> / <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>70</color> / <color style='color:#99FFFFFF'>80</color> 点。该效果持续18秒，至多叠加2层。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "元素能量减少后，装备者的元素精通提升 <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>50</color> / <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>70</color> / <color style='color:#99FFFFFF'>80</color> 点。该效果持续18秒，至多叠加2层。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15426.js"
+  }
+}

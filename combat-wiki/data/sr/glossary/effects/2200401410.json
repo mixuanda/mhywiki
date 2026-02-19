@@ -1,0 +1,17 @@
+{
+  "id": "2200401410",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "诱狂",
+  "description": "受到首领幻影的强化，进入【冰点】状态，被弱点击破后解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2200401410,
+    "MDF": "Monster_W2_Kafka_00_IF03_SummonKillBonus02",
+    "Name": "诱狂",
+    "Desc": "受到首领幻影的强化，进入【冰点】状态，被弱点击破后解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

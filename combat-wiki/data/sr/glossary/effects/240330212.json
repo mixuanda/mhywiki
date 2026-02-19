@@ -1,0 +1,17 @@
+{
+  "id": "240330212",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "黑潮决斗",
+  "description": "该目标只可攻击【黑潮造物】，且只可被【黑潮造物】攻击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330212,
+    "MDF": "MMonster_W4_Claymore_01_LocalLegend_BlackCurse_InActive",
+    "Name": "黑潮决斗",
+    "Desc": "该目标只可攻击【黑潮造物】，且只可被【黑潮造物】攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

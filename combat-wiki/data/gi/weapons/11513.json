@@ -1,0 +1,22 @@
+{
+  "id": "11513",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "静水流涌之辉",
+  "description": "萦绕着至纯之水的权杖，在遥远的昔日曾象征着海原之上至高的权威。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 541.829758,
+  "subStatType": "CD",
+  "subStatValue": 0.882048,
+  "materialRefs": [
+    "112082",
+    "112088",
+    "114056"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11513.js"
+  }
+}

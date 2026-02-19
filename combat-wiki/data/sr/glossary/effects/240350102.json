@@ -1,0 +1,17 @@
+{
+  "id": "240350102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "重创",
+  "description": "该目标无法行动。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350102,
+    "MDF": "MMonster_W4_IronTombCorePart_Break",
+    "Name": "重创",
+    "Desc": "该目标无法行动。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

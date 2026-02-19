@@ -1,0 +1,17 @@
+{
+  "id": "100121219",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "澹月转魄",
+  "description": "我方已损失生命值：<color> <b>A</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 100121219,
+    "MDF": "MAvatar_Advanced_Jingliu_LoseHPCount",
+    "Name": "澹月转魄",
+    "Desc": "我方已损失生命值：<color> <b>A</b> </color>次。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

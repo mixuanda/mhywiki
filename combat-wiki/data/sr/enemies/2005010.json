@@ -1,0 +1,39 @@
+{
+  "id": "2005010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "失控的飞霄",
+  "description": "为了挽救危局，吞下「赤月」，坠入狂怒的天击将军。<br>被往日陷阵厮杀的心魔所夺，飞霄成了不知疲倦的斗神化身。作为她的朋友和眼前的敌人，你们明白，唯一的「解药」…只有坚持鏖战。",
+  "stats": {
+    "HP": 16.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 130.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Quantum"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_2035010.png",
+  "figure": "monsterfigure/Monster_2035010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

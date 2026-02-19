@@ -1,0 +1,15 @@
+{
+  "id": "81584",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "梦中的帕依提提",
+  "description": "在梦里发现埋藏在提提岛的宝藏。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

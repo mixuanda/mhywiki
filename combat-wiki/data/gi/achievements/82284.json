@@ -1,0 +1,15 @@
+{
+  "id": "82284",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「战羊」与「铁爪」",
+  "description": "利用蛮骑突击与头鸟坚壁的撞击，使「战羊」与「铁爪」同归于尽。",
+  "reward": 20,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

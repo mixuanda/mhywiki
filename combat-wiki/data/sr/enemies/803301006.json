@@ -1,0 +1,39 @@
+{
+  "id": "803301006",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "资深员工 · 组长",
+  "description": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
+  "stats": {
+    "HP": 16.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8033010.png",
+  "figure": "monsterfigure/Monster_8033010.png",
+  "camp": {
+    "id": "9",
+    "name": "星际和平公司"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

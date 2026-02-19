@@ -1,0 +1,33 @@
+{
+  "id": "307911",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的火刃突击队员",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": {
+    "Name": "历经百战的火刃突击队员",
+    "Icon": "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya",
+    "DescList": [
+      "• 会展开 @3# 层 @6% 生命上限#的【护罩】，受到的@感电#伤害 @+600%#，@月感电#伤害 @+200%#",
+      "• 在一定时间内破除护罩，使敌人虚弱：所有抗性降低 @50%#，恢复后雷元素抗性降低 @60%#",
+      "• 每层护罩被破坏时，损失 @6%# 生命值，且产生晶球：雷元素能量恢复 @18# 点，其他元素恢复 @6# 点"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

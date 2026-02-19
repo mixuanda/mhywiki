@@ -1,0 +1,15 @@
+{
+  "id": "84124",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "孤云阁买家俱乐部",
+  "description": "询问了北斗真正交易的内容。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

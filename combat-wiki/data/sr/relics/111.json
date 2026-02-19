@@ -1,0 +1,16 @@
+{
+  "id": "111",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "流星追迹的怪盗",
+  "icon": "71010.png",
+  "setBonuses": [
+    "击破特攻提高 <b>16%</b> 。",
+    "使装备者的击破特攻提高 <b>16%</b> 。当装备者击破敌方目标弱点后，恢复 <b>3</b> 点能量。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/111.js"
+  }
+}

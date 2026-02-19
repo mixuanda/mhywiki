@@ -1,0 +1,15 @@
+{
+  "id": "84059",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "风起鹤归",
+  "description": "完成「风起鹤归」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

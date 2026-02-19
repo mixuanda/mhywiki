@@ -1,0 +1,17 @@
+{
+  "id": "100131313",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "荣光之秘",
+  "description": "下一次对我方目标施放技能时，使目标造成的伤害提高。",
+  "effectType": "character",
+  "content": {
+    "_id": 100131313,
+    "MDF": "MAvatar_Sunday_10_MazeBuff_ForCaster",
+    "Name": "荣光之秘",
+    "Desc": "下一次对我方目标施放技能时，使目标造成的伤害提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

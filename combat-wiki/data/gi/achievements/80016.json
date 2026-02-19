@@ -1,0 +1,15 @@
+{
+  "id": "80016",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如日方升的旅程",
+  "description": "角色首次突破至6阶。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

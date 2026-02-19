@@ -1,0 +1,18 @@
+{
+  "id": "230130121",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "地之刺",
+  "description": "使【痛恶如刺剔骨】的每段攻击额外造成1次伤害，每层可使该额外伤害提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230130121,
+    "MDF": "Monster_W3_Dinosaur_01_MonsterAssistBuff",
+    "Name": "地之刺",
+    "Desc": "使【痛恶如刺剔骨】的每段攻击额外造成1次伤害，每层可使该额外伤害提高。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

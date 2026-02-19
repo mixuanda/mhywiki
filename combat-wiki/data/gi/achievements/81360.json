@@ -1,0 +1,15 @@
+{
+  "id": "81360",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "黑字的研究",
+  "description": "发现了自然哲学学院研究的…比较特别的对象。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

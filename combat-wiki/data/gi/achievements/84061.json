@@ -1,0 +1,15 @@
+{
+  "id": "84061",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "美丽的与被诅咒的",
+  "description": "知晓黑蛇骑士与丘丘人的秘密。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

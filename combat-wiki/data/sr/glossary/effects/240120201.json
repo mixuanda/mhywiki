@@ -1,0 +1,17 @@
+{
+  "id": "240120201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "宣教",
+  "description": "使<color>%DynamicTargetName</color>维持【受教】状态，自身【战甲】被破坏时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240120201,
+    "MDF": "MModifier_Monster_W4_Scholar_00_BookController",
+    "Name": "宣教",
+    "Desc": "使<color>%DynamicTargetName</color>维持【受教】状态，自身【战甲】被破坏时解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

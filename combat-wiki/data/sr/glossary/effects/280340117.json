@@ -1,0 +1,17 @@
+{
+  "id": "280340117",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "运数莫测",
+  "description": "生命值最低为1，受到进入赌局的目标攻击时使其获得1个随机1到6的点数，生命值降为1后获得【时来】效果。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340117,
+    "MDF": "Monster_W3_AventurinePart_01_BlockDamage_RL",
+    "Name": "运数莫测",
+    "Desc": "生命值最低为1，受到进入赌局的目标攻击时使其获得1个随机1到6的点数，生命值降为1后获得【时来】效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

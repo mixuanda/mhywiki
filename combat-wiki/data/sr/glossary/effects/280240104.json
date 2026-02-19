@@ -1,0 +1,17 @@
+{
+  "id": "280240104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "分裂•预警",
+  "description": "<color> <b>A</b> </color>回合后进行繁殖，弱点击破效果恢复的回合无法进行繁殖。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280240104,
+    "MDF": "Monster_SW_Minion01_00_Split",
+    "Name": "分裂•预警",
+    "Desc": "<color> <b>A</b> </color>回合后进行繁殖，弱点击破效果恢复的回合无法进行繁殖。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

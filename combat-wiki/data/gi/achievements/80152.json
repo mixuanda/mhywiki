@@ -1,0 +1,15 @@
+{
+  "id": "80152",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "岩渊的寻宝者",
+  "description": "在层岩巨渊开启100个宝箱。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "30"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

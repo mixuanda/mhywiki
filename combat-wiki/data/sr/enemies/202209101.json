@@ -1,0 +1,39 @@
+{
+  "id": "202209101",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "繁花之杪（幻象）",
+  "description": "随玄鹿足迹而生的建木枝梢。出现于此的是基于你的记忆模拟出的幻影。",
+  "stats": {
+    "HP": 2.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Ice",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_2022090.png",
+  "figure": "monsterfigure/Monster_2022090.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

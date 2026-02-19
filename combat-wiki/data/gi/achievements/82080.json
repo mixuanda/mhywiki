@@ -1,0 +1,15 @@
+{
+  "id": "82080",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "珠心熔毁",
+  "description": "摧毁爆炎树创造的炽热之种。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

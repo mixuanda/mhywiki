@@ -1,0 +1,15 @@
+{
+  "id": "81350",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "现代钟表的诞生",
+  "description": "帮助芙佳找到矿石的「用处」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

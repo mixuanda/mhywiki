@@ -1,0 +1,18 @@
+{
+  "id": "10013104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "自破碎的天空坠落",
+  "description": "【自破碎的天空坠落】的效果尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013104,
+    "MDF": "MAvatar_Sam_00_Rank02_BuffCD",
+    "Name": "自破碎的天空坠落",
+    "Desc": "【自破碎的天空坠落】的效果尚且无法触发。",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

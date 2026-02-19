@@ -1,0 +1,18 @@
+{
+  "id": "4072606",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我即是虫群",
+  "description": "当虫群•真蛰虫施放「虫群突袭」时，场上不存在幼蛰虫或次蛰虫",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

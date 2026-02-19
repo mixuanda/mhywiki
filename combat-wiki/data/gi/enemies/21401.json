@@ -1,0 +1,26 @@
+{
+  "id": "21401",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深黯钓客",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Lloigor_Sub"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 深渊",
+    "深渊 > 异界栖兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

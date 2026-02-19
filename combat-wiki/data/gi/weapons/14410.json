@@ -1,0 +1,22 @@
+{
+  "id": "14410",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "暗巷的酒与诗",
+  "description": "过去贵族时代流行的歌谱，作者已无从考究。其中记载了某位侠盗的故事…",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112022",
+    "112037",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14410.js"
+  }
+}

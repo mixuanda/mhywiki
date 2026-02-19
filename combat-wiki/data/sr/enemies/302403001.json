@@ -1,0 +1,39 @@
+{
+  "id": "302403001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "示死祸源：深魇蝗灾",
+  "description": "仿若被「繁育」侵蚀的格拉默装甲，在那覆盖着异质的躯壳下，只藏着被星核扭曲的愿望——于梦境的深处，寰宇蝗灾以此样貌再度现世。",
+  "stats": {
+    "HP": 80.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 20.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Wind"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3024030.png",
+  "figure": "monsterfigure/Monster_3024030.png",
+  "camp": {
+    "id": "8",
+    "name": "虫群"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

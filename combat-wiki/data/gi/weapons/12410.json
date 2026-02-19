@@ -1,0 +1,22 @@
+{
+  "id": "12410",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "千岩古剑",
+  "description": "以璃月的基岩为原料削凿成的厚重大剑。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112013",
+    "112031",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12410.js"
+  }
+}

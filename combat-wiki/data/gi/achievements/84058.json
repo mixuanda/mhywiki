@@ -1,0 +1,15 @@
+{
+  "id": "84058",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "前尘一梦",
+  "description": "见证村庄历史中的真相。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

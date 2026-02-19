@@ -1,0 +1,22 @@
+{
+  "id": "12306",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "飞天大御剑",
+  "description": "可靠的大剑。传说著名的「御剑公子」曾试图借助它二度飞天。",
+  "rarity": 3,
+  "weaponType": 2,
+  "baseAtk": 401.2935898,
+  "subStatType": "Phys",
+  "subStatValue": 0.43918640000000003,
+  "materialRefs": [
+    "112037",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12306.js"
+  }
+}

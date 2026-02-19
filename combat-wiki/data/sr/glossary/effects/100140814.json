@@ -1,0 +1,18 @@
+{
+  "id": "100140814",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "火与光，善恶的化身",
+  "description": "卡厄斯兰那的额外回合的基础速度继承比例已提高至<color> <b>A</b> </color>。每有1个敌方目标被消灭，额外提高<color> <b>C</b> </color>，最多提高至<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100140814,
+    "MDF": "MAvatar_Phainon_00_Rank01_AddSpeedRatio",
+    "Name": "火与光，善恶的化身",
+    "Desc": "卡厄斯兰那的额外回合的基础速度继承比例已提高至<color> <b>A</b> </color>。每有1个敌方目标被消灭，额外提高<color> <b>C</b> </color>，最多提高至<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

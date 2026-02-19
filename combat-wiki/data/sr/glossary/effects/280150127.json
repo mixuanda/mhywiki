@@ -1,0 +1,17 @@
+{
+  "id": "280150127",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "虚数标记",
+  "description": "可以被处于【虚数附魔】状态的我方目标的攻击削减韧性。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150127,
+    "MDF": "MMonster_AML_Boss_00_Part2_IF_SkillP01_Weakness_Part3",
+    "Name": "虚数标记",
+    "Desc": "可以被处于【虚数附魔】状态的我方目标的攻击削减韧性。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4071017",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "灭亡之歌",
+  "description": "战斗中与敌方目标同归于尽",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

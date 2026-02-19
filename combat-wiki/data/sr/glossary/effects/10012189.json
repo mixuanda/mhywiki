@@ -1,0 +1,18 @@
+{
+  "id": "10012189",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "烬煨",
+  "description": "受到的伤害提高<color> <b>A</b> </color>，且可被视为陷入灼烧状态。【烬煨】持续回合内，每回合开始时受到火属性伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012189,
+    "MDF": "MAvatar_Jiaoqiu_00_Debuff_Flavor",
+    "Name": "烬煨",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>，且可被视为陷入灼烧状态。【烬煨】持续回合内，每回合开始时受到火属性伤害。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

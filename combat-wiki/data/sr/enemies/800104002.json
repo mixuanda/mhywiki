@@ -1,0 +1,39 @@
+{
+  "id": "800104002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "鸣雷造物",
+  "description": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如负载电荷，喷薄雷霆的鸟类生命。",
+  "stats": {
+    "HP": 0.6,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.4,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_8001040.png",
+  "figure": "monsterfigure/Monster_8001040.png",
+  "camp": {
+    "id": "3",
+    "name": "裂界造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

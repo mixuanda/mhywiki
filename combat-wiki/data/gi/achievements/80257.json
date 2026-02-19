@@ -1,0 +1,15 @@
+{
+  "id": "80257",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "汐海引路人 · 其一",
+  "description": "在枫丹廷区、白露区、苍晶区追随<color style='color:#FF0000;'><b>6</b></color>个仙灵，并点亮仙灵之庭。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "42"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

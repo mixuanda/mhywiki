@@ -1,0 +1,15 @@
+{
+  "id": "84065",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "层层惊骇",
+  "description": "成功逃离位于层岩巨渊最下方的神秘空间。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

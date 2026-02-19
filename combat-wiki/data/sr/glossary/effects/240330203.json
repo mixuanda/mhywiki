@@ -1,0 +1,19 @@
+{
+  "id": "240330203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "荣誉",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330203,
+    "MDF": "MMonster_W4_Claymore_01_Skill02_DeadLock_Win",
+    "Name": "荣誉",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

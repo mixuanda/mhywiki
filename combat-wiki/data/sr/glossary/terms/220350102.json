@@ -1,0 +1,15 @@
+{
+  "id": "220350102",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "虚弱",
+  "description": "造成的伤害降低。",
+  "content": {
+    "_id": 220350102,
+    "Name": "虚弱",
+    "Desc": "造成的伤害降低。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

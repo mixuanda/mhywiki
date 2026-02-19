@@ -1,0 +1,23 @@
+{
+  "id": "21023",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "我们是地火",
+  "rarity": 4,
+  "path": "Preservation",
+  "skillId": 21023,
+  "baseStats": {
+    "HP": 740.88,
+    "ATK": 476.28,
+    "DEF": 463.05
+  },
+  "materialRefs": [
+    "110143",
+    "112013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21023.js"
+  }
+}

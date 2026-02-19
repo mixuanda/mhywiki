@@ -1,0 +1,17 @@
+{
+  "id": "220040148",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "傀儡丝线",
+  "description": "消耗【傀儡丝线】对召唤物附加【诱狂】效果。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040148,
+    "MDF": "MMonster_W2_Kafka_00_IF_AssistController_Save",
+    "Name": "傀儡丝线",
+    "Desc": "消耗【傀儡丝线】对召唤物附加【诱狂】效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

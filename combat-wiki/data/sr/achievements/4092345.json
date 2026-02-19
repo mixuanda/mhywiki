@@ -1,0 +1,18 @@
+{
+  "id": "4092345",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "唐怀瑟之门闪耀",
+  "description": "在与「模拟宇宙」首领敌人的战斗中落败",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

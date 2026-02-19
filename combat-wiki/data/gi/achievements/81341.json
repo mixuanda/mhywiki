@@ -1,0 +1,15 @@
+{
+  "id": "81341",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "炉心冷却",
+  "description": "让翻腾的湖面重归平静。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

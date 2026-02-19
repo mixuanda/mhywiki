@@ -1,0 +1,22 @@
+{
+  "id": "12301",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "铁影阔剑",
+  "description": "这把剑是著名的光之狮艾伦德林的佩剑的仿品。握紧它，感受传说中大英雄的力量吧！注意：幻想请适度。",
+  "rarity": 3,
+  "weaponType": 2,
+  "baseAtk": 401.2935898,
+  "subStatType": "HP",
+  "subStatValue": 0.35190040000000006,
+  "materialRefs": [
+    "112016",
+    "112040",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12301.js"
+  }
+}

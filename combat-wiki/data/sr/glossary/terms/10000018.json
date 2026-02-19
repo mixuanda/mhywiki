@@ -1,0 +1,15 @@
+{
+  "id": "10000018",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "召唤忆灵",
+  "description": "将忆灵召唤到场上。若忆灵已在场，解除忆灵陷入的所有控制类负面状态。",
+  "content": {
+    "_id": 10000018,
+    "Name": "召唤忆灵",
+    "Desc": "将忆灵召唤到场上。若忆灵已在场，解除忆灵陷入的所有控制类负面状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

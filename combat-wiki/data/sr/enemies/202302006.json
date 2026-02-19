@@ -1,0 +1,38 @@
+{
+  "id": "202302006",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "丰饶灵兽 · 长右",
+  "description": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Ice",
+    "Elec",
+    "Wind",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {},
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2023020.png",
+  "figure": "monsterfigure/Monster_2023020.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

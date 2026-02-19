@@ -1,0 +1,18 @@
+{
+  "id": "100141310",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "就这样，一直",
+  "description": "全属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141310,
+    "MDF": "MAvatar_Evernight_00_Rank06_Buff",
+    "Name": "就这样，一直",
+    "Desc": "全属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4033301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "繁花将尽",
+  "description": "为逝者干杯，敬苦涩的现实<br><color style='color:#8790ab;'>※ 调制特饮「长梦苦短」</color>",
+  "reward": 10,
+  "version": 2.3,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

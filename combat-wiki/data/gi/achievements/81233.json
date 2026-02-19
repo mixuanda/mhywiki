@@ -1,0 +1,15 @@
+{
+  "id": "81233",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "就算回归沙尘…",
+  "description": "…也要留下梦与愿望。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

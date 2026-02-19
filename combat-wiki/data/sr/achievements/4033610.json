@@ -1,0 +1,18 @@
+{
+  "id": "4033610",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "侠忍•前尘",
+  "description": "窥探忍界•暗面的真实，扫却缭乱•忍侠旧忆上的落尘•蛛丝<br>※见证乱破的前尘•影事",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

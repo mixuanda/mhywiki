@@ -1,0 +1,15 @@
+{
+  "id": "84516",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "凑合…也能用",
+  "description": "只带给赫尔曼木桩的材料。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

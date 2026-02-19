@@ -1,0 +1,17 @@
+{
+  "id": "240640108",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "决狱从速",
+  "description": "受到的伤害提高<color> <b>A</b> </color>，从弱点击破状态中恢复时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240640108,
+    "MDF": "MMonster_W4_Serpent_01_Passive_Sub2",
+    "Name": "决狱从速",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>，从弱点击破状态中恢复时解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10013154",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "绝命对峙",
+  "description": "受到处于【绝命对峙】的目标攻击时受到的伤害提高<color> <b>A</b> </color>。普攻获得强化。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013154,
+    "MDF": "MAvatar_Boothill_00_DuelState",
+    "Name": "绝命对峙",
+    "Desc": "受到处于【绝命对峙】的目标攻击时受到的伤害提高<color> <b>A</b> </color>。普攻获得强化。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4043006",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "永远与时间同步",
+  "description": "修复 15.0 个梦境迷钟",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "312",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "梦想之地匹诺康尼",
+  "icon": "71027.png",
+  "setBonuses": [
+    "使装备者的能量恢复效率提高 <b>5%</b> 。使队伍中与装备者属性相同的我方其他角色造成的伤害提高 <b>10%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/312.js"
+  }
+}

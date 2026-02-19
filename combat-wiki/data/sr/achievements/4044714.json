@@ -1,0 +1,18 @@
+{
+  "id": "4044714",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "众神的黄昏",
+  "description": "初次启动木马程序「槲寄生」号",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

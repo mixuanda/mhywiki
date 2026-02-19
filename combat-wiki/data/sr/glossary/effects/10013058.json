@@ -1,0 +1,18 @@
+{
+  "id": "10013058",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "唯理论",
+  "description": "对处于负面效果的敌方目标造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013058,
+    "MDF": "MAvatar_Dr_Ratio_00_PointB3_AddedRatio",
+    "Name": "唯理论",
+    "Desc": "对处于负面效果的敌方目标造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

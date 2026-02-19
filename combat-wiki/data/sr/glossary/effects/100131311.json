@@ -1,0 +1,19 @@
+{
+  "id": "100131311",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "荣光之秘",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100131311,
+    "MDF": "MAvatar_Sunday_10_MazeBuff",
+    "Name": "荣光之秘",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "40902",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "秘源机兵 · 构型械",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_DragonClaw"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 秘源机兵"
+  ],
+  "analysis": {
+    "Name": "秘源机兵 · 构型械",
+    "Icon": "UI_MonsterIcon_DragonClaw",
+    "DescList": [
+      "• 正常状态下，@所有抗性提高至 60%#，比圣骸高 20%<br>• 常态维持 @40s# 后施放终结技，使用夜魂会使其提前；终结技生成@固态燃素柱#<br>• 攀爬固态燃素柱并攻击两个核心，使其@损失 15% 生命值#，且@所有抗性大幅降低#"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

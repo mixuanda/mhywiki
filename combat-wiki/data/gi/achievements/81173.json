@@ -1,0 +1,15 @@
+{
+  "id": "81173",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "《我作为冒险家的一生》",
+  "description": "协助罗尔德，完成冒险日志。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

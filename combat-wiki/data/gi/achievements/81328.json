@@ -1,0 +1,15 @@
+{
+  "id": "81328",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「谜题全都解开了！」",
+  "description": "完成「碑铭的研究」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

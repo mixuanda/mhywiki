@@ -1,0 +1,18 @@
+{
+  "id": "10010035",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "道标",
+  "description": "暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010035,
+    "MDF": "MAvatar_Himeko_CriticalChance",
+    "Name": "道标",
+    "Desc": "暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

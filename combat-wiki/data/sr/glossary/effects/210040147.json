@@ -1,0 +1,17 @@
+{
+  "id": "210040147",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "逃无可逃",
+  "description": "被【无尽寒冬之槊】锁定，作为无望冽风的幻灭者•虚妄之母单攻技能的追加施放目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040147,
+    "MDF": "MMonster_W1_CocoliaP2_00_IF_TargetLock02",
+    "Name": "逃无可逃",
+    "Desc": "被【无尽寒冬之槊】锁定，作为无望冽风的幻灭者•虚妄之母单攻技能的追加施放目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

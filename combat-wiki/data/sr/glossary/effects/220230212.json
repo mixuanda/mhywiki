@@ -1,0 +1,17 @@
+{
+  "id": "220230212",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "监视",
+  "description": "被<color>%CasterName</color>标记为监视目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220230212,
+    "MDF": "Monster_W2_Beast02_00_RLElite_Attack_Sign",
+    "Name": "监视",
+    "Desc": "被<color>%CasterName</color>标记为监视目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

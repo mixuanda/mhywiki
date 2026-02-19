@@ -1,0 +1,15 @@
+{
+  "id": "81076",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "Nice boat!",
+  "description": "与其他玩家交换「浪船」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

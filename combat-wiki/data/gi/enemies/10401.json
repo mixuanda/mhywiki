@@ -1,0 +1,25 @@
+{
+  "id": "10401",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "丘丘风行游侠",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "ahilr"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > 丘丘游侠"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

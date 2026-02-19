@@ -1,0 +1,18 @@
+{
+  "id": "4074605",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "盾之强者成名记",
+  "description": "【金血忆灵•裁定忘却之形】对锁定目标施放的3.0次单体攻击全部击中护盾",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "The World！",
+  "description": "第一次使用欧洛尼斯祷言暂停回溯中的物件",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

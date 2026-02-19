@@ -1,0 +1,15 @@
+{
+  "id": "81485",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "迟来的继业者",
+  "description": "他的愿望，将由你来完成…",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

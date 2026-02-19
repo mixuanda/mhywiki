@@ -1,0 +1,19 @@
+{
+  "id": "210040201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "重伤",
+  "description": "一定回合内，防御力降低<color> <b>B</b> </color>，同时每回合开始时受到物理属性伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040201,
+    "MDF": "Svarog_Electric_Modifier",
+    "Name": "重伤",
+    "Desc": "一定回合内，防御力降低<color> <b>B</b> </color>，同时每回合开始时受到物理属性伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

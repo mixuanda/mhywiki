@@ -1,0 +1,15 @@
+{
+  "id": "60000015",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "永恒河流",
+  "description": "陷入负面效果时，该负面效果的持续时间翻倍。",
+  "content": {
+    "_id": 60000015,
+    "Name": "永恒河流",
+    "Desc": "陷入负面效果时，该负面效果的持续时间翻倍。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

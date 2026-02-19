@@ -1,0 +1,31 @@
+{
+  "id": "13964",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13964",
+  "tags": [],
+  "content": {
+    "_id": 13964,
+    "N": "月映仙踪",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6_Danmaku_Normal01",
+        "D": "在「月映仙踪」玩法中，旅行者需要根据章节顺序，依次击败三只大詹。<br>挑战开始后，需要在有限的回合时长内<color style='color:#ec9d1f'>击败詹诸#和<color style='color:#ec9d1f'>点亮霄灯#，以<color style='color:#ec9d1f'>吸引大詹的现身#。"
+      },
+      {
+        "I": "UI_Activity_LanV6_Danmaku_Normal02",
+        "D": "回合开始后，白马仙人会<color style='color:#ec9d1f'>自动攻击#附近的敌人，并点亮附近的霄灯；由敌人或者霄灯掉落的心愿，在白马仙人<color style='color:#ec9d1f'>靠近后能够自行收取#。"
+      },
+      {
+        "I": "UI_Activity_LanV6_Danmaku_Normal03",
+        "D": "若未能成功在限时内击败大詹，可通过收集到的心愿强化自身，提升实力后再次挑战。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

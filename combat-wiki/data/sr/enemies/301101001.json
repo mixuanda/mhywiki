@@ -1,0 +1,39 @@
+{
+  "id": "301101001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "偏见",
+  "description": "观众对卢卡的偏见。",
+  "stats": {
+    "HP": 1.0,
+    "ATK": 5.9999400000000005,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_3011010.png",
+  "figure": "monsterfigure/Monster_3011010.png",
+  "camp": {
+    "id": "11",
+    "name": "忆域迷因"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

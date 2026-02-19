@@ -1,0 +1,18 @@
+{
+  "id": "4071506",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "过度防卫",
+  "description": "我方角色杰帕德施加的护盾没有遭到任何损耗的情况下获得 1.0 场战斗胜利",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

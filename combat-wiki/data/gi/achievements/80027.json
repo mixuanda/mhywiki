@@ -1,0 +1,15 @@
+{
+  "id": "80027",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "长歌回响",
+  "description": "将一个四星圣遗物强化至最高等级。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

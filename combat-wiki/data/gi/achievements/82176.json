@@ -1,0 +1,15 @@
+{
+  "id": "82176",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "单元格碎片",
+  "description": "通过荒性或芒性的攻击，中断隙境原体的应激状态。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

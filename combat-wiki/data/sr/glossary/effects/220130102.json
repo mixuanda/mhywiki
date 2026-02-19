@@ -1,0 +1,18 @@
+{
+  "id": "220130102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "罚恶模式",
+  "description": "金人司阍的韧性无法被削减且速度提高<color> <b>A</b> </color>点，并开启使用技能：戒退和缚束。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220130102,
+    "MDF": "MMonster_W2_Mecha03_00_Overdrive_On",
+    "Name": "罚恶模式",
+    "Desc": "金人司阍的韧性无法被削减且速度提高<color> <b>A</b> </color>点，并开启使用技能：戒退和缚束。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

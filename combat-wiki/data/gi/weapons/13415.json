@@ -1,0 +1,22 @@
+{
+  "id": "13415",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "「渔获」",
+  "description": "在久远的过去，曾经闻名稻妻的大盗爱用的枪。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 509.605949,
+  "subStatType": "ER",
+  "subStatValue": 0.45940000000000003,
+  "materialRefs": [
+    "112049",
+    "112055",
+    "114036"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13415.js"
+  }
+}

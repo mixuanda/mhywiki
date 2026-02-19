@@ -1,0 +1,15 @@
+{
+  "id": "80214",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "已如风中残烛？",
+  "description": "在获胜的牌局中，使用护盾或治疗效果累计为自身抵挡伤害或恢复生命<color style='color:#FF0000;'><b>300</b></color>点。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "30501",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众 · 藏镜仕女",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fmm"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 冬国仕女"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

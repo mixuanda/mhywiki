@@ -1,0 +1,15 @@
+{
+  "id": "81229",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "金光灿灿的歌",
+  "description": "…他们会将这首歌永远传唱下去吧，一代又一代。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

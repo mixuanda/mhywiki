@@ -1,0 +1,39 @@
+{
+  "id": "203202001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "蚀月狼卒",
+  "description": "来自蚀月猎群的步离人士兵，以贪婪吞噬敌人血肉而闻名。",
+  "stats": {
+    "HP": 2.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2032020.png",
+  "figure": "monsterfigure/Monster_2032020.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

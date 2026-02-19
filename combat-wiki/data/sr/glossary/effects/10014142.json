@@ -1,0 +1,18 @@
+{
+  "id": "10014142",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "护盾",
+  "description": "获得能够抵消伤害的护盾。护盾耗尽或效果消失前敌方攻击不会对我方持有护盾角色的生命值造成削减。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014142,
+    "MDF": "MAvatar_DanHengPT_00_Shield",
+    "Name": "护盾",
+    "Desc": "获得能够抵消伤害的护盾。护盾耗尽或效果消失前敌方攻击不会对我方持有护盾角色的生命值造成削减。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "14514",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "万世流涌大典",
+  "description": "曾在水下的隐修会中代代流传的教谕书，如今已经无人知晓其存在。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 541.829758,
+  "subStatType": "CD",
+  "subStatValue": 0.882048,
+  "materialRefs": [
+    "112085",
+    "112091",
+    "114056"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14514.js"
+  }
+}

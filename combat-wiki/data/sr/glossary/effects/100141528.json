@@ -1,0 +1,18 @@
+{
+  "id": "100141528",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "永续的燃烧",
+  "description": "卡厄斯兰那会一直保持【此躯即神】状态：伴着伙伴的祝福，火焰将照彻黑暗。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141528,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Phainon_Sub",
+    "Name": "永续的燃烧",
+    "Desc": "卡厄斯兰那会一直保持【此躯即神】状态：伴着伙伴的祝福，火焰将照彻黑暗。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

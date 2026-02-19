@@ -1,0 +1,18 @@
+{
+  "id": "240530114",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "冰蚀",
+  "description": "回合开始时，受到等同于自身生命上限一定比例的冰属性持续伤害，可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530114,
+    "MDF": "MMonster_W4_Manta_00_LocalLegend_Virus_Monster",
+    "Name": "冰蚀",
+    "Desc": "回合开始时，受到等同于自身生命上限一定比例的冰属性持续伤害，可叠加。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

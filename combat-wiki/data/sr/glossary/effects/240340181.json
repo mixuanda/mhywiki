@@ -1,0 +1,17 @@
+{
+  "id": "240340181",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "枷锁",
+  "description": "受到致命攻击后，若【%CasterName】处于【镣铐崩解】状态，立即被其重新召唤并进入【枷锁】状态，但会使【%CasterName】失去1层【灾难之力】和一定量的韧性。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340181,
+    "MDF": "MMonster_W4_FireProwler_11_Main03_HPBack",
+    "Name": "枷锁",
+    "Desc": "受到致命攻击后，若【%CasterName】处于【镣铐崩解】状态，立即被其重新召唤并进入【枷锁】状态，但会使【%CasterName】失去1层【灾难之力】和一定量的韧性。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

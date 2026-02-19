@@ -1,0 +1,18 @@
+{
+  "id": "4044311",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "巴特鲁斯玻色子",
+  "description": "找到一只原地打转的贼灵",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

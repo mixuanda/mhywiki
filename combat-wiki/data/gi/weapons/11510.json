@@ -1,0 +1,22 @@
+{
+  "id": "11510",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "波乱月白经津",
+  "description": "经津传奉命锻造的名作。因其如汹涌海涛般的气度，而得「波乱」之名。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 608.0745972,
+  "subStatType": "CR",
+  "subStatValue": 0.330768,
+  "materialRefs": [
+    "112019",
+    "112046",
+    "114032"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11510.js"
+  }
+}

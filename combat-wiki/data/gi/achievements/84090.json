@@ -1,0 +1,15 @@
+{
+  "id": "84090",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如我是我非我相",
+  "description": "击败回忆中的七叶寂照秘密主。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

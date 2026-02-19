@@ -1,0 +1,18 @@
+{
+  "id": "10014099",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "天气正好，万物可爱！",
+  "description": "生命上限提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014099,
+    "MDF": "MAvatar_Hyacine_00_Maze_AddMaxHp",
+    "Name": "天气正好，万物可爱！",
+    "Desc": "生命上限提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

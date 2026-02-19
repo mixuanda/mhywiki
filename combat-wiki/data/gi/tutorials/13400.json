@@ -1,0 +1,23 @@
+{
+  "id": "13400",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13400",
+  "tags": [],
+  "content": {
+    "_id": 13400,
+    "N": "管理队伍顺序",
+    "S": "重要消息",
+    "T": [
+      {
+        "I": "UI_Tutorial_TeamListOrder",
+        "D": "长按左侧<color style='color:#FFCC33'>拖拽按钮#可以调整列表中队伍的顺序。"
+      }
+    ],
+    "Y": 4,
+    "V": "5.0"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

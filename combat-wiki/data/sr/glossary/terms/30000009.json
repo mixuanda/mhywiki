@@ -1,0 +1,15 @@
+{
+  "id": "30000009",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "能量上限",
+  "description": "角色通常情况下可累积的能量值的上限。",
+  "content": {
+    "_id": 30000009,
+    "Name": "能量上限",
+    "Desc": "角色通常情况下可累积的能量值的上限。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

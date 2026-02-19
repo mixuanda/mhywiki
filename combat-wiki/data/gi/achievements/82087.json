@@ -1,0 +1,15 @@
+{
+  "id": "82087",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "悉数奉还！",
+  "description": "利用同种元素类型或岩元素的护盾，反制古岩龙蜥的「原岩喷吐」攻击，并造成大量伤害。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

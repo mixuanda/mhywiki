@@ -1,0 +1,15 @@
+{
+  "id": "82306",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「我们称之为高效」",
+  "description": "在未消灭任何由深黯魇语之主召唤出的深黯钓客的情况下，破除它的护盾。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

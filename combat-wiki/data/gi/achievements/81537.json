@@ -1,0 +1,15 @@
+{
+  "id": "81537",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "直到长出青苔",
+  "description": "协助枫丹摄影师完成对纳塔龙众的拍摄。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

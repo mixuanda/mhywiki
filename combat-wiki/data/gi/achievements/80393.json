@@ -1,0 +1,15 @@
+{
+  "id": "80393",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沃灰的冒险家",
+  "description": "在远古圣山、安饶之野完成<color style='color:#FF0000;'><b>3</b></color>个大世界限时挑战。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "60"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

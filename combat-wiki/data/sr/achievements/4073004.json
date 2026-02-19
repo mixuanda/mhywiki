@@ -1,0 +1,18 @@
+{
+  "id": "4073004",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "万般皆注定",
+  "description": "黑天鹅施放秘技「取此真相，弃舍表征」进入战斗时，累计使敌方目标陷入大于等于20.0层「奥迹」",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

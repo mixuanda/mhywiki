@@ -1,0 +1,15 @@
+{
+  "id": "84558",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "船说了算",
+  "description": "与拉菲克成功地测试了船体强度。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

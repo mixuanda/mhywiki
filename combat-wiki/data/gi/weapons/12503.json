@@ -1,0 +1,22 @@
+{
+  "id": "12503",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "松籁响起之时",
+  "description": "如同翻弄草木的息吹一般轻盈的大剑，如同吹倒树木的飓风一般摧枯拉朽的武器。",
+  "rarity": 5,
+  "weaponType": 2,
+  "baseAtk": 740.5801544000001,
+  "subStatType": "Phys",
+  "subStatValue": 0.20673,
+  "materialRefs": [
+    "112007",
+    "112016",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12503.js"
+  }
+}

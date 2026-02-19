@@ -1,0 +1,17 @@
+{
+  "id": "240620101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "罪血共鸣",
+  "description": "其它处于【罪血共鸣】状态的【金血忆灵•雉形】发动攻击后，自身会一同发起攻击。弱点被击破时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240620101,
+    "MDF": "MMonster_W4_Turkey_00_Skill02_Power",
+    "Name": "罪血共鸣",
+    "Desc": "其它处于【罪血共鸣】状态的【金血忆灵•雉形】发动攻击后，自身会一同发起攻击。弱点被击破时解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

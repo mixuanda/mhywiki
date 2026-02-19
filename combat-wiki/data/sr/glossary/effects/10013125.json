@@ -1,0 +1,18 @@
+{
+  "id": "10013125",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "久已生疏的憧憬",
+  "description": "下一次施放战技后，为我方恢复<color> <b>A</b> </color>个战技点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013125,
+    "MDF": "MAvatar_Misha_00_Rank06_RecoverBP",
+    "Name": "久已生疏的憧憬",
+    "Desc": "下一次施放战技后，为我方恢复<color> <b>A</b> </color>个战技点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

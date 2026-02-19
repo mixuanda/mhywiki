@@ -1,0 +1,18 @@
+{
+  "id": "230240301",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "基因复制",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240301,
+    "MDF": "MMonster_W3_Sam_01_Enhance",
+    "Name": "基因复制",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

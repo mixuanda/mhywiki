@@ -1,0 +1,310 @@
+{
+  "id": "3010",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "apocalypticshadow",
+  "name": "金血恶兽",
+  "content": {
+    "_id": 3010,
+    "Name": "金血恶兽",
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Elec",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Ice",
+          "Wind"
+        ],
+        "HPAS": 512400,
+        "Upper": [
+          {
+            "_id": 420281,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 701,
+              "ATK": 0.9,
+              "HP": 0.25
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 403401301,
+                  "HP": 134842,
+                  "HPCount": 2,
+                  "SPD": 132,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420291,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 900,
+              "ATK": 0.9,
+              "HP": 0.3
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 801501201,
+                  "HP": 121358,
+                  "HPCount": 2,
+                  "SPD": 120,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Elec",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Ice",
+          "Wind"
+        ],
+        "HPAS": 1846266,
+        "Upper": [
+          {
+            "_id": 420282,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 702,
+              "HP": 0.5
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 403401302,
+                  "HP": 485859,
+                  "HPCount": 2,
+                  "SPD": 145,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420292,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 901,
+              "HP": 0.6
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 801501202,
+                  "HP": 437273,
+                  "HPCount": 2,
+                  "SPD": 132,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Elec",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Ice",
+          "Wind"
+        ],
+        "HPAS": 5178402,
+        "Upper": [
+          {
+            "_id": 420283,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 703,
+              "HP": 0.9
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 403401303,
+                  "HP": 1362737,
+                  "HPCount": 2,
+                  "SPD": 158,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420293,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 902,
+              "HP": 1.08
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 801501203,
+                  "HP": 1226464,
+                  "HPCount": 2,
+                  "SPD": 144,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Elec",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Ice",
+          "Wind"
+        ],
+        "HPAS": 12461713,
+        "Upper": [
+          {
+            "_id": 420284,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 704
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 403401304,
+                  "HP": 2419750,
+                  "HPCount": 2,
+                  "SPD": 174,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420294,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 903,
+              "ATK": 1.1,
+              "HP": 2.1
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 801501204,
+                  "HP": 3811106,
+                  "HPCount": 2,
+                  "SPD": 158,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "Buff": {
+      "_id": 3110010,
+      "Name": "末法余烬",
+      "Desc": "拥有<color style='color:#f29e38;'>【坚防守备】</color>的敌方单位被<color style='color:#f29e38;'>弱点击破</color>时，使我方全体解除控制状态、恢复战技点并激活终结技。<br>敌方全体受到的战技伤害提高<color style='color:#f29e38;'> 25% </color>。"
+    },
+    "UB": [
+      {
+        "_id": 3111056,
+        "Name": "敢勇当先",
+        "Desc": "编队中的第1位角色造成的伤害提高<color style='color:#f29e38;'> 60% </color>。我方每消耗<color style='color:#f29e38;'> 4 </color>个战技点，回复1个战技点。"
+      },
+      {
+        "_id": 3111057,
+        "Name": "破釜沉舟",
+        "Desc": "我方目标消耗自身生命值后，造成的伤害提高<color style='color:#f29e38;'> 40% </color>，持续<color style='color:#f29e38;'> 3 </color>回合。"
+      },
+      {
+        "_id": 3111058,
+        "Name": "附骨之疽",
+        "Desc": "我方目标对敌方造成持续伤害后，回复<color style='color:#f29e38;'> 6 </color>点能量。我方全体造成的持续伤害无视敌方目标<color style='color:#f29e38;'> 30% </color>的全属性抗性。"
+      }
+    ],
+    "LB": [
+      {
+        "_id": 3111046,
+        "Name": "蕉学相长",
+        "Desc": "我方全体造成的战技和终结技伤害提高<color style='color:#f29e38;'> 50% </color>。"
+      },
+      {
+        "_id": 3111014,
+        "Name": "猎逐步伐",
+        "Desc": "我方角色击破敌方目标弱点时，行动提前<color style='color:#f29e38;'> 25% </color>。"
+      },
+      {
+        "_id": 3111021,
+        "Name": "时来运转",
+        "Desc": "角色造成的追加攻击伤害无视敌方目标<color style='color:#f29e38;'> 15% </color>的全属性抗性，同时对非弱点目标也能削减韧性，效果等同于原技能削韧值的<color style='color:#f29e38;'> 50% </color>。"
+      }
+    ],
+    "UC": [
+      101101,
+      101102,
+      101103,
+      101104
+    ],
+    "LC": [
+      100301,
+      100302,
+      100303,
+      100304
+    ],
+    "UG": [
+      10111
+    ],
+    "LG": [
+      10031
+    ],
+    "UpperGuide": 4034013
+  },
+  "source": {
+    "files": [
+      "data/CH/AS.js"
+    ]
+  }
+}

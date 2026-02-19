@@ -1,0 +1,25 @@
+{
+  "id": "30852",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "巡陆艇 · 尖端全能斥候型",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuimecha_CoreC_MoveC_AttackD_AttackC_AttackB_Water"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 巡陆艇 II"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

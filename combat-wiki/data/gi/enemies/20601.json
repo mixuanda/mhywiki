@@ -1,0 +1,25 @@
+{
+  "id": "20601",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "黄金王兽",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "gw"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 兽境群狼"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

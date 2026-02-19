@@ -1,0 +1,18 @@
+{
+  "id": "10013139",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "千纪沉寂之末",
+  "description": "星期日下次战技可以为目标额外提高全属性穿透。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013139,
+    "MDF": "MAvatar_Sunday_10_Rank01_Active",
+    "Name": "千纪沉寂之末",
+    "Desc": "星期日下次战技可以为目标额外提高全属性穿透。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81003",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "矢志不渝",
+  "description": "开启爱心形石阵中央的宝箱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

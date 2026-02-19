@@ -1,0 +1,15 @@
+{
+  "id": "80370",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "龙与箭之年",
+  "description": "集齐全套《秋暮之火》。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "57"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

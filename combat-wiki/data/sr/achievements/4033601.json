@@ -1,0 +1,18 @@
+{
+  "id": "4033601",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "壮绝•狩猎•终了",
+  "description": "灭却末法•劫火，完成壮绝•狩猎，此事在《银河忍法帖》中亦有记载<br>※ 击败「奇想林中的蕉研组」",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

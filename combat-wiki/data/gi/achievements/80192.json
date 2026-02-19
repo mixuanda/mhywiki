@@ -1,0 +1,15 @@
+{
+  "id": "80192",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "看得见又看不见的东西…",
+  "description": "取得「牌手手册」，成为牌手协会认证的正式牌手。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

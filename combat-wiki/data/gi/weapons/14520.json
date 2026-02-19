@@ -1,0 +1,62 @@
+{
+  "id": "14520",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "纺夜天镜",
+  "description": "由无瑕的白银铸就的明镜，传说见证了月之少女的诞生，因而被霜月之子视作至高的圣物。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 541.829758,
+  "subStatType": "EM",
+  "subStatValue": 264.61440000000005,
+  "materialRefs": [
+    "112124",
+    "112130",
+    "114076"
+  ],
+  "affix": {
+    "114520": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "元素战技造成水元素或草元素伤害时，装备者获得「终北圣言」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续4.5秒；队伍中附近的角色触发月绽放反应时，装备者获得「朔月诗篇」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续10秒；「终北圣言」效果与「朔月诗篇」效果同时存在时，队伍中附近的所有角色触发的绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> ，超绽放、烈绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> ，月绽放反应伤害提升 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，该效果无法叠加。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "15": {
+          "Affix": [
+            "元素战技造成水元素或草元素伤害时，装备者获得「终北圣言」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续4.5秒；队伍中附近的角色触发月绽放反应时，装备者获得「朔月诗篇」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续10秒；「终北圣言」效果与「朔月诗篇」效果同时存在时，队伍中附近的所有角色触发的绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> ，超绽放、烈绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> ，月绽放反应伤害提升 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，该效果无法叠加。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "元素战技造成水元素或草元素伤害时，装备者获得「终北圣言」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续4.5秒；队伍中附近的角色触发月绽放反应时，装备者获得「朔月诗篇」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续10秒；「终北圣言」效果与「朔月诗篇」效果同时存在时，队伍中附近的所有角色触发的绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> ，超绽放、烈绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> ，月绽放反应伤害提升 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，该效果无法叠加。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "元素战技造成水元素或草元素伤害时，装备者获得「终北圣言」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续4.5秒；队伍中附近的角色触发月绽放反应时，装备者获得「朔月诗篇」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续10秒；「终北圣言」效果与「朔月诗篇」效果同时存在时，队伍中附近的所有角色触发的绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> ，超绽放、烈绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> ，月绽放反应伤害提升 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，该效果无法叠加。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "元素战技造成水元素或草元素伤害时，装备者获得「终北圣言」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续4.5秒；队伍中附近的角色触发月绽放反应时，装备者获得「朔月诗篇」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续10秒；「终北圣言」效果与「朔月诗篇」效果同时存在时，队伍中附近的所有角色触发的绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> ，超绽放、烈绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> ，月绽放反应伤害提升 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，该效果无法叠加。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "元素战技造成水元素或草元素伤害时，装备者获得「终北圣言」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续4.5秒；队伍中附近的角色触发月绽放反应时，装备者获得「朔月诗篇」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续10秒；「终北圣言」效果与「朔月诗篇」效果同时存在时，队伍中附近的所有角色触发的绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> ，超绽放、烈绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> ，月绽放反应伤害提升 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，该效果无法叠加。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "元素战技造成水元素或草元素伤害时，装备者获得「终北圣言」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续4.5秒；队伍中附近的角色触发月绽放反应时，装备者获得「朔月诗篇」效果：元素精通提升 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点，持续10秒；「终北圣言」效果与「朔月诗篇」效果同时存在时，队伍中附近的所有角色触发的绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>150%</color> / <color style='color:#99FFFFFF'>180%</color> / <color style='color:#99FFFFFF'>210%</color> / <color style='color:#99FFFFFF'>240%</color> ，超绽放、烈绽放反应造成的伤害提升 <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>100%</color> / <color style='color:#99FFFFFF'>120%</color> / <color style='color:#99FFFFFF'>140%</color> / <color style='color:#99FFFFFF'>160%</color> ，月绽放反应伤害提升 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> ，该效果无法叠加。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14520.js"
+  }
+}

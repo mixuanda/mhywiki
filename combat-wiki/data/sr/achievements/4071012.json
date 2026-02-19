@@ -1,0 +1,18 @@
+{
+  "id": "4071012",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天和",
+  "description": "使用秘技在进入战斗后消灭所有敌人",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

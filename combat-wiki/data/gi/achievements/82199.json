@@ -1,0 +1,15 @@
+{
+  "id": "82199",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "白之契约者",
+  "description": "在一次「仆人」挑战中，不曾在具有生命之契的情况下被她的攻击命中，并击败「仆人」。",
+  "reward": 10,
+  "version": "4.6",
+  "group": {
+    "id": "49"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

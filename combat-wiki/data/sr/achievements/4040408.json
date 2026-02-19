@@ -1,0 +1,18 @@
+{
+  "id": "4040408",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "等级碾压",
+  "description": "完成 15.0 次强敌挑战",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

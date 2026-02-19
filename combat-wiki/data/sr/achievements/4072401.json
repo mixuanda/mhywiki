@@ -1,0 +1,18 @@
+{
+  "id": "4072401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "脆弱之身",
+  "description": "单场战斗中，使用我方角色银狼为同一敌方单体累计添加 3.0 次不同属性的弱点",
+  "reward": 10,
+  "version": 1.1,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

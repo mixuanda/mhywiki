@@ -1,0 +1,10 @@
+{
+  "id": "110243",
+  "game": "sr",
+  "entityType": "material",
+  "name": "万相果实",
+  "icon": "itemicon/110243.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

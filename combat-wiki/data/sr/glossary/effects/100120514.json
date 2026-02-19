@@ -1,0 +1,19 @@
+{
+  "id": "100120514",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "万端遗恨",
+  "description": "暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100120514,
+    "MDF": "MAvatar_Advanced_Ren_Rank02",
+    "Name": "万端遗恨",
+    "Desc": "暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

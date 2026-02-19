@@ -1,0 +1,18 @@
+{
+  "id": "220340146",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "战血激昂",
+  "description": "自身及其召唤的目标造成的伤害提高<color> <b>A</b> </color>，击破特攻提高<color> <b>B</b> </color>，此效果可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340146,
+    "MDF": "MMonster_W2_LycanKing_00_IF_ChampionEnhanceForeverStatus",
+    "Name": "战血激昂",
+    "Desc": "自身及其召唤的目标造成的伤害提高<color> <b>A</b> </color>，击破特攻提高<color> <b>B</b> </color>，此效果可叠加。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

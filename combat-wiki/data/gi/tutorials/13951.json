@@ -1,0 +1,47 @@
+{
+  "id": "13951",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13951",
+  "tags": [],
+  "content": {
+    "_id": 13951,
+    "N": "抽选交战单位和战斗策略",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_01",
+        "D": "在推演过程中，旅行者需要抽选交战单位与战斗策略，组成出战阵容，以与对手的阵容进行战斗。<br>每场推演中，需要进行10回合的战斗，每回合都需要迎战不同的对手。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_06",
+        "D": "每场推演开始时，旅行者可以从4个「战线领队」中抽选一个。领队实力强大，且有一个专属的战斗策略以提供增益。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_02",
+        "D": "每回合的战斗开始前，旅行者将获得一定次数的机会，用以抽选<color style='color:#FFCC33'>交战单位#、<color style='color:#FFCC33'>阵列战旗#与<color style='color:#FFCC33'>战斗策略#。<br>每回合将有一定次数的「刷新选项」的机会，以在选取交战单位或战斗策略时替换当前选项。<br>抽选的交战单位、阵列战旗与战斗策略将保留到本次推演结束。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess_Pick_03",
+        "D": "拥有2个等阶相同的交战单位时，会立刻将它们合成为1个等阶高一阶的战斗单位。<br>最多可以通过这种方式合成3阶的战斗单位。战斗单位的等阶越高，等级便越高，战斗力也越强。<br><color style='color:#FFCC33'>等级上限为120#。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_04",
+        "D": "在每场推演的第3/5/7回合，旅行者将获得1次机会，抽选<color style='color:#FFCC33'>战斗策略#。<br>战斗策略能为推演提供多种助益，合理选择战斗策略，可对推演产生可观的影响。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_07",
+        "D": "在每场推演的第2/6回合，旅行者将获得1次机会，抽选<color style='color:#FFCC33'>阵列战旗#。<br>己方佩戴阵列战旗后，将强化队伍内的交战单位。<br>在第4/8回合，旅行者的阵列战旗会获得强化。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_05",
+        "D": "除领队以外的交战单位有着<color style='color:#FFCC33'>普通#、<color style='color:#FFCC33'>精锐#和<color style='color:#FFCC33'>顶尖#三种精锐度，其对应的初始等级分别为20/30/50。<br>随着推演进行，出现更高精锐度交战单位的概率也将提升。<color style='color:#FFCC33'>精锐#交战单位将在第2回合后出现，<color style='color:#FFCC33'>顶尖#交战单位将在第6回合后出现。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1004053",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的霜役人 · 疾刺",
+  "description": "愚人众当中精锐的特务。自幼就被选中，在长久的训练与无数次的汰换后，成为阵列中最优秀的士兵，有着出色的身手与不渝的忠诚心。<br>但要论及加入愚人众后的苦难，役人也并非全盘接受，只是向来将惨痛的记忆深埋。如今，在地脉乱流的驱动下，这些记忆化为了战斗时的愤恨，成倍助燃…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_FatuusEscadronIce",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

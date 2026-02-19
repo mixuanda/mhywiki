@@ -1,0 +1,15 @@
+{
+  "id": "84559",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "问题何在？",
+  "description": "享受三道贾法尔制作的料理。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

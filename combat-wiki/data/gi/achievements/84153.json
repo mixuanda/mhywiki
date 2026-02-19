@@ -1,0 +1,15 @@
+{
+  "id": "84153",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "SPEEDRUN",
+  "description": "说服琳妮特与你共度悠闲而平静的一天。",
+  "reward": 5,
+  "version": "4.5",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

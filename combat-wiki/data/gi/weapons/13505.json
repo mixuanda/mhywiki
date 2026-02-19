@@ -1,0 +1,22 @@
+{
+  "id": "13505",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "和璞鸢",
+  "description": "魔神翡玉化作的长枪，拥有刺杀远古海兽的沉重与锋利。",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "CR",
+  "subStatValue": 0.220512,
+  "materialRefs": [
+    "112031",
+    "112034",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13505.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044032",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "秋名山之手",
+  "description": "在「地宫迷踪」活动的「扎格列斯之手」房间中，通关时撞墙不超过3.0次",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

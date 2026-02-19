@@ -1,0 +1,15 @@
+{
+  "id": "81557",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "勇者的归途",
+  "description": "在故事的最后，你改变了「她」的结局。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

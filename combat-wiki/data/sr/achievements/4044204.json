@@ -1,0 +1,18 @@
+{
+  "id": "4044204",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "让我试试，能否触碰神明",
+  "description": "操控扎格列斯之手，尝试击打刻法勒的神躯。",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

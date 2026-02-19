@@ -1,0 +1,15 @@
+{
+  "id": "80045",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "重嶂不移",
+  "description": "将璃月的七天神像供奉至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "5"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

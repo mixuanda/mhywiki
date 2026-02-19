@@ -1,0 +1,138 @@
+{
+  "id": "2001",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "moc",
+  "name": "血狼萤光",
+  "content": {
+    "_id": 2001,
+    "Name": "血狼萤光",
+    "Floors": [
+      {
+        "Floor": 12,
+        "Manual": true,
+        "HPSingle": 16654827,
+        "HPMulti": 9532008,
+        "Upper": [
+          {
+            "_id": 0,
+            "Level": 95,
+            "HardLevelGroup": 3,
+            "EliteGroup": {
+              "ID": 0,
+              "HP": 2
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 4023010,
+                  "HP": 1361715,
+                  "HPShow": 3,
+                  "SPD": 158,
+                  "Stance": 16
+                },
+                {
+                  "ID": 8013010,
+                  "HP": 1152221,
+                  "HPShow": 3,
+                  "SPD": 132,
+                  "Stance": 10
+                },
+                {
+                  "ID": 4023010,
+                  "HP": 1361715,
+                  "HPShow": 3,
+                  "SPD": 158,
+                  "Stance": 16
+                }
+              ],
+              [
+                {
+                  "ID": 8003030,
+                  "HP": 1152221,
+                  "HPShow": 3,
+                  "SPD": 158,
+                  "Stance": 10
+                },
+                {
+                  "ID": 2034010,
+                  "HP": 1920368,
+                  "SPD": 264,
+                  "Stance": 24
+                },
+                {
+                  "ID": 8003030,
+                  "HP": 1152221,
+                  "HPShow": 3,
+                  "SPD": 158,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 0,
+            "Level": 95,
+            "HardLevelGroup": 3,
+            "EliteGroup": {
+              "ID": 0,
+              "HP": 2
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 2013020,
+                  "HP": 837979,
+                  "SPD": 158,
+                  "Stance": 10
+                },
+                {
+                  "ID": 2013020,
+                  "HP": 837979,
+                  "SPD": 158,
+                  "Stance": 10
+                },
+                {
+                  "ID": 2013020,
+                  "HP": 837979,
+                  "SPD": 158,
+                  "Stance": 10
+                }
+              ],
+              [
+                {
+                  "ID": 3002010,
+                  "HP": 384074,
+                  "HPShow": 4,
+                  "SPD": 132,
+                  "Stance": 3
+                },
+                {
+                  "ID": 3024020,
+                  "HP": 3491578,
+                  "SPD": 158,
+                  "Stance": 20
+                },
+                {
+                  "ID": 3002040,
+                  "HP": 244410,
+                  "HPShow": 4,
+                  "SPD": 106,
+                  "Stance": 3
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/Chaos_1.js",
+      "data/CH/Chaos_2.js"
+    ]
+  }
+}

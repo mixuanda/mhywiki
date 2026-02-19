@@ -1,0 +1,15 @@
+{
+  "id": "80091",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "妖鬼狂言百物语",
+  "description": "集齐全套《鹮巷物语》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

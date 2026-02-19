@@ -1,0 +1,15 @@
+{
+  "id": "81300",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "分歧的原点",
+  "description": "知悉镀金旅团派往居尔城的调查队覆灭的真相。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

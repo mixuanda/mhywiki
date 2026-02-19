@@ -1,0 +1,17 @@
+{
+  "id": "220340114",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "怒意",
+  "description": "当前呼雷拥有<color> <b>A</b> </color>点【怒意】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340114,
+    "MDF": "MMonster_W2_LycanKing_00_BloodRageMark",
+    "Name": "怒意",
+    "Desc": "当前呼雷拥有<color> <b>A</b> </color>点【怒意】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

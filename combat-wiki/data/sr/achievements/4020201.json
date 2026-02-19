@@ -1,0 +1,18 @@
+{
+  "id": "4020201",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "银河系搭车客指南",
+  "description": "获得 10.0 名角色",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 2,
+    "Name": "流光遗痕",
+    "Icon": "CollectAchievementIcon.png",
+    "Count": 14
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

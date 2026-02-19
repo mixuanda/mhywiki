@@ -1,0 +1,19 @@
+{
+  "id": "10013012",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "攻击降低",
+  "description": "攻击力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013012,
+    "MDF": "MWAvatar_Gallagher_00_Skill11_AttackDownModifier",
+    "Name": "攻击降低",
+    "Desc": "攻击力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

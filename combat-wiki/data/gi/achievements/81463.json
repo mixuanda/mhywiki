@@ -1,0 +1,15 @@
+{
+  "id": "81463",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "碧水从游",
+  "description": "在船歌声中观览碧水河的美景。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

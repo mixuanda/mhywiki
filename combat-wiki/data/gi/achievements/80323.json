@@ -1,0 +1,15 @@
+{
+  "id": "80323",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "古海的冒险家",
+  "description": "在诺思托伊区、旧日之海完成<color style='color:#FF0000;'><b>6</b></color>个大世界限时挑战。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

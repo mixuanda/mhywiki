@@ -1,0 +1,17 @@
+{
+  "id": "230250133",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "破碎泡影",
+  "description": "「旧梦的回声」受到的伤害提高<color> <b>A</b> </color>，「万籁齐响的指挥家」从弱点击破状态中恢复时解除该效果。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230250133,
+    "MDF": "Monster_W3_SundayPart_00_IF_EX02_DamageTaken",
+    "Name": "破碎泡影",
+    "Desc": "「旧梦的回声」受到的伤害提高<color> <b>A</b> </color>，「万籁齐响的指挥家」从弱点击破状态中恢复时解除该效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

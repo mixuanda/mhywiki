@@ -1,0 +1,15 @@
+{
+  "id": "80291",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "汐海引路人 · 其三",
+  "description": "在莫尔泰区、伊黎耶林区追随<color style='color:#FF0000;'><b>9</b></color>个仙灵，并点亮仙灵之庭。",
+  "reward": 20,
+  "version": "4.2",
+  "group": {
+    "id": "46"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

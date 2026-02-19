@@ -1,0 +1,18 @@
+{
+  "id": "10014143",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "神秀",
+  "description": "攻击力提高<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014143,
+    "MDF": "MAvatar_DanHengPT_00_PointB1_AddAttackRatio",
+    "Name": "神秀",
+    "Desc": "攻击力提高<color> <b>A</b> </color>点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

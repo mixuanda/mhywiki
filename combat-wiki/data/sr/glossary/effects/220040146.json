@@ -1,0 +1,18 @@
+{
+  "id": "220040146",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "减伤分配",
+  "description": "未被弱点击破时，受到的伤害降低<color> <b>A</b> </color>，行动时此效果平均分配给其余敌方单位。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040146,
+    "MDF": "MMonster_Common_IF_AllDamageTransfer_AlldamageReduce_Sub",
+    "Name": "减伤分配",
+    "Desc": "未被弱点击破时，受到的伤害降低<color> <b>A</b> </color>，行动时此效果平均分配给其余敌方单位。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10014147",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "草木微尘皆入梦中",
+  "description": "造成伤害时无视敌方目标<color> <b>A</b> </color>的防御力。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014147,
+    "MDF": "MAvatar_DanHengPT_00_Rank06_Buff",
+    "Name": "草木微尘皆入梦中",
+    "Desc": "造成伤害时无视敌方目标<color> <b>A</b> </color>的防御力。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

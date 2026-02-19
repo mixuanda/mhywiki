@@ -1,0 +1,15 @@
+{
+  "id": "82067",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "推倒这面墙！",
+  "description": "摧毁一扇冰盾丘丘暴徒的盾牌。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "15"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

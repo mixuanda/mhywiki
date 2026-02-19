@@ -1,0 +1,19 @@
+{
+  "id": "10012259",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "玑星太素",
+  "description": "每层使击破特攻提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012259,
+    "MDF": "MAvatar_Fugue_00_PointB3_Sub",
+    "Name": "玑星太素",
+    "Desc": "每层使击破特攻提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

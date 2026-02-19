@@ -1,0 +1,15 @@
+{
+  "id": "81493",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「哇！是大逆转！」",
+  "description": "不妨把思路掉转过来…",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

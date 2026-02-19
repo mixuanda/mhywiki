@@ -1,0 +1,25 @@
+{
+  "id": "606",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "火飘浮灵",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "pspc"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 飘浮灵"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

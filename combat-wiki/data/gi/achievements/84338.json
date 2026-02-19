@@ -1,0 +1,15 @@
+{
+  "id": "84338",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "羁旅未竟",
+  "description": "还有许多要与「同伴」一起经历。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

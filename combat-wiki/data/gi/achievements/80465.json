@@ -1,0 +1,15 @@
+{
+  "id": "80465",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "月尘的冒险家 · 其二",
+  "description": "在虚海望、逐浪野、烟硌山峰完成<color style='color:#FF0000;'><b>5</b></color>个大世界限时挑战。",
+  "reward": 10,
+  "version": "6.3",
+  "group": {
+    "id": "66"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

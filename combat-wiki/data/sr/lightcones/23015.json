@@ -1,0 +1,23 @@
+{
+  "id": "23015",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "比阳光更明亮的",
+  "rarity": 5,
+  "path": "Destruction",
+  "skillId": 23015,
+  "baseStats": {
+    "HP": 1058.4,
+    "ATK": 635.04,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110113",
+    "113003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/23015.js"
+  }
+}

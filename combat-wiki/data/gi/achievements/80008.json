@@ -1,0 +1,15 @@
+{
+  "id": "80008",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "生存专家",
+  "description": "掌握10种菜肴的制作方法。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "2"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

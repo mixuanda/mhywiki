@@ -1,0 +1,15 @@
+{
+  "id": "61000042",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "构音推演：先照高山",
+  "description": "回响推演行动时，使敌方全体攻击力提高 <b>30%</b> ，持续 <b>1</b> 回合。",
+  "content": {
+    "_id": 61000042,
+    "Name": "构音推演：先照高山",
+    "Desc": "回响推演行动时，使敌方全体攻击力提高 <b>30%</b> ，持续 <b>1</b> 回合。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

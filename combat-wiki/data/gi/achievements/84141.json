@@ -1,0 +1,15 @@
+{
+  "id": "84141",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "致一百年后的你",
+  "description": "阅读所有寄给珐露珊的信件。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

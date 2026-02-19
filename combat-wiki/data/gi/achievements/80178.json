@@ -1,0 +1,15 @@
+{
+  "id": "80178",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "法里斯之旅",
+  "description": "集齐全套《浮槃歌卷》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "32"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240150107",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "潮隐",
+  "description": "当前处于不可选中状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150107,
+    "MDF": "MMonster_W4_DawnsEye_00_PartBlock",
+    "Name": "潮隐",
+    "Desc": "当前处于不可选中状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

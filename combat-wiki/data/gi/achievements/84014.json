@@ -1,0 +1,15 @@
+{
+  "id": "84014",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "派蒙都进不去吧？",
+  "description": "将萍姥姥的「壶」打扫干净。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10014032",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "猜猜这里住着谁",
+  "description": "受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014032,
+    "MDF": "MAvatar_Tribbie_00_SKL03_Buff_Debuff",
+    "Name": "猜猜这里住着谁",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

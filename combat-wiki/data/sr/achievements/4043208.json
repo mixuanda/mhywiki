@@ -1,0 +1,18 @@
+{
+  "id": "4043208",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "海选妙妙屋",
+  "description": "在「海选特快」的界面中发现任意一个隐藏挑战",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

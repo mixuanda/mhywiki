@@ -1,0 +1,15 @@
+{
+  "id": "84057",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沧海生威",
+  "description": "击退「漩涡的余威」跋掣。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4074006",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "折旌的战场",
+  "description": "在和「颁赐者，千军首，天谴之矛」的战斗中，令其施放【畏怖溃军皆成铠仗】时没有吸收到「征服或被征服」",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

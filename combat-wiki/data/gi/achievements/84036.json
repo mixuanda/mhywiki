@@ -1,0 +1,15 @@
+{
+  "id": "84036",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "振袖秋风问红叶",
+  "description": "完成「振袖秋风问红叶」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

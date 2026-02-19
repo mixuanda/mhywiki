@@ -1,0 +1,18 @@
+{
+  "id": "10014012",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "视界外来信",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014012,
+    "MDF": "MAvatar_TheHerta_00_SkillTree02_Buff",
+    "Name": "视界外来信",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054229",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "真·海豹无双",
+  "description": "在「豹豹碰碰大作战」的单场比赛中，使用同一只小海豹击飞对手的小海豹4.0次及以上",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

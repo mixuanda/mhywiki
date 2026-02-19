@@ -1,0 +1,15 @@
+{
+  "id": "81304",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「生命，很神奇吧？」",
+  "description": "沙虫的行宫错综复杂，生命总能开辟出意想不到的通路…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

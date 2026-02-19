@@ -1,0 +1,39 @@
+{
+  "id": "3002014",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "斯科特 · 量产型",
+  "description": "被Assassin的力量拆分成无数个体的斯科特，每台量产机都拥有匹敌原型机的力量。",
+  "stats": {
+    "HP": 2.75,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002014.png",
+  "figure": "monsterfigure/Monster_3002014.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2100401416",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "守备溃防",
+  "description": "当前<color>%CasterName</color>处于【守备溃防】状态，自身受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2100401416,
+    "MDF": "MCommon_MinionsSuperArmorBreak_IF",
+    "Name": "守备溃防",
+    "Desc": "当前<color>%CasterName</color>处于【守备溃防】状态，自身受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "15305",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "信使",
+  "description": "造型简单的木制弓。传说它曾被人用作远程通讯的道具。",
+  "rarity": 3,
+  "weaponType": 5,
+  "baseAtk": 448.2215814,
+  "subStatType": "CD",
+  "subStatValue": 0.31239200000000006,
+  "materialRefs": [
+    "112028",
+    "112037",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15305.js"
+  }
+}

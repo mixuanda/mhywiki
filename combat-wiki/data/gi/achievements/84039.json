@@ -1,0 +1,15 @@
+{
+  "id": "84039",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "所有人的愿望之诗",
+  "description": "接触「永恒」的象征，「千手百眼神像」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

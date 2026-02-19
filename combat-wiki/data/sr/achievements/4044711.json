@@ -1,0 +1,18 @@
+{
+  "id": "4044711",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "晨昏的三次心跳",
+  "description": "发现时光归墟内所有的启目集",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

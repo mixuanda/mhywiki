@@ -1,0 +1,39 @@
+{
+  "id": "403201101",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "黑潮蚀刃",
+  "description": "从黑潮中诞生的扭曲造物，对杀戮的渴求成为了空洞躯壳中仅存的意志。<br>锋利双刃能瞬间撕裂挡在前方的所有活物，迅疾身形如幽魂般难以捉摸，要将污染与侵蚀散布至世界所有角落。",
+  "stats": {
+    "HP": 0.0025,
+    "ATK": 66.66667,
+    "DEF": 1.0,
+    "SPD": 180.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4032010.png",
+  "figure": "monsterfigure/Monster_4032010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

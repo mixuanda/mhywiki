@@ -1,0 +1,34 @@
+{
+  "id": "3-8-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "3.8",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Wanderer",
+      "X": 2
+    },
+    {
+      "N": "Kokomi",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Faruzan",
+      "X": 2
+    },
+    {
+      "N": "Rosaria",
+      "X": 7
+    },
+    {
+      "N": "Feiyan",
+      "X": 7
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81156",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "小猎犬号搁浅记",
+  "description": "跟随无名学者的脚步探索海祇岛。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

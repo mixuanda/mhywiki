@@ -1,0 +1,17 @@
+{
+  "id": "210040149",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "守备溃防",
+  "description": "受到的伤害提高<color> <b>A</b> </color>，从弱点击破状态中恢复时解除该效果。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040149,
+    "MDF": "MCommon_SuperArmorBreak_IF",
+    "Name": "守备溃防",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>，从弱点击破状态中恢复时解除该效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

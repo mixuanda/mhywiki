@@ -1,0 +1,18 @@
+{
+  "id": "10014121",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "军功",
+  "description": "攻击力提高<color> <b>A</b> </color>点。施放攻击后刻律德菈额外造成1次附加伤害，剩余可触发次数为<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014121,
+    "MDF": "MAvatar_Cerydra_00_Skill02_Target_Lv1",
+    "Name": "军功",
+    "Desc": "攻击力提高<color> <b>A</b> </color>点。施放攻击后刻律德菈额外造成1次附加伤害，剩余可触发次数为<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

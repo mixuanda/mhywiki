@@ -1,0 +1,18 @@
+{
+  "id": "4073508",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "全兵戈狂潮！",
+  "description": "单场战斗中，使用飞霄施放终结技，发动第6.0次【闪裂刃舞】或【钺贯天冲】时，使目标生命值降低至0",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

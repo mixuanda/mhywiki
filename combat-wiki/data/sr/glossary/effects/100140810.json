@@ -1,0 +1,17 @@
+{
+  "id": "100140810",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "火种",
+  "description": "当前溢出<color> <b>A</b> </color>点【火种】，变身结束时获得等量【火种】。",
+  "effectType": "character",
+  "content": {
+    "_id": 100140810,
+    "MDF": "MAvatar_Phainon_00_SPOverflow",
+    "Name": "火种",
+    "Desc": "当前溢出<color> <b>A</b> </color>点【火种】，变身结束时获得等量【火种】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

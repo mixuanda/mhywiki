@@ -1,0 +1,19 @@
+{
+  "id": "10013215",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "败谢",
+  "description": "防御力降低<color> <b>A</b> </color>，被添加所有【共舞者】属性的弱点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013215,
+    "MDF": "MAvatar_Constance_00_Ultra_Weakness",
+    "Name": "败谢",
+    "Desc": "防御力降低<color> <b>A</b> </color>，被添加所有【共舞者】属性的弱点。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

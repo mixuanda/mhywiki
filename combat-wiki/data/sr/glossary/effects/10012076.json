@@ -1,0 +1,18 @@
+{
+  "id": "10012076",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "百里闻风，九曲响镝",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012076,
+    "MDF": "MAvatar_Yukong_00_Rank04_Flower_Bonus",
+    "Name": "百里闻风，九曲响镝",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

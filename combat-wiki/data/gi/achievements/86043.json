@@ -1,0 +1,15 @@
+{
+  "id": "86043",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "踏水穿云",
+  "description": "与其他玩家一同战胜隐山猊兽。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "53"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

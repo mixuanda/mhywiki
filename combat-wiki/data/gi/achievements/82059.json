@@ -1,0 +1,15 @@
+{
+  "id": "82059",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "提瓦特的园丁，不畏酷热",
+  "description": "通过攻击爆炎树的花冠，使其瘫痪。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "14"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

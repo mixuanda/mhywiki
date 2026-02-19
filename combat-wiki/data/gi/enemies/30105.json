@@ -1,0 +1,25 @@
+{
+  "id": "30105",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众先遣队 · 风拳前锋军",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fsa"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 愚人众先遣队"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

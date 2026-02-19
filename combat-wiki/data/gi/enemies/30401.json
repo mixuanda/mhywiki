@@ -1,0 +1,25 @@
+{
+  "id": "30401",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众 · 冰萤术士",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fccm"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 萤术士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

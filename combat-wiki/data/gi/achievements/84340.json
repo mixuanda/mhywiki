@@ -1,0 +1,15 @@
+{
+  "id": "84340",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "人创造的奇迹",
+  "description": "为纳塔夺取最终的胜利。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

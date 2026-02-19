@@ -1,0 +1,18 @@
+{
+  "id": "4073005",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "对、对、对、对不起",
+  "description": "米沙施放终结技「要…要迟到了！」时，单次攻击同时使至少4.0个不同的敌人陷入冻结状态",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

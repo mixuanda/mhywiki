@@ -1,0 +1,15 @@
+{
+  "id": "80030",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 蒙德",
+  "description": "点亮整个蒙德地图（龙脊雪山地区除外）。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "4"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "100141520",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「负世」之诗",
+  "description": "变身时获得【永续的燃烧】。持有【永续的燃烧】时，暴击率提高<color> <b>A</b> </color>，在额外回合开始时消耗等同于当前生命值<color> <b>B</b> </color>的生命值，且在施放攻击后，对敌方随机单体额外造成火属性附加伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141520,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Phainon",
+    "Name": "献予「负世」之诗",
+    "Desc": "变身时获得【永续的燃烧】。持有【永续的燃烧】时，暴击率提高<color> <b>A</b> </color>，在额外回合开始时消耗等同于当前生命值<color> <b>B</b> </color>的生命值，且在施放攻击后，对敌方随机单体额外造成火属性附加伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

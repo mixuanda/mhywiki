@@ -1,0 +1,19 @@
+{
+  "id": "100141525",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "空白，在诗篇的起点",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141525,
+    "MDF": "MAvatar_Cyrene_00_Rank01Debuff",
+    "Name": "空白，在诗篇的起点",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

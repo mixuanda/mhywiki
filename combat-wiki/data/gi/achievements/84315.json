@@ -1,0 +1,15 @@
+{
+  "id": "84315",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "为了美好的明天",
+  "description": "人们正在重建家园。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

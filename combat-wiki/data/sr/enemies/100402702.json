@@ -1,0 +1,39 @@
+{
+  "id": "100402702",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "杰帕德",
+  "description": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
+  "stats": {
+    "HP": 75.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Phys",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.4,
+    "Elec": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1004020.png",
+  "figure": "monsterfigure/Monster_1004020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

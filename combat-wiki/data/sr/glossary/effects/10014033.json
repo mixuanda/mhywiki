@@ -1,0 +1,18 @@
+{
+  "id": "10014033",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "城墙外的羊羔儿…",
+  "description": "每层使造成的伤害提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014033,
+    "MDF": "MAvatar_Tribbie_00_PointB1_DamageUpModifier",
+    "Name": "城墙外的羊羔儿…",
+    "Desc": "每层使造成的伤害提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

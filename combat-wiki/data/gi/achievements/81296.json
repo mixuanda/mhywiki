@@ -1,0 +1,15 @@
+{
+  "id": "81296",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…她必施行报应。」",
+  "description": "当复仇者施展义怒，施行不义之人何曾预见过这一天呢？",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

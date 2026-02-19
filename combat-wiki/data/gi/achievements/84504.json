@@ -1,0 +1,15 @@
+{
+  "id": "84504",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "有一说一",
+  "description": "在「来自冬天的故事」中探听到所有关于至冬国的情报。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "11"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

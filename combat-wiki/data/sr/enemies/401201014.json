@@ -1,0 +1,39 @@
+{
+  "id": "401201014",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "天谴斗士",
+  "description": "由「纷争」雕琢的泰坦眷属，流淌着尼卡多利的金血。刚猛的身躯是军阵的盾牌，以坚石之身阻隔敌军，以粗大臂膀搬运战场的口粮，也常被悬锋的士兵当作练武的对象。",
+  "stats": {
+    "HP": 2.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Elec",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4012010.png",
+  "figure": "monsterfigure/Monster_4012010.png",
+  "camp": {
+    "id": "12",
+    "name": "泰坦眷属"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

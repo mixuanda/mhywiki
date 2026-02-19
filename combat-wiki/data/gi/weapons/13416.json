@@ -1,0 +1,22 @@
+{
+  "id": "13416",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "断浪长鳍",
+  "description": "以海渊之下的闪亮材质打造而成的薙刀，一度曾为天狗一族所有。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 620.0329535,
+  "subStatType": "ATK",
+  "subStatValue": 0.13782,
+  "materialRefs": [
+    "112046",
+    "112058",
+    "114036"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13416.js"
+  }
+}

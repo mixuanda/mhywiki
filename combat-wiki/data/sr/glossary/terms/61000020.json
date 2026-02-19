@@ -1,0 +1,15 @@
+{
+  "id": "61000020",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "交易",
+  "description": "交易区域，在这个区域中可以消耗宇宙碎片购买祝福和奇物。",
+  "content": {
+    "_id": 61000020,
+    "Name": "交易",
+    "Desc": "交易区域，在这个区域中可以消耗宇宙碎片购买祝福和奇物。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

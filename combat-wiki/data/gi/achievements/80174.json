@@ -1,0 +1,15 @@
+{
+  "id": "80174",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "森林会记住一切",
+  "description": "完成「森林书」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "31"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "70000217",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "后排",
+  "description": "【后排目标】位于战场阵型后方，无法被【单攻】和【扩散】类型的技能选中。",
+  "content": {
+    "_id": 70000217,
+    "Name": "后排",
+    "Desc": "【后排目标】位于战场阵型后方，无法被【单攻】和【扩散】类型的技能选中。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

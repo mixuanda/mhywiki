@@ -1,0 +1,32 @@
+{
+  "id": "41001",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "重拳出击鸭",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Gastrobot_01"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 重拳出击鸭"
+  ],
+  "analysis": {
+    "Name": "重拳出击鸭",
+    "Icon": "UI_MonsterIcon_Gastrobot_01",
+    "DescList": [
+      "• 会周期性@提升全部抗性#并召唤 @5×小鸭鸭#，每个击败后首领损失 @5%# 生命值，全部击败后首领瘫痪且@全部抗性降低#",
+      "• 小鸭鸭具有 @26%# 血量，雷抗 @10%#，其他抗 @150%#，且受到 @10# 次@感电#/@月感电#伤害后直接被击败"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

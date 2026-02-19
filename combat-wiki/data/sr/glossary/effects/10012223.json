@@ -1,0 +1,17 @@
+{
+  "id": "10012223",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "遗爇",
+  "description": "行迹【遗爇】效果自动触发尚在冷却中。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012223,
+    "MDF": "MAvatar_Lingsha_00_PointB3_CD",
+    "Name": "遗爇",
+    "Desc": "行迹【遗爇】效果自动触发尚在冷却中。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

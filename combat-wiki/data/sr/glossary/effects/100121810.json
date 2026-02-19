@@ -1,0 +1,18 @@
+{
+  "id": "100121810",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "五味五走，生熟有定",
+  "description": "对处于【烬煨】状态的敌方目标造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100121810,
+    "MDF": "MAvatar_Jiaoqiu_00_Rank01_ListenDamage",
+    "Name": "五味五走，生熟有定",
+    "Desc": "对处于【烬煨】状态的敌方目标造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

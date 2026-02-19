@@ -1,0 +1,18 @@
+{
+  "id": "4073015",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "泻泻火",
+  "description": "在一次弱点击破中清除忆域迷因「狂怒褪去之壳」满层的「无明火」",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

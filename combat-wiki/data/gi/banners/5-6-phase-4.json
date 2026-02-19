@@ -1,0 +1,45 @@
+{
+  "id": "5-6-phase-4",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.6",
+  "phase": 4,
+  "featuredFiveStar": [
+    {
+      "N": "Chiori",
+      "X": 3
+    },
+    {
+      "N": "Ayato",
+      "X": 4
+    },
+    {
+      "N": "Ayaka",
+      "X": 5
+    },
+    {
+      "N": "Yae",
+      "X": 5
+    },
+    {
+      "N": "Itto",
+      "X": 5
+    },
+    {
+      "N": "Kokomi",
+      "X": 5
+    },
+    {
+      "N": "Yoimiya",
+      "X": 6
+    },
+    {
+      "N": "Kazuha",
+      "X": 6
+    }
+  ],
+  "featuredFourStar": [],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

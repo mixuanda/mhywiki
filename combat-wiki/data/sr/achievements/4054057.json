@@ -1,0 +1,18 @@
+{
+  "id": "4054057",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "哭泣的昨日草原",
+  "description": "累积获得100.0个记忆残晶",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

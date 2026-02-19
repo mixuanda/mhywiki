@@ -1,0 +1,16 @@
+{
+  "id": "121",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "重循苦旅的司铎",
+  "icon": "71038.png",
+  "setBonuses": [
+    "速度提高 <b>6%</b> 。",
+    "对我方单体目标施放战技或终结技时，使技能目标的暴击伤害提高 <b>18%</b> ，持续 <b>2</b> 回合，该效果最多叠加 <b>2</b> 次。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/121.js"
+  }
+}

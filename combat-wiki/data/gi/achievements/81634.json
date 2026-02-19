@@ -1,0 +1,15 @@
+{
+  "id": "81634",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "面包会有的",
+  "description": "使用烤炉烤制了热腾腾的「蘑幻之菇」。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

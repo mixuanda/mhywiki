@@ -1,0 +1,19 @@
+{
+  "id": "10080038",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "防御提高",
+  "description": "每层使防御力提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080038,
+    "MDF": "MAvatar_PlayerBoy_10_Rank06_Stack",
+    "Name": "防御提高",
+    "Desc": "每层使防御力提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80249",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "善恶的赫瓦雷纳",
+  "description": "完成「善恶的赫瓦雷纳」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "41"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

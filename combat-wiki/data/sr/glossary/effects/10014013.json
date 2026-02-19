@@ -1,0 +1,18 @@
+{
+  "id": "10014013",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "第十六把钥匙",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014013,
+    "MDF": "MAvatar_TheHerta_00_Rank04_Buff",
+    "Name": "第十六把钥匙",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

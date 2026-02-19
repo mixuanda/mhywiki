@@ -1,0 +1,18 @@
+{
+  "id": "4033608",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "蕉学事故",
+  "description": "哟，想让我尊重你，你得先学会尊重别人<br>※第一次击败学校中的「蕉师」",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

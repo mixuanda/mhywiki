@@ -1,0 +1,15 @@
+{
+  "id": "82006",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "谁的节奏天国？",
+  "description": "阻止深渊法师恢复护罩。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "8"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

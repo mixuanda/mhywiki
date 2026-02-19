@@ -1,0 +1,15 @@
+{
+  "id": "81153",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "诚实高个儿西尔弗",
+  "description": "找到林藏埋藏的所有宝藏。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

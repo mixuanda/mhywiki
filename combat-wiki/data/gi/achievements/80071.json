@@ -1,0 +1,15 @@
+{
+  "id": "80071",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "友谊与牺牲的价值",
+  "description": "集齐全套《野猪公主》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "22"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

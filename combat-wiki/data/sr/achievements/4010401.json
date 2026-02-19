@@ -1,0 +1,18 @@
+{
+  "id": "4010401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "全副武装",
+  "description": "将4件遗器强化至 15.0 级",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

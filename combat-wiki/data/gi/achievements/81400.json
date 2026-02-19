@@ -1,0 +1,15 @@
+{
+  "id": "81400",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…什么新浪潮？」",
+  "description": "翻阅了全部时髦读物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240440105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "向逻各斯",
+  "description": "再有<color> <b>A</b> </color>个敌方目标从场上生成或我方忆灵被召唤后施放【SET 论证方法=黑潮】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240440105,
+    "MDF": "Monster_W4_Theoroi_00_Phase1",
+    "Name": "向逻各斯",
+    "Desc": "再有<color> <b>A</b> </color>个敌方目标从场上生成或我方忆灵被召唤后施放【SET 论证方法=黑潮】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240150102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "太阳风暴",
+  "description": "每回合开始时根据当前温度受到火属性伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150102,
+    "MDF": "MMonster_Monster_W4_DawnsEye_00_WheaterSunnyBurn",
+    "Name": "太阳风暴",
+    "Desc": "每回合开始时根据当前温度受到火属性伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

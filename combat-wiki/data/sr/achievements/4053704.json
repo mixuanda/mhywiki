@@ -1,0 +1,18 @@
+{
+  "id": "4053704",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "蓦然回首",
+  "description": "在自己的房间中观赏所有藏品",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

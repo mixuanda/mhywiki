@@ -1,0 +1,34 @@
+{
+  "id": "4-3-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.3",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Navia",
+      "X": 1
+    },
+    {
+      "N": "Ayaka",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Candace",
+      "X": 3
+    },
+    {
+      "N": "Rosaria",
+      "X": 8
+    },
+    {
+      "N": "Sucrose",
+      "X": 9
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

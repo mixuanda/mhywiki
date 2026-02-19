@@ -1,0 +1,18 @@
+{
+  "id": "10013039",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "摇花缎水，沾衣不摘",
+  "description": "全属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013039,
+    "MDF": "RuanMei_Skill03_Area_Caster",
+    "Name": "摇花缎水，沾衣不摘",
+    "Desc": "全属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

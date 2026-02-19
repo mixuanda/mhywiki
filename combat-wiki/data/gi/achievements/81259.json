@@ -1,0 +1,15 @@
+{
+  "id": "81259",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "啊，美好的日子！",
+  "description": "根据箱底的线索找到秘密宝藏。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "202211006",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "魔阴武弁",
+  "description": "堕入魔阴身的十王司武卫。<br>只要还是血肉凡胎，仙舟人终不能斩断宿命。",
+  "stats": {
+    "HP": 2.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2022110.png",
+  "figure": "monsterfigure/Monster_2022110.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

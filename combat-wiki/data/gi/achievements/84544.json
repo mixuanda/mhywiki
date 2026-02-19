@@ -1,0 +1,15 @@
+{
+  "id": "84544",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "卡里米之蕈兽",
+  "description": "见证哈特姆在「期货交易」大赚一笔！",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

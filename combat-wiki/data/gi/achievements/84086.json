@@ -1,0 +1,15 @@
+{
+  "id": "84086",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "虚空鼓动，劫火高扬",
+  "description": "完成「虚空鼓动，劫火高扬」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

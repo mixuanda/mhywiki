@@ -1,0 +1,18 @@
+{
+  "id": "10013077",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "三磅石，七阶柱",
+  "description": "雷属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013077,
+    "MDF": "MAvatar_BlackSwan_00_Rank01_ThunderResistanceDown",
+    "Name": "三磅石，七阶柱",
+    "Desc": "雷属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

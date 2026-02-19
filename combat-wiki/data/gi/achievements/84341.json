@@ -1,0 +1,15 @@
+{
+  "id": "84341",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "炽烈的还魂诗",
+  "description": "完成「炽烈的还魂诗」。",
+  "reward": 10,
+  "version": "5.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

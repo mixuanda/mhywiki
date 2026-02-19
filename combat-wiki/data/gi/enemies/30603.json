@@ -1,0 +1,28 @@
+{
+  "id": "30603",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "以索忒",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2,
+    "Ice": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuus_Escadron_Ice"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.1"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

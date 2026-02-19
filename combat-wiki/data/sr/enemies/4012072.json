@@ -1,0 +1,39 @@
+{
+  "id": "4012072",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "哀悯长臂",
+  "description": "一切妄图逃离终局的生者，皆要面对来自冥土的追索。",
+  "stats": {
+    "HP": 0.05,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Elec",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4012070.png",
+  "figure": "monsterfigure/Monster_4012070.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

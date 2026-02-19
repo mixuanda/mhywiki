@@ -1,0 +1,39 @@
+{
+  "id": "200401002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「星核猎手」卡芙卡",
+  "description": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
+  "stats": {
+    "HP": 14.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 119.0,
+    "Stance": 15.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.4,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2004010.png",
+  "figure": "monsterfigure/Monster_2004010.png",
+  "camp": {
+    "id": "5",
+    "name": "星核猎手"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

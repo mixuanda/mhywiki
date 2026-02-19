@@ -1,0 +1,18 @@
+{
+  "id": "4044018",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "时空悍将",
+  "description": "将悬锋斗技场（夜）的所有战魂塑像全部回溯",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4074502",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "西风漂流",
+  "description": "单场战斗中，我方角色海瑟音的结界额外造成 40 次伤害",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

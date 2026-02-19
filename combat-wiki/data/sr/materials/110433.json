@@ -1,0 +1,10 @@
+{
+  "id": "110433",
+  "game": "sr",
+  "entityType": "material",
+  "name": "海妖残鳍",
+  "icon": "itemicon/110433.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

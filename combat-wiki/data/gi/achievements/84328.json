@@ -1,0 +1,15 @@
+{
+  "id": "84328",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「杜麦尼」的诗篇",
+  "description": "记忆填满圣夜旅织，而纳塔的故事还在继续…",
+  "reward": 20,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

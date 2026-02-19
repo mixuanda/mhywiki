@@ -1,0 +1,15 @@
+{
+  "id": "81049",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "洞天无别景…",
+  "description": "使用「尘歌壶」进入「洞天」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "18"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

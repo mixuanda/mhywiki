@@ -1,0 +1,15 @@
+{
+  "id": "84349",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "你难以置信的愤怒",
+  "description": "阻绝「明晨之镜」的复燃与归还。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

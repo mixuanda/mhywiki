@@ -1,0 +1,15 @@
+{
+  "id": "82104",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "机元突破",
+  "description": "在一场战斗中，使恒常机关阵列的所有四种遗迹机兵均进入瘫痪状态，并击败恒常机关阵列。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

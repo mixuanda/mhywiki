@@ -1,0 +1,25 @@
+{
+  "id": "10102",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "打手丘丘人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "hil"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > 近战丘丘人"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

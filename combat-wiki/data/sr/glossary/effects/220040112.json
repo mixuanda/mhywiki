@@ -1,0 +1,19 @@
+{
+  "id": "220040112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "心理暗示",
+  "description": "下次【揭晓】时触发。可以被优先解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040112,
+    "MDF": "Monster_W2_Kafka_00_RL_MindControl_True",
+    "Name": "心理暗示",
+    "Desc": "下次【揭晓】时触发。可以被优先解除。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

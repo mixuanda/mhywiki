@@ -1,0 +1,18 @@
+{
+  "id": "4054070",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "浴露均沾",
+  "description": "尝试过云石天宫里的高温浴池、低温浴池与试温池",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

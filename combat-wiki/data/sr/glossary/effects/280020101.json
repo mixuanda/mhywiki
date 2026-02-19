@@ -1,0 +1,19 @@
+{
+  "id": "280020101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "斥力",
+  "description": "非弱点属性的攻击对自身造成的伤害降低<color> <b>A</b> </color>，弱点被击破时该效果解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280020101,
+    "MDF": "XP_Minion02_00_Armor",
+    "Name": "斥力",
+    "Desc": "非弱点属性的攻击对自身造成的伤害降低<color> <b>A</b> </color>，弱点被击破时该效果解除。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

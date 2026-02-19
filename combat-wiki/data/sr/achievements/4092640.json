@@ -1,0 +1,18 @@
+{
+  "id": "4092640",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "巴别塔之梦",
+  "description": "收集「寰宇蝗灾」的章节「存护Ⅱ」",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

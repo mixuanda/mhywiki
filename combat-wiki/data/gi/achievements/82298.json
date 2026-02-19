@@ -1,0 +1,15 @@
+{
+  "id": "82298",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "武库巨鸭的坠落",
+  "description": "通过击坠所有冲鸭机关，破除重拳出击鸭的护罩。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

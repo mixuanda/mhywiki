@@ -1,0 +1,15 @@
+{
+  "id": "84346",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "新世界的交响",
+  "description": "「命运的织机」已编织出「新坎瑞亚」的地脉。",
+  "reward": 5,
+  "version": "5.7",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

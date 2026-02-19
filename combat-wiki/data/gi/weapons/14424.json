@@ -1,0 +1,22 @@
+{
+  "id": "14424",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "遗祀玉珑",
+  "description": "一枚古老的玉珑，闪烁着清水般的光泽，似乎是古代的祭祀用品。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "CR",
+  "subStatValue": 0.36752,
+  "materialRefs": [
+    "112010",
+    "112028",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14424.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240140369",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "死梦深度",
+  "description": "我方目标生命值降低时会积累【濒死梦泡】，当【濒死梦泡】达到上限时，使自身进入【死亡的芬芳】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140369,
+    "MDF": "MMonster_W4_Pollux_00_IF_BloodPool",
+    "Name": "死梦深度",
+    "Desc": "我方目标生命值降低时会积累【濒死梦泡】，当【濒死梦泡】达到上限时，使自身进入【死亡的芬芳】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

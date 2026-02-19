@@ -1,0 +1,34 @@
+{
+  "id": "3-3-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "3.3",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Wanderer",
+      "X": 1
+    },
+    {
+      "N": "Itto",
+      "X": 3
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Faruzan",
+      "X": 1
+    },
+    {
+      "N": "Gorou",
+      "X": 3
+    },
+    {
+      "N": "Feiyan",
+      "X": 6
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

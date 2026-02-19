@@ -1,0 +1,15 @@
+{
+  "id": "81393",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「极彩的露珂菈」",
+  "description": "战胜地方传奇 · 极彩的露珂菈。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

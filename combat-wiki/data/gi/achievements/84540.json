@@ -1,0 +1,15 @@
+{
+  "id": "84540",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猜猜我是谁？",
+  "description": "获知「枕玉」老师的真实身份。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

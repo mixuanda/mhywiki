@@ -1,0 +1,31 @@
+{
+  "id": "13943",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13943",
+  "tags": [],
+  "content": {
+    "_id": 13943,
+    "N": "特殊的霄灯…",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_1_01",
+        "D": "在海灯节期间，旅行者们可以获取特殊的「节礼霄灯」与「节庆霄灯」。<color style='color:#ec9d1f'>在璃月港之内#，可以自由摆放此类霄灯，并附上祝词。"
+      },
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_1_02",
+        "D": "当旅行者处于自己的世界中时，可以<color style='color:#ec9d1f'>收到其他旅行者在其自己世界中所放飞的「节庆霄灯」#。同样，旅行者在自己的世界中所放飞的「节庆霄灯」，也可以被其他世界的旅行者接取。接引霄灯的同时，也会为放飞这盏霄灯的旅行者<color style='color:#ec9d1f'>送上赞赏#。"
+      },
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_1_03",
+        "D": "在海灯节期间，旅行者们也可以获取特殊的「节礼霄灯」，借助「节礼霄灯」，<color style='color:#ec9d1f'>旅行者可以将各类礼物赠送给自己的伙伴#。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

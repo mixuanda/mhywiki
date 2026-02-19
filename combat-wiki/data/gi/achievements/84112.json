@@ -1,0 +1,15 @@
+{
+  "id": "84112",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "蒙德做题王",
+  "description": "阅读诺艾尔的学习笔记。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

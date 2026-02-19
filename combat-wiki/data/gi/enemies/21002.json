@@ -1,0 +1,25 @@
+{
+  "id": "21002",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深罪浸礼者 · 冰水火驱役者",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "ib"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 深罪施洗"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

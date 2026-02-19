@@ -1,0 +1,25 @@
+{
+  "id": "22100304",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深罪浸礼者 · 肃烈狂音",
+  "description": "因为深渊的力量取得「进化」而获得了多余的肢体的深渊魔物。能够驱役多种元素的力量。\n在地脉扭曲的追忆中，它们跃升为狂乱的破坏者，以其亵渎的力量掀起接踵而至的灾厄浪潮…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "ib"
+  ],
+  "figure": null,
+  "groups": [
+    "幽境危战 > 6.2"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

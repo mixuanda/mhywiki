@@ -1,0 +1,18 @@
+{
+  "id": "4073603",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "缭乱·忍法·破！",
+  "description": "单场战斗中，使用乱破对敌人造成10.0次弱点击破",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

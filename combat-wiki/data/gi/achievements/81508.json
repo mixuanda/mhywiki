@@ -1,0 +1,15 @@
+{
+  "id": "81508",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "新的希望",
+  "description": "就像种子发出新芽…",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

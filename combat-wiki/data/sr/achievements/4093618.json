@@ -1,0 +1,18 @@
+{
+  "id": "4093618",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "钟慢效应",
+  "description": "在「模拟宇宙：不可知域」中，首次扣除额外轮次计数",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

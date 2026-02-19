@@ -1,0 +1,15 @@
+{
+  "id": "81175",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「被、被派蒙吃掉…」",
+  "description": "原本拿到的「木簧笛」，却意外消失了。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

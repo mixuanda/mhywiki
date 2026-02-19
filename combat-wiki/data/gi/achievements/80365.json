@@ -1,0 +1,15 @@
+{
+  "id": "80365",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "展夤夜兮会舞",
+  "description": "集齐全套《灵濛山夜话》。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "57"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

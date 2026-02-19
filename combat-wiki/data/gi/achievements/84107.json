@@ -1,0 +1,15 @@
+{
+  "id": "84107",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "辣椒英雄",
+  "description": "制作错误的冰棍，引发重云「纯阳之体」的剧烈反应。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

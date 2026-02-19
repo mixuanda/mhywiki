@@ -1,0 +1,15 @@
+{
+  "id": "80130",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…岂知夜色…」",
+  "description": "点亮渊下宫的地图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "28"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "13931",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13931",
+  "tags": [],
+  "content": {
+    "_id": 13931,
+    "N": "躲开「大詹灯」！",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Detail_01",
+        "D": "直接触碰到「大詹灯」，<color style='color:#ec9d1f'>会使得挑战的剩余时间减少#。<color style='color:#ec9d1f'>利用伙伴们的元素战技，尽量避开「大詹灯」#吧。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

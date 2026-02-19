@@ -1,0 +1,17 @@
+{
+  "id": "10010013",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "反击",
+  "description": "剩余反击次数。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010013,
+    "MDF": "MAvatar_March7th_00_Passive_CanAttack",
+    "Name": "反击",
+    "Desc": "剩余反击次数。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10013217",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "致哀，故人",
+  "description": "再施放<color> <b>A</b> </color>次天赋的追加攻击后，【致哀，故人】恢复战技点的效果可再次触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013217,
+    "MDF": "MAvatar_Constance_00_Tree02_CD",
+    "Name": "致哀，故人",
+    "Desc": "再施放<color> <b>A</b> </color>次天赋的追加攻击后，【致哀，故人】恢复战技点的效果可再次触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

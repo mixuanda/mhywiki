@@ -1,0 +1,57 @@
+[
+  {
+    "id": "en-lunar-bloom",
+    "name": "Lunar Bloom",
+    "path": "en-lunar-bloom.json"
+  },
+  {
+    "id": "en-lunar-crystallize",
+    "name": "Lunar Crystallize",
+    "path": "en-lunar-crystallize.json"
+  },
+  {
+    "id": "unknown-2",
+    "name": "常规伤害",
+    "path": "unknown-2.json"
+  },
+  {
+    "id": "unknown-3",
+    "name": "月结晶",
+    "path": "unknown-3.json"
+  },
+  {
+    "id": "unknown-4",
+    "name": "月感电",
+    "path": "unknown-4.json"
+  },
+  {
+    "id": "unknown-5",
+    "name": "月绽放",
+    "path": "unknown-5.json"
+  },
+  {
+    "id": "unknown-6",
+    "name": "激化反应",
+    "path": "unknown-6.json"
+  },
+  {
+    "id": "unknown-7",
+    "name": "剧变反应",
+    "path": "unknown-7.json"
+  },
+  {
+    "id": "unknown-8",
+    "name": "增幅反应",
+    "path": "unknown-8.json"
+  },
+  {
+    "id": "unknown-9",
+    "name": "结晶反应",
+    "path": "unknown-9.json"
+  },
+  {
+    "id": "unknown",
+    "name": "防御力 抗性",
+    "path": "unknown.json"
+  }
+]

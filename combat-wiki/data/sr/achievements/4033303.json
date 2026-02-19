@@ -1,0 +1,18 @@
+{
+  "id": "4033303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "与我同行",
+  "description": "与星穹列车不期而遇<br><color style='color:#8790ab;'>※ 流萤视角下，在晖长石号上看到列车组</color>",
+  "reward": 10,
+  "version": 2.3,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

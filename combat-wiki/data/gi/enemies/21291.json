@@ -1,0 +1,34 @@
+{
+  "id": "21291",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深邃摹结株",
+  "description": "于深邃晦暗的扭曲异界降临此世的深渊魔物，拥有类似植物的形态。\n此种扭曲的魔物已然能够侵蚀入大地的深处，从中提取记忆以供其模仿与驱使。过往的回忆被扭曲成更加污秽与深邃的样貌，它们借由此种行为，逐渐接近世界之树的核心，以此动摇其存在的根本。\n据说该种魔物无时无刻不在扭曲光芒中蕴含的种种色彩，并将之转化为漆黑的信息，在张开时仿佛要扎入虚空中的枝节似乎也在佐证这一点…",
+  "stats": {},
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Water": 0.2,
+    "Elec": 0.2,
+    "Ice": 0.2,
+    "Grass": 0.2,
+    "Wind": 0.2,
+    "Rock": 0.2
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_TheAbyss_Dendrite"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 深邃拟态"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

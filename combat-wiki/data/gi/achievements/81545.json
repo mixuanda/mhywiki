@@ -1,0 +1,15 @@
+{
+  "id": "81545",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "把场地让出来吧",
+  "description": "将游玩的场所自深渊魔物手中还给小嵴锋龙。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

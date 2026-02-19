@@ -1,0 +1,15 @@
+{
+  "id": "61000039",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "构音推演：局外人",
+  "description": "我方目标受到持续伤害时，回响推演行动提前。",
+  "content": {
+    "_id": 61000039,
+    "Name": "构音推演：局外人",
+    "Desc": "我方目标受到持续伤害时，回响推演行动提前。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

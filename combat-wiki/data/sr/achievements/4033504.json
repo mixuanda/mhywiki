@@ -1,0 +1,18 @@
+{
+  "id": "4033504",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "久砺霜锋须一试",
+  "description": "七百年，能改变许多事情……<br><color style='color:#8790ab;'>※见证呼雷落败</color>",
+  "reward": 10,
+  "version": 2.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "saber",
+  "game": "sr",
+  "entityType": "futureIntel",
+  "name": "Saber",
+  "versions": [
+    "3.4v6",
+    "3.4v5",
+    "3.4v4",
+    "3.4v3",
+    "3.4v2",
+    "3.4v1"
+  ],
+  "source": {
+    "file": "Char/HSR.json"
+  }
+}

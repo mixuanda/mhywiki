@@ -1,0 +1,25 @@
+{
+  "id": "61801",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "千年珍珠骏麟",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_SeaHorse_Primo_Electric"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 原海帝皇"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10013055",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "效果抵抗降低",
+  "description": "效果抵抗降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013055,
+    "MDF": "MAvatar_Dr_Ratio_00_Slow",
+    "Name": "效果抵抗降低",
+    "Desc": "效果抵抗降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

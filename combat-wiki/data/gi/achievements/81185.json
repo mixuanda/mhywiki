@@ -1,0 +1,15 @@
+{
+  "id": "81185",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "野马泉，又名摩利支",
+  "description": "解开「阳炎之门」的秘密。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

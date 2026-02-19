@@ -1,0 +1,18 @@
+{
+  "id": "220220804",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "培植",
+  "description": "【复还】造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220220804,
+    "MDF": "MMonster_W2_Xuanlu_10_Extra_IncreaseReturnDamage",
+    "Name": "培植",
+    "Desc": "【复还】造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

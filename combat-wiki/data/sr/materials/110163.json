@@ -1,0 +1,10 @@
+{
+  "id": "110163",
+  "game": "sr",
+  "entityType": "material",
+  "name": "群星乐章",
+  "icon": "itemicon/110163.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

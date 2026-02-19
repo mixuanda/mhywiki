@@ -1,0 +1,15 @@
+{
+  "id": "80065",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "赤红的新芽",
+  "description": "将忍冬之树供奉至8级。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "16"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

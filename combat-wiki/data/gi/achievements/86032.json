@@ -1,0 +1,15 @@
+{
+  "id": "86032",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "奇境异草",
+  "description": "与其他玩家一同战胜无相之草。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "44"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

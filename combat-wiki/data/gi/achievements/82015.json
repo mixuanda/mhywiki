@@ -1,0 +1,15 @@
+{
+  "id": "82015",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「一次…的攻击」",
+  "description": "通过碎冰伤害，打败一名敌人。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

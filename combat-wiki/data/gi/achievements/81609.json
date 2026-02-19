@@ -1,0 +1,15 @@
+{
+  "id": "81609",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "时光飞逝，金钱亦逝",
+  "description": "盗宝鼬毕竟本性难移…",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

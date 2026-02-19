@@ -1,0 +1,15 @@
+{
+  "id": "81203",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "9文字之传言",
+  "description": "找到所有密文。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

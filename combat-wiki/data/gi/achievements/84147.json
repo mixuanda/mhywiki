@@ -1,0 +1,15 @@
+{
+  "id": "84147",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "学生时代",
+  "description": "在智慧宫翻阅留有笔记的书。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

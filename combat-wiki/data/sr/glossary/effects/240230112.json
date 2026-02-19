@@ -1,0 +1,17 @@
+{
+  "id": "240230112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害提高",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240230112,
+    "MDF": "MModifier_W4_Griffin_00_LocalLegend_Revenge",
+    "Name": "伤害提高",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

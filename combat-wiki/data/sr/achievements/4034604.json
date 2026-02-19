@@ -1,0 +1,18 @@
+{
+  "id": "4034604",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "命运啼哭之前",
+  "description": "听我说，记住这段话，然后忘掉它<br><color style='color:#8790ab;'>※再次唤醒「不存在的记忆」</color>",
+  "reward": 10,
+  "version": 3.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

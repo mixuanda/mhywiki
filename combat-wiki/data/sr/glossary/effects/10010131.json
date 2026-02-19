@@ -1,0 +1,19 @@
+{
+  "id": "10010131",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "可以优化一下",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010131,
+    "MDF": "MAvatar_Herta_00_MazeSkill_AttackRatioUp",
+    "Name": "可以优化一下",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "280340111",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "时来",
+  "description": "受到进入赌局的目标攻击时必定产生6的点数，并在赌局结束时施放【败罚】。",
+  "content": {
+    "_id": 280340111,
+    "Name": "时来",
+    "Desc": "受到进入赌局的目标攻击时必定产生6的点数，并在赌局结束时施放【败罚】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

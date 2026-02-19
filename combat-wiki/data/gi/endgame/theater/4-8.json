@@ -1,0 +1,165 @@
+{
+  "id": "4-8",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "theater",
+  "name": "4.8",
+  "version": "4.8",
+  "time": "2024-08-01 - 2024-09-01",
+  "elements": [
+    "Water",
+    "Ice",
+    "Wind"
+  ],
+  "initialCast": [
+    {
+      "ID": 89,
+      "Icon": "UI_AvatarIcon_Furina"
+    },
+    {
+      "ID": 14,
+      "Icon": "UI_AvatarIcon_Barbara"
+    },
+    {
+      "ID": 2,
+      "Icon": "UI_AvatarIcon_Ayaka"
+    },
+    {
+      "ID": 39,
+      "Icon": "UI_AvatarIcon_Diona"
+    },
+    {
+      "ID": 26,
+      "Icon": "UI_AvatarIcon_Xiao"
+    },
+    {
+      "ID": 76,
+      "Icon": "UI_AvatarIcon_Faruzan"
+    }
+  ],
+  "invitationCast": [
+    {
+      "ID": 73,
+      "Icon": "UI_AvatarIcon_Nahida"
+    },
+    {
+      "ID": 99,
+      "Icon": "UI_AvatarIcon_Emilie"
+    },
+    {
+      "ID": 79,
+      "Icon": "UI_AvatarIcon_Dehya"
+    },
+    {
+      "ID": 23,
+      "Icon": "UI_AvatarIcon_Xiangling"
+    }
+  ],
+  "chambers": [
+    [
+      {
+        "_id": 1,
+        "Level": 85,
+        "Configs": [
+          5,
+          6,
+          8,
+          13,
+          20,
+          9
+        ]
+      },
+      {
+        "_id": 2,
+        "Level": 85,
+        "Configs": [
+          1,
+          3,
+          17,
+          27,
+          117,
+          15
+        ]
+      },
+      {
+        "_id": 3,
+        "Level": 90,
+        "Configs": [
+          81
+        ],
+        "Time": "14s"
+      }
+    ],
+    [
+      {
+        "_id": 4,
+        "Level": 90,
+        "Configs": [
+          96,
+          97,
+          98,
+          120,
+          123,
+          95
+        ]
+      },
+      {
+        "_id": 5,
+        "Level": 90,
+        "Configs": [
+          99,
+          100,
+          102,
+          105,
+          121,
+          122
+        ]
+      },
+      {
+        "_id": 6,
+        "Level": 92,
+        "Configs": [
+          79
+        ],
+        "Time": "65s"
+      }
+    ],
+    [
+      {
+        "_id": 7,
+        "Level": 92,
+        "Configs": [
+          4,
+          7,
+          14,
+          115,
+          118,
+          116
+        ]
+      },
+      {
+        "_id": 8,
+        "Level": 95,
+        "Configs": [
+          47
+        ],
+        "Time": "80s"
+      }
+    ],
+    [],
+    []
+  ],
+  "hpProfile": {
+    "Ver": "4.8",
+    "Time": "2024/08",
+    "HP": [
+      1.8,
+      1.8,
+      1.8
+    ]
+  },
+  "shared": "_shared.json",
+  "source": {
+    "file": "gi/CH/maze.js"
+  }
+}

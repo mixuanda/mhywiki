@@ -1,0 +1,18 @@
+{
+  "id": "4073511",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我即风暴",
+  "description": "使用飞霄秘技，连续吸引5.0个以上的敌人超过30.0秒以上",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

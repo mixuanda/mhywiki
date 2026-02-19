@@ -1,0 +1,39 @@
+{
+  "id": "101401017",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "史瓦罗",
+  "description": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
+  "stats": {
+    "HP": 20.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_1014010.png",
+  "figure": "monsterfigure/Monster_1014010.png",
+  "camp": {
+    "id": "1",
+    "name": "雅利洛-Ⅵ"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044209",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "冥海拾遗",
+  "description": "开启位于「龙骸古城」斯缇科西亚宝库内隐秘位置的战利品。",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

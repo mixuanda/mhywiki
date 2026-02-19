@@ -1,0 +1,15 @@
+{
+  "id": "81160",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无可质疑的宝藏",
+  "description": "「都说了只有一幅画啊！」",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

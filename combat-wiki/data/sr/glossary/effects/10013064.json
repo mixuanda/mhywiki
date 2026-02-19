@@ -1,0 +1,19 @@
+{
+  "id": "10013064",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "叙述性诡计",
+  "description": "造成伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013064,
+    "MDF": "MAvatar_Sparkle_PassiveSkill_AllDamageAddedRatio02",
+    "Name": "叙述性诡计",
+    "Desc": "造成伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

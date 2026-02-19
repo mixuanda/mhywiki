@@ -1,0 +1,16 @@
+{
+  "id": "124",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "哀歌覆国的诗人",
+  "icon": "71041.png",
+  "setBonuses": [
+    "量子属性伤害提高 <b>10%</b> 。",
+    "使装备者的速度降低 <b>8%</b> 。进入战斗前，若装备者的速度小于 <b>110</b> / <b>95</b> ，使装备者的暴击率提高 <b>20%</b> / <b>32%</b> 。该效果同时对装备者的忆灵生效。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/124.js"
+  }
+}

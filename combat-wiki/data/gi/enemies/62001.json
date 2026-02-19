@@ -1,0 +1,25 @@
+{
+  "id": "62001",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "幼嵴锋龙",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Natsaurus_Drillhead_Small"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 幼龙"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

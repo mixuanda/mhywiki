@@ -1,0 +1,18 @@
+{
+  "id": "4044113",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "彩虹的尽头",
+  "description": "门径，请指引我<br><color style='color:#8790ab;'>※完成「雅努斯迷津」的简单、中等、困难难度谜题</color>",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4030202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "法眼无遗",
+  "description": "天道好轮回，违法者必被捉<br><color style='color:#8790ab;'>※成功抓获星核猎手卡芙卡</color>",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

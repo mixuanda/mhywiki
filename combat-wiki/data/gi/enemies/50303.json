@@ -1,0 +1,25 @@
+{
+  "id": "50303",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "盗宝团 · 海上男儿",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "thse1"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 盗宝团胖子"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

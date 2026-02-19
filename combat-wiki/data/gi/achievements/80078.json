@@ -1,0 +1,15 @@
+{
+  "id": "80078",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "神篱凭代",
+  "description": "将「神樱眷顾」等级提升至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

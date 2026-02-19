@@ -1,0 +1,18 @@
+{
+  "id": "230240132",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "回收强化",
+  "description": "每层使造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240132,
+    "MDF": "MMonster_W2_Argenti_IF_EX_PowerUpDark",
+    "Name": "回收强化",
+    "Desc": "每层使造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

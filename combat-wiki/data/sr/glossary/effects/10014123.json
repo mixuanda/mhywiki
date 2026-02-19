@@ -1,0 +1,18 @@
+{
+  "id": "10014123",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "来者",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014123,
+    "MDF": "MAvatar_Cerydra_00_PointB1_CriticalDamageAddedRatio_Sub",
+    "Name": "来者",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10012032",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "白花之刻",
+  "description": "当【白花之刻】达到上限时，罗刹会消耗全部【白花之刻】对敌方展开结界。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012032,
+    "MDF": "MAvatar_Luocha_00_Passive01Modifier",
+    "Name": "白花之刻",
+    "Desc": "当【白花之刻】达到上限时，罗刹会消耗全部【白花之刻】对敌方展开结界。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81626",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "以罪行惩戒罪人",
+  "description": "帮助雅努什解决了噩影泽地的魔物。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

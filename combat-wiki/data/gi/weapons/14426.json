@@ -1,0 +1,22 @@
+{
+  "id": "14426",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "无垠蔚蓝之歌",
+  "description": "一本装帧精美的诗集，其中收录了不少有关天空、蒲公英等蒙德人偏爱的诗歌。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112037",
+    "112043",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14426.js"
+  }
+}

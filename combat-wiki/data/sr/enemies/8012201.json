@@ -1,0 +1,39 @@
+{
+  "id": "8012201",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "丰饶玄莲",
+  "description": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，也触及了丰饶的权柄。",
+  "stats": {
+    "HP": 1.35,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8012201.png",
+  "figure": "monsterfigure/Monster_8012201.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84311",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "谕示胎动的终焉之刻",
+  "description": "完成「谕示胎动的终焉之刻」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

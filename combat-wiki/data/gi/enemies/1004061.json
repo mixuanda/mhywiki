@@ -1,0 +1,21 @@
+{
+  "id": "1004061",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "霜夜巡天灵主 · 惊恨憎愤",
+  "description": "傲然巡行于霜夜的奇异生灵，能自如驱使如今早已被高天之主驯化的古老力量。但在难以名状的地脉侵扰下，它已与尊贵庄严绝缘，转而化为凶狠险绝的捕猎者，向来访者展现出极寒的锋芒…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_HerraFrost01",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

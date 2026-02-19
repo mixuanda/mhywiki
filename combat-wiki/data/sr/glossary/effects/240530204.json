@@ -1,0 +1,18 @@
+{
+  "id": "240530204",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "弱子",
+  "description": "由于提前孵化而弱化，防御力降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530204,
+    "MDF": "MMonster_W4_Unicorn_01_SummonMonsterWeak",
+    "Name": "弱子",
+    "Desc": "由于提前孵化而弱化，防御力降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

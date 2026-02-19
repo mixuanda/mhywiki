@@ -1,0 +1,15 @@
+{
+  "id": "80388",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "为你，我们来欢饮一杯",
+  "description": "在远古圣山、安饶之野追随<color style='color:#FF0000;'><b>6</b></color>个挑逗幻写灵，并完成涂鸦。",
+  "reward": 10,
+  "version": "5.5",
+  "group": {
+    "id": "60"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

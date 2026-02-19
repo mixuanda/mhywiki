@@ -1,0 +1,19 @@
+{
+  "id": "10012177",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "魄散",
+  "description": "攻击力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012177,
+    "MDF": "MAvatar_Huohuo_00_Maze_FatigueRatio",
+    "Name": "魄散",
+    "Desc": "攻击力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

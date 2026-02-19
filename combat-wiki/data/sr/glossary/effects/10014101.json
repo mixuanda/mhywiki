@@ -1,0 +1,18 @@
+{
+  "id": "10014101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "绝海回涛，噬魂舞曲",
+  "description": "处于结界中的敌方目标攻击力降低<color> <b>E</b> </color>，防御力降低<color> <b>C</b> </color>，每受到1次持续伤害时，会受到等同于海瑟音<color> <b>A</b> </color>攻击力的物理属性持续伤害，该伤害在每回合开始时或我方目标单次攻击后触发，且最多触发<color> <b>B</b> </color>次。该伤害不会重复触发此效果。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014101,
+    "MDF": "MAvatar_Harscyline_00_HaloDebuff",
+    "Name": "绝海回涛，噬魂舞曲",
+    "Desc": "处于结界中的敌方目标攻击力降低<color> <b>E</b> </color>，防御力降低<color> <b>C</b> </color>，每受到1次持续伤害时，会受到等同于海瑟音<color> <b>A</b> </color>攻击力的物理属性持续伤害，该伤害在每回合开始时或我方目标单次攻击后触发，且最多触发<color> <b>B</b> </color>次。该伤害不会重复触发此效果。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

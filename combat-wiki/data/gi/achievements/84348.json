@@ -1,0 +1,15 @@
+{
+  "id": "84348",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "你所无法想象的爱",
+  "description": "这个机器人来自挪德卡莱。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

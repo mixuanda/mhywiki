@@ -1,0 +1,15 @@
+{
+  "id": "82064",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「总有比火更灼热的火」",
+  "description": "不击破花冠弱点的情况下，击败爆炎树。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

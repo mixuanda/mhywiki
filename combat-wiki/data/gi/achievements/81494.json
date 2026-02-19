@@ -1,0 +1,15 @@
+{
+  "id": "81494",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "下次还是别讲冷笑话了…",
+  "description": "「缝影针」从天而落…",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

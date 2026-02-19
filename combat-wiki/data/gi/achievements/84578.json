@@ -1,0 +1,15 @@
+{
+  "id": "84578",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「霍莱，过来——」",
+  "description": "和霍莱玩过了头…",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

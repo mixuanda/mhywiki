@@ -1,0 +1,15 @@
+{
+  "id": "80102",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "烁光引路人 · 其二",
+  "description": "在稻妻的海祇岛与清籁岛追随6个仙灵，并点亮仙灵之庭。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "26"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

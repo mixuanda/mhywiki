@@ -1,0 +1,18 @@
+{
+  "id": "220330104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "血海狂热",
+  "description": "进入【月狂】状态需要的【嗜血】层数减少。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220330104,
+    "MDF": "MMonster_W2_LycanMecha_00_Skill06_Impact",
+    "Name": "血海狂热",
+    "Desc": "进入【月狂】状态需要的【嗜血】层数减少。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

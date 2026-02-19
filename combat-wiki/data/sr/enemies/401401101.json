@@ -1,0 +1,39 @@
+{
+  "id": "401401101",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "PoleMos 600 自主防御程序",
+  "description": "有关「纷争」的记忆，总是与不屈和抗争相伴。",
+  "stats": {
+    "HP": 37.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 132.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4014010.png",
+  "figure": "monsterfigure/Monster_4014010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

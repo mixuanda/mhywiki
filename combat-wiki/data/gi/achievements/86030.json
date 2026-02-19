@@ -1,0 +1,15 @@
+{
+  "id": "86030",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "永劫回还的终末",
+  "description": "与其他玩家一同战胜兆载永劫龙兽。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "44"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

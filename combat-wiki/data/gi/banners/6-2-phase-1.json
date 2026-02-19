@@ -1,0 +1,34 @@
+{
+  "id": "6-2-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "6.2",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Durin",
+      "X": 1
+    },
+    {
+      "N": "Venti",
+      "X": 7
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Jahoda",
+      "X": 1
+    },
+    {
+      "N": "Faruzan",
+      "X": 6
+    },
+    {
+      "N": "Bennett",
+      "X": 15
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

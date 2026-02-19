@@ -1,0 +1,15 @@
+{
+  "id": "84148",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "建筑设计师的浪漫",
+  "description": "与卡维在沙漠净土中畅聊未来。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

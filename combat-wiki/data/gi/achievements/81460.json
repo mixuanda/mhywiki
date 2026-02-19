@@ -1,0 +1,15 @@
+{
+  "id": "81460",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "从善如流",
+  "description": "提升了养育驮兽的心得…真的有用吗？",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

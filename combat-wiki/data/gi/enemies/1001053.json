@@ -1,0 +1,21 @@
+{
+  "id": "1001053",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "秘源机兵统御械 · 疾攻",
+  "description": "深古遗迹的统御用机关。<br>曾经，一度伟大的古老种族借由这种机关来统御城市的运转，即使在旧日文明崩毁的现在，也依然拥有着极高的权能。<br>无论多么老旧的机件，在地脉的叙述中，都能恢复至铸成之初的面貌。就如方才完成战斗调试，这一深古机关足以爆发出更为迅疾致命的战力…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_DragonCollar",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

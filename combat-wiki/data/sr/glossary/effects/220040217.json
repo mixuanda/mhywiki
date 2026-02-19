@@ -1,0 +1,17 @@
+{
+  "id": "220040217",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "蓄势",
+  "description": "2回合后施放【风归云动，天河泻梦】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040217,
+    "MDF": "MMonster_W2_Yanqing_00_Skill02_MarkingCountDown_2",
+    "Name": "蓄势",
+    "Desc": "2回合后施放【风归云动，天河泻梦】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

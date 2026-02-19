@@ -1,0 +1,15 @@
+{
+  "id": "80470",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "风已醒来，落叶飞旋",
+  "description": "口衔燃芯的莺鸟，只会在黑夜到来时起飞。",
+  "reward": 10,
+  "version": "6.3",
+  "group": {
+    "id": "66"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

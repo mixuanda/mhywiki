@@ -1,0 +1,18 @@
+{
+  "id": "4053322",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "黑镜之下",
+  "description": "在控制室内，激活监控，观察{TEXTJOIN#87}船体",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

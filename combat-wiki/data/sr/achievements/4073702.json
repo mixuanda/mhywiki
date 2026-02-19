@@ -1,0 +1,18 @@
+{
+  "id": "4073702",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "是我杀了我？",
+  "description": "使用我方角色忘归人对战幻胧时完成制胜一击",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4074607",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "角动量守恒",
+  "description": "在【金血忆灵•翼蛇形】进入蓄力状态后，触发多次【扭矩反打】直至解除其蓄力状态",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

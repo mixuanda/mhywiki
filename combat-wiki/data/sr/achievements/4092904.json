@@ -1,0 +1,18 @@
+{
+  "id": "4092904",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "四色问题",
+  "description": "在「模拟宇宙：黄金与机械」中，累计为 200.0 个区域附加【知识】效果",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

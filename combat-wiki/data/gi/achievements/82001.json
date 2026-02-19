@@ -1,0 +1,15 @@
+{
+  "id": "82001",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「无他，惟手熟尔」",
+  "description": "用弓箭射中在空中飞行的鹰。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "7"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

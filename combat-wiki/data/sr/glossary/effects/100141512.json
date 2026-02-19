@@ -1,0 +1,19 @@
+{
+  "id": "100141512",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「诡计」之诗",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141512,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Cipher",
+    "Name": "献予「诡计」之诗",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

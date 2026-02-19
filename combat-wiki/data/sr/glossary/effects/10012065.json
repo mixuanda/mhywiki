@@ -1,0 +1,19 @@
+{
+  "id": "10012065",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "游刃若水",
+  "description": "每叠加1层，速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012065,
+    "MDF": "MAvatar_Sushang_00_P01_Rank06",
+    "Name": "游刃若水",
+    "Desc": "每叠加1层，速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

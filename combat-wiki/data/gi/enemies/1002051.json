@@ -1,0 +1,21 @@
+{
+  "id": "1002051",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深邃摹结株 · 诡速",
+  "description": "如植株般侵蚀生长的深渊魔物。<br>持续侵蚀此界的扭曲者，能够提取大地之中相对深层的记忆，亦能通过深渊的力量复现更为强大的记忆体。随着侵攻的污秽扩散，地脉对其重现的残影也愈发暴戾。",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Dendrite",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

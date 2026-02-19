@@ -1,0 +1,38 @@
+{
+  "id": "8013141",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "反物质引擎",
+  "description": "力量本源的至极化身，它背后蕴含的能量形式并不为人知晓。<br>反物质引擎会为其他敌人提供能量并强化其技能。",
+  "stats": {
+    "HP": 9.4,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 6.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.4,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_8012141.png",
+  "figure": "monsterfigure/BossIconTemporary.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

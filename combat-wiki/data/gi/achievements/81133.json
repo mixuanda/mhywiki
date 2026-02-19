@@ -1,0 +1,15 @@
+{
+  "id": "81133",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "被打碎的水中月亮",
+  "description": "首次钓获只在夜间出没的鱼儿。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

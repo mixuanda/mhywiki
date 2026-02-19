@@ -1,0 +1,18 @@
+{
+  "id": "10014129",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "夺走一切王冠",
+  "description": "造成伤害时无视敌方目标<color> <b>A</b> </color>的防御力。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014129,
+    "MDF": "MAvatar_Cerydra_00_Rank01",
+    "Name": "夺走一切王冠",
+    "Desc": "造成伤害时无视敌方目标<color> <b>A</b> </color>的防御力。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

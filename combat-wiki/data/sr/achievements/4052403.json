@@ -1,0 +1,18 @@
+{
+  "id": "4052403",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "棺材舞者",
+  "description": "见证罗刹的不为人知的一面<br><color style='color:#8790ab;'>※查看修复后的影像，听到罗刹的独白</color>",
+  "reward": 5,
+  "version": 1.1,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

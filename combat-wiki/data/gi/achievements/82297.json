@@ -1,0 +1,15 @@
+{
+  "id": "82297",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "液流冰结",
+  "description": "连续使用冰元素进行攻击，阻碍「液流动量」的积累。",
+  "reward": 5,
+  "version": "5.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

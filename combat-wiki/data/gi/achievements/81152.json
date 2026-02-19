@@ -1,0 +1,15 @@
+{
+  "id": "81152",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "远海牧人的宝藏",
+  "description": "从酒醉的狂言中，寻到大海贼最宝贵的遗产。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

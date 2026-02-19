@@ -1,0 +1,22 @@
+{
+  "id": "11428",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "水仙十字之剑",
+  "description": "意志与力量随故事的结束而消褪的长剑，它将要再次踏上新的旅途。其中残余着一些力量，纪念着一场宏大的梦。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112082",
+    "112094",
+    "114052"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11428.js"
+  }
+}

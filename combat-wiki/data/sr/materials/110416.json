@@ -1,0 +1,10 @@
+{
+  "id": "110416",
+  "game": "sr",
+  "entityType": "material",
+  "name": "苍猿之钉",
+  "icon": "itemicon/110416.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

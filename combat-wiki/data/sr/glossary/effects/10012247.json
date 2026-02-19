@@ -1,0 +1,19 @@
+{
+  "id": "10012247",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "斡波",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012247,
+    "MDF": "MAvatar_Mar_7th_10_PointB3_Break_Property",
+    "Name": "斡波",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

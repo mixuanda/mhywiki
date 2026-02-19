@@ -1,0 +1,22 @@
+{
+  "id": "11402",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "笛剑",
+  "description": "细剑的锈迹下透露出原本华丽的装饰，挥舞时轻若无物。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112004",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11402.js"
+  }
+}

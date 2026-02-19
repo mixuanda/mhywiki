@@ -1,0 +1,15 @@
+{
+  "id": "84108",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "偶像的可靠防线",
+  "description": "成功劝走艾伯特和其他芭芭拉的粉丝。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

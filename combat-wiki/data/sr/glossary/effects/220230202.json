@@ -1,0 +1,17 @@
+{
+  "id": "220230202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "筋疲力尽",
+  "description": "【长右】的【元气】已耗尽。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220230202,
+    "MDF": "Monster_W2_Beast02_00_Weak",
+    "Name": "筋疲力尽",
+    "Desc": "【长右】的【元气】已耗尽。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

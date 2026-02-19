@@ -1,0 +1,18 @@
+{
+  "id": "10014034",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "长翅膀的玻璃球！",
+  "description": "生命上限提高<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014034,
+    "MDF": "MAvatar_Tribbie_00_SKL03_PointB2",
+    "Name": "长翅膀的玻璃球！",
+    "Desc": "生命上限提高<color> <b>A</b> </color>点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

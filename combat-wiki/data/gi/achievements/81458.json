@@ -1,0 +1,15 @@
+{
+  "id": "81458",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沉玉谷四景",
+  "description": "获得了限量版的「沉玉之旅」留影纪念册。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "21015",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "决心如汗珠般闪耀",
+  "rarity": 4,
+  "path": "Nihility",
+  "skillId": 21015,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 476.28,
+    "DEF": 330.75
+  },
+  "materialRefs": [
+    "110153",
+    "113013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21015.js"
+  }
+}

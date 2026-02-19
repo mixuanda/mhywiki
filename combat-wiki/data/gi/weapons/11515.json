@@ -1,0 +1,22 @@
+{
+  "id": "11515",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "赦罪",
+  "description": "曾经弃绝一切的骗徒使用过的刺剑，过去主要是他伪装身份活动时用的道具。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "CD",
+  "subStatValue": 0.441024,
+  "materialRefs": [
+    "112085",
+    "112094",
+    "114052"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11515.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4071005",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "能量葛朗台",
+  "description": "任意角色连续 4.0 个回合开始时，能量保持为 100% ",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

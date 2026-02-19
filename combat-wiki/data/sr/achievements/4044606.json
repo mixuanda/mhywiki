@@ -1,0 +1,18 @@
+{
+  "id": "4044606",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "这不是旋转门",
+  "description": "未使用「暂停时间」的方法通过排气扇并且失败",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

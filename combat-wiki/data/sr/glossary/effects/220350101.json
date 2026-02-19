@@ -1,0 +1,17 @@
+{
+  "id": "220350101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "共鸣",
+  "description": "处于共鸣状态，免疫除自身外行动条变化效果影响；此时被削减的韧性值提高<color> <b>A</b> </color>，被弱点击破时使我方全体行动提前。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220350101,
+    "MDF": "Monster_W2_Feixiao_00_AlreadyConnect",
+    "Name": "共鸣",
+    "Desc": "处于共鸣状态，免疫除自身外行动条变化效果影响；此时被削减的韧性值提高<color> <b>A</b> </color>，被弱点击破时使我方全体行动提前。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

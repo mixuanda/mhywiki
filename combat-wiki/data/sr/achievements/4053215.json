@@ -1,0 +1,18 @@
+{
+  "id": "4053215",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天使的呢喃",
+  "description": "见证「桶的令使」的结局",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

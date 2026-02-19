@@ -1,0 +1,15 @@
+{
+  "id": "81021",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「在空中飞行程度的能力」",
+  "description": "持续滑翔超过80秒。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

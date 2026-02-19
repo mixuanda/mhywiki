@@ -1,0 +1,33 @@
+{
+  "id": "404301001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "黑塔#错误型号",
+  "description": "受到忆域迷因污染的黑塔人偶，得益于完美的原型，即使参数错误，仍然显得如此精致实用。",
+  "stats": {
+    "HP": 12.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {},
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4043010.png",
+  "figure": "monsterfigure/Monster_4043010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

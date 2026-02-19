@@ -1,0 +1,34 @@
+{
+  "id": "3-6-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "3.6",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Baizhuer",
+      "X": 1
+    },
+    {
+      "N": "Ganyu",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Kaveh",
+      "X": 1
+    },
+    {
+      "N": "Candace",
+      "X": 2
+    },
+    {
+      "N": "Fischl",
+      "X": 7
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

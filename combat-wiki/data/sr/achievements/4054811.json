@@ -1,0 +1,18 @@
+{
+  "id": "4054811",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "塞壬之泪",
+  "description": "在与「哀歌塞壬」任意难度的战斗中，我方「致幻人鱼」受到一次致命伤害",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

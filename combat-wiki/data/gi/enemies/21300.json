@@ -1,0 +1,25 @@
+{
+  "id": "21300",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "荒野幽徒",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_WildHunt"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 荒野幽徒"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

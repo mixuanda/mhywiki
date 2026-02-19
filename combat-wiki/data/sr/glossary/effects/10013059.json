@@ -1,0 +1,18 @@
+{
+  "id": "10013059",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "归纳",
+  "description": "每层使暴击率提高<color> <b>A</b> </color>、暴击伤害提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013059,
+    "MDF": "MAvatar_Dr_Ratio_00_Skill03_PointB1_Buff",
+    "Name": "归纳",
+    "Desc": "每层使暴击率提高<color> <b>A</b> </color>、暴击伤害提高<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

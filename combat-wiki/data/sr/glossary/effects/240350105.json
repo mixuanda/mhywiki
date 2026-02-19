@@ -1,0 +1,17 @@
+{
+  "id": "240350105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "去反抗，去毁灭",
+  "description": "【反造物主】进入蓄力状态，下次行动施放【去反抗，去毁灭】，使【秘所思】和【逻各斯】受到致命攻击后可解除蓄力状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350105,
+    "MDF": "MModifier_W4_IronTombCore_00_Skill07_Charge",
+    "Name": "去反抗，去毁灭",
+    "Desc": "【反造物主】进入蓄力状态，下次行动施放【去反抗，去毁灭】，使【秘所思】和【逻各斯】受到致命攻击后可解除蓄力状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

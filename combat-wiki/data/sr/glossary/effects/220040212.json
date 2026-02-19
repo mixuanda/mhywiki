@@ -1,0 +1,17 @@
+{
+  "id": "220040212",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "砥砺",
+  "description": "该召唤物获得强化，韧性上限提高。施放攻击后，大概率使目标陷入冻结状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040212,
+    "MDF": "MMonster_W2_Yanqing_00_SwordPowerUp",
+    "Name": "砥砺",
+    "Desc": "该召唤物获得强化，韧性上限提高。施放攻击后，大概率使目标陷入冻结状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

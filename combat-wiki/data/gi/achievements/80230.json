@@ -1,0 +1,15 @@
+{
+  "id": "80230",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大漠引路人 · 其二",
+  "description": "在千壑沙地追随<color style='color:#FF0000;'><b>16</b></color>个仙灵，并点亮仙灵之庭。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "38"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

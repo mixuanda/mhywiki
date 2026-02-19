@@ -1,0 +1,15 @@
+{
+  "id": "80226",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 沙海热梦 · 其二",
+  "description": "解除须弥区域中，千壑沙地所有地灵龛的封印。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "38"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

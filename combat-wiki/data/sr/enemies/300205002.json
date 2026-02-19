@@ -1,0 +1,30 @@
+{
+  "id": "300205002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "柯柯娜的诚实",
+  "description": "诚实之心，曾相信只要以诚对人他人便会以诚待己。",
+  "stats": {
+    "HP": 2.25,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 12.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002050.png",
+  "figure": "monsterfigure/Monster_3002050.png",
+  "camp": {
+    "id": "7",
+    "name": "银河"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

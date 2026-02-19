@@ -1,0 +1,18 @@
+{
+  "id": "4033302",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "生活多美好",
+  "description": "为逝者干杯，敬甜蜜的明天<br><color style='color:#8790ab;'>※ 调制特饮「溺甜」</color>",
+  "reward": 10,
+  "version": 2.3,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

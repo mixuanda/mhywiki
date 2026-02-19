@@ -1,0 +1,15 @@
+{
+  "id": "84372",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "交汇的行迹",
+  "description": "你们曾在某个时刻擦肩而过…",
+  "reward": 5,
+  "version": "6.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

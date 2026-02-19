@@ -1,0 +1,22 @@
+{
+  "id": "12408",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黑岩斩刀",
+  "description": "坚韧无比的黑岩大刀，通体皆为玄赤之色。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 509.605949,
+  "subStatType": "CD",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112028",
+    "112034",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12408.js"
+  }
+}

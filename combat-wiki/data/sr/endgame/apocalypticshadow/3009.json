@@ -1,0 +1,339 @@
+{
+  "id": "3009",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "apocalypticshadow",
+  "name": "冽风支配",
+  "content": {
+    "_id": 3009,
+    "Name": "冽风支配",
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Wind",
+          "Imaginary"
+        ],
+        "HPAS": 389203,
+        "Upper": [
+          {
+            "_id": 420261,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 705,
+              "ATK": 0.75,
+              "HP": 0.325
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401401,
+                  "HP": 99599,
+                  "HPCount": 2,
+                  "SPD": 130,
+                  "Stance": "114,162"
+                },
+                {
+                  "ID": 100402601,
+                  "HP": 47808,
+                  "SPD": 125,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420271,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 701,
+              "ATK": 0.9,
+              "HP": 0.25
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 200401401,
+                  "HP": 95002,
+                  "HPCount": 2,
+                  "SPD": 150,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Wind",
+          "Imaginary"
+        ],
+        "HPAS": 1402367,
+        "Upper": [
+          {
+            "_id": 420262,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 706,
+              "ATK": 0.85,
+              "HP": 0.65
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401402,
+                  "HP": 358873,
+                  "HPCount": 2,
+                  "SPD": 143,
+                  "Stance": "133,189"
+                },
+                {
+                  "ID": 100402602,
+                  "HP": 172259,
+                  "SPD": 138,
+                  "Stance": 12
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420272,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 702,
+              "HP": 0.5
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 200401402,
+                  "HP": 342310,
+                  "HPCount": 2,
+                  "SPD": 165,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Wind",
+          "Imaginary"
+        ],
+        "HPAS": 3933356,
+        "Upper": [
+          {
+            "_id": 420263,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 707,
+              "ATK": 0.85,
+              "HP": 1.17
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401403,
+                  "HP": 1006567,
+                  "HPCount": 2,
+                  "SPD": 156,
+                  "Stance": "152,216"
+                },
+                {
+                  "ID": 100402603,
+                  "HP": 483152,
+                  "SPD": 150,
+                  "Stance": 15
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420273,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 703,
+              "HP": 0.9
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 200401403,
+                  "HP": 960111,
+                  "HPCount": 2,
+                  "SPD": 180,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Wind",
+          "Imaginary"
+        ],
+        "HPAS": 11911770,
+        "Upper": [
+          {
+            "_id": 420264,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 691,
+              "ATK": 0.93,
+              "HP": 2.1
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401404,
+                  "HP": 2887202,
+                  "HPCount": 2,
+                  "SPD": 172,
+                  "Stance": "190,270"
+                },
+                {
+                  "ID": 100402604,
+                  "HP": 1385857,
+                  "SPD": 165,
+                  "Stance": 20
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420274,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 692,
+              "ATK": 1.1,
+              "HP": 1.8
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 200401404,
+                  "HP": 3068683,
+                  "HPCount": 2,
+                  "SPD": 198,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "Buff": {
+      "_id": 3110009,
+      "Name": "末法余烬",
+      "Desc": "拥有<color style='color:#f29e38;'>【坚防守备】</color>的敌方单位被<color style='color:#f29e38;'>弱点击破</color>时，使我方全体解除控制状态、恢复战技点并激活终结技。<br>我方全体受到的回复量提高<color style='color:#f29e38;'> 50% </color>。"
+    },
+    "UB": [
+      {
+        "_id": 3111053,
+        "Name": "破晓之召",
+        "Desc": "忆灵的弱点击破效率提高<color style='color:#f29e38;'> 50% </color>，忆灵造成伤害时无视目标<color style='color:#f29e38;'> 20% </color>的防御力。"
+      },
+      {
+        "_id": 3111018,
+        "Name": "寸草不生",
+        "Desc": "角色攻击处于弱点击破状态下的敌人后，其当前承受的所有持续伤害立即产生相当于原伤害<color style='color:#f29e38;'> 80% </color>的伤害，该效果单个回合内每个角色各自最多触发<color style='color:#f29e38;'> 2 </color>次。"
+      },
+      {
+        "_id": 3111020,
+        "Name": "势如破竹",
+        "Desc": "造成的终结技伤害的暴击伤害提高<color style='color:#f29e38;'> 30% </color>，对处于弱点击破状态下的敌方目标额外提高<color style='color:#f29e38;'> 30% </color>。"
+      }
+    ],
+    "LB": [
+      {
+        "_id": 3111055,
+        "Name": "血战狂澜",
+        "Desc": "我方全体造成的物理属性伤害提高<color style='color:#f29e38;'> 50% </color>，施放战技时恢复自身<color style='color:#f29e38;'> 20% </color>的生命值。"
+      },
+      {
+        "_id": 3111021,
+        "Name": "时来运转",
+        "Desc": "角色造成的追加攻击伤害无视敌方目标<color style='color:#f29e38;'> 15% </color>的全属性抗性，同时对非弱点目标也能削减韧性，效果等同于原技能削韧值的<color style='color:#f29e38;'> 50% </color>。"
+      },
+      {
+        "_id": 3111030,
+        "Name": "臻冰彻骨",
+        "Desc": "敌方全体受到的击破伤害提高<color style='color:#f29e38;'> 10% </color>。击破敌方弱点后，我方全体速度提高<color style='color:#f29e38;'> 20% </color>，持续<color style='color:#f29e38;'> 2 </color>回合。"
+      }
+    ],
+    "UC": [
+      100101,
+      100102,
+      100103,
+      100104
+    ],
+    "LC": [
+      100401,
+      100402,
+      100403,
+      100404
+    ],
+    "UG": [
+      10011,
+      10012
+    ],
+    "LG": [
+      10041,
+      10042
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/AS.js"
+    ]
+  }
+}

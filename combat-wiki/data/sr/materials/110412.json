@@ -1,0 +1,10 @@
+{
+  "id": "110412",
+  "game": "sr",
+  "entityType": "material",
+  "name": "过热钢刃",
+  "icon": "itemicon/110412.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "230120401",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "虚骄冠冕",
+  "description": "受到攻击后回复生命值，但会额外获得物理属性和火属性弱点，且受到的击破伤害提高。弱点被击破时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230120401,
+    "MDF": "MMonster_W3_Ghost_00_Skill01_Parasitize_Target",
+    "Name": "虚骄冠冕",
+    "Desc": "受到攻击后回复生命值，但会额外获得物理属性和火属性弱点，且受到的击破伤害提高。弱点被击破时解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

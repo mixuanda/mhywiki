@@ -1,0 +1,18 @@
+{
+  "id": "4074204",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "英雄不朽",
+  "description": "当遐蝶的专属效果触发时，使我方队伍里的4.0名角色同时获得【月茧】状态",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

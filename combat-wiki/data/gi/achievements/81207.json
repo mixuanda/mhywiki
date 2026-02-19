@@ -1,0 +1,15 @@
+{
+  "id": "81207",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「舍我其谁！」",
+  "description": "收集齐层岩巨渊下愚人众的信件文书。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

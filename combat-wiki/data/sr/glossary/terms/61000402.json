@@ -1,0 +1,15 @@
+{
+  "id": "61000402",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "和弦",
+  "description": "施放普攻后被移除，并基于层数对攻击目标造成伤害。",
+  "content": {
+    "_id": 61000402,
+    "Name": "和弦",
+    "Desc": "施放普攻后被移除，并基于层数对攻击目标造成伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

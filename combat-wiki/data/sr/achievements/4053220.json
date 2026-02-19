@@ -1,0 +1,18 @@
+{
+  "id": "4053220",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "时间何其妙",
+  "description": "完成冒险任务「曾经，在美梦小镇…」",
+  "reward": 10,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "100141511",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「理性」之诗",
+  "description": "战技的伤害次数增加<color> <b>A</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141511,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Anaxa",
+    "Name": "献予「理性」之诗",
+    "Desc": "战技的伤害次数增加<color> <b>A</b> </color>次。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82254",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「铜锁」",
+  "description": "战胜地方传奇「铜锁」。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10014133",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "至暗之谜",
+  "description": "自身和忆灵免疫控制类负面状态，造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014133,
+    "MDF": "MAvatar_Evernight_00_UltraMode",
+    "Name": "至暗之谜",
+    "Desc": "自身和忆灵免疫控制类负面状态，造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

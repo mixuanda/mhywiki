@@ -1,0 +1,18 @@
+{
+  "id": "4054707",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "只如初见的涟漪",
+  "description": "与昔涟留在哀丽秘榭的记忆重逢。",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

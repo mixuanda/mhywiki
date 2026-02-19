@@ -1,0 +1,15 @@
+{
+  "id": "81302",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猎人的仁慈",
+  "description": "让「猎鹰」塔德菈选择她的命运…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

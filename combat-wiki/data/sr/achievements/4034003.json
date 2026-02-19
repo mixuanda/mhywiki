@@ -1,0 +1,18 @@
+{
+  "id": "4034003",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": " 300 ",
+  "description": "以一千道伤痕和一百条性命，换取最荣耀的死亡<br><color style='color:#8790ab;'>※见证「天谴之矛」的不死之躯</color>",
+  "reward": 10,
+  "version": 3.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "230240134",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "230240134",
+  "description": null,
+  "effectType": "monster",
+  "content": {
+    "_id": 230240134,
+    "MDF": "MMonster_W2_Argenti_IF_EX_PowerUpAllDark",
+    "Name": {},
+    "Desc": {},
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

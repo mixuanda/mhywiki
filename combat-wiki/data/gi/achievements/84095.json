@@ -1,0 +1,15 @@
+{
+  "id": "84095",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "卡利贝尔",
+  "description": "完成「卡利贝尔」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

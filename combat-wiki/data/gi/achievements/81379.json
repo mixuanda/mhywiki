@@ -1,0 +1,15 @@
+{
+  "id": "81379",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "四水果击",
+  "description": "完成了「秩序水果团」与布兰奇的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

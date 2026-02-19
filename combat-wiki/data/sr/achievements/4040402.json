@@ -1,0 +1,18 @@
+{
+  "id": "4040402",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "矿山的西绪福斯",
+  "description": "完成最终的矿车工测试",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

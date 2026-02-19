@@ -1,0 +1,15 @@
+{
+  "id": "80287",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "行汲众水的泉源 · 其三",
+  "description": "解锁枫丹区域中，莫尔泰区、伊黎耶林区所有传送锚点。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "46"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

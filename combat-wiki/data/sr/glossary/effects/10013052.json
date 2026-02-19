@@ -1,0 +1,19 @@
+{
+  "id": "10013052",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "攻击提高",
+  "description": "每层使攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013052,
+    "MDF": "MAvatar_Dr_Ratio_00_Passive_Buff_02",
+    "Name": "攻击提高",
+    "Desc": "每层使攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

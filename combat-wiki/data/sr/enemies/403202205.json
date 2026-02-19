@@ -1,0 +1,39 @@
+{
+  "id": "403202205",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "残破容器",
+  "description": "自无穷灾难中倒映的残像，皆是寄宿着破坏意志的祸端。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 0.0,
+    "Stance": 6.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4032020.png",
+  "figure": "monsterfigure/Monster_4032020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

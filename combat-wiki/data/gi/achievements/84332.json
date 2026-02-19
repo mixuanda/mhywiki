@@ -1,0 +1,15 @@
+{
+  "id": "84332",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "在夜明之前",
+  "description": "唯有携手，才能觅见光明。",
+  "reward": 5,
+  "version": "5.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

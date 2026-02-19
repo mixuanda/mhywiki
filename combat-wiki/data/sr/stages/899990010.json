@@ -1,0 +1,15 @@
+{
+  "id": "899990010",
+  "game": "sr",
+  "entityType": "stage",
+  "level": 20,
+  "enemyGroup": 30144,
+  "waves": [
+    [
+      1003011
+    ]
+  ],
+  "source": {
+    "file": "data/Stage.js"
+  }
+}

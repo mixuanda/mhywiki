@@ -1,0 +1,15 @@
+{
+  "id": "81267",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "法达摩加纳",
+  "description": "通往「御座」的道路终于显现。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

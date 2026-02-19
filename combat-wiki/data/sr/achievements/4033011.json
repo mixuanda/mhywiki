@@ -1,0 +1,18 @@
+{
+  "id": "4033011",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "致伊卡洛斯",
+  "description": "在他乡异地重闻旧事<br><color style='color:#8790ab;'>※聆听黄泉与瓦尔特的对话</color>",
+  "reward": 10,
+  "version": 2.1,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

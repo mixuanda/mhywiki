@@ -1,0 +1,19 @@
+{
+  "id": "10012174",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "能量恢复效率提高",
+  "description": "能量恢复效率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012174,
+    "MDF": "MAvatar_Huohuo_PointB1_SelfSPRatio",
+    "Name": "能量恢复效率提高",
+    "Desc": "能量恢复效率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

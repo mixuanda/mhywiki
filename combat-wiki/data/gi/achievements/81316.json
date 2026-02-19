@@ -1,0 +1,15 @@
+{
+  "id": "81316",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "山上之树",
+  "description": "使拉沙鲁回归甘露花海。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

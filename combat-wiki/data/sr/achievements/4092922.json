@@ -1,0 +1,18 @@
+{
+  "id": "4092922",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "月亮头的奇迹商店",
+  "description": "通关「模拟宇宙：黄金与机械」时，使用自定义骰「公司时刻」，在【祝福商店】、【奇物商店】或【强化商店】购买过 20.0 件及以上商品",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

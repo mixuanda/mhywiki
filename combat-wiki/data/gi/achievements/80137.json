@@ -1,0 +1,15 @@
+{
+  "id": "80137",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "赫斯珀洛斯的好东西",
+  "description": "在渊下宫开启160个宝箱。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "28"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

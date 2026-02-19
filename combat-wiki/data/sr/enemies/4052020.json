@@ -1,0 +1,39 @@
+{
+  "id": "4052020",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "泡影稚子",
+  "description": "大海的女儿们，被「毁灭」的罪孽蚀尽灵肉，只余空荡扭曲的形骸…这一世，她们追随「海洋」的利刃，并非湮灭于虚无，而是成为袭向黑日的巨浪。<br>末日的风暴从天而降，宣告万物的灭亡——<br>不幸早产的泡影啊，还未诞生就注定消亡，吞吐着数不尽的悲怆——<br>污浊的羊水流淌，染黑天和地，把初生的希望也弄脏。",
+  "stats": {
+    "HP": 3.25,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 4.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_4052020.png",
+  "figure": "monsterfigure/Monster_4052020.png",
+  "camp": {
+    "id": "15",
+    "name": "渊下海妖"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

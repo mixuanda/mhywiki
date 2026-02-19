@@ -1,0 +1,15 @@
+{
+  "id": "82078",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "基础再牢，也能撂倒！",
+  "description": "在不击碎玄岩柱的情况下，使无相之岩进入复苏模式。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

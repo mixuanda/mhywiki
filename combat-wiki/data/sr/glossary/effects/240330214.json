@@ -1,0 +1,17 @@
+{
+  "id": "240330214",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "戮力同心",
+  "description": "造成的伤害提高<color> <b>A</b> </color>，受到的伤害降低<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330214,
+    "MDF": "MMonster_W4_Claymore_01_LocalLegend_AllMonst",
+    "Name": "戮力同心",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>，受到的伤害降低<color> <b>B</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

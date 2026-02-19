@@ -1,0 +1,15 @@
+{
+  "id": "80057",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "冰峰踏破",
+  "description": "解锁龙脊雪山的所有传送锚点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "16"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

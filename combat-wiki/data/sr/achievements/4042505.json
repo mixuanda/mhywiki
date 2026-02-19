@@ -1,0 +1,18 @@
+{
+  "id": "4042505",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "开箱评测",
+  "description": "没有比你更靠谱的快递安检工作者了",
+  "reward": 5,
+  "version": 1.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

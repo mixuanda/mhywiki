@@ -1,0 +1,15 @@
+{
+  "id": "80452",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如月朗明",
+  "description": "将挪德卡莱的新月神像供奉至满级。",
+  "reward": 20,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

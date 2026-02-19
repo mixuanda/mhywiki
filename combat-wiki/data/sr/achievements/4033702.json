@@ -1,0 +1,18 @@
+{
+  "id": "4033702",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "请别叫她大姐姐",
+  "description": "是时候了，我们来合成大…<br><color style='color:#8790ab;'>※帮助停云恢复原状</color>",
+  "reward": 10,
+  "version": 2.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

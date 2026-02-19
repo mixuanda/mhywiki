@@ -1,0 +1,18 @@
+{
+  "id": "4052809",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "均衡型博主",
+  "description": "在「罗浮杂俎」网站上发布了同样多不同倾向的帖子",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

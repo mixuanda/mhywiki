@@ -1,0 +1,10 @@
+{
+  "id": "112013",
+  "game": "sr",
+  "entityType": "material",
+  "name": "古代引擎",
+  "icon": "itemicon/112013.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

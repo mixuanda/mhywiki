@@ -1,0 +1,18 @@
+{
+  "id": "280150105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "爆发",
+  "description": "速度提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150105,
+    "MDF": "MMonster_W0_Boss_00_Part2_OnPhase3SpeedUp",
+    "Name": "爆发",
+    "Desc": "速度提高。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

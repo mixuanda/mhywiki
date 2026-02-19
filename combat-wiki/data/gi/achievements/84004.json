@@ -1,0 +1,15 @@
+{
+  "id": "84004",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "听凭风引",
+  "description": "掌握「风」的元素力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

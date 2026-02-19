@@ -1,0 +1,18 @@
+{
+  "id": "4053070",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "全家福",
+  "description": "在克劳克影视乐园的拍照板处拍摄一张列车组全家福",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

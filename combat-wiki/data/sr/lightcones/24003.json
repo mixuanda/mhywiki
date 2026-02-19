@@ -1,0 +1,23 @@
+{
+  "id": "24003",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "孤独的疗愈",
+  "rarity": 5,
+  "path": "Nihility",
+  "skillId": 24003,
+  "baseStats": {
+    "HP": 1058.4,
+    "ATK": 529.2,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110153",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/24003.js"
+  }
+}

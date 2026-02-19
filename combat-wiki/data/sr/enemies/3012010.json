@@ -1,0 +1,39 @@
+{
+  "id": "3012010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "忆域迷因「何物藏于镜中」",
+  "description": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>生命通过镜像认知世界，建构自我的认知。无形的模因在镜中倒映，留下千变万化的迷影。",
+  "stats": {
+    "HP": 1.6,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3012010.png",
+  "figure": "monsterfigure/Monster_3012010.png",
+  "camp": {
+    "id": "11",
+    "name": "忆域迷因"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

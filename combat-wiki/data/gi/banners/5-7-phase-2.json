@@ -1,0 +1,34 @@
+{
+  "id": "5-7-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.7",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Emilie",
+      "X": 2
+    },
+    {
+      "N": "Mavuika",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Iansan",
+      "X": 2
+    },
+    {
+      "N": "Yaoyao",
+      "X": 5
+    },
+    {
+      "N": "Xiangling",
+      "X": 13
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

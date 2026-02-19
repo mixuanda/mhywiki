@@ -1,0 +1,18 @@
+{
+  "id": "4053713",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "冷钢锻造",
+  "description": "您理解了吗？因为我的身体由钢铁制成，而钢铁冰冷坚硬，所以我的笑话很冷<br><color style='color:#8790ab;'>※ 听「闭嘴」讲冷笑话，令人忍俊不禁</color>",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

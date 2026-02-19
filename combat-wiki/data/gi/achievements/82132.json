@@ -1,0 +1,15 @@
+{
+  "id": "82132",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "金风玉露一相逢",
+  "description": "放任掣电树释放的电荷相撞。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

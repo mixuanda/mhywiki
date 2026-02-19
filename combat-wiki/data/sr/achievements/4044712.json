@@ -1,0 +1,18 @@
+{
+  "id": "4044712",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "记忆的被褥",
+  "description": "得到三月七的协助，暂时增强欧洛尼斯祷言的能力",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

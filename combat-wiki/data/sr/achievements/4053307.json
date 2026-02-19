@@ -1,0 +1,18 @@
+{
+  "id": "4053307",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "根本难不倒它",
+  "description": "「折纸小鸟对对碰」活动中，单局对战内触发30.0次小鸟技能",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

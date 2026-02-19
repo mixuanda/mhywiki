@@ -1,0 +1,27 @@
+{
+  "id": "307910",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "拉斯科尔尼科夫",
+  "description": "作为月矩力试验设计局这座庞大设施中的一员，拉斯科尔尼科夫中尉完美地扮演着齿轮的角色，无条件地执行每一项命令，沉默而精确地履行他的职责。",
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Oprichnik_Male_Strong_LanceArquebus_Rodya"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 6.0"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

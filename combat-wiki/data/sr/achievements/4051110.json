@@ -1,0 +1,18 @@
+{
+  "id": "4051110",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "软件体的生命周期",
+  "description": "在任务「难得有情•其二」中选择不格式化小机器人",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

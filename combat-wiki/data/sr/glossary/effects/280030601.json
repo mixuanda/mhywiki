@@ -1,0 +1,19 @@
+{
+  "id": "280030601",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "噬命",
+  "description": "可回复的生命上限降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030601,
+    "MDF": "Monster_XP_Elite02_02_DirtyHP",
+    "Name": "噬命",
+    "Desc": "可回复的生命上限降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

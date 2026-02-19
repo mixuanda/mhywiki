@@ -1,0 +1,15 @@
+{
+  "id": "81469",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "悠古的巫觋歌",
+  "description": "见证浮锦完成投珑仪式。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

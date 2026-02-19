@@ -1,0 +1,17 @@
+{
+  "id": "10014015",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "解读",
+  "description": "大黑塔的强化战技会根据目标的【解读】层数，额外对敌方全体造成伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014015,
+    "MDF": "MAvatar_TheHerta_00_Passive_MagicMark",
+    "Name": "解读",
+    "Desc": "大黑塔的强化战技会根据目标的【解读】层数，额外对敌方全体造成伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "280330104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "培训中",
+  "description": "下次行动施放【企业文化冲击】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280330104,
+    "MDF": "Monster_W1_Mecha03_02_ChargeEffect",
+    "Name": "培训中",
+    "Desc": "下次行动施放【企业文化冲击】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

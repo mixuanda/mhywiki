@@ -1,0 +1,19 @@
+{
+  "id": "10013035",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "寻神铜镜前",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013035,
+    "MDF": "MAvatar_RuanMei_Rank04_Passive_BreakDamageAddedUp",
+    "Name": "寻神铜镜前",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240350104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "将掀起反叛",
+  "description": "【反造物主】下次行动施放【莫要臣服暴政】，受到致命攻击后可解除该状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350104,
+    "MDF": "MMonster_W4_IronTombCorePart_01_Skill02_ChargeOnPart",
+    "Name": "将掀起反叛",
+    "Desc": "【反造物主】下次行动施放【莫要臣服暴政】，受到致命攻击后可解除该状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "220350125",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "魂契",
+  "description": "当自身被消灭时，<color>%DynamicTargetName</color>也会陷入无法战斗状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220350125,
+    "MDF": "MAvatar_AvatarChange_W2_Lycan_00_PassiveSkill",
+    "Name": "魂契",
+    "Desc": "当自身被消灭时，<color>%DynamicTargetName</color>也会陷入无法战斗状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

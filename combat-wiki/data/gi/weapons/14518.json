@@ -1,0 +1,52 @@
+{
+  "id": "14518",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "寝正月初晴",
+  "description": "由澄澈的紫玉锻造而成的铃灯，据说置于枕边便能唤来幸福的美梦。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 541.829758,
+  "subStatType": "EM",
+  "subStatValue": 264.61440000000005,
+  "materialRefs": [
+    "112055",
+    "112112",
+    "114032"
+  ],
+  "affix": {
+    "114518": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "触发扩散反应后的6秒内，元素精通提升 <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>180</color> / <color style='color:#99FFFFFF'>210</color> / <color style='color:#99FFFFFF'>240</color> 点；元素战技命中敌人后的9秒内，元素精通提升 <color style='color:#99FFFFFF'>96</color> / <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>144</color> / <color style='color:#99FFFFFF'>168</color> / <color style='color:#99FFFFFF'>192</color> 点；元素爆发命中敌人后的30秒内，元素精通提升 <color style='color:#99FFFFFF'>32</color> / <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>48</color> / <color style='color:#99FFFFFF'>56</color> / <color style='color:#99FFFFFF'>64</color> 点。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "触发扩散反应后的6秒内，元素精通提升 <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>180</color> / <color style='color:#99FFFFFF'>210</color> / <color style='color:#99FFFFFF'>240</color> 点；元素战技命中敌人后的9秒内，元素精通提升 <color style='color:#99FFFFFF'>96</color> / <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>144</color> / <color style='color:#99FFFFFF'>168</color> / <color style='color:#99FFFFFF'>192</color> 点；元素爆发命中敌人后的30秒内，元素精通提升 <color style='color:#99FFFFFF'>32</color> / <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>48</color> / <color style='color:#99FFFFFF'>56</color> / <color style='color:#99FFFFFF'>64</color> 点。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "触发扩散反应后的6秒内，元素精通提升 <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>180</color> / <color style='color:#99FFFFFF'>210</color> / <color style='color:#99FFFFFF'>240</color> 点；元素战技命中敌人后的9秒内，元素精通提升 <color style='color:#99FFFFFF'>96</color> / <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>144</color> / <color style='color:#99FFFFFF'>168</color> / <color style='color:#99FFFFFF'>192</color> 点；元素爆发命中敌人后的30秒内，元素精通提升 <color style='color:#99FFFFFF'>32</color> / <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>48</color> / <color style='color:#99FFFFFF'>56</color> / <color style='color:#99FFFFFF'>64</color> 点。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "触发扩散反应后的6秒内，元素精通提升 <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>180</color> / <color style='color:#99FFFFFF'>210</color> / <color style='color:#99FFFFFF'>240</color> 点；元素战技命中敌人后的9秒内，元素精通提升 <color style='color:#99FFFFFF'>96</color> / <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>144</color> / <color style='color:#99FFFFFF'>168</color> / <color style='color:#99FFFFFF'>192</color> 点；元素爆发命中敌人后的30秒内，元素精通提升 <color style='color:#99FFFFFF'>32</color> / <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>48</color> / <color style='color:#99FFFFFF'>56</color> / <color style='color:#99FFFFFF'>64</color> 点。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "触发扩散反应后的6秒内，元素精通提升 <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>180</color> / <color style='color:#99FFFFFF'>210</color> / <color style='color:#99FFFFFF'>240</color> 点；元素战技命中敌人后的9秒内，元素精通提升 <color style='color:#99FFFFFF'>96</color> / <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>144</color> / <color style='color:#99FFFFFF'>168</color> / <color style='color:#99FFFFFF'>192</color> 点；元素爆发命中敌人后的30秒内，元素精通提升 <color style='color:#99FFFFFF'>32</color> / <color style='color:#99FFFFFF'>40</color> / <color style='color:#99FFFFFF'>48</color> / <color style='color:#99FFFFFF'>56</color> / <color style='color:#99FFFFFF'>64</color> 点。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14518.js"
+  }
+}

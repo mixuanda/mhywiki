@@ -1,0 +1,18 @@
+{
+  "id": "4044111",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虫鸣秘闻：门径律法",
+  "description": "她曾走过怎样的路？<br><color style='color:#8790ab;'>※解开「神谕圣地」雅努萨波利斯的预言谜题</color>",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

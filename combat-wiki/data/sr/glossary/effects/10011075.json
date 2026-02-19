@@ -1,0 +1,19 @@
+{
+  "id": "10011075",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "胜利的小小代价",
+  "description": "受到攻击的概率提高。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011075,
+    "MDF": "MAvatar_Klara_00_MazeSkill_AggroUP",
+    "Name": "胜利的小小代价",
+    "Desc": "受到攻击的概率提高。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

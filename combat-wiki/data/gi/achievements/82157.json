@@ -1,0 +1,15 @@
+{
+  "id": "82157",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "落落磊磊",
+  "description": "利用元素矩阵，使正机之神过载瘫痪。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

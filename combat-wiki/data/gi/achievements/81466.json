@@ -1,0 +1,15 @@
+{
+  "id": "81466",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "灵何惟兮水中",
+  "description": "发现宝玦口隐藏的秘密。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054230",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "三分球是关键",
+  "description": "在「豹豹碰碰大作战」的单场比赛中，以领先对手3.0分及以上的优势获取胜利",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

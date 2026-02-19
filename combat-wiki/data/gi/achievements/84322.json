@@ -1,0 +1,15 @@
+{
+  "id": "84322",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一切荣光的归处",
+  "description": "梦想碰撞时，会迸发最耀眼的火花。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

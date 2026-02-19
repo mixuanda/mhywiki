@@ -1,0 +1,18 @@
+{
+  "id": "4044713",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "刻法勒永志不忘",
+  "description": "通过「负世」的试炼，见证往日的希望与绝望",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

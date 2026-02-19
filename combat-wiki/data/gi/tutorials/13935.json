@@ -1,0 +1,23 @@
+{
+  "id": "13935",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13935",
+  "tags": [],
+  "content": {
+    "_id": 13935,
+    "N": "回忆之中的射流漩涡…",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Detail_04",
+        "D": "在回忆中，玛拉妮可以借助射流漩涡的力量高跃至空中。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

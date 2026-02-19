@@ -1,0 +1,10 @@
+{
+  "id": "110508",
+  "game": "sr",
+  "entityType": "material",
+  "name": "灭流绝溢的缄默",
+  "icon": "itemicon/110508.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10013147",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "收债人",
+  "description": "量子属性抗性穿透提高<color> <b>A</b> </color>。施放攻击后，每击中1个敌方目标，翡翠获得1点充能并造成附加伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013147,
+    "MDF": "MAvatar_Jade_00_Rank06_BPSkillSelf",
+    "Name": "收债人",
+    "Desc": "量子属性抗性穿透提高<color> <b>A</b> </color>。施放攻击后，每击中1个敌方目标，翡翠获得1点充能并造成附加伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

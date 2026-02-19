@@ -1,0 +1,15 @@
+{
+  "id": "61000041",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "构音推演：诸行无常",
+  "description": "回响推演行动时，为敌方全体各解除 <b>4</b> 个负面状态。",
+  "content": {
+    "_id": 61000041,
+    "Name": "构音推演：诸行无常",
+    "Desc": "回响推演行动时，为敌方全体各解除 <b>4</b> 个负面状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

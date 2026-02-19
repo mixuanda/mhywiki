@@ -1,0 +1,26 @@
+{
+  "id": "91302",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「博士」",
+  "description": "？？？",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Dotorre_Moon"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 值得铭记的强敌",
+    "值得铭记的强敌 > 「博士」"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

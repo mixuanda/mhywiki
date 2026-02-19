@@ -1,0 +1,15 @@
+{
+  "id": "81184",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "海底几万里？",
+  "description": "进入渊下宫。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

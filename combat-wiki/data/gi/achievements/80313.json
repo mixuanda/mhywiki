@@ -1,0 +1,15 @@
+{
+  "id": "80313",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "我们的海",
+  "description": "点亮枫丹区域中，诺思托伊区的地图。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

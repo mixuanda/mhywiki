@@ -1,0 +1,15 @@
+{
+  "id": "82131",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「给我下来！」",
+  "description": "击落飞行中的有翼蕈兽。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

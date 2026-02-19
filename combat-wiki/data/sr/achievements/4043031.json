@@ -1,0 +1,18 @@
+{
+  "id": "4043031",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "筑梦工业化",
+  "description": "完成朝露公馆的梦客漫步挑战，赚取外快",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

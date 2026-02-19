@@ -1,0 +1,15 @@
+{
+  "id": "81201",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "生命之谷的居民",
+  "description": "寻得干枯的种子，而且没有贸然吃掉它。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

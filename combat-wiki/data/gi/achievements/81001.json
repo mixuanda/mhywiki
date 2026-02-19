@@ -1,0 +1,15 @@
+{
+  "id": "81001",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "烈风的遗骨",
+  "description": "登上风龙废墟的高塔顶端。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

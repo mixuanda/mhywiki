@@ -1,0 +1,18 @@
+{
+  "id": "4074804",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "乌合之虫",
+  "description": "在与「示死祸源：深魇蝗灾」的战斗中，通过消灭所有「幼蛰虫」使其退出【基因复制】状态",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "13404",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黑岩刺枪",
+  "description": "以黑岩与陨铁铸成的兵器，玄锋清凛的光泽中仿佛隐隐可见血色。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 509.605949,
+  "subStatType": "CD",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112028",
+    "112034",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13404.js"
+  }
+}

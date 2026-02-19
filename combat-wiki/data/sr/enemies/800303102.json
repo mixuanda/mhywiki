@@ -1,0 +1,39 @@
+{
+  "id": "800303102",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "守护者之影（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
+  "stats": {
+    "HP": 13.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8003030.png",
+  "figure": "monsterfigure/Monster_8003030.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

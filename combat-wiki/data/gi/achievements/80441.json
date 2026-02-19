@@ -1,0 +1,15 @@
+{
+  "id": "80441",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "彩色相簿",
+  "description": "完成悠悠纪念册中所有的留影。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "62"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

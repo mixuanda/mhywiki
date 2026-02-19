@@ -1,0 +1,15 @@
+{
+  "id": "81632",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "英灵的归处",
+  "description": "见证「凛风之马」最后的故事。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

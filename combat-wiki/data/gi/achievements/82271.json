@@ -1,0 +1,15 @@
+{
+  "id": "82271",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「铁须」",
+  "description": "在不被来自铁须的攻击命中的情况下，将其击败。",
+  "reward": 20,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

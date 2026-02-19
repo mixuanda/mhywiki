@@ -1,0 +1,19 @@
+{
+  "id": "10014068",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "察言观色看笑脸",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014068,
+    "MDF": "MAvatar_Cipher_00_Rank01_Buff",
+    "Name": "察言观色看笑脸",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

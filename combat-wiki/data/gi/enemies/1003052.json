@@ -1,0 +1,21 @@
+{
+  "id": "1003052",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的岩居蟹 · 钢甲",
+  "description": "寄居在螺与壳之中的蟹类，是枫丹重甲蟹的远亲，原本大多性情温顺，几乎不具备攻击性，但也不乏为了整个族群的领地，挺身而出决死搏杀的案例。此时，原本温顺的底色反倒成为了狂烈躁戾的助燃剂。<br>地脉的乱流中，曾遗憾败北的强大「斗士」岩居蟹似是对当年的溃败进行了深刻反省，不断磨砺自身的甲胄，已如战舰侧舷的钢甲那般难以洞穿…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_HermitCrabMatureElite",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "21501",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深黯魇语之主",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Lloigor_Primo"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 深渊",
+    "深渊 > 异界栖兽"
+  ],
+  "analysis": {
+    "Name": "深黯魇语之主",
+    "Icon": "UI_MonsterIcon_Lloigor_Primo",
+    "DescList": [
+      "• 会展开抵挡所有伤害的「深黯护盾」，其可被@元素伤害#削减，@月曜反应伤害#的效率大幅提升，击败其召唤物也可以削减护盾",
+      "•「深黯护盾」被破除时，@损失大量生命值#并陷入虚弱，使@全部抗性大幅降低#"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

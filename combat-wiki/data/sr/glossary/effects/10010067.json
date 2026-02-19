@@ -1,0 +1,18 @@
+{
+  "id": "10010067",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "效果抵抗降低",
+  "description": "效果抵抗降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010067,
+    "MDF": "MAvatar_Silwolf_00_Rank02_StatusResistanceDown",
+    "Name": "效果抵抗降低",
+    "Desc": "效果抵抗降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

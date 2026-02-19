@@ -1,0 +1,18 @@
+{
+  "id": "4033004",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "当甜蜜来敲门",
+  "description": "发现梦境世界的意外之喜<br><color style='color:#8790ab;'>※逃离「死亡」的阴影</color>",
+  "reward": 10,
+  "version": 2.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "100100633",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "风属性抗性降低",
+  "description": "风属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100633,
+    "MDF": "MAvatar_Advanced_Silwolf_00_Rank02_Wind",
+    "Name": "风属性抗性降低",
+    "Desc": "风属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "10001",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "行者之心",
+  "icon": "UI_RelicIcon_10001",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "攻击力提高18%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "重击的暴击率提升30%。"
+    }
+  ],
+  "parts": [
+    "故人之心",
+    "归乡之羽",
+    "逐光之石",
+    "异国之盏",
+    "感别之冠"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "10007",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "教官",
+  "icon": "UI_RelicIcon_10007",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "元素精通提高80点。"
+    },
+    {
+      "Num": 4,
+      "Skill": "触发元素反应后，队伍中所有角色的元素精通提高120点，持续8秒。"
+    }
+  ],
+  "parts": [
+    "教官的胸花",
+    "教官的羽饰",
+    "教官的怀表",
+    "教官的茶杯",
+    "教官的帽子"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

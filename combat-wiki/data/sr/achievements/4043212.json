@@ -1,0 +1,18 @@
+{
+  "id": "4043212",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "如狼",
+  "description": "在任意《狼之道•终》关卡里，反弹了石头老板的每一枚硬币",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

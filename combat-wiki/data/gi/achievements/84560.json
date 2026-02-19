@@ -1,0 +1,15 @@
+{
+  "id": "84560",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "须弥博学者",
+  "description": "答对六道不同的问题。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

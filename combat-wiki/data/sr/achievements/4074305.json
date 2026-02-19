@@ -1,0 +1,18 @@
+{
+  "id": "4074305",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "熄灭天火的忿怒",
+  "description": "在与「至高，至阳，天空的化身」的战斗中，使【温度】降低30.0",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

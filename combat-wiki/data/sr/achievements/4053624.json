@@ -1,0 +1,18 @@
+{
+  "id": "4053624",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Remix  10 ",
+  "description": "在「音律狩猎忍法帖」中，解锁舞台的第四首乐曲",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

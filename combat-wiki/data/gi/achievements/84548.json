@@ -1,0 +1,15 @@
+{
+  "id": "84548",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「为了工作。」",
+  "description": "为范兵卫采到更多的蘑菇。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

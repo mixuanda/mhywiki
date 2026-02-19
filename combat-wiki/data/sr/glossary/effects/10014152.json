@@ -1,0 +1,19 @@
+{
+  "id": "10014152",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "往昔的涟漪",
+  "description": "普攻替换为强化普攻，战技的结界效果没有持续时间，自身和德谬歌的暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014152,
+    "MDF": "MAvatar_Cyrene_00_Skill03",
+    "Name": "往昔的涟漪",
+    "Desc": "普攻替换为强化普攻，战技的结界效果没有持续时间，自身和德谬歌的暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80311",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "奉璋定极",
+  "description": "将锦落庭的祀珑等级供奉至满级。",
+  "reward": 20,
+  "version": "4.4",
+  "group": {
+    "id": "47"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

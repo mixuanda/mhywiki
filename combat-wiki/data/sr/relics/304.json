@@ -1,0 +1,15 @@
+{
+  "id": "304",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "筑城者的贝洛伯格",
+  "icon": "71015.png",
+  "setBonuses": [
+    "使装备者的防御力提高 <b>15%</b> 。当装备者的效果命中大于等于 <b>50%</b> 时，防御力额外提高 <b>15%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/304.js"
+  }
+}

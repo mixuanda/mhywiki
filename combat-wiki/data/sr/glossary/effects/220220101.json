@@ -1,0 +1,19 @@
+{
+  "id": "220220101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "重生",
+  "description": "受到致命攻击时，立即回复一定生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220220101,
+    "MDF": "Monster_W2_Abomi01_00_Revive",
+    "Name": "重生",
+    "Desc": "受到致命攻击时，立即回复一定生命值。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

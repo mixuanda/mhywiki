@@ -1,0 +1,19 @@
+{
+  "id": "10011024",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "乱蝶",
+  "description": "被攻击后，额外受到1次来自希儿的量子伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011024,
+    "MDF": "MAvatar_Seele_Rank06_Flag",
+    "Name": "乱蝶",
+    "Desc": "被攻击后，额外受到1次来自希儿的量子伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

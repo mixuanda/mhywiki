@@ -1,0 +1,19 @@
+{
+  "id": "280340104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "时运不济",
+  "description": "受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340104,
+    "MDF": "Monster_W3_Aventurine_00_DamageTakenUp",
+    "Name": "时运不济",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

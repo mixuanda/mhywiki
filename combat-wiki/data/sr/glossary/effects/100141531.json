@@ -1,0 +1,18 @@
+{
+  "id": "100141531",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "盛放吧，来世的乐土",
+  "description": "每造成1次伤害，都会再额外造成1次等同于原伤害<color> <b>A</b> </color>的真实伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141531,
+    "MDF": "MAvatar_Cyrene_00_Skill02_Buff_Main",
+    "Name": "盛放吧，来世的乐土",
+    "Desc": "每造成1次伤害，都会再额外造成1次等同于原伤害<color> <b>A</b> </color>的真实伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

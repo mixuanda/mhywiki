@@ -1,0 +1,17 @@
+{
+  "id": "240150206",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "黑潮同步率",
+  "description": "当前【晨昏之眼】的充能比例为<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150206,
+    "MDF": "Modifier_Monster_W4_DawnsEye_01_WheaterRognarokTotalDamage",
+    "Name": "黑潮同步率",
+    "Desc": "当前【晨昏之眼】的充能比例为<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

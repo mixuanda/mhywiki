@@ -1,0 +1,19 @@
+{
+  "id": "10012172",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "禳命",
+  "description": "我方目标回合开始或施放终结技时回复自身等同于藿藿<color> <b>A</b> </color>生命上限+<color> <b>B</b> </color>的生命值，同时对每个当前生命值百分比小于等于<color> <b>C</b> </color>的我方目标各产生1次回复效果。触发【禳命】为我方目标提供治疗时，解除该目标1个负面效果，该效果剩余可触发次数为<color> <b>D</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012172,
+    "MDF": "MAvatar_Huohuo_Passive_HealMark",
+    "Name": "禳命",
+    "Desc": "我方目标回合开始或施放终结技时回复自身等同于藿藿<color> <b>A</b> </color>生命上限+<color> <b>B</b> </color>的生命值，同时对每个当前生命值百分比小于等于<color> <b>C</b> </color>的我方目标各产生1次回复效果。触发【禳命】为我方目标提供治疗时，解除该目标1个负面效果，该效果剩余可触发次数为<color> <b>D</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

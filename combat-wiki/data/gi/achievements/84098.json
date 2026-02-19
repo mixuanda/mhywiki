@@ -1,0 +1,15 @@
+{
+  "id": "84098",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "逆转的大魔术",
+  "description": "「谕示裁定枢机」已作出无罪判决。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4052349",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "飞舞如蝶，蛰刺如蜂",
+  "description": "制霸磐岩镇超级联赛五大赛事",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

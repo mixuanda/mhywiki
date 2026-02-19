@@ -1,0 +1,474 @@
+{
+  "id": "6-3b",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "abyss",
+  "name": "6.3B",
+  "openTime": "2026/02/16 - 2026/03/16",
+  "generation": 6,
+  "phases": [
+    112
+  ],
+  "floors": [
+    {
+      "floorId": "103",
+      "config": {
+        "Disorder": "角色的月曜反应造成的伤害提升50%。",
+        "ShowVers": [
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "9-1",
+            "Level": 72,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30801,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 30802,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30803,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30801,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30802,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 62701,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-2",
+            "Level": 74,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30804,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30805,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30851,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30804,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30805,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 40302,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-3",
+            "Level": 76,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30853,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30803,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 803,
+                    "Num": 1,
+                    "HPOverride": 3.575
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Guide": [
+          803
+        ]
+      }
+    },
+    {
+      "floorId": "104",
+      "config": {
+        "Disorder": "角色的月曜反应造成的伤害提升50%。",
+        "ShowVers": [
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "10-1",
+            "Level": 80,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30801,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30701,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30791,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30701,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 62603,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-2",
+            "Level": 82,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30803,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30741,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30793,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30721,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 802,
+                    "Num": 1,
+                    "HPOverride": 2.805
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-3",
+            "Level": 85,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30761,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30741,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30792,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30781,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 63002,
+                    "Num": 1,
+                    "HPOverride": 3.3
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Guide": [
+          802
+        ]
+      }
+    },
+    {
+      "floorId": "115",
+      "config": {
+        "Chambers": [
+          {
+            "Name": "11-1",
+            "Level": 88,
+            "UpperCount": 0,
+            "LowerCount": 0,
+            "Upper": [
+              113,
+              112
+            ],
+            "Lower": [
+              60509
+            ]
+          },
+          {
+            "Name": "11-2",
+            "Level": 90,
+            "UpperCount": 0,
+            "LowerCount": 0,
+            "Upper": [
+              40658,
+              54101,
+              54102
+            ],
+            "Lower": [
+              61402
+            ]
+          },
+          {
+            "Name": "11-3",
+            "Level": 92,
+            "UpperCount": 0,
+            "LowerCount": 0,
+            "Upper": [
+              63004
+            ],
+            "Lower": [
+              511
+            ]
+          }
+        ],
+        "Auto": true,
+        "Disorder": "队伍中所有角色获得60%水元素伤害加成。<br>队伍中所有角色获得60%岩元素伤害加成。"
+      }
+    },
+    {
+      "floorId": "116",
+      "config": {
+        "Disorder": "<b>上半</b> 月感电伤害提升75%。<br><b>下半</b> 月结晶伤害提升75%。",
+        "ShowVers": [
+          3
+        ],
+        "Chambers": [
+          {
+            "Name": "12-1",
+            "Level": 95,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 6201,
+                "Monsters": [
+                  {
+                    "ID": 21401,
+                    "Num": 15
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 810,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-2",
+            "Level": 98,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 61601,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 61701,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 6301,
+                "ExtraDesc": "<b>维持2个</b>",
+                "Monsters": [
+                  {
+                    "ID": 21310,
+                    "Num": 4
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-3",
+            "Level": 100,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 21501,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 61401,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Guide": [
+          810,
+          21310,
+          21501
+        ]
+      }
+    }
+  ],
+  "blessings": [
+    {
+      "blessingId": "108",
+      "config": {
+        "Name": "岩固之月",
+        "Desc": "角色对敌人造成月结晶伤害时，将在敌人的位置<color style='color:#0000FF'>释放冲击波</color>，对敌人造成真实伤害，此效果每3秒至多触发一次。"
+      }
+    }
+  ],
+  "source": {
+    "files": [
+      "gi/CH/database.js",
+      "gi/CH/database_extra.js"
+    ]
+  }
+}

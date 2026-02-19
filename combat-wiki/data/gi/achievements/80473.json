@@ -1,0 +1,15 @@
+{
+  "id": "80473",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "聚所共建 · 魔女的花园",
+  "description": "将「魔女的花园」共建至满级。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "66"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

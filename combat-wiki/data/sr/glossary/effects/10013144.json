@@ -1,0 +1,18 @@
+{
+  "id": "10013144",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "债权人",
+  "description": "委托收债人中。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013144,
+    "MDF": "MAvatar_Jade_00_BPSkillListen",
+    "Name": "债权人",
+    "Desc": "委托收债人中。",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

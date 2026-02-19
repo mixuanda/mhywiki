@@ -1,0 +1,39 @@
+{
+  "id": "201301011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "金人司阍",
+  "description": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
+  "stats": {
+    "HP": 250.0,
+    "ATK": 7.2,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2013010.png",
+  "figure": "monsterfigure/Monster_2013010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

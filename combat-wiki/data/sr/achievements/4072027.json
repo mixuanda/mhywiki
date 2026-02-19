@@ -1,0 +1,18 @@
+{
+  "id": "4072027",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "胸有洪炉火",
+  "description": "「历战余响」中，全程我方无人被冻结情况下击败可可利亚，虚妄之母",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

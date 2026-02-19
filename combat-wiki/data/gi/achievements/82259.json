@@ -1,0 +1,15 @@
+{
+  "id": "82259",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「莉莱」",
+  "description": "在莉莱施放「熔融新星」期间，不被敌人的攻击命中并将其击败。",
+  "reward": 20,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

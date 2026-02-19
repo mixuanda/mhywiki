@@ -1,0 +1,18 @@
+{
+  "id": "4074402",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天火，出鞘",
+  "description": "我方角色白厄在变身状态下，使用单次攻击同时消灭5.0个敌人",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

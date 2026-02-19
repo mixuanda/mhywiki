@@ -1,0 +1,18 @@
+{
+  "id": "280240102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害提高",
+  "description": "造成的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280240102,
+    "MDF": "Monster_SW_Boss_00_DamageUp",
+    "Name": "伤害提高",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

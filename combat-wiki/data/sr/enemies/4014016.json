@@ -1,0 +1,39 @@
+{
+  "id": "4014016",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "冠军，卫城，纷争之主",
+  "description": "「纷争」的拱卫者，其疯狂已教那强韧的灵魂平息，它的主人从此屹立。<br>如同战歌，如同北风，它的投矛从来利落：为敌人送去覆灭，为斗士送去淬炼，为挚友与救主送去光荣、敬意与决心。",
+  "stats": {
+    "HP": 77.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4014010.png",
+  "figure": "monsterfigure/Monster_4014010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4080303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "恶趣味",
+  "description": "就连一块垃圾，也有它的作用<br><color style='color:#8790ab;'>※累计使用「垃圾」合成消耗品 10 次</color>",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

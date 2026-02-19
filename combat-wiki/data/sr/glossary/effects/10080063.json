@@ -1,0 +1,19 @@
+{
+  "id": "10080063",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "即刻！独奏团",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080063,
+    "MDF": "MAvatar_PlayerGirl_20_MazeSkill_Buff",
+    "Name": "即刻！独奏团",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

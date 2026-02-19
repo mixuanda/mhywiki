@@ -1,0 +1,15 @@
+{
+  "id": "86025",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "暗夜呢喃",
+  "description": "与其他玩家一同战胜黄金王兽。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "33"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

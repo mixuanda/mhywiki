@@ -1,0 +1,18 @@
+{
+  "id": "4070501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "冰与火之歌",
+  "description": "使 1.0 名敌人同时处于冻结和灼烧状态",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

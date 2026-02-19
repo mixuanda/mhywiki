@@ -1,0 +1,10 @@
+{
+  "id": "110424",
+  "game": "sr",
+  "entityType": "material",
+  "name": "兽棺之钉",
+  "icon": "itemicon/110424.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

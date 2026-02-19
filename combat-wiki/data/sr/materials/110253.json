@@ -1,0 +1,10 @@
+{
+  "id": "110253",
+  "game": "sr",
+  "entityType": "material",
+  "name": "阿赖耶华",
+  "icon": "itemicon/110253.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

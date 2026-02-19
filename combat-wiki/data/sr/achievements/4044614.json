@@ -1,0 +1,18 @@
+{
+  "id": "4044614",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "猪！猪！猪！",
+  "description": "在「全世矩阵」无名泰坦大墓，发现一个似曾相识的画框",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

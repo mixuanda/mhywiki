@@ -1,0 +1,15 @@
+{
+  "id": "81331",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "勇者不会逃避",
+  "description": "通过贾尔贾设下的全部试炼。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "100140711",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "回归幽冥",
+  "description": "下一次施放【燎尽黯泽的焰息】会触发天赋【灼掠幽墟的晦翼】的技能效果。",
+  "effectType": "character",
+  "content": {
+    "_id": 100140711,
+    "MDF": "MServant_CastoriceServant_InsideExplode",
+    "Name": "回归幽冥",
+    "Desc": "下一次施放【燎尽黯泽的焰息】会触发天赋【灼掠幽墟的晦翼】的技能效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

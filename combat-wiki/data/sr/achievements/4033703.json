@@ -1,0 +1,18 @@
+{
+  "id": "4033703",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "化城再来人",
+  "description": "这还不是结局，在微笑中，请再度沉默一段时光<br><color style='color:#8790ab;'>※回答停云的临别一问</color>",
+  "reward": 10,
+  "version": 2.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

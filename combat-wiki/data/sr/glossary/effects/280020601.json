@@ -1,0 +1,17 @@
+{
+  "id": "280020601",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "报…报复你",
+  "description": "当我方目标攻击敌方目标后，【毁灭扑满】对我方全体进行攻击，攻击次数相当于本次攻击击中的敌方目标数量。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280020601,
+    "MDF": "MMonster_XP_Minion04_02_Introduce",
+    "Name": "报…报复你",
+    "Desc": "当我方目标攻击敌方目标后，【毁灭扑满】对我方全体进行攻击，攻击次数相当于本次攻击击中的敌方目标数量。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

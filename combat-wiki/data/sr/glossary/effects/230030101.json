@@ -1,0 +1,19 @@
+{
+  "id": "230030101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "减速",
+  "description": "速度降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030101,
+    "MDF": "MModifier_Monster_W3_Dinosaur_00_SpeedDownRatio",
+    "Name": "减速",
+    "Desc": "速度降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

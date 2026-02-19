@@ -1,0 +1,39 @@
+{
+  "id": "202205006",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "林登 · 孤狼 · 斯科特",
+  "description": "斯科特在扭曲欲望前的守护者化身，家训是「没有敌人、没有朋友、只有猎物」。",
+  "stats": {
+    "HP": 2.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2022050.png",
+  "figure": "monsterfigure/Monster_2022050.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81093",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "采集时间到！",
+  "description": "在「贵本之道-『楚此渚田』」中收获40个采集物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "23"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

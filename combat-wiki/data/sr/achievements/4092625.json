@@ -1,0 +1,18 @@
+{
+  "id": "4092625",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "存护还是毁灭？",
+  "description": "在「模拟宇宙：寰宇蝗灾」的【事件】区域中，完成 1.0 次命途的抉择",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

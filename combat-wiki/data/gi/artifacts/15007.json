@@ -1,0 +1,28 @@
+{
+  "id": "15007",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "昔日宗室之仪",
+  "icon": "UI_RelicIcon_15007",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "元素爆发造成的伤害提升20%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "施放元素爆发后，队伍中所有角色攻击力提升20%，持续12秒。该效果不可叠加。"
+    }
+  ],
+  "parts": [
+    "宗室之花",
+    "宗室之翎",
+    "宗室时计",
+    "宗室银瓮",
+    "宗室面具"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

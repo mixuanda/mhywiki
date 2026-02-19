@@ -1,0 +1,18 @@
+{
+  "id": "4070701",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "遇事不决，量子力学",
+  "description": "单场战斗中造成 5.0 次量子属性的弱点击破",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

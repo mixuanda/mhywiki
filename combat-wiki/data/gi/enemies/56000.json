@@ -1,0 +1,28 @@
+{
+  "id": "56000",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "海捷德",
+  "description": "作为盗宝团历史上的传奇人物，海捷德过去曾以「黑枪太婆」之名叱咤风云，在留下诸多不朽传奇的同时，也结下了许多仇怨。如今她隐居在挪德卡莱的某处，沉浸在旧日历史的荣光中，其最后的心愿便是找到一位合适的继承者，来传承那不曾实现的伟大梦想。",
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Thoarder_Elder_Standard_Hildegard_01"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 地方传奇",
+    "地方传奇 > 6.3"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

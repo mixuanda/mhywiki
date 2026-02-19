@@ -1,0 +1,15 @@
+{
+  "id": "84018",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "史莱姆，糖适量",
+  "description": "精心制作糖霜史莱姆。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

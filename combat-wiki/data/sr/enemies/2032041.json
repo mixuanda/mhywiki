@@ -1,0 +1,39 @@
+{
+  "id": "2032041",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "喰云之首",
+  "description": "心兽之首，饮星辉，喰云埃。",
+  "stats": {
+    "HP": 3.5,
+    "ATK": 15.0,
+    "DEF": 1.0,
+    "SPD": 86.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_2032040.png",
+  "figure": "monsterfigure/BossIconTemporary.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

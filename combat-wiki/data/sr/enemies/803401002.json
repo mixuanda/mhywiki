@@ -1,0 +1,38 @@
+{
+  "id": "803401002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「石心十人」诡弈砂金",
+  "description": "星际和平公司「战略投资部」的高级干部，「石心十人」之一。借由基石分得「存护」令使的权能，以身作骰，置之死地而后生。",
+  "stats": {
+    "HP": 25.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 15.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_8034010.png",
+  "figure": "monsterfigure/Monster_8034010.png",
+  "camp": {
+    "id": "9",
+    "name": "星际和平公司"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

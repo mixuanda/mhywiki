@@ -1,0 +1,17 @@
+{
+  "id": "230020142",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "诅咒",
+  "description": "「斯科特」能够使用【诅咒】技能。受到攻击后转变为【怜悯】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230020142,
+    "MDF": "MModifier_Monster_W3_TV_00_Side2Scot",
+    "Name": "诅咒",
+    "Desc": "「斯科特」能够使用【诅咒】技能。受到攻击后转变为【怜悯】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

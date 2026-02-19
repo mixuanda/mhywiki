@@ -1,0 +1,15 @@
+{
+  "id": "84096",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "就像水消失在水中",
+  "description": "知晓在枫丹流传的「预言」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

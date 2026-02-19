@@ -1,0 +1,18 @@
+{
+  "id": "4053007",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "保护人者是前世所修善行",
+  "description": "见证一位科学家挣扎曲折的一生",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

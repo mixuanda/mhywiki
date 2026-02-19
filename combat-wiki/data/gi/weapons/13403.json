@@ -1,0 +1,22 @@
+{
+  "id": "13403",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "流月针",
+  "description": "枪尖狭长，尾部分出半月刀刃的异国兵器，经由商路流落到璃月。稍事练习掌握，便有极其出众的杀伤力。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "Phys",
+  "subStatValue": 0.344857798,
+  "materialRefs": [
+    "112031",
+    "112037",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13403.js"
+  }
+}

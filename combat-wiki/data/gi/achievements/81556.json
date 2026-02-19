@@ -1,0 +1,15 @@
+{
+  "id": "81556",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "至少是个开始…",
+  "description": "让「咕噜噜」服下了药剂。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

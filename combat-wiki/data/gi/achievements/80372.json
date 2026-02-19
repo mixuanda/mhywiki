@@ -1,0 +1,15 @@
+{
+  "id": "80372",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "论诗琴演奏准则",
+  "description": "完成所有「千音雅集」的「入门练习」。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "58"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

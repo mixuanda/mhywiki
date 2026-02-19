@@ -1,0 +1,39 @@
+{
+  "id": "4034015",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「无缘黎明」卡厄斯兰那",
+  "description": "伴随黑潮而来、狩猎泰坦火种的无名剑士，面具下石像般的面容与救世主无异，几近崩毁，仿佛将死的薪柴。<br>空洞的回响自火焰中来：一切皆为徒劳。",
+  "stats": {
+    "HP": 32.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 132.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4034015.png",
+  "figure": "monsterfigure/Monster_4034015.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

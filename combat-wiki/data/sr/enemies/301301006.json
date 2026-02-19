@@ -1,0 +1,39 @@
+{
+  "id": "301301006",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "铄金幻象",
+  "description": "铄金选手拥有众多荣誉——仙舟古武术大师、罗浮百大民间高手、长乐天杯羽量级十强、形虎拳馆特聘教练…总之，他的武功未必是最强的，但称号一定是最多的。",
+  "stats": {
+    "HP": 14.0,
+    "ATK": 5.9999400000000005,
+    "DEF": 1.0,
+    "SPD": 110.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3013010.png",
+  "figure": "monsterfigure/Monster_3013010.png",
+  "camp": {
+    "id": "11",
+    "name": "忆域迷因"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2100401413",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "替罪羔羊",
+  "description": "被无望冽风的幻灭者转移了弱点属性，消灭后弱点属性返回。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2100401413,
+    "MDF": "MMonster_W1_CocoliaP1_00_IF_SplitWeakness_ShowSub",
+    "Name": "替罪羔羊",
+    "Desc": "被无望冽风的幻灭者转移了弱点属性，消灭后弱点属性返回。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

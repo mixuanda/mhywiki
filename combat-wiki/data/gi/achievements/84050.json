@@ -1,0 +1,15 @@
+{
+  "id": "84050",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "御前生死斗",
+  "description": "在「御前决斗」中，获得胜利。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

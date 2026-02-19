@@ -1,0 +1,22 @@
+{
+  "id": "12404",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "宗室大剑",
+  "description": "曾支配蒙德的旧日贵族的大剑。用料极佳，历久犹弥新。是贵族的战斗兵器。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112004",
+    "112025",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12404.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4052011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "致幻人鱼",
+  "description": "受海妖歌声影响的迷狂者，其理智崩溃于跃入洋面的一瞬，化身为塞壬的爪牙。",
+  "stats": {
+    "HP": 10.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 4.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4052010.png",
+  "figure": "monsterfigure/Monster_4052010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

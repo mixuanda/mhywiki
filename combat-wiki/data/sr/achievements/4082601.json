@@ -1,0 +1,18 @@
+{
+  "id": "4082601",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "先别急",
+  "description": "在被敌方追击状态下坚持 15.0 秒不进入战斗",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

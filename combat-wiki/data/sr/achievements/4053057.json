@@ -1,0 +1,18 @@
+{
+  "id": "4053057",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "林中小屋",
+  "description": "在克劳克影视乐园的某处见证五人组的的离奇经历",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

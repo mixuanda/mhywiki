@@ -1,0 +1,15 @@
+{
+  "id": "81622",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "伟业的遂成",
+  "description": "同时持有22种不同的月谕圣牌。",
+  "reward": 20,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

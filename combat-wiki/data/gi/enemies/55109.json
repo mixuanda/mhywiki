@@ -1,0 +1,25 @@
+{
+  "id": "55109",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "暝视龙武士 · 寒涌持者",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Chainsword_Shamansaurus"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 暝视龙武士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

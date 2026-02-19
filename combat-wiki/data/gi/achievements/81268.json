@@ -1,0 +1,15 @@
+{
+  "id": "81268",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "生成、交换、储存和使用",
+  "description": "钥匙也需要得到「认可」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

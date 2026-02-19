@@ -1,0 +1,15 @@
+{
+  "id": "80348",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "燔炎的冒险家 · 其一",
+  "description": "在万火之瓯、坚岩隘谷、踞石山、涌流地完成<color style='color:#FF0000;'><b>12</b></color>个大世界限时挑战。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

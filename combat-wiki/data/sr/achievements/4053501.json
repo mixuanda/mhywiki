@@ -1,0 +1,18 @@
+{
+  "id": "4053501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不要熄灭熏燃的火焰",
+  "description": "即使喝彩停息，无声者的声音也不会消逝<br><color style='color:#8790ab;'>※协助卢卡走上竞锋守擂的舞台</color>",
+  "reward": 10,
+  "version": 2.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61000001",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "追猎",
+  "description": "带有该效果的区域不会与相邻区域互换位置（突发事件除外）",
+  "content": {
+    "_id": 61000001,
+    "Name": "追猎",
+    "Desc": "带有该效果的区域不会与相邻区域互换位置（突发事件除外）"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

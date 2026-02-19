@@ -1,0 +1,18 @@
+{
+  "id": "210040222",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "反击",
+  "description": "受到攻击后，立即对攻击者展开强力反击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040222,
+    "MDF": "MMonster_W1_Gepard_00_RL_ListenBeingAttacked",
+    "Name": "反击",
+    "Desc": "受到攻击后，立即对攻击者展开强力反击。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "86033",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "Dance Like You Want to Win!",
+  "description": "与其他玩家一同战胜「正机之神」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "44"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

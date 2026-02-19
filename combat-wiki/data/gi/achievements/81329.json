@@ -1,0 +1,15 @@
+{
+  "id": "81329",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "百灵归巢",
+  "description": "完成「微暗之火」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

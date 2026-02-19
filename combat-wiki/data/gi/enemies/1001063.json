@@ -1,0 +1,21 @@
+{
+  "id": "1001063",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "秘源机兵统御械 · 毁灭武装",
+  "description": "深古遗迹的统御用机关。<br>曾经，一度伟大的古老种族借由这种机关来统御城市的运转，即使在旧日文明崩毁的现在，也依然拥有着极高的权能。<br>在地脉乱象的深处，曾因时间流逝而衰损的核心能量重归充盈，甚至达到万分危险的「过载」级别。这一机关足以挣脱星球束缚的恐怖功率，最终以超出设计规格的水准完全释放，驱动起它那可怖的「毁灭武装」…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_DragonCollar",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

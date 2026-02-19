@@ -1,0 +1,15 @@
+{
+  "id": "80434",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沧屿的寻宝者",
+  "description": "在悠悠度假村开启<color style='color:#FF0000;'><b>30</b></color>个宝箱。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "62"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

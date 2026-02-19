@@ -1,0 +1,15 @@
+{
+  "id": "82275",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「为时已晚，机械体！」",
+  "description": "在秘源机兵 · 构型械处于瘫痪状态时，将其击败。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "59"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

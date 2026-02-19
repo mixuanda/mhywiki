@@ -1,0 +1,15 @@
+{
+  "id": "80295",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沧浪的冒险家 · 其三",
+  "description": "在莫尔泰区、伊黎耶林区完成<color style='color:#FF0000;'><b>3</b></color>个大世界限时挑战。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "46"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

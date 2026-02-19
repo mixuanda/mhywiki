@@ -1,0 +1,15 @@
+{
+  "id": "82191",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "同样的错误",
+  "description": "「远程作战对我们有利…咦？」",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

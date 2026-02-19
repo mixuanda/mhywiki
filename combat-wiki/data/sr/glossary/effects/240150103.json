@@ -1,0 +1,18 @@
+{
+  "id": "240150103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "氦闪",
+  "description": "下次行动时对我方全体施放【怒，焚晨昏日星】，并升高温度<color> <b>A</b> </color>度。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150103,
+    "MDF": "MMonster_W4_DawnsEye_00_Skill04_SunnyChargeHeat",
+    "Name": "氦闪",
+    "Desc": "下次行动时对我方全体施放【怒，焚晨昏日星】，并升高温度<color> <b>A</b> </color>度。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

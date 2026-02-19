@@ -1,0 +1,15 @@
+{
+  "id": "80168",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "瑶林的寻宝者",
+  "description": "在道成林、护世森、阿陀河谷、善见地、二净甸、失落的苗圃、桓那兰那开启100个宝箱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "31"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

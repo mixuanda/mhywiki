@@ -1,0 +1,18 @@
+{
+  "id": "240140204",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "纷争赐的勇武",
+  "description": "每一层使下次攻击造成的伤害提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140204,
+    "MDF": "Monster_W4_Hearse_00_Enhance",
+    "Name": "纷争赐的勇武",
+    "Desc": "每一层使下次攻击造成的伤害提高。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

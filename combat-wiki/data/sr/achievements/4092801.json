@@ -1,0 +1,18 @@
+{
+  "id": "4092801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "纯美的自助",
+  "description": "在「模拟宇宙」中，使用包含银枝的队伍接受纯美骑士的帮助",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84334",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "命定将焚的虹光",
+  "description": "完成「命定将焚的虹光」。",
+  "reward": 10,
+  "version": "5.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

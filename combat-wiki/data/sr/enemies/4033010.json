@@ -1,0 +1,39 @@
+{
+  "id": "4033010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "黑潮蚀魔",
+  "description": "从黑潮中诞生的扭曲造物，对杀戮的渴求成为了空洞躯壳中仅存的意志。<br>已经失去人形的身躯被污浊之物包裹，通体散发着令人作呕的腐蚀气息。凡是蚀魔途经之处，一切生命气息皆遭其掠夺。",
+  "stats": {
+    "HP": 14.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4033010.png",
+  "figure": "monsterfigure/Monster_4033010.png",
+  "camp": {
+    "id": "14",
+    "name": "黑潮造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

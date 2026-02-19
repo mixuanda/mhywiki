@@ -1,0 +1,15 @@
+{
+  "id": "82222",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「异色三连星」",
+  "description": "在击败第一名成员后的10秒内，击败异色三连星。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84370",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "石头抬起时",
+  "description": "说不定会有意外的收获。",
+  "reward": 5,
+  "version": "6.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10010024",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "寸长寸强",
+  "description": "风属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010024,
+    "MDF": "MAvatar_DanHeng_00_Passive_SelfBeingTargetEnhance",
+    "Name": "寸长寸强",
+    "Desc": "风属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

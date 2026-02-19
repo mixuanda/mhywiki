@@ -1,0 +1,15 @@
+{
+  "id": "81579",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「速度，我就是速度！」",
+  "description": "完成奔驰的挑战并登上领奖台。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

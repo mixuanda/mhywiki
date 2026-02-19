@@ -1,0 +1,18 @@
+{
+  "id": "4053508",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "今日方知我是我",
+  "description": "见证有情生命最伟大的力量——选择「善」的力量<br><color style='color:#8790ab;'>※在演武仪典遇到丹轮寺的僧侣</color>",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

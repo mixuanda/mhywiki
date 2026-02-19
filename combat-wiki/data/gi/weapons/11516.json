@@ -1,0 +1,57 @@
+{
+  "id": "11516",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "岩峰巡歌",
+  "description": "锋锐无比的黑曜石长刀，轻巧如歌。经过某位工匠的改造，附加了能播放唱片的可拆卸燃素装置。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 541.829758,
+  "subStatType": "DEF",
+  "subStatValue": 0.82692,
+  "materialRefs": [
+    "112103",
+    "112115",
+    "114072"
+  ],
+  "affix": {
+    "111516": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使装备者普通攻击和下落攻击的暴击率和暴击伤害分别提高 <color style='color:#99FFFFFF'>1%/8%</color> / <color style='color:#99FFFFFF'>1.25%/10%</color> / <color style='color:#99FFFFFF'>1.5%/12%</color> / <color style='color:#99FFFFFF'>1.75%/14%</color> / <color style='color:#99FFFFFF'>2%/16%</color> ，至多提高 <color style='color:#99FFFFFF'>3.2%/25.6%</color> / <color style='color:#99FFFFFF'>4%/32%</color> / <color style='color:#99FFFFFF'>4.8%/38.4%</color> / <color style='color:#99FFFFFF'>5.6%/44.8%</color> / <color style='color:#99FFFFFF'>6.4%/51.2%</color> ，同时使队伍中其他角色的所有元素伤害加成提升 <color style='color:#99FFFFFF'>8%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>14%</color> / <color style='color:#99FFFFFF'>16%</color> ，至多提高 <color style='color:#99FFFFFF'>25.6%</color> / <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>38.4%</color> / <color style='color:#99FFFFFF'>44.8%</color> / <color style='color:#99FFFFFF'>51.2%</color> ，持续15秒。通过这种方式，角色获得的元素伤害加成无法叠加。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使装备者普通攻击和下落攻击的暴击率和暴击伤害分别提高 <color style='color:#99FFFFFF'>1%/8%</color> / <color style='color:#99FFFFFF'>1.25%/10%</color> / <color style='color:#99FFFFFF'>1.5%/12%</color> / <color style='color:#99FFFFFF'>1.75%/14%</color> / <color style='color:#99FFFFFF'>2%/16%</color> ，至多提高 <color style='color:#99FFFFFF'>3.2%/25.6%</color> / <color style='color:#99FFFFFF'>4%/32%</color> / <color style='color:#99FFFFFF'>4.8%/38.4%</color> / <color style='color:#99FFFFFF'>5.6%/44.8%</color> / <color style='color:#99FFFFFF'>6.4%/51.2%</color> ，同时使队伍中其他角色的所有元素伤害加成提升 <color style='color:#99FFFFFF'>8%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>14%</color> / <color style='color:#99FFFFFF'>16%</color> ，至多提高 <color style='color:#99FFFFFF'>25.6%</color> / <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>38.4%</color> / <color style='color:#99FFFFFF'>44.8%</color> / <color style='color:#99FFFFFF'>51.2%</color> ，持续15秒。通过这种方式，角色获得的元素伤害加成无法叠加。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高 <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.5%</color> / <color style='color:#99FFFFFF'>9%</color> / <color style='color:#99FFFFFF'>10.5%</color> / <color style='color:#99FFFFFF'>12%</color> ，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，至多提高 <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>45%</color> / <color style='color:#99FFFFFF'>54%</color> / <color style='color:#99FFFFFF'>63%</color> / <color style='color:#99FFFFFF'>72%</color> ，持续15秒。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高 <color style='color:#99FFFFFF'>6%</color> / <color style='color:#99FFFFFF'>7.5%</color> / <color style='color:#99FFFFFF'>9%</color> / <color style='color:#99FFFFFF'>10.5%</color> / <color style='color:#99FFFFFF'>12%</color> ，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，至多提高 <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>45%</color> / <color style='color:#99FFFFFF'>54%</color> / <color style='color:#99FFFFFF'>63%</color> / <color style='color:#99FFFFFF'>72%</color> ，持续15秒。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高 <color style='color:#99FFFFFF'>8%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>14%</color> / <color style='color:#99FFFFFF'>16%</color> ，并获得 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> 所有元素伤害加成，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提高 <color style='color:#99FFFFFF'>8%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>14%</color> / <color style='color:#99FFFFFF'>16%</color> ，至多提高 <color style='color:#99FFFFFF'>25.6%</color> / <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>38.4%</color> / <color style='color:#99FFFFFF'>44.8%</color> / <color style='color:#99FFFFFF'>51.2%</color> ，持续15秒。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高 <color style='color:#99FFFFFF'>8%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>14%</color> / <color style='color:#99FFFFFF'>16%</color> ，并获得 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> 所有元素伤害加成，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提高 <color style='color:#99FFFFFF'>8%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>14%</color> / <color style='color:#99FFFFFF'>16%</color> ，至多提高 <color style='color:#99FFFFFF'>25.6%</color> / <color style='color:#99FFFFFF'>32%</color> / <color style='color:#99FFFFFF'>38.4%</color> / <color style='color:#99FFFFFF'>44.8%</color> / <color style='color:#99FFFFFF'>51.2%</color> ，持续15秒。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11516.js"
+  }
+}

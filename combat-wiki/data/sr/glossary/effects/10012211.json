@@ -1,0 +1,18 @@
+{
+  "id": "10012211",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "失衡",
+  "description": "云璃对其造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012211,
+    "MDF": "MAvatar_Yunli_00_Disqualification",
+    "Name": "失衡",
+    "Desc": "云璃对其造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

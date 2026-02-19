@@ -1,0 +1,16 @@
+{
+  "id": "116",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "幽锁深牢的系囚",
+  "icon": "71025.png",
+  "setBonuses": [
+    "攻击力提高 <b>12%</b> 。",
+    "敌方目标每承受1个持续伤害效果，装备者对其造成伤害时就无视其 <b>6%</b> 的防御力，最多计入 <b>3</b> 个持续伤害效果。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/116.js"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "13955",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13955",
+  "tags": [],
+  "content": {
+    "_id": 13955,
+    "N": "不息推演",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_MonsterChess2_Battle_05",
+        "D": "当旅行者完成推演时，如果至少在7个回合内获胜，将可进入<color style='color:#FFCC33'>不息推演#，参与不息推演将不会获得推演积分。<br>在不息推演中，旅行者将使用已配置好的队伍与其他对手进行战斗。<color style='color:#FFCC33'>仅有一次失败的机会#，请尽可能获得更多的胜场吧！"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Battle_06",
+        "D": "在不息推演中，旅行者<color style='color:#FFCC33'>不能#抽选或退换单位。阵容中交战单位的等级提高也改为<color style='color:#FFCC33'>临时#提高。<br>同时，旅行者<color style='color:#FFCC33'>无法查看#对手所佩戴的阵线战旗效果。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

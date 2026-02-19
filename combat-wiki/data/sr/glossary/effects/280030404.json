@@ -1,0 +1,18 @@
+{
+  "id": "280030404",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "dev_脆弱",
+  "description": "dev_每被施加1个debuff，防御力降低<color> <b>A</b> </color>",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030404,
+    "MDF": "Monster_XP_Elite02_01_Fragile",
+    "Name": "dev_脆弱",
+    "Desc": "dev_每被施加1个debuff，防御力降低<color> <b>A</b> </color>",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

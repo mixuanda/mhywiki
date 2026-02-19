@@ -1,0 +1,18 @@
+{
+  "id": "10012082",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "穷观阵",
+  "description": "将自身所承受的未受护盾抵挡之前的伤害的<color> <b>A</b> </color>分摊给符玄。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012082,
+    "MDF": "MAvatar_FuXuan_00_HitDamageSplit",
+    "Name": "穷观阵",
+    "Desc": "将自身所承受的未受护盾抵挡之前的伤害的<color> <b>A</b> </color>分摊给符玄。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

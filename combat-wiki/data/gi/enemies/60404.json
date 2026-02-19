@@ -1,0 +1,25 @@
+{
+  "id": "60404",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "(雷)岩龙蜥",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "gv"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 岩之龙蜥"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

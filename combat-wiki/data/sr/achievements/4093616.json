@@ -1,0 +1,18 @@
+{
+  "id": "4093616",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "卡尔达肖夫-III",
+  "description": "在「模拟宇宙：不可知域」中获取3.0星组件",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

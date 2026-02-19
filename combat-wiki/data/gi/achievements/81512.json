@@ -1,0 +1,15 @@
+{
+  "id": "81512",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "正义的反抗",
+  "description": "总之，邪恶的机器被关闭了…",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

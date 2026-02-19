@@ -1,0 +1,18 @@
+{
+  "id": "4054047",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "理性动物之理性",
+  "description": "寻找一个可能和你有着类似爱好的人……<br><color style='color:#8790ab;'>※找到住在桶里的第欧根娜</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

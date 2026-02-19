@@ -1,0 +1,15 @@
+{
+  "id": "81212",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "请勿长期食用",
+  "description": "在层岩巨渊找到失踪的矿工老何。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

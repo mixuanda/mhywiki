@@ -1,0 +1,15 @@
+{
+  "id": "81612",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "提琴手的绿地",
+  "description": "一切归于平静…",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

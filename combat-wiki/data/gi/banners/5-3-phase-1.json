@@ -1,0 +1,34 @@
+{
+  "id": "5-3-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.3",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Mavuika",
+      "X": 1
+    },
+    {
+      "N": "Citlali",
+      "X": 1
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Kachina",
+      "X": 2
+    },
+    {
+      "N": "Diona",
+      "X": 10
+    },
+    {
+      "N": "Bennett",
+      "X": 13
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

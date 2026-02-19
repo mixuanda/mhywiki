@@ -1,0 +1,39 @@
+{
+  "id": "8003021",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "外宇宙之炎（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎（错误）能轻易将敌人焚作灰烬。",
+  "stats": {
+    "HP": 16.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.4,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8003020.png",
+  "figure": "monsterfigure/Monster_8003020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

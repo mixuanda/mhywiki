@@ -1,0 +1,15 @@
+{
+  "id": "82086",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "反弹！",
+  "description": "利用护盾，反制古岩龙蜥的「原岩喷吐」攻击。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

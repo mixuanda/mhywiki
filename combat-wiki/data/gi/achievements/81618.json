@@ -1,0 +1,15 @@
+{
+  "id": "81618",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沿着银色之路",
+  "description": "乘上月光飞驰吧。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

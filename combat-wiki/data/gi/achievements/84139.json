@@ -1,0 +1,15 @@
+{
+  "id": "84139",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "珊瑚宫的祈祷",
+  "description": "询问了五郎，心海是否知道海祇岛的事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

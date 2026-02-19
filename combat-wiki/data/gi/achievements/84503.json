@@ -1,0 +1,15 @@
+{
+  "id": "84503",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "追求极致",
+  "description": "在「说到做到！」中完美完成查耶维奇的所有委托。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "11"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

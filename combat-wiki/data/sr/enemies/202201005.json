@@ -1,0 +1,39 @@
+{
+  "id": "202201005",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "隐秘的行刺者",
+  "description": "以云吟之术消隐身形的刺客，不知受何人所遣。",
+  "stats": {
+    "HP": 1.2,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.4,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2022010.png",
+  "figure": "monsterfigure/Monster_2022010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

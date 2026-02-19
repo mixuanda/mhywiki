@@ -1,0 +1,15 @@
+{
+  "id": "81403",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "最终枫达海",
+  "description": "…畅饮世界！",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

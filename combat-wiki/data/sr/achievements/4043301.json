@@ -1,0 +1,18 @@
+{
+  "id": "4043301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "气球，向着明天——",
+  "description": "打破{TEXTJOIN#87}中的特殊石头老板气球",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

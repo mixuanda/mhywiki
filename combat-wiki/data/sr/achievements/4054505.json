@@ -1,0 +1,18 @@
+{
+  "id": "4054505",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "四杯狮子尾",
+  "description": "与喝醉的四头真言狮口聊聊",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

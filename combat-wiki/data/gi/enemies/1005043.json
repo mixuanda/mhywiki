@@ -1,0 +1,21 @@
+{
+  "id": "1005043",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "实验性场力发生装置 · 常形",
+  "description": "枫丹动能工程科学研究院的作品，拥有「抵消」重力的效果，因为事故而失控。<br>如今，在地脉错误的演绎下，这一曾创造了奇妙物理效用的装置，已然彻底堕落为制造破坏的冷酷工具。",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Gravitas",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

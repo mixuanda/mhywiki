@@ -1,0 +1,15 @@
+{
+  "id": "80439",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沧屿的冒险家",
+  "description": "在悠悠度假村完成<color style='color:#FF0000;'><b>24</b></color>个大世界限时挑战。",
+  "reward": 20,
+  "version": "5.8",
+  "group": {
+    "id": "62"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

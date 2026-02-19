@@ -1,0 +1,15 @@
+{
+  "id": "86021",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "邪眼的性能不是战力差距的决定因素",
+  "description": "与其他玩家一同战胜「公子」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "21"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044115",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "新手入门",
+  "description": "操控扎格列斯之手，击打「神谕圣地」雅努萨波利斯的万径之门",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

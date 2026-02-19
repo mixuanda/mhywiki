@@ -1,0 +1,15 @@
+{
+  "id": "82084",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "这也算四风守护？",
+  "description": "触发过风拳先锋军所有元素类型的吸收反击后，击败他。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81358",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "历经艰险…",
+  "description": "「…为了取得击败魔王的圣剑，骑士闯入了魔法封印的古城…」",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

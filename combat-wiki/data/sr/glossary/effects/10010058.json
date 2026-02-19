@@ -1,0 +1,19 @@
+{
+  "id": "10010058",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "折磨",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010058,
+    "MDF": "MAvatar_Advanced_Kafka_00_PointB1_Effect",
+    "Name": "折磨",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

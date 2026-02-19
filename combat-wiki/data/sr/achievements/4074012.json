@@ -1,0 +1,18 @@
+{
+  "id": "4074012",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "热狂圆舞",
+  "description": "单场战斗中，使用我方角色阿格莱雅在【至高之姿】状态下累计施放 5 次【孤锋千吻】",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

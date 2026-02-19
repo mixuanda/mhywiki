@@ -1,0 +1,39 @@
+{
+  "id": "302401205",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "银枝",
+  "description": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉美名。",
+  "stats": {
+    "HP": 35.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3024010.png",
+  "figure": "monsterfigure/Monster_3024010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82212",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "首演之夜",
+  "description": "幻想真境剧诗：完成任意难度的第8幕演出。",
+  "reward": 20,
+  "version": "4.7",
+  "group": {
+    "id": "50"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

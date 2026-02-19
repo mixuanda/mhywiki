@@ -1,0 +1,15 @@
+{
+  "id": "80363",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "画龙点睛？",
+  "description": "让镜璧山上的巨大涂鸦重新恢复力量。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

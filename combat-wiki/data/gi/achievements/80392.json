@@ -1,0 +1,15 @@
+{
+  "id": "80392",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沃灰的寻宝者",
+  "description": "在远古圣山、安饶之野开启<color style='color:#FF0000;'><b>160</b></color>个宝箱。",
+  "reward": 20,
+  "version": "5.5",
+  "group": {
+    "id": "60"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "300302006",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "惊梦剧团的甜猿泰山",
+  "description": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
+  "stats": {
+    "HP": 18.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Elec"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3003020.png",
+  "figure": "monsterfigure/Monster_3003020.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

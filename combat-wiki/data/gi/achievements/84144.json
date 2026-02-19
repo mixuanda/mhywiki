@@ -1,0 +1,15 @@
+{
+  "id": "84144",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "她已经很紧张了",
+  "description": "在帮助莱依拉完成论文的过程中，没有引起她进一步的焦虑。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

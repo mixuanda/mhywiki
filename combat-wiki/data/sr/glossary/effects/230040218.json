@@ -1,0 +1,17 @@
+{
+  "id": "230040218",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "课间频道",
+  "description": "「蕉研组」成员能够使用【课间频道】相关技能。受到攻击后不会切换频道。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230040218,
+    "MDF": "MModifier_Monster_W3_Theater_00_IF_Side_Positive",
+    "Name": "课间频道",
+    "Desc": "「蕉研组」成员能够使用【课间频道】相关技能。受到攻击后不会切换频道。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

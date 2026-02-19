@@ -1,0 +1,15 @@
+{
+  "id": "84545",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "当财运来敲门",
+  "description": "将苹果酿带给哈特姆。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

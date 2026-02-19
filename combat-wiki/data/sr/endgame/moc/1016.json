@@ -1,0 +1,1313 @@
+{
+  "id": "1016",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "moc",
+  "name": "曲尽梦散",
+  "content": {
+    "_id": 1016,
+    "Name": "曲尽梦散",
+    "Buff": {
+      "_id": 3030129,
+      "Name": "记忆紊流",
+      "Desc": "我方目标施放追加攻击或战技进行攻击后，为【记忆紊流】增加<color style='color:#f29e38;'> 1 </color>段攻击段数，最多叠加<color style='color:#f29e38;'> 10 </color>段。<br>每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。"
+    },
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Ice",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Elec"
+        ],
+        "HPSingle": 649451,
+        "HPMulti": 370195,
+        "Upper": [
+          {
+            "_id": 30106011,
+            "Level": 68,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 1002020,
+                  "HP": 12072,
+                  "SPD": 110,
+                  "Stance": 2
+                },
+                {
+                  "ID": 8003050,
+                  "HP": 88525,
+                  "SPD": 110,
+                  "Stance": 10
+                },
+                {
+                  "ID": 1002020,
+                  "HP": 12072,
+                  "SPD": 110,
+                  "Stance": 2
+                },
+                {
+                  "ID": 1012030,
+                  "HP": 11267,
+                  "SPD": 110,
+                  "Stance": 2
+                }
+              ],
+              [
+                {
+                  "ID": 1012030,
+                  "HP": 11267,
+                  "SPD": 110,
+                  "Stance": 2
+                },
+                {
+                  "ID": 8003050,
+                  "HP": 88525,
+                  "SPD": 110,
+                  "Stance": 10
+                },
+                {
+                  "ID": 1013020,
+                  "HP": 88525,
+                  "SPD": 158,
+                  "Stance": 10
+                },
+                {
+                  "ID": 1012030,
+                  "HP": 11267,
+                  "SPD": 110,
+                  "Stance": 2
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106012,
+            "Level": 68,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 3002010,
+                  "HP": 22131,
+                  "SPD": 110,
+                  "Stance": 3
+                },
+                {
+                  "ID": 3003030,
+                  "HP": 96573,
+                  "SPD": 110,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3002040,
+                  "HP": 14084,
+                  "SPD": 88,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 3003040,
+                  "HP": 96573,
+                  "SPD": 110,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3003030,
+                  "HP": 96573,
+                  "SPD": 110,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Phys"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Wind"
+        ],
+        "HPSingle": 680203,
+        "HPMulti": 406355,
+        "Upper": [
+          {
+            "_id": 30106021,
+            "Level": 70,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 1002030,
+                  "HP": 18551,
+                  "SPD": 110,
+                  "Stance": 3
+                },
+                {
+                  "ID": 1003010,
+                  "HP": 88338,
+                  "SPD": 132,
+                  "Stance": 8
+                },
+                {
+                  "ID": 1002030,
+                  "HP": 18551,
+                  "SPD": 110,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 1003010,
+                  "HP": 88338,
+                  "SPD": 132,
+                  "Stance": 8
+                },
+                {
+                  "ID": 3003050,
+                  "HP": 106006,
+                  "SPD": 132,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106022,
+            "Level": 70,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 2022040,
+                  "HP": 14134,
+                  "SPD": 130,
+                  "Stance": 3
+                },
+                {
+                  "ID": 2023020,
+                  "HP": 106006,
+                  "SPD": 158,
+                  "Stance": 12
+                },
+                {
+                  "ID": 2022040,
+                  "HP": 14134,
+                  "SPD": 130,
+                  "Stance": 3
+                },
+                {
+                  "ID": 2022050,
+                  "HP": 17668,
+                  "SPD": 110,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 8003010,
+                  "HP": 88338,
+                  "SPD": 110,
+                  "Stance": 10
+                },
+                {
+                  "ID": 2023020,
+                  "HP": 106006,
+                  "SPD": 158,
+                  "Stance": 12
+                },
+                {
+                  "ID": 2022040,
+                  "HP": 14134,
+                  "SPD": 130,
+                  "Stance": 3
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Elec",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Elec"
+        ],
+        "HPSingle": 1218985,
+        "HPMulti": 962069,
+        "Upper": [
+          {
+            "_id": 30106031,
+            "Level": 73,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 3012010,
+                  "HP": 17492,
+                  "SPD": 132,
+                  "Stance": 2
+                },
+                {
+                  "ID": 3013010,
+                  "HP": 153056,
+                  "SPD": 121,
+                  "Stance": 12
+                },
+                {
+                  "ID": 3012010,
+                  "HP": 17492,
+                  "SPD": 132,
+                  "Stance": 2
+                },
+                {
+                  "ID": 3012010,
+                  "HP": 17492,
+                  "SPD": 132,
+                  "Stance": 2
+                }
+              ],
+              [
+                {
+                  "ID": 3012010,
+                  "HP": 17492,
+                  "SPD": 132,
+                  "Stance": 2
+                },
+                {
+                  "ID": 3013010,
+                  "HP": 153056,
+                  "SPD": 121,
+                  "Stance": 12
+                },
+                {
+                  "ID": 1023010,
+                  "HP": 120259,
+                  "SPD": 110,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3012010,
+                  "HP": 17492,
+                  "SPD": 132,
+                  "Stance": 2
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106032,
+            "Level": 73,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 2012010,
+                  "HP": 16399,
+                  "SPD": 110,
+                  "Stance": 2
+                },
+                {
+                  "ID": 2013020,
+                  "HP": 131191,
+                  "SPD": 132,
+                  "Stance": 10
+                },
+                {
+                  "ID": 2012010,
+                  "HP": 16399,
+                  "SPD": 110,
+                  "Stance": 2
+                },
+                {
+                  "ID": 2002030,
+                  "HP": 16399,
+                  "SPD": 132,
+                  "Stance": 2
+                }
+              ],
+              [
+                {
+                  "ID": 8034010,
+                  "HP": 262382,
+                  "HPCount": 2,
+                  "SPD": 132,
+                  "Stance": 15
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Wind",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Fire"
+        ],
+        "HPSingle": 1023539,
+        "HPMulti": 690580,
+        "Upper": [
+          {
+            "_id": 30106041,
+            "Level": 75,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 2022060,
+                  "HP": 27130,
+                  "SPD": 91,
+                  "Stance": 3
+                },
+                {
+                  "ID": 2023010,
+                  "HP": 147982,
+                  "SPD": 132,
+                  "Stance": 12
+                },
+                {
+                  "ID": 2022060,
+                  "HP": 27130,
+                  "SPD": 91,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 2023010,
+                  "HP": 147982,
+                  "SPD": 132,
+                  "Stance": 12
+                },
+                {
+                  "ID": 8013010,
+                  "HP": 135650,
+                  "SPD": 110,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106042,
+            "Level": 75,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 8032010,
+                  "HP": 19731,
+                  "SPD": 130,
+                  "Stance": 2
+                },
+                {
+                  "ID": 8033010,
+                  "HP": 197309,
+                  "SPD": 132,
+                  "Stance": 12
+                }
+              ],
+              [
+                {
+                  "ID": 8003040,
+                  "HP": 123318,
+                  "SPD": 189,
+                  "Stance": 10
+                },
+                {
+                  "ID": 8033010,
+                  "HP": 197309,
+                  "SPD": 132,
+                  "Stance": 12
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 5,
+        "ElemUpper": [
+          "Fire",
+          "Elec"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Quantum"
+        ],
+        "HPSingle": 1403374,
+        "HPMulti": 981280,
+        "Upper": [
+          {
+            "_id": 30106051,
+            "Level": 78,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 3002030,
+                  "HP": 32469,
+                  "SPD": 120,
+                  "Stance": 3
+                },
+                {
+                  "ID": 3003010,
+                  "HP": 259751,
+                  "SPD": 120,
+                  "Stance": 16
+                },
+                {
+                  "ID": 3002040,
+                  "HP": 25254,
+                  "SPD": 96,
+                  "Stance": 3
+                },
+                {
+                  "ID": 3002030,
+                  "HP": 32469,
+                  "SPD": 120,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 1013010,
+                  "HP": 187598,
+                  "SPD": 144,
+                  "Stance": 14
+                },
+                {
+                  "ID": 3003010,
+                  "HP": 259751,
+                  "SPD": 120,
+                  "Stance": 16
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106052,
+            "Level": 78,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 8003020,
+                  "HP": 144306,
+                  "SPD": 144,
+                  "Stance": 10
+                },
+                {
+                  "ID": 1003010,
+                  "HP": 144306,
+                  "SPD": 144,
+                  "Stance": 8
+                }
+              ],
+              [
+                {
+                  "ID": 2024010,
+                  "HP": 158736,
+                  "HPCount": 2,
+                  "SPD": 138,
+                  "Stance": 14
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 6,
+        "ElemUpper": [
+          "Ice",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Elec"
+        ],
+        "HPSingle": 1277463,
+        "HPMulti": 728170,
+        "Upper": [
+          {
+            "_id": 30106061,
+            "Level": 80,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 1002020,
+                  "HP": 23745,
+                  "SPD": 120,
+                  "Stance": 2
+                },
+                {
+                  "ID": 8003050,
+                  "HP": 174128,
+                  "SPD": 120,
+                  "Stance": 10
+                },
+                {
+                  "ID": 1002020,
+                  "HP": 23745,
+                  "SPD": 120,
+                  "Stance": 2
+                },
+                {
+                  "ID": 1012030,
+                  "HP": 22162,
+                  "SPD": 120,
+                  "Stance": 2
+                }
+              ],
+              [
+                {
+                  "ID": 1012030,
+                  "HP": 22162,
+                  "SPD": 120,
+                  "Stance": 2
+                },
+                {
+                  "ID": 8003050,
+                  "HP": 174128,
+                  "SPD": 120,
+                  "Stance": 10
+                },
+                {
+                  "ID": 1013020,
+                  "HP": 174128,
+                  "SPD": 173,
+                  "Stance": 10
+                },
+                {
+                  "ID": 1012030,
+                  "HP": 22162,
+                  "SPD": 120,
+                  "Stance": 2
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106062,
+            "Level": 80,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 3002010,
+                  "HP": 43532,
+                  "SPD": 120,
+                  "Stance": 3
+                },
+                {
+                  "ID": 3003030,
+                  "HP": 189957,
+                  "SPD": 120,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3002040,
+                  "HP": 27702,
+                  "SPD": 96,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 3003040,
+                  "HP": 189957,
+                  "SPD": 120,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3003030,
+                  "HP": 189957,
+                  "SPD": 120,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 7,
+        "ElemUpper": [
+          "Phys"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Wind"
+        ],
+        "HPSingle": 1358510,
+        "HPMulti": 811577,
+        "Upper": [
+          {
+            "_id": 30106071,
+            "Level": 82,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 1002030,
+                  "HP": 37050,
+                  "SPD": 120,
+                  "Stance": 3
+                },
+                {
+                  "ID": 1003010,
+                  "HP": 176430,
+                  "SPD": 144,
+                  "Stance": 8
+                },
+                {
+                  "ID": 1002030,
+                  "HP": 37050,
+                  "SPD": 120,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 1003010,
+                  "HP": 176430,
+                  "SPD": 144,
+                  "Stance": 8
+                },
+                {
+                  "ID": 3003050,
+                  "HP": 211716,
+                  "SPD": 144,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106072,
+            "Level": 82,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 2022040,
+                  "HP": 28229,
+                  "SPD": 142,
+                  "Stance": 3
+                },
+                {
+                  "ID": 2023020,
+                  "HP": 211716,
+                  "SPD": 173,
+                  "Stance": 12
+                },
+                {
+                  "ID": 2022040,
+                  "HP": 28229,
+                  "SPD": 142,
+                  "Stance": 3
+                },
+                {
+                  "ID": 2022050,
+                  "HP": 35286,
+                  "SPD": 120,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 8003010,
+                  "HP": 176430,
+                  "SPD": 120,
+                  "Stance": 10
+                },
+                {
+                  "ID": 2023020,
+                  "HP": 211716,
+                  "SPD": 173,
+                  "Stance": 12
+                },
+                {
+                  "ID": 2022040,
+                  "HP": 28229,
+                  "SPD": 142,
+                  "Stance": 3
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 8,
+        "ElemUpper": [
+          "Elec",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Elec"
+        ],
+        "HPSingle": 2309961,
+        "HPMulti": 1823108,
+        "Upper": [
+          {
+            "_id": 30106081,
+            "Level": 85,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 3012010,
+                  "HP": 33147,
+                  "SPD": 144,
+                  "Stance": 2
+                },
+                {
+                  "ID": 3013010,
+                  "HP": 290040,
+                  "SPD": 132,
+                  "Stance": 12
+                },
+                {
+                  "ID": 3012010,
+                  "HP": 33147,
+                  "SPD": 144,
+                  "Stance": 2
+                },
+                {
+                  "ID": 3012010,
+                  "HP": 33147,
+                  "SPD": 144,
+                  "Stance": 2
+                }
+              ],
+              [
+                {
+                  "ID": 3012010,
+                  "HP": 33147,
+                  "SPD": 144,
+                  "Stance": 2
+                },
+                {
+                  "ID": 3013010,
+                  "HP": 290040,
+                  "SPD": 132,
+                  "Stance": 12
+                },
+                {
+                  "ID": 1023010,
+                  "HP": 227889,
+                  "SPD": 120,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3012010,
+                  "HP": 33147,
+                  "SPD": 144,
+                  "Stance": 2
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106082,
+            "Level": 85,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 2012010,
+                  "HP": 31076,
+                  "SPD": 120,
+                  "Stance": 2
+                },
+                {
+                  "ID": 2013020,
+                  "HP": 248606,
+                  "SPD": 144,
+                  "Stance": 10
+                },
+                {
+                  "ID": 2012010,
+                  "HP": 31076,
+                  "SPD": 120,
+                  "Stance": 2
+                },
+                {
+                  "ID": 2002030,
+                  "HP": 31076,
+                  "SPD": 144,
+                  "Stance": 2
+                }
+              ],
+              [
+                {
+                  "ID": 8034010,
+                  "HP": 497211,
+                  "HPCount": 2,
+                  "SPD": 144,
+                  "Stance": 15
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 9,
+        "ElemUpper": [
+          "Wind",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Fire"
+        ],
+        "HPSingle": 2014896,
+        "HPMulti": 1359448,
+        "Upper": [
+          {
+            "_id": 30106091,
+            "Level": 88,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 2022060,
+                  "HP": 53407,
+                  "SPD": 110,
+                  "Stance": 3
+                },
+                {
+                  "ID": 2023010,
+                  "HP": 291310,
+                  "SPD": 158,
+                  "Stance": 12
+                },
+                {
+                  "ID": 2022060,
+                  "HP": 53407,
+                  "SPD": 110,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 2023010,
+                  "HP": 291310,
+                  "SPD": 158,
+                  "Stance": 12
+                },
+                {
+                  "ID": 8013010,
+                  "HP": 267034,
+                  "SPD": 132,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106092,
+            "Level": 88,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 8032010,
+                  "HP": 38841,
+                  "SPD": 156,
+                  "Stance": 2
+                },
+                {
+                  "ID": 8033010,
+                  "HP": 388414,
+                  "SPD": 158,
+                  "Stance": 12
+                }
+              ],
+              [
+                {
+                  "ID": 8003040,
+                  "HP": 242759,
+                  "SPD": 227,
+                  "Stance": 10
+                },
+                {
+                  "ID": 8033010,
+                  "HP": 388414,
+                  "SPD": 158,
+                  "Stance": 12
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 10,
+        "ElemUpper": [
+          "Fire",
+          "Elec"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Quantum"
+        ],
+        "HPSingle": 2621353,
+        "HPMulti": 1832925,
+        "Upper": [
+          {
+            "_id": 30106101,
+            "Level": 90,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 3002030,
+                  "HP": 60648,
+                  "SPD": 132,
+                  "Stance": 3
+                },
+                {
+                  "ID": 3003010,
+                  "HP": 485186,
+                  "SPD": 132,
+                  "Stance": 16
+                },
+                {
+                  "ID": 3002040,
+                  "HP": 47171,
+                  "SPD": 106,
+                  "Stance": 3
+                },
+                {
+                  "ID": 3002030,
+                  "HP": 60648,
+                  "SPD": 132,
+                  "Stance": 3
+                }
+              ],
+              [
+                {
+                  "ID": 1013010,
+                  "HP": 350412,
+                  "SPD": 158,
+                  "Stance": 14
+                },
+                {
+                  "ID": 3003010,
+                  "HP": 485186,
+                  "SPD": 132,
+                  "Stance": 16
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106102,
+            "Level": 90,
+            "HardLevelGroup": 3,
+            "Monsters": [
+              [
+                {
+                  "ID": 8003020,
+                  "HP": 269548,
+                  "SPD": 158,
+                  "Stance": 10
+                },
+                {
+                  "ID": 1003010,
+                  "HP": 269548,
+                  "SPD": 158,
+                  "Stance": 8
+                }
+              ],
+              [
+                {
+                  "ID": 2024010,
+                  "HP": 296503,
+                  "HPCount": 2,
+                  "SPD": 152,
+                  "Stance": 14
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 11,
+        "ElemUpper": [
+          "Fire",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Imaginary"
+        ],
+        "HPSingle": 4171610,
+        "HPMulti": 2533233,
+        "Upper": [
+          {
+            "_id": 30106111,
+            "Level": 92,
+            "HardLevelGroup": 3,
+            "EliteGroup": {
+              "ID": 223,
+              "HP": 1.1
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 1023020,
+                  "HP": 394790,
+                  "SPD": 132,
+                  "Stance": 10
+                },
+                {
+                  "ID": 8003010,
+                  "HP": 328991,
+                  "SPD": 132,
+                  "Stance": 10
+                }
+              ],
+              [
+                {
+                  "ID": 100401010,
+                  "HP": 888277,
+                  "SPD": 158,
+                  "Stance": 14
+                },
+                {
+                  "ID": 1023020,
+                  "HP": 394790,
+                  "SPD": 132,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106112,
+            "Level": 92,
+            "HardLevelGroup": 3,
+            "EliteGroup": {
+              "ID": 223,
+              "HP": 1.1
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 2002010,
+                  "HP": 52639,
+                  "SPD": 158,
+                  "Stance": 2
+                },
+                {
+                  "ID": 2013020,
+                  "HP": 394790,
+                  "SPD": 158,
+                  "Stance": 10
+                },
+                {
+                  "ID": 8013010,
+                  "HP": 361890,
+                  "SPD": 132,
+                  "Stance": 10
+                }
+              ],
+              [
+                {
+                  "ID": 2002010,
+                  "HP": 52639,
+                  "SPD": 158,
+                  "Stance": 2
+                },
+                {
+                  "ID": 200401007,
+                  "HP": 855377,
+                  "SPD": 170,
+                  "Stance": 15
+                },
+                {
+                  "ID": 2013020,
+                  "HP": 394790,
+                  "SPD": 158,
+                  "Stance": 10
+                },
+                {
+                  "ID": 2002010,
+                  "HP": 52639,
+                  "SPD": 158,
+                  "Stance": 2
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 12,
+        "ElemUpper": [
+          "Fire",
+          "Elec"
+        ],
+        "ElemLower": [
+          "Phys"
+        ],
+        "HPSingle": 6108865,
+        "HPMulti": 3184319,
+        "Upper": [
+          {
+            "_id": 30106121,
+            "Level": 95,
+            "HardLevelGroup": 3,
+            "EliteGroup": {
+              "ID": 224,
+              "HP": 1.2
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 3012020,
+                  "HP": 58659,
+                  "SPD": 132,
+                  "Stance": 2
+                },
+                {
+                  "ID": 3003040,
+                  "HP": 502787,
+                  "SPD": 132,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3003030,
+                  "HP": 502787,
+                  "SPD": 132,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3012020,
+                  "HP": 58659,
+                  "SPD": 132,
+                  "Stance": 2
+                }
+              ],
+              [
+                {
+                  "ID": 3004010,
+                  "HP": 1382665,
+                  "HPCount": 2,
+                  "SPD": 0,
+                  "Stance": 0
+                },
+                {
+                  "ID": 3003051,
+                  "HP": 0,
+                  "SPD": 145,
+                  "Stance": 6
+                },
+                {
+                  "ID": 3003041,
+                  "HP": 0,
+                  "SPD": 119,
+                  "Stance": 8
+                },
+                {
+                  "ID": 3003031,
+                  "HP": 0,
+                  "SPD": 119,
+                  "Stance": 6
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30106122,
+            "Level": 95,
+            "HardLevelGroup": 3,
+            "EliteGroup": {
+              "ID": 224,
+              "HP": 1.2
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 8003030,
+                  "HP": 460888,
+                  "SPD": 158,
+                  "Stance": 10
+                },
+                {
+                  "ID": 3003050,
+                  "HP": 502787,
+                  "SPD": 158,
+                  "Stance": 10
+                }
+              ],
+              [
+                {
+                  "ID": 3024010,
+                  "HP": 628484,
+                  "HPCount": 2,
+                  "SPD": 190,
+                  "Stance": 16
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/Chaos_1.js",
+      "data/CH/Chaos_2.js"
+    ]
+  }
+}

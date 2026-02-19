@@ -1,0 +1,38 @@
+{
+  "id": "2033022",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "蛊言妄念的蚀心兽",
+  "description": "挑动其心魔，窃据其威灵，幻化其形貌，「赤月」会根据宿主的弱点展开针对性的狩猎。<br>在这场无尽的猎杀中，飞霄的身份究竟是猎手还是猎物。",
+  "stats": {
+    "HP": 385.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_2033020.png",
+  "figure": "monsterfigure/Monster_2033020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

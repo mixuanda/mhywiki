@@ -1,0 +1,21 @@
+{
+  "id": "1001061",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "水形幻人 · 极旋湍流",
+  "description": "由水凝聚成的初具人形的魔物。<br>曾有无数的意志消融在水中，但水中原本就与宇宙一样充满了渴求被诞下的灵魂。<br>在地脉极端紊乱的投映下，深浸于水下的苦痛与怨恨，以某种扭曲的形式交织于原本的人形之上，要将可悲的消逝再度重演…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Narcissusborn",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81476",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「漂泊的异乡人」",
+  "description": "使失落的曲谱重见天日。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

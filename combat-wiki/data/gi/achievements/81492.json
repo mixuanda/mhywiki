@@ -1,0 +1,15 @@
+{
+  "id": "81492",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如飘向空中的丝绸…",
+  "description": "开启通往浮土静界的游隙灵道。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

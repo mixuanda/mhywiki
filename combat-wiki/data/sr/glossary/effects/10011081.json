@@ -1,0 +1,19 @@
+{
+  "id": "10011081",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "持续伤害易伤",
+  "description": "受到的持续伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011081,
+    "MDF": "MAvatar_Sampo_00_Ultra_DOTTakenUp",
+    "Name": "持续伤害易伤",
+    "Desc": "受到的持续伤害提高<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

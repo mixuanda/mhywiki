@@ -1,0 +1,15 @@
+{
+  "id": "82010",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「这风晶蝶还蛮大的」",
+  "description": "在无相之风复苏前，吸收所有风之晶球。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

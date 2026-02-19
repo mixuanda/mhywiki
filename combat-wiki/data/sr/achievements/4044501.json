@@ -1,0 +1,18 @@
+{
+  "id": "4044501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "欢迎使用GOTO语句",
+  "description": "当牧羊人穿梭于时空…<br><color style='color:#8790ab;'>※在黄金替罪羊玩法中，操作替罪羊穿过传送门</color>",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

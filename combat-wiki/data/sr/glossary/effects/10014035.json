@@ -1,0 +1,18 @@
+{
+  "id": "10014035",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "心意相契的安宁",
+  "description": "造成伤害时无视敌方目标<color> <b>A</b> </color>的防御力。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014035,
+    "MDF": "MAvatar_Tribbie_00_Rank04_Buff",
+    "Name": "心意相契的安宁",
+    "Desc": "造成伤害时无视敌方目标<color> <b>A</b> </color>的防御力。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

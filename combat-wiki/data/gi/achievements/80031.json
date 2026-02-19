@@ -1,0 +1,15 @@
+{
+  "id": "80031",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "千风拂去",
+  "description": "解锁蒙德的所有传送锚点（龙脊雪山地区除外）。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "4"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

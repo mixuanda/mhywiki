@@ -1,0 +1,18 @@
+{
+  "id": "4082703",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "绝对零度",
+  "description": "使用镜流与定分枪互动",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

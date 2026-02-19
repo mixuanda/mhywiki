@@ -1,0 +1,17 @@
+{
+  "id": "240140368",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "腐败反噬",
+  "description": "攻击该目标后，攻击者会受到少量量子属性【衰亡伤害】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140368,
+    "MDF": "MMonster_W4_PolluxPart_00_IF_Reflex",
+    "Name": "腐败反噬",
+    "Desc": "攻击该目标后，攻击者会受到少量量子属性【衰亡伤害】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

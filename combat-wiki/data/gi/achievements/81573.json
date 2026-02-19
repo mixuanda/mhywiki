@@ -1,0 +1,15 @@
+{
+  "id": "81573",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "重量级选手",
+  "description": "面对三倍以上的体重差时，「技术」亦会失效。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054222",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我呼唤论辩的终幕",
+  "description": "阅读「黎明云崖」奥赫玛所有启目集",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

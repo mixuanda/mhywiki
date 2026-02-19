@@ -1,0 +1,24 @@
+{
+  "id": "12210",
+  "game": "sr",
+  "entityType": "character",
+  "name": "云璃",
+  "description": "网站@功能测试#样本",
+  "version": "2.4",
+  "rarity": 5,
+  "element": "Phys",
+  "path": "Destruction",
+  "baseStats": {
+    "HP": 1358.28,
+    "ATK": 679.14,
+    "DEF": 460.845,
+    "SPD": 94.0,
+    "Aggro": 125.0
+  },
+  "materialRefs": [],
+  "combat": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Avatar/12210.js"
+  }
+}

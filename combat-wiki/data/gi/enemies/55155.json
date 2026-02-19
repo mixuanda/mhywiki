@@ -1,0 +1,27 @@
+{
+  "id": "55155",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "莉莱",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Launcher_Shamansaurus"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.2 地方传奇"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

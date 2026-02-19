@@ -1,0 +1,25 @@
+{
+  "id": "55107",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "绒翼龙武士 · 膛星之锤",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 绒翼龙武士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

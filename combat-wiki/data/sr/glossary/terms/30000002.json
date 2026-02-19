@@ -1,0 +1,15 @@
+{
+  "id": "30000002",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "固定概率",
+  "description": "不会被任何因素影响的固定概率。",
+  "content": {
+    "_id": 30000002,
+    "Name": "固定概率",
+    "Desc": "不会被任何因素影响的固定概率。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80121",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "迷失的寻宝者",
+  "description": "在鹤观开启60个宝箱。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "27"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

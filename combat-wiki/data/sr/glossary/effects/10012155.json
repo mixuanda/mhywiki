@@ -1,0 +1,18 @@
+{
+  "id": "10012155",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "二观",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012155,
+    "MDF": "MAvatar_Hanya_Rank02",
+    "Name": "二观",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

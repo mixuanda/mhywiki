@@ -1,0 +1,15 @@
+{
+  "id": "80237",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 佑灵砾漠",
+  "description": "点亮须弥区域中，荒石苍漠、浮罗囿的地图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "41"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

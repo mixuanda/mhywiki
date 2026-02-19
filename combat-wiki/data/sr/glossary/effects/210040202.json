@@ -1,0 +1,18 @@
+{
+  "id": "210040202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "过热",
+  "description": "韧性受到的伤害提高<color> <b>A</b> </color>，自身受到的伤害提高<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040202,
+    "MDF": "Svarog_Kaboom_Modifier",
+    "Name": "过热",
+    "Desc": "韧性受到的伤害提高<color> <b>A</b> </color>，自身受到的伤害提高<color> <b>B</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

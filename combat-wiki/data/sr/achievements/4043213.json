@@ -1,0 +1,18 @@
+{
+  "id": "4043213",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "暮狼归乡",
+  "description": "完成所有《狼之道•终》关卡",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

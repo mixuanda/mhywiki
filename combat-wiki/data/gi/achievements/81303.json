@@ -1,0 +1,15 @@
+{
+  "id": "81303",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "飞毯之旅",
+  "description": "看看这整个新世界，多令人眩晕的地方！",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

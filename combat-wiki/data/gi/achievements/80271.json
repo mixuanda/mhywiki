@@ -1,0 +1,15 @@
+{
+  "id": "80271",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "不幸的总集",
+  "description": "集齐全套《雷穆利亚衰亡史》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "43"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

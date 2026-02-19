@@ -1,0 +1,18 @@
+{
+  "id": "100121212",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "死境",
+  "description": "效果抵抗提高<color> <b>A</b> </color>，造成的终结技伤害提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100121212,
+    "MDF": "MAvatar_Advanced_Jingliu_SkillTree_B1_Resist",
+    "Name": "死境",
+    "Desc": "效果抵抗提高<color> <b>A</b> </color>，造成的终结技伤害提高<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

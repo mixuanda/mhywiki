@@ -1,0 +1,17 @@
+{
+  "id": "240440102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "二律背反",
+  "description": "终结技被激活，施放终结技时损失等同于自身生命上限<color> <b>A</b> </color>的生命值，该伤害优先消耗护盾且不致命。在效果持续期间未施放终结技则在效果解除时将能量还原为<color> <b>B</b> </color>点。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240440102,
+    "MDF": "Monster_W4_Theoroi_00_Reversion",
+    "Name": "二律背反",
+    "Desc": "终结技被激活，施放终结技时损失等同于自身生命上限<color> <b>A</b> </color>的生命值，该伤害优先消耗护盾且不致命。在效果持续期间未施放终结技则在效果解除时将能量还原为<color> <b>B</b> </color>点。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

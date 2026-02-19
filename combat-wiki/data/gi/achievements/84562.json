@@ -1,0 +1,15 @@
+{
+  "id": "84562",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "医用笔迹",
+  "description": "帮助马鲁夫正确地解析药方。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

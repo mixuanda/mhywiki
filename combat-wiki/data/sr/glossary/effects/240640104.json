@@ -1,0 +1,17 @@
+{
+  "id": "240640104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "追打目标",
+  "description": "将受到【%CasterName】<color> <b>A</b> </color>次单体攻击，若自身持有护盾，【%CasterName】对自身发动单体攻击后，会削减韧性，【%CasterName】被弱点击破后解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240640104,
+    "MDF": "MMonster_W4_Serpent_01_Charge01_Target",
+    "Name": "追打目标",
+    "Desc": "将受到【%CasterName】<color> <b>A</b> </color>次单体攻击，若自身持有护盾，【%CasterName】对自身发动单体攻击后，会削减韧性，【%CasterName】被弱点击破后解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

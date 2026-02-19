@@ -1,0 +1,18 @@
+{
+  "id": "4072016",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "铁卫是可爱的",
+  "description": "不消灭银鬃铁卫的情况下击败布洛妮娅",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

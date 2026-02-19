@@ -1,0 +1,15 @@
+{
+  "id": "86031",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "略逊半筹",
+  "description": "与其他玩家一同战胜半永恒统辖矩阵。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "44"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

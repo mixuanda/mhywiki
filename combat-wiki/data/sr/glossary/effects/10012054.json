@@ -1,0 +1,18 @@
+{
+  "id": "10012054",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "无尽形寿",
+  "description": "得到的治疗效果提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012054,
+    "MDF": "MWAvatar_Ren_SkillTree01",
+    "Name": "无尽形寿",
+    "Desc": "得到的治疗效果提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

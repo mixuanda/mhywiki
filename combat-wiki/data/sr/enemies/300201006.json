@@ -1,0 +1,39 @@
+{
+  "id": "300201006",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "三进制同化单元",
+  "description": "践踏数学法则的超算机群，通过动摇数字世界存在的根本，占领了无数强大的王国。在演算中被具象为电视的形态，即使是未经训练的机修工，也能在短时间内掌握战争兵器的操作流程。",
+  "stats": {
+    "HP": 100.0,
+    "ATK": 5.9999400000000005,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002010.png",
+  "figure": "monsterfigure/Monster_3002010.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

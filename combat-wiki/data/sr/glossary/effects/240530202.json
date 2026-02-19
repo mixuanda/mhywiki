@@ -1,0 +1,17 @@
+{
+  "id": "240530202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "孵育狂潮",
+  "description": "此状态下自身受到攻击时受到的伤害降低。行动提前时，将会消耗生命值，召唤【泡影稚子】，并使【孵化】行动小幅延后。当【孵化】行动时会召唤所有剩余的【泡影稚子】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530202,
+    "MDF": "MMonster_W4_Unicorn_01_MuteSpeed",
+    "Name": "孵育狂潮",
+    "Desc": "此状态下自身受到攻击时受到的伤害降低。行动提前时，将会消耗生命值，召唤【泡影稚子】，并使【孵化】行动小幅延后。当【孵化】行动时会召唤所有剩余的【泡影稚子】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

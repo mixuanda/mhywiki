@@ -1,0 +1,17 @@
+{
+  "id": "240530201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "海洪胎动",
+  "description": "此状态下【飓风大母】的韧性无法被削减。【飓风大母】将会施放【雨自初生便落坠】。消灭所有【泡影稚子】可以解除此状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530201,
+    "MDF": "MMonster_W4_Unicorn_01_UltraReady",
+    "Name": "海洪胎动",
+    "Desc": "此状态下【飓风大母】的韧性无法被削减。【飓风大母】将会施放【雨自初生便落坠】。消灭所有【泡影稚子】可以解除此状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

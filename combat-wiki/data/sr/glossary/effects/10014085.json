@@ -1,0 +1,17 @@
+{
+  "id": "10014085",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "毁伤",
+  "description": "【毁伤】点数，可消耗【毁伤】施放战技【支柱•死星天裁】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014085,
+    "MDF": "MAvatar_Phainon_00_Ultra_Energy",
+    "Name": "毁伤",
+    "Desc": "【毁伤】点数，可消耗【毁伤】施放战技【支柱•死星天裁】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

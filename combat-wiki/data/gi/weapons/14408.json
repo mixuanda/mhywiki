@@ -1,0 +1,22 @@
+{
+  "id": "14408",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黑岩绯玉",
+  "description": "由黑岩制成的神秘法器，无常的赤色闪光仿佛大地深处的悸动同调。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 509.605949,
+  "subStatType": "CD",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112010",
+    "112031",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14408.js"
+  }
+}

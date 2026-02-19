@@ -1,0 +1,39 @@
+{
+  "id": "800101004",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "炎华造物",
+  "description": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
+  "stats": {
+    "HP": 1.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice"
+  ],
+  "resistance": {
+    "Fire": 0.4,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_8001010.png",
+  "figure": "monsterfigure/Monster_8001010.png",
+  "camp": {
+    "id": "3",
+    "name": "裂界造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

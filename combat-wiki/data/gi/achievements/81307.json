@@ -1,0 +1,15 @@
+{
+  "id": "81307",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "她的黄金时代…",
+  "description": "紫红色的帕蒂莎兰盛开在空空的王座上，仿佛女主人永恒的笑容…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

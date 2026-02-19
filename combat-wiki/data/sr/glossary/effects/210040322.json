@@ -1,0 +1,18 @@
+{
+  "id": "210040322",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "一鼓作气",
+  "description": "每层使速度提高<color> <b>A</b> </color>，攻击力提高<color> <b>B</b> </color>。弱点击破后失去所有层数。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040322,
+    "MDF": "MMonster_W1_Bronya_00_IF_02_EnhancePerTurn",
+    "Name": "一鼓作气",
+    "Desc": "每层使速度提高<color> <b>A</b> </color>，攻击力提高<color> <b>B</b> </color>。弱点击破后失去所有层数。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

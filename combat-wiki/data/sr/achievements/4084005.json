@@ -1,0 +1,18 @@
+{
+  "id": "4084005",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "无罪者能先拿起石头",
+  "description": "来玩保龄球，我当球瓶<br><color style='color:#8790ab;'>※在翁法罗斯探索过程中，被石球砸中</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

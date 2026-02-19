@@ -1,0 +1,15 @@
+{
+  "id": "82105",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无关机械请立即离场！",
+  "description": "不击败任何恒常机关阵列的遗迹机兵的情况下，击败恒常机关阵列。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

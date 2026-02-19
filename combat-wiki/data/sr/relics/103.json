@@ -1,0 +1,16 @@
+{
+  "id": "103",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "净庭教宗的圣骑士",
+  "icon": "71002.png",
+  "setBonuses": [
+    "防御力提高 <b>15%</b> 。",
+    "使装备者提供的护盾量提高 <b>20%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/103.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "220340145",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "血涌",
+  "description": "拥有【血涌】的我方角色及其召唤的目标进入【孤战】时，攻击后会额外削减韧性，并恢复生命值，此效果可叠加，并在【孤战】结束时移除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340145,
+    "MDF": "MMonster_W2_LycanKing_00_IF_ChampionMark",
+    "Name": "血涌",
+    "Desc": "拥有【血涌】的我方角色及其召唤的目标进入【孤战】时，攻击后会额外削减韧性，并恢复生命值，此效果可叠加，并在【孤战】结束时移除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4074206",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "茧中安眠",
+  "description": "使用我方角色遐蝶对战「冥魂渡者，死龙残躯，玻吕刻斯」时完成制胜一击",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

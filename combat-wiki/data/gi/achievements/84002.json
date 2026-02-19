@@ -1,0 +1,15 @@
+{
+  "id": "84002",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "为了没有眼泪的明天",
+  "description": "完成「为了没有眼泪的明天」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

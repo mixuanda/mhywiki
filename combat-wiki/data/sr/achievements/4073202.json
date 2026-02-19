@@ -1,0 +1,18 @@
+{
+  "id": "4073202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "肥皂剧",
+  "description": "在与「同音共律的来日」战斗时，4.0名角色均进入过睡眠状态",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "100141539",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "请笑着，写就下一页",
+  "description": "触发忆灵技【献予「真我」之诗】的弹射伤害倍率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141539,
+    "MDF": "MServant_CyreneServant_00_Rank04_Count",
+    "Name": "请笑着，写就下一页",
+    "Desc": "触发忆灵技【献予「真我」之诗】的弹射伤害倍率提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

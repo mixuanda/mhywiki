@@ -1,0 +1,15 @@
+{
+  "id": "82060",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "天降正义！",
+  "description": "维持下落攻击状态超过5秒后，命中敌人。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "14"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

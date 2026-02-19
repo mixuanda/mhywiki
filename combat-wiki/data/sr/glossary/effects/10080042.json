@@ -1,0 +1,17 @@
+{
+  "id": "10080042",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "陷阵无回的炎枪",
+  "description": "下一次普攻变为强化普攻且不消耗【灼热意志】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080042,
+    "MDF": "MWAvatar_PlayerGirl_10_WeaponCharge_Free",
+    "Name": "陷阵无回的炎枪",
+    "Desc": "下一次普攻变为强化普攻且不消耗【灼热意志】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

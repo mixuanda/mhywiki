@@ -1,0 +1,39 @@
+{
+  "id": "4014014",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "蛮神，疯王，纷争的化身",
+  "description": "「纷争」的泰坦，在疯狂中延续疯狂的战争，乃是翁法罗斯众邦挥之不去的恐惧。<br>它也曾身负荣耀的威名，令众邦众神心怀敬意。而那敬畏它的城邦被踏碎，那赞颂它的诗篇被焚毁，只有恶名回荡在无光的末世，玷污全世之座背负的光辉。",
+  "stats": {
+    "HP": 37.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 132.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4014010.png",
+  "figure": "monsterfigure/Monster_4014010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

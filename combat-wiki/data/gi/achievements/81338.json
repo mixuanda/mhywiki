@@ -1,0 +1,15 @@
+{
+  "id": "81338",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "要用原力，斯露莎",
+  "description": "使用斯露莎投掷「苦离果」，融化<color style='color:#FF0000;'><b>15</b></color>个甘露凝结的晶石。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

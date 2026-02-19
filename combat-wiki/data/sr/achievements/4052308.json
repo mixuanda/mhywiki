@@ -1,0 +1,18 @@
+{
+  "id": "4052308",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "王权无永恒",
+  "description": "使用奇物「不可承受之重」，并破解神秘声音的内容",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

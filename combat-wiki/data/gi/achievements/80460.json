@@ -1,0 +1,15 @@
+{
+  "id": "80460",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一个城市的历史",
+  "description": "集齐全套《苍星妖灵史略》。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "65"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

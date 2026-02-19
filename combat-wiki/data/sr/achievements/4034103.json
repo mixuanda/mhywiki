@@ -1,0 +1,18 @@
+{
+  "id": "4034103",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "置身不死的神明中",
+  "description": "塞纳托斯呵，请恩赐她一夜安眠<br><color style='color:#8790ab;'>※在噩梦中尝试重拾缇宝的过去…</color>",
+  "reward": 10,
+  "version": 3.1,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

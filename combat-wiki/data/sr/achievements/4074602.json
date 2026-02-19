@@ -1,0 +1,18 @@
+{
+  "id": "4074602",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "特别的祝福",
+  "description": "使用三月七•存护对长夜月施放战技【可爱即是正义】",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

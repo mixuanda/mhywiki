@@ -1,0 +1,15 @@
+{
+  "id": "81112",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "为人的条件？",
+  "description": "见证武士的宿命。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240340108",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "苦痛缠绕",
+  "description": "吸收【残破容器】后回复召唤该【残破容器】时消耗的生命值，【残破容器】被消灭后，无法再回复召唤该【残破容器】时消耗的生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340108,
+    "MDF": "MMonster_W4_FireProwler_00_RallyHP",
+    "Name": "苦痛缠绕",
+    "Desc": "吸收【残破容器】后回复召唤该【残破容器】时消耗的生命值，【残破容器】被消灭后，无法再回复召唤该【残破容器】时消耗的生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

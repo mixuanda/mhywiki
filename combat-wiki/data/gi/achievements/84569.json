@@ -1,0 +1,15 @@
+{
+  "id": "84569",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "在童年",
+  "description": "和孩子们一同玩耍，并且见证他们的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

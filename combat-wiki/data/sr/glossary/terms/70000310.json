@@ -1,0 +1,15 @@
+{
+  "id": "70000310",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "噬命",
+  "description": "处于【噬命】状态的我方目标生命上限降低。",
+  "content": {
+    "_id": 70000310,
+    "Name": "噬命",
+    "Desc": "处于【噬命】状态的我方目标生命上限降低。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

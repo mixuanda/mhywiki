@@ -1,0 +1,32 @@
+{
+  "id": "4661801",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "千年珍珠骏麟 · 升怒",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 1.45,
+    "Fire": 1.45,
+    "Water": 1.45,
+    "Elec": 1.95,
+    "Ice": 1.45,
+    "Grass": 1.45,
+    "Wind": 1.45,
+    "Rock": 1.45
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_SeaHorse_Primo_Electric"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

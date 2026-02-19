@@ -1,0 +1,15 @@
+{
+  "id": "81534",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "高警惕，多防范！",
+  "description": "戳破了利用暝视龙的诈骗者的骗局。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

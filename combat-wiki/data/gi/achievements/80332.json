@@ -1,0 +1,15 @@
+{
+  "id": "80332",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "炎日的燧色",
+  "description": "将万火之瓯的煅石之轮等级提升至满级。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "51001",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "海乱鬼 · 雷腾",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "kdt"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 海乱鬼"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

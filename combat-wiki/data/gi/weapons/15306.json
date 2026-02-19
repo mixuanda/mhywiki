@@ -1,0 +1,18 @@
+{
+  "id": "15306",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黑檀弓",
+  "description": "用檀木制成的长弓，弓臂比寻常木材硬。因此力量也更大。",
+  "rarity": 3,
+  "weaponType": 5,
+  "baseAtk": 401.2935898,
+  "subStatType": "ATK",
+  "subStatValue": 0.35190040000000006,
+  "materialRefs": [],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15306.js"
+  }
+}

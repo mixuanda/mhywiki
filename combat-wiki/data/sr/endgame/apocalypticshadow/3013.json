@@ -1,0 +1,309 @@
+{
+  "id": "3013",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "apocalypticshadow",
+  "name": "螟蝗煽动",
+  "content": {
+    "_id": 3013,
+    "Name": "螟蝗煽动",
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Quantum",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Imaginary"
+        ],
+        "HPAS": 784535,
+        "Upper": [
+          {
+            "_id": 420341,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 73,
+              "HP": 0.3
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 802501101,
+                  "HP": 235361,
+                  "HPCount": 2,
+                  "SPD": 120,
+                  "Stance": 20
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420351,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 74,
+              "HP": 0.4
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 801502201,
+                  "HP": 156907,
+                  "HPCount": 2,
+                  "SPD": 120,
+                  "Stance": 38
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Quantum",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Imaginary"
+        ],
+        "HPAS": 3533523,
+        "Upper": [
+          {
+            "_id": 420342,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 78,
+              "HP": 0.8
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 802501102,
+                  "HP": 1130727,
+                  "HPCount": 2,
+                  "SPD": 132,
+                  "Stance": 20
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420352,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 79,
+              "HP": 0.9
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 801502202,
+                  "HP": 636034,
+                  "HPCount": 2,
+                  "SPD": 132,
+                  "Stance": 38
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Quantum",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Imaginary"
+        ],
+        "HPAS": 11452501,
+        "Upper": [
+          {
+            "_id": 420343,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 86,
+              "HP": 1.6
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 802501103,
+                  "HP": 3523846,
+                  "HPCount": 2,
+                  "SPD": 144,
+                  "Stance": 20
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420353,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 90,
+              "HP": 2.0
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 801502203,
+                  "HP": 2202404,
+                  "HPCount": 2,
+                  "SPD": 144,
+                  "Stance": 38
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Phys",
+          "Ice",
+          "Quantum",
+          "Imaginary"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Imaginary"
+        ],
+        "HPAS": 26397274,
+        "Upper": [
+          {
+            "_id": 420344,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 94,
+              "HP": 2.4
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 802501104,
+                  "HP": 8447128,
+                  "HPCount": 2,
+                  "SPD": 158,
+                  "Stance": 20
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420354,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 97,
+              "HP": 2.7
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 801502204,
+                  "HP": 4751509,
+                  "HPCount": 2,
+                  "SPD": 158,
+                  "Stance": 38
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "Buff": {
+      "_id": 3110013,
+      "Name": "末法余烬",
+      "Desc": "拥有<color style='color:#f29e38;'>【坚防守备】</color>的敌方目标被<color style='color:#f29e38;'>弱点击破</color>时，使我方全体目标解除控制状态、立即行动并回复生命值。<br>敌方全体目标受到的忆灵技伤害提高<color style='color:#f29e38;'> 15% </color>，终结技伤害提高<color style='color:#f29e38;'> 25% </color>。"
+    },
+    "UB": [
+      {
+        "_id": 3111071,
+        "Name": "镌骨铭心",
+        "Desc": "战斗开始时，我方队伍中存在2/3/4名记忆命途的角色时，敌方目标受到的伤害提高<color style='color:#f29e38;'> 5% </color>/<color style='color:#f29e38;'> 10% </color>/<color style='color:#f29e38;'> 20% </color>，该效果对所有新上场的敌人也生效。"
+      },
+      {
+        "_id": 3111072,
+        "Name": "傲雪凌霜",
+        "Desc": "我方全体目标造成的冰属性伤害提高<color style='color:#f29e38;'> 50% </color>，速度提高<color style='color:#f29e38;'> 10% </color>。"
+      },
+      {
+        "_id": 3111073,
+        "Name": "登锋陷阵",
+        "Desc": "队伍中的第1位角色施放终结技后，使自身的弱点击破效率提高<color style='color:#f29e38;'> 50% </color>，暴击伤害提高<color style='color:#f29e38;'> 50% </color>，持续<color style='color:#f29e38;'> 1 </color>回合。"
+      }
+    ],
+    "LB": [
+      {
+        "_id": 3111074,
+        "Name": "险象环生",
+        "Desc": "我方目标对当前承受大于等于<color style='color:#f29e38;'> 3 </color>种持续伤害状态的敌方目标造成伤害时，弱点击破效率提高<color style='color:#f29e38;'> 50% </color>。"
+      },
+      {
+        "_id": 3111075,
+        "Name": "石破天惊",
+        "Desc": "敌方全体目标受到的弱点击破伤害提高<color style='color:#f29e38;'> 15% </color>，超击破伤害额外提高<color style='color:#f29e38;'> 20% </color>。"
+      },
+      {
+        "_id": 3111076,
+        "Name": "势如破竹",
+        "Desc": "我方全体造成的普攻和终结技伤害的暴击伤害提高<color style='color:#f29e38;'> 30% </color>，对处于弱点击破状态下的敌方目标额外提高<color style='color:#f29e38;'> 30% </color>。"
+      }
+    ],
+    "UC": [
+      100901,
+      100902,
+      100903,
+      100904
+    ],
+    "LC": [
+      100601,
+      100602,
+      100603,
+      100604
+    ],
+    "UG": [
+      10091,
+      10092
+    ],
+    "LG": [
+      10061,
+      10062
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/AS.js"
+    ]
+  }
+}

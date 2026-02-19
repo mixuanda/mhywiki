@@ -1,0 +1,15 @@
+{
+  "id": "84306",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "角落社会的规则",
+  "description": "调查了监狱中的两种「隐秘规矩」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

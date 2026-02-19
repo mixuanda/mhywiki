@@ -1,0 +1,15 @@
+{
+  "id": "81245",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "永久食粮",
+  "description": "和法莎一道，造访现实中的兰那罗苗圃。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

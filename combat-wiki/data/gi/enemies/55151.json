@@ -1,0 +1,27 @@
+{
+  "id": "55151",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「特拉扎库伊洛特尔」",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.0 夜魂试炼"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

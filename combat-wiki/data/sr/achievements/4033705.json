@@ -1,0 +1,18 @@
+{
+  "id": "4033705",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "片羽永恒，天空完整",
+  "description": "不是因为她的亮光，只因我们知晓彼此，可以共渡黑暗<br><color style='color:#8790ab;'>※星期日视角下，与知更鸟分别</color>",
+  "reward": 10,
+  "version": 2.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80005",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "醉客与狼的相遇",
+  "description": "集齐全套《醉客轶事》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "1"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

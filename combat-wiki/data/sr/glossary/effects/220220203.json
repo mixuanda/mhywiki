@@ -1,0 +1,19 @@
+{
+  "id": "220220203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "引动雷劫",
+  "description": "当「药王秘传」内丹士受到致命攻击时，对所有陷入被其添加的【引动雷劫】状态的我方目标造成1次伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220220203,
+    "MDF": "Monster_W2_Abomi02_00_Mark",
+    "Name": "引动雷劫",
+    "Desc": "当「药王秘传」内丹士受到致命攻击时，对所有陷入被其添加的【引动雷劫】状态的我方目标造成1次伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "230040231",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "班味",
+  "description": "处于班味状态，被攻击时不会切换状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230040231,
+    "MDF": "MModifier_Monster_W3_TV_02_FaceLockScot",
+    "Name": "班味",
+    "Desc": "处于班味状态，被攻击时不会切换状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

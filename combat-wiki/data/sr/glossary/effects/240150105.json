@@ -1,0 +1,18 @@
+{
+  "id": "240150105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "电离",
+  "description": "下次行动时将施放【愤，破昼夜长空】，并根据持有的雷云数造成额外伤害，当前持有雷云数为<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150105,
+    "MDF": "Modifier_Monster_W4_DawnsEye_00_WheaterMarkSkill04",
+    "Name": "电离",
+    "Desc": "下次行动时将施放【愤，破昼夜长空】，并根据持有的雷云数造成额外伤害，当前持有雷云数为<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044212",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "昨日的电梯，今日的人",
+  "description": "被另一个时空的升降平台砸到",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4013015",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "巨剑守护 · 陷坚挫锐的先锋将",
+  "description": "曾经是由「纷争」雕琢的泰坦眷属，流淌着尼卡多利的金血，能承载泰坦灵魂的强大造物，如今却堕落成只知道杀戮的机器。",
+  "stats": {
+    "HP": 40.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 60.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4013010.png",
+  "figure": "monsterfigure/Monster_4013010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

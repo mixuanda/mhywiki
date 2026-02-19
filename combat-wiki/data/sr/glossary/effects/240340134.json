@@ -1,0 +1,17 @@
+{
+  "id": "240340134",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "完整容器",
+  "description": "发动攻击后被【%CasterName】吸收并使其获得1层【灾难之力】。我方目标消灭该目标后立即获得1个额外回合，且造成的伤害提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340134,
+    "MDF": "MMonster_W4_FireProwler_01_IF_Bonus",
+    "Name": "完整容器",
+    "Desc": "发动攻击后被【%CasterName】吸收并使其获得1层【灾难之力】。我方目标消灭该目标后立即获得1个额外回合，且造成的伤害提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

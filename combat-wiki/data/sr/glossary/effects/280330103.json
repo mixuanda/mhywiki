@@ -1,0 +1,19 @@
+{
+  "id": "280330103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "绩效点",
+  "description": "星际和平公司雇员的【绩效点】，每层使持有者造成的伤害提高<color> <b>A</b> </color>，最多叠加<color> <b>B</b> </color>层。施放普攻、战技或终结技进行攻击时消耗所有【绩效点】。在自身受到星际和平公司雇员的致命攻击时会被夺取。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280330103,
+    "MDF": "Monster_Company_Coin_Avater",
+    "Name": "绩效点",
+    "Desc": "星际和平公司雇员的【绩效点】，每层使持有者造成的伤害提高<color> <b>A</b> </color>，最多叠加<color> <b>B</b> </color>层。施放普攻、战技或终结技进行攻击时消耗所有【绩效点】。在自身受到星际和平公司雇员的致命攻击时会被夺取。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

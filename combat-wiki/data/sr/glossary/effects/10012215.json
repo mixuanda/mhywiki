@@ -1,0 +1,18 @@
+{
+  "id": "10012215",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "初芒破生",
+  "description": "暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012215,
+    "MDF": "MAvatar_Yunli_00_Rank02_Sub",
+    "Name": "初芒破生",
+    "Desc": "暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

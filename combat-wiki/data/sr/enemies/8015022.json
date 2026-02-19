@@ -1,0 +1,39 @@
+{
+  "id": "8015022",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "乘间抵隙的煽动者",
+  "description": "兼具「毁灭」与「丰饶」之力，生灭循环的肉体。也是建木复生后结出的第一颗「果实」。",
+  "stats": {
+    "HP": 80.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 38.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.4,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_8015020.png",
+  "figure": "monsterfigure/Monster_8015020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

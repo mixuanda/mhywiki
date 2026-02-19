@@ -1,0 +1,22 @@
+{
+  "id": "12401",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "西风大剑",
+  "description": "西风骑士团的重型仪式剑。能轻易导出元素力量，具有卓越的破坏力。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ER",
+  "subStatValue": 0.6125318020000001,
+  "materialRefs": [
+    "112025",
+    "112034",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12401.js"
+  }
+}

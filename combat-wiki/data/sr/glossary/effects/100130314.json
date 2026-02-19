@@ -1,0 +1,18 @@
+{
+  "id": "100130314",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "物体呼吸中",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100130314,
+    "MDF": "Avatar_RuanMei_BreakDamageAdded",
+    "Name": "物体呼吸中",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

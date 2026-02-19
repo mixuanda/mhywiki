@@ -1,0 +1,57 @@
+{
+  "id": "12514",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "焚曜千阳",
+  "description": "如同冉冉升起的初阳般耀眼的重剑，曾见证过无数太阳的熄灭与重燃。",
+  "rarity": 5,
+  "weaponType": 2,
+  "baseAtk": 740.5801544000001,
+  "subStatType": "CR",
+  "subStatValue": 0.110256,
+  "materialRefs": [
+    "112103",
+    "112115",
+    "114064"
+  ],
+  "affix": {
+    "112514": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，攻击力提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，该效果持续6秒，每10秒至多触发一次。<br>持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。<br>此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果仅在装备者处于场上时进行计时。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，攻击力提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，该效果持续6秒，每10秒至多触发一次。<br>持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。<br>此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，攻击力提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，该效果持续6秒，每10秒至多触发一次。<br>持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。<br>此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，攻击力提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，该效果持续6秒，每10秒至多触发一次。<br>持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。<br>此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，攻击力提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，该效果持续6秒，每10秒至多触发一次。<br>持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。<br>此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，攻击力提升 <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>49%</color> / <color style='color:#99FFFFFF'>56%</color> ，该效果持续6秒，每10秒至多触发一次。<br>持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。<br>此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12514.js"
+  }
+}

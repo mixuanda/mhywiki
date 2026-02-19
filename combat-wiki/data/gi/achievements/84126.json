@@ -1,0 +1,15 @@
+{
+  "id": "84126",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "运势无常",
+  "description": "在神社抽到过所有的运势签。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

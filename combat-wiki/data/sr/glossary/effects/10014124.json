@@ -1,0 +1,18 @@
+{
+  "id": "10014124",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "征服者",
+  "description": "速度提高<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014124,
+    "MDF": "MAvatar_Cerydra_00_PointB3",
+    "Name": "征服者",
+    "Desc": "速度提高<color> <b>A</b> </color>点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

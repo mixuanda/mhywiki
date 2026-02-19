@@ -1,0 +1,15 @@
+{
+  "id": "80448",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 月华濯沐之岛 · 其一",
+  "description": "点亮挪德卡莱区域中，伦波岛、希汐岛、帕哈岛的地图。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

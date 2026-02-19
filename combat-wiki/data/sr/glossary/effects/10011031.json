@@ -1,0 +1,19 @@
+{
+  "id": "10011031",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害提高",
+  "description": "【雷鸣音阶】与【电光石火间】造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011031,
+    "MDF": "MAvatar_Serval_00_Rank06_Check",
+    "Name": "伤害提高",
+    "Desc": "【雷鸣音阶】与【电光石火间】造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

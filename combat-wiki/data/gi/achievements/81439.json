@@ -1,0 +1,15 @@
+{
+  "id": "81439",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "至上的秘笈",
+  "description": "找到古华遗留的宝藏。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

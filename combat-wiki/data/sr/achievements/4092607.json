@@ -1,0 +1,18 @@
+{
+  "id": "4092607",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "弹指一挥",
+  "description": "使用「丰饶」命途通关「模拟宇宙：寰宇蝗灾」时，倒计时大于等于 80.0 ",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

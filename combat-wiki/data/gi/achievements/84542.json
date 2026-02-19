@@ -1,0 +1,15 @@
+{
+  "id": "84542",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "她和她的猫",
+  "description": "陪寝子前往影向山，寻找「阿响」的痕迹。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

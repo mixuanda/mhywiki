@@ -1,0 +1,15 @@
+{
+  "id": "80211",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "进攻，进攻，再进攻！",
+  "description": "使用过3次以上元素爆发并获得胜利的对局数目达到<color style='color:#FF0000;'><b>10</b></color>场。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

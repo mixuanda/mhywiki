@@ -1,0 +1,16 @@
+{
+  "id": "110",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "晨昏交界的翔鹰",
+  "icon": "71009.png",
+  "setBonuses": [
+    "风属性伤害提高 <b>10%</b> 。",
+    "当装备者施放终结技后，使其行动提前 <b>25%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/110.js"
+  }
+}

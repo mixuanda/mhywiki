@@ -1,0 +1,18 @@
+{
+  "id": "4053711",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Mini绿野仙踪",
+  "description": "你理解了吗？花导、炒饭机器人、猫糕、佩佩，恰好对应桃乐丝、铁皮人…不对，我为什么在解释笑话？<br><color style='color:#8790ab;'>※ 在活动「宇宙家装指南」中邂逅全部4.0位值日帮手</color>",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

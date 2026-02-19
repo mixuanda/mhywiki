@@ -1,0 +1,15 @@
+{
+  "id": "82250",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猎龙的黑箭…",
+  "description": "击破「金焰」形态下金焰绒翼龙暴君的火元素护罩，使其从空中坠落。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

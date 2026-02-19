@@ -1,0 +1,15 @@
+{
+  "id": "81226",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "梦与无梦的隙间",
+  "description": "来到现实中的桓那兰那。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

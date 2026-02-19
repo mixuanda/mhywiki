@@ -1,0 +1,15 @@
+{
+  "id": "70000210",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "召唤",
+  "description": "此类型的武器会被添加行动条上，并在行动时触发对应的效果。",
+  "content": {
+    "_id": 70000210,
+    "Name": "召唤",
+    "Desc": "此类型的武器会被添加行动条上，并在行动时触发对应的效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

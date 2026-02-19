@@ -1,0 +1,19 @@
+{
+  "id": "220230101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "击中回复",
+  "description": "当场上存在其他带有【重生】效果的敌方目标时，「药王秘传」炼形者具有以下效果：击中我方目标后，回复其自身生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220230101,
+    "MDF": "MMonster_W2_Abomi04_00_HitToHeal",
+    "Name": "击中回复",
+    "Desc": "当场上存在其他带有【重生】效果的敌方目标时，「药王秘传」炼形者具有以下效果：击中我方目标后，回复其自身生命值。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

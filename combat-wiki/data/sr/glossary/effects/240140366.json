@@ -1,0 +1,18 @@
+{
+  "id": "240140366",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "血肉强化",
+  "description": "当前【枯茎朽骨的引路人】处于【坚防守备】状态，自身受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140366,
+    "MDF": "MMonster_W4_PolluxPart_00_IF_MinionsSuperArmor",
+    "Name": "血肉强化",
+    "Desc": "当前【枯茎朽骨的引路人】处于【坚防守备】状态，自身受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

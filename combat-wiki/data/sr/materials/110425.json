@@ -1,0 +1,10 @@
+{
+  "id": "110425",
+  "game": "sr",
+  "entityType": "material",
+  "name": "一杯酩酊的时代",
+  "icon": "itemicon/110425.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

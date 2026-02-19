@@ -1,0 +1,15 @@
+{
+  "id": "80032",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "且听风吟",
+  "description": "将蒙德的七天神像供奉至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "4"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

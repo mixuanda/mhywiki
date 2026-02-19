@@ -1,0 +1,18 @@
+{
+  "id": "230130102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "速度提高",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230130102,
+    "MDF": "MModifier_Monster_W3_Dinosaur_00_RLElite_SpeedUp",
+    "Name": "速度提高",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

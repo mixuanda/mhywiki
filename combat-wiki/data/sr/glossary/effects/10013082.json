@@ -1,0 +1,18 @@
+{
+  "id": "10013082",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "全属性抗性降低",
+  "description": "全属性抗性降低<color> <b>A</b> </color>，持续至终结技结束。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013082,
+    "MDF": "MAvatar_Acheron_00_AllDamageTypeResistance",
+    "Name": "全属性抗性降低",
+    "Desc": "全属性抗性降低<color> <b>A</b> </color>，持续至终结技结束。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

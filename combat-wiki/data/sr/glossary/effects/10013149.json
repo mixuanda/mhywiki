@@ -1,0 +1,19 @@
+{
+  "id": "10013149",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "道德？谨此核押",
+  "description": "暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013149,
+    "MDF": "MAvatar_Jade_00_Rank02_CriticalChance",
+    "Name": "道德？谨此核押",
+    "Desc": "暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

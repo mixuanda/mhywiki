@@ -1,0 +1,22 @@
+{
+  "id": "13402",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "试作星镰",
+  "description": "黑岩厂中秘藏的古老钩枪。锋芒上点点的闪光有如夜空稀星。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 509.605949,
+  "subStatType": "ER",
+  "subStatValue": 0.45940000000000003,
+  "materialRefs": [
+    "112007",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13402.js"
+  }
+}

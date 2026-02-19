@@ -1,0 +1,18 @@
+{
+  "id": "4070441",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "壁垒",
+  "description": "单个角色同时持有的护盾量超过 5000.0 点",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

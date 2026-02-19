@@ -1,0 +1,18 @@
+{
+  "id": "10013037",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "半脱纱巾落团扇",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 10013037,
+    "MDF": "buyong",
+    "Name": "半脱纱巾落团扇",
+    "Desc": {},
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

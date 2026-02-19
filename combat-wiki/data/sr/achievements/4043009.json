@@ -1,0 +1,18 @@
+{
+  "id": "4043009",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "画中世界",
+  "description": "通过筑梦拼图获得 10.0 次奖励",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

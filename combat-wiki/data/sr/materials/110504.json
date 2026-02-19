@@ -1,0 +1,10 @@
+{
+  "id": "110504",
+  "game": "sr",
+  "entityType": "material",
+  "name": "蛀星孕灾的旧恶",
+  "icon": "itemicon/110504.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

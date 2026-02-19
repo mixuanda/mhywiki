@@ -1,0 +1,15 @@
+{
+  "id": "84312",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "群鸥曾呜咽",
+  "description": "目睹白淞镇的灾难。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

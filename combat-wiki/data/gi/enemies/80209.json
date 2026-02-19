@@ -1,0 +1,25 @@
+{
+  "id": "80209",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "帽子刀子狗子",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "cb"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 武士狗"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

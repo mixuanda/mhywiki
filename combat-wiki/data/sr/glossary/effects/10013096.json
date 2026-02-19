@@ -1,0 +1,18 @@
+{
+  "id": "10013096",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "微笑的国度",
+  "description": "全属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013096,
+    "MDF": "MAvatar_Robin_00_SkillRank01_Buff",
+    "Name": "微笑的国度",
+    "Desc": "全属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

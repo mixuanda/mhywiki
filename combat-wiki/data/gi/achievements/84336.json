@@ -1,0 +1,15 @@
+{
+  "id": "84336",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "万火归一",
+  "description": "完成「万火归一」。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

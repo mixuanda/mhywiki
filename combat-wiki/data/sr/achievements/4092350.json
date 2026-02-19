@@ -1,0 +1,18 @@
+{
+  "id": "4092350",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "假如我能使一颗心免于破碎",
+  "description": "在不打碎任何可破坏物的情况下通关「模拟宇宙」（难度2及以上）",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

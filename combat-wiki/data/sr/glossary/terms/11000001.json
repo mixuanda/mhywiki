@@ -1,0 +1,15 @@
+{
+  "id": "11000001",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "11000001",
+  "description": null,
+  "content": {
+    "_id": 11000001,
+    "Name": {},
+    "Desc": {}
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

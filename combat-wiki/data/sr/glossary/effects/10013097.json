@@ -1,0 +1,18 @@
+{
+  "id": "10013097",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "两者的午茶",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013097,
+    "MDF": "MAvatar_Robin_00_SkillRank02_Buff",
+    "Name": "两者的午茶",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

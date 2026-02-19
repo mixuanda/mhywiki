@@ -1,0 +1,15 @@
+{
+  "id": "84085",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…并非是适格者",
+  "description": "阻止「伪神」的诞生。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

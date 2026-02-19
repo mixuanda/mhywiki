@@ -1,0 +1,23 @@
+{
+  "id": "21016",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "宇宙市场趋势",
+  "rarity": 4,
+  "path": "Preservation",
+  "skillId": 21016,
+  "baseStats": {
+    "HP": 1058.4,
+    "ATK": 370.44,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110143",
+    "113003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21016.js"
+  }
+}

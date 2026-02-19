@@ -1,0 +1,18 @@
+{
+  "id": "4042507",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "财星临照",
+  "description": "开启 170.0 次仙舟「罗浮」战利品",
+  "reward": 10,
+  "version": 1.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

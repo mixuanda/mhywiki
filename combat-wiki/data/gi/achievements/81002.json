@@ -1,0 +1,15 @@
+{
+  "id": "81002",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「风带来了故事的种子…」",
+  "description": "到达蒙德东北方的无名小岛。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

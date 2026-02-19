@@ -1,0 +1,15 @@
+{
+  "id": "80088",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "异人祓行芝居",
+  "description": "完成「神樱大祓」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

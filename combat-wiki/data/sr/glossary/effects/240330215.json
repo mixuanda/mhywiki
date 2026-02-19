@@ -1,0 +1,17 @@
+{
+  "id": "240330215",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "不屈酣战",
+  "description": "下次行动时回复一定生命值并起身。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330215,
+    "MDF": "Monster_W4_Claymore_01_LocalLegend_LockHP_Revive",
+    "Name": "不屈酣战",
+    "Desc": "下次行动时回复一定生命值并起身。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

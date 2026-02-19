@@ -1,0 +1,23 @@
+{
+  "id": "21042",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "铭记于心的约定",
+  "rarity": 4,
+  "path": "Destruction",
+  "skillId": 21042,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 476.28,
+    "DEF": 330.75
+  },
+  "materialRefs": [
+    "110183",
+    "114003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21042.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81108",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "开门放狗",
+  "description": "解放寅太郎。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10014016",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "谜底",
+  "description": "每层使终结技造成的伤害倍率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014016,
+    "MDF": "MAvatar_TheHerta_00_SkillTree03_ExtraDamage",
+    "Name": "谜底",
+    "Desc": "每层使终结技造成的伤害倍率提高<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

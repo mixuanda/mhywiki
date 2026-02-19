@@ -1,0 +1,10 @@
+{
+  "id": "110423",
+  "game": "sr",
+  "entityType": "material",
+  "name": "冷藏梦箱",
+  "icon": "itemicon/110423.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

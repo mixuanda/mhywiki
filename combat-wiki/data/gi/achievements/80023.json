@@ -1,0 +1,15 @@
+{
+  "id": "80023",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地的馈赠",
+  "description": "获取200次「藏金之花」或「启示之花」的馈藏。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

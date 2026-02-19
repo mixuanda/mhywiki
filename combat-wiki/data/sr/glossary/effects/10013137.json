@@ -1,0 +1,17 @@
+{
+  "id": "10013137",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "主日渴慕",
+  "description": "【主日渴慕】的效果尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013137,
+    "MDF": "MAvatar_Sunday_10_Skill02_DecreaseBPCost_PointB1CD",
+    "Name": "主日渴慕",
+    "Desc": "【主日渴慕】的效果尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

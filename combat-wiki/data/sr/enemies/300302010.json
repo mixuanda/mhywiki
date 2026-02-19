@@ -1,0 +1,39 @@
+{
+  "id": "300302010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "群演一号",
+  "description": "我不知道啊，我只听说有免费苏乐达就来了。",
+  "stats": {
+    "HP": 7.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3003020.png",
+  "figure": "monsterfigure/Monster_3003020.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

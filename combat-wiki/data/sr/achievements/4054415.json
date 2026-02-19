@@ -1,0 +1,18 @@
+{
+  "id": "4054415",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "还是我的回合",
+  "description": "双人对战中，同一回合内，己方连续行动步数达到8.0",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

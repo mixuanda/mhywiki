@@ -1,0 +1,22 @@
+{
+  "id": "14501",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "天空之卷",
+  "description": "象征风龙与其主风之神的云图集。细致记载了北地天空的风与云，蕴含苍空与长风的力量。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "ATK",
+  "subStatValue": 0.330768,
+  "materialRefs": [
+    "112013",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14501.js"
+  }
+}

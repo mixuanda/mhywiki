@@ -1,0 +1,15 @@
+{
+  "id": "80079",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "鸣草丛中的捕手 · 其一",
+  "description": "在稻妻的鸣神岛、神无冢与八酝岛，追上10个雷灵。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

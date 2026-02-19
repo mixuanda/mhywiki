@@ -1,0 +1,25 @@
+{
+  "id": "60511",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深海龙蜥幼体 · 吞雷",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "bbv"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 深海龙蜥"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

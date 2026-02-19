@@ -1,0 +1,17 @@
+{
+  "id": "10010033",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "充能",
+  "description": "充能达到上限时触发天赋【乘胜追击】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010033,
+    "MDF": "MAvatar_Himeko_00_Passive_Pursuit",
+    "Name": "充能",
+    "Desc": "充能达到上限时触发天赋【乘胜追击】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

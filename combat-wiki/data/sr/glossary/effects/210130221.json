@@ -1,0 +1,18 @@
+{
+  "id": "210130221",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "作战加速",
+  "description": "速度提高<color> <b>A</b> </color>。每次施放【协力指令】时使自身速度进一步提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210130221,
+    "MDF": "Monster_W1_Mecha04_00_RL_Phase3Passive",
+    "Name": "作战加速",
+    "Desc": "速度提高<color> <b>A</b> </color>。每次施放【协力指令】时使自身速度进一步提高。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

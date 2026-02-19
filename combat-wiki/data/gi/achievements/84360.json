@@ -1,0 +1,15 @@
+{
+  "id": "84360",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "唯遗余烬",
+  "description": "残月留下了最后的光辉。",
+  "reward": 5,
+  "version": "6.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

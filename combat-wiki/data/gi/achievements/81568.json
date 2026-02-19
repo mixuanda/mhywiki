@@ -1,0 +1,15 @@
+{
+  "id": "81568",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "凶手就是你！",
+  "description": "找到了在「沃陆之邦」部族里四处惹祸的捣蛋鬼。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

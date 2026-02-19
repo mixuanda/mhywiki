@@ -1,0 +1,15 @@
+{
+  "id": "80299",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "水仙十字题解",
+  "description": "何物徒留名字？何物遍开幽谷？何物映自身于镜水？何物象征拯救世界的孤独牺牲？",
+  "reward": 10,
+  "version": "4.2",
+  "group": {
+    "id": "46"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

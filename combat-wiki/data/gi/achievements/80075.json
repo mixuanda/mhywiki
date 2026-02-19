@@ -1,0 +1,15 @@
+{
+  "id": "80075",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "跨越雷鸣的大地 · 其一",
+  "description": "解锁稻妻区域中，鸣神岛、神无冢与八酝岛所有传送锚点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

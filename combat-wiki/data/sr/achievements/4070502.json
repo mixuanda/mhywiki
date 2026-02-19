@@ -1,0 +1,18 @@
+{
+  "id": "4070502",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "回忆、悲伤与荆棘",
+  "description": "使 1.0 名敌人同时处于 4.0 个持续伤害状态",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

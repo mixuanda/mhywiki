@@ -1,0 +1,19 @@
+{
+  "id": "280010301",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "攻击提高",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280010301,
+    "MDF": "Monster_XP_Minion03_00_Attack",
+    "Name": "攻击提高",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

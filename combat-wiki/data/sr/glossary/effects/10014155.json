@@ -1,0 +1,19 @@
+{
+  "id": "10014155",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「天空」之诗",
+  "description": "风堇的治疗数值计入小伊卡忆灵技的累计治疗数值额外提高，提高数值等同于本次治疗数值的<color> <b>A</b> </color>。风堇施放战技/终结技后，消耗1层【献予「天空」之诗】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014155,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Hyacine",
+    "Name": "献予「天空」之诗",
+    "Desc": "风堇的治疗数值计入小伊卡忆灵技的累计治疗数值额外提高，提高数值等同于本次治疗数值的<color> <b>A</b> </color>。风堇施放战技/终结技后，消耗1层【献予「天空」之诗】。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

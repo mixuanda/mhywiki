@@ -1,0 +1,18 @@
+{
+  "id": "4052721",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "无机的智慧果",
+  "description": "获得阅读物《螺丝咕姆的留言》",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

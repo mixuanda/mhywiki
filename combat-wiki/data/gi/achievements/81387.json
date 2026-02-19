@@ -1,0 +1,15 @@
+{
+  "id": "81387",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "当机芯陷入沉眠…",
+  "description": "发现「奎瑟尔发条工坊」中隐藏的秘密。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

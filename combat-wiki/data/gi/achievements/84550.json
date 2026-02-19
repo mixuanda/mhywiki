@@ -1,0 +1,15 @@
+{
+  "id": "84550",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "斩花除根",
+  "description": "找到并打倒逃走的骗骗花。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

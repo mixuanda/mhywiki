@@ -1,0 +1,18 @@
+{
+  "id": "10013094",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "协奏",
+  "description": "攻击力提高<color> <b>A</b> </color>点，攻击后知更鸟造成附加伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013094,
+    "MDF": "MAvatar_Robin_Skill03_AtkUp_FriendForShow",
+    "Name": "协奏",
+    "Desc": "攻击力提高<color> <b>A</b> </color>点，攻击后知更鸟造成附加伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "210040323",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "冲锋",
+  "description": "当前角色处于主攻状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040323,
+    "MDF": "MMonster_W1_Bronya_00_IF_02_MainHaloEffect",
+    "Name": "冲锋",
+    "Desc": "当前角色处于主攻状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

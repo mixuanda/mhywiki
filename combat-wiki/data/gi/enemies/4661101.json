@@ -1,0 +1,32 @@
+{
+  "id": "4661101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "亚稳态翠翎恐蕈",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 0.7,
+    "Fire": 0.7,
+    "Water": 0.7,
+    "Elec": 0.7,
+    "Ice": 0.7,
+    "Grass": 1.6,
+    "Wind": 0.7,
+    "Rock": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "jpt"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

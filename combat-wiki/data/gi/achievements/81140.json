@@ -1,0 +1,15 @@
+{
+  "id": "81140",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "正经的钓鱼学位",
+  "description": "解锁20个鱼类图鉴。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

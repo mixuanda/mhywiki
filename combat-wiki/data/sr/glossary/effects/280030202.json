@@ -1,0 +1,17 @@
+{
+  "id": "280030202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "自燃",
+  "description": "外宇宙之炎的攻击模式得到强化。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030202,
+    "MDF": "XP_Fire_Elite_Burning_Modifier_2",
+    "Name": "自燃",
+    "Desc": "外宇宙之炎的攻击模式得到强化。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

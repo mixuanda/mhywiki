@@ -1,0 +1,28 @@
+{
+  "id": "10008",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "赌徒",
+  "icon": "UI_RelicIcon_10008",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "元素战技造成的伤害提升20%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "击败敌人时，有100%概率清除元素战技的冷却时间。该效果每15秒至多触发一次。"
+    }
+  ],
+  "parts": [
+    "赌徒的胸花",
+    "赌徒的羽饰",
+    "赌徒的怀表",
+    "赌徒的骰盅",
+    "赌徒的耳环"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

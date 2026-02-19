@@ -1,0 +1,10 @@
+{
+  "id": "114013",
+  "game": "sr",
+  "entityType": "material",
+  "name": "欲念碎镜",
+  "icon": "itemicon/114013.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

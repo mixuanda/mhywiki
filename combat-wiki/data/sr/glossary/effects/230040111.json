@@ -1,0 +1,17 @@
+{
+  "id": "230040111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "「秩序的傀儡」",
+  "description": "被秩序操纵的傀儡，可能成为【司律】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230040111,
+    "MDF": "Monster_W3_FigureBoss_00_Common_Basic",
+    "Name": "「秩序的傀儡」",
+    "Desc": "被秩序操纵的傀儡，可能成为【司律】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

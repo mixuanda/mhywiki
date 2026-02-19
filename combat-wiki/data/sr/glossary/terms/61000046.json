@@ -1,0 +1,15 @@
+{
+  "id": "61000046",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "界区",
+  "description": "对特定目标持续生效一定轮次的效果，已生效的界区会被星级更高的同名界区覆盖。",
+  "content": {
+    "_id": 61000046,
+    "Name": "界区",
+    "Desc": "对特定目标持续生效一定轮次的效果，已生效的界区会被星级更高的同名界区覆盖。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

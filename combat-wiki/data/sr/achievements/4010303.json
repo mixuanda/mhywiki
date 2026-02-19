@@ -1,0 +1,18 @@
+{
+  "id": "4010303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我的大学",
+  "description": "任意角色等级达到 80.0 级",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

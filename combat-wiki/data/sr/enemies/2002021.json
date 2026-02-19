@@ -1,0 +1,39 @@
+{
+  "id": "2002021",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "飞剑",
+  "description": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。",
+  "stats": {
+    "HP": 1.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Elec",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.4,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_2002020.png",
+  "figure": "monsterfigure/BossIconTemporary.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

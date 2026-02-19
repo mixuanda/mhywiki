@@ -1,0 +1,39 @@
+{
+  "id": "803203404",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「所有或一无所有 · 双倍好运」",
+  "description": "「孤注一掷的掷骰者」所化博弈之骰，于赌局中裁断博徒们的命运。",
+  "stats": {
+    "HP": 2.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 60.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_8032034.png",
+  "figure": "monsterfigure/Monster_8032034.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

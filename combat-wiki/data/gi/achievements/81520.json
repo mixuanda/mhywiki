@@ -1,0 +1,15 @@
+{
+  "id": "81520",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "捉回四处逃逸的色彩",
+  "description": "让幻写灵回到该回的地方。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

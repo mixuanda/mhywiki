@@ -1,0 +1,15 @@
+{
+  "id": "61000008",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "奇物扑满",
+  "description": "奇物扑满信标，带有该信标的区域中战斗会出现扑满，消灭后可获得额外的奇物。",
+  "content": {
+    "_id": 61000008,
+    "Name": "奇物扑满",
+    "Desc": "奇物扑满信标，带有该信标的区域中战斗会出现扑满，消灭后可获得额外的奇物。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

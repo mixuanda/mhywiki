@@ -1,0 +1,15 @@
+{
+  "id": "84566",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大街上的办公室",
+  "description": "见证枫丹廷内的些许琐事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

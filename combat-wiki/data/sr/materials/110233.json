@@ -1,0 +1,10 @@
+{
+  "id": "110233",
+  "game": "sr",
+  "entityType": "material",
+  "name": "天外乐章",
+  "icon": "itemicon/110233.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

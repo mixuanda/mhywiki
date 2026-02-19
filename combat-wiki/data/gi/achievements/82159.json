@@ -1,0 +1,15 @@
+{
+  "id": "82159",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "热光学迷彩",
+  "description": "3秒内，通过原激化、超激化、蔓激化或「真识波」，破除至少2台元能构装体的不可视状态。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "36"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

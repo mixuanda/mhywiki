@@ -1,0 +1,18 @@
+{
+  "id": "100100632",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "冰属性抗性降低",
+  "description": "冰属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100632,
+    "MDF": "MAvatar_Advanced_Silwolf_00_Rank02_Ice",
+    "Name": "冰属性抗性降低",
+    "Desc": "冰属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

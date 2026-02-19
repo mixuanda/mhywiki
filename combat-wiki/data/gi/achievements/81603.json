@@ -1,0 +1,15 @@
+{
+  "id": "81603",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "当极光闪耀",
+  "description": "让漂亮的彩缎出现在蓝珀湖上空。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

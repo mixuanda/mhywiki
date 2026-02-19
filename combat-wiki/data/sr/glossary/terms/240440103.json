@@ -1,0 +1,15 @@
+{
+  "id": "240440103",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "「律法」的惩戒",
+  "description": "每次行动后损失生命值。",
+  "content": {
+    "_id": 240440103,
+    "Name": "「律法」的惩戒",
+    "Desc": "每次行动后损失生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

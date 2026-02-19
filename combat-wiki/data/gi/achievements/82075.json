@@ -1,0 +1,15 @@
+{
+  "id": "82075",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "力场侵蚀",
+  "description": "粉碎无相之雷的结界。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

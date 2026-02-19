@@ -1,0 +1,15 @@
+{
+  "id": "84031",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "将诸神的力量付之一笑",
+  "description": "得知「命运的织机」正在进行中…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

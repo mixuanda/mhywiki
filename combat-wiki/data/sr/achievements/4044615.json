@@ -1,0 +1,18 @@
+{
+  "id": "4044615",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虫鸣秘闻：四者之系",
+  "description": "正确的四者是哪四者？<br><color style='color:#8790ab;'>※解开「全世矩阵」无名泰坦大墓的预言谜题</color>",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

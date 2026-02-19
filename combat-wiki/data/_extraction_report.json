@@ -1,0 +1,33 @@
+{
+  "locale": "CH",
+  "sourceSite": "/Users/mixuanda/Library/CloudStorage/OneDrive-mixuanda/root/code/HomDGCat/site",
+  "output": "/Users/mixuanda/Library/CloudStorage/OneDrive-mixuanda/root/code/HomDGCat/combat-wiki/data",
+  "gi": {
+    "characters": 122,
+    "weapons": 227,
+    "artifacts": 61,
+    "enemies": 558,
+    "materials": 335,
+    "abyssCycles": 50,
+    "theaterSeasons": 20,
+    "youjingCycles": 6,
+    "banners": 98
+  },
+  "sr": {
+    "characters": 89,
+    "lightcones": 150,
+    "relics": 52,
+    "enemies": 2315,
+    "materials": 61,
+    "mocCycles": 37,
+    "pureFictionCycles": 21,
+    "apocalypticShadowCycles": 15,
+    "yixiangCycles": 3,
+    "banners": 49
+  },
+  "notes": [
+    "Story/lore/quest/admin-oriented fields are removed during normalization.",
+    "Yunli score pages are intentionally excluded from extracted output.",
+    "Raw site assets are not copied into combat-wiki/data."
+  ]
+}

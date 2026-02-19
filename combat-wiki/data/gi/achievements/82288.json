@@ -1,0 +1,15 @@
+{
+  "id": "82288",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「雷吉」",
+  "description": "战胜地方传奇 · 雷吉。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

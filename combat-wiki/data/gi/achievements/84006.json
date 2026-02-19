@@ -1,0 +1,15 @@
+{
+  "id": "84006",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "骑士精神",
+  "description": "成为西风骑士团的荣誉骑士。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

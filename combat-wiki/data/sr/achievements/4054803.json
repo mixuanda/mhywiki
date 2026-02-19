@@ -1,0 +1,18 @@
+{
+  "id": "4054803",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "奇美拉大师",
+  "description": "在「黄金嗷呜大师赛」中，赛事段位达到黄金",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

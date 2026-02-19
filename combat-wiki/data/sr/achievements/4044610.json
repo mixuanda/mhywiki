@@ -1,0 +1,18 @@
+{
+  "id": "4044610",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "存钱罐的自我修养",
+  "description": "使用巴特鲁斯的视角，完成隐藏的终极挑战",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

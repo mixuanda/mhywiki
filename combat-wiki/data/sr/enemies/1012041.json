@@ -1,0 +1,39 @@
+{
+  "id": "1012041",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "辅助机械臂单元",
+  "description": "受史瓦罗所操控的机械装置。<br>机械臂在场上存在一定回合后会对我方展开猛攻。",
+  "stats": {
+    "HP": 1.75,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Elec",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_1012040.png",
+  "figure": "monsterfigure/Monster_1012040.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

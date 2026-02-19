@@ -1,0 +1,15 @@
+{
+  "id": "81200",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "《层岩巨渊矿产志》",
+  "description": "阅读层岩巨渊矿产相关书籍的全部断章。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

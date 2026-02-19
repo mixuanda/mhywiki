@@ -1,0 +1,19 @@
+{
+  "id": "240130103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "易伤",
+  "description": "受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240130103,
+    "MDF": "MModifier_Monster_W4_Claymore_00_Skill04_DamageTakenUp",
+    "Name": "易伤",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

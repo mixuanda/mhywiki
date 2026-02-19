@@ -1,0 +1,22 @@
+{
+  "id": "14305",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "甲级宝珏",
+  "description": "两块玉石拼成的精致玉佩。",
+  "rarity": 3,
+  "weaponType": 3,
+  "baseAtk": 448.2215814,
+  "subStatType": "CR",
+  "subStatValue": 0.15619600000000003,
+  "materialRefs": [
+    "112028",
+    "112034",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14305.js"
+  }
+}

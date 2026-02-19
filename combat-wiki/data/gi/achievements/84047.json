@@ -1,0 +1,15 @@
+{
+  "id": "84047",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "SWORDFISH Ⅱ",
+  "description": "获得剑鱼二番队的认可。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

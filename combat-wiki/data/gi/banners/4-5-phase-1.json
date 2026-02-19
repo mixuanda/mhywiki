@@ -1,0 +1,34 @@
+{
+  "id": "4-5-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.5",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Chiori",
+      "X": 1
+    },
+    {
+      "N": "Itto",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Gorou",
+      "X": 4
+    },
+    {
+      "N": "Dori",
+      "X": 4
+    },
+    {
+      "N": "Yunjin",
+      "X": 6
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

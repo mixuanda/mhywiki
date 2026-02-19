@@ -1,0 +1,15 @@
+{
+  "id": "84136",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「楼上的区域…」",
+  "description": "在惊动九条裟罗和久岐忍之前被劝阻。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

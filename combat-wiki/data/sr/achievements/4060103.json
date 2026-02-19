@@ -1,0 +1,18 @@
+{
+  "id": "4060103",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "影逝百度（八）",
+  "description": "击败 800.0 次凝滞虚影",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 6,
+    "Name": "不屈者的荣光",
+    "Icon": "ChallengeAchievementIcon.png",
+    "Count": 12
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

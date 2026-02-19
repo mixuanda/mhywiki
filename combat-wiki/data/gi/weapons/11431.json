@@ -1,0 +1,57 @@
+{
+  "id": "11431",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "息燧之笛",
+  "description": "造型奇特的玉石长刀，在烟谜主的传承中被称作「祭司之笛」的礼器。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "DEF",
+  "subStatValue": 0.689711002,
+  "materialRefs": [
+    "112100",
+    "112103",
+    "114064"
+  ],
+  "affix": {
+    "111431": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续10秒。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续10秒。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续15秒。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续15秒。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续15秒。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续15秒。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11431.js"
+  }
+}

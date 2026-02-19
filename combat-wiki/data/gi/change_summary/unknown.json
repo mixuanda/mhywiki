@@ -1,0 +1,13 @@
+{
+  "id": "unknown",
+  "game": "gi",
+  "entityType": "changeSummary",
+  "name": "爱可菲",
+  "versions": [
+    "5.6",
+    "5.6v5"
+  ],
+  "source": {
+    "file": "Char/GI.json"
+  }
+}

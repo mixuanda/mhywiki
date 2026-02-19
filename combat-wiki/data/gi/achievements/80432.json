@@ -1,0 +1,15 @@
+{
+  "id": "80432",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 水软风柔之岛",
+  "description": "解除纳塔区域中，悠悠度假村所有地灵龛的封印。",
+  "reward": 10,
+  "version": "5.8",
+  "group": {
+    "id": "62"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

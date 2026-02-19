@@ -1,0 +1,15 @@
+{
+  "id": "80321",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "古海的寻宝者",
+  "description": "在诺思托伊区、旧日之海开启<color style='color:#FF0000;'><b>60</b></color>个宝箱。",
+  "reward": 10,
+  "version": "4.6",
+  "group": {
+    "id": "48"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

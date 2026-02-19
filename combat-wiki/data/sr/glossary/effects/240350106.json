@@ -1,0 +1,17 @@
+{
+  "id": "240350106",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害共鸣",
+  "description": "目标受到伤害时，【反造物主】也会受到该伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350106,
+    "MDF": "MMonster_W4_IronTombCorePart_DamageTransfer",
+    "Name": "伤害共鸣",
+    "Desc": "目标受到伤害时，【反造物主】也会受到该伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

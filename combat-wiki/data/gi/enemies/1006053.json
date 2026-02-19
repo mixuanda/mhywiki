@@ -1,0 +1,21 @@
+{
+  "id": "1006053",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "铁甲熔火帝皇 · 急袭",
+  "description": "矗立在原海异种顶端的两位霸主之一，曾经是海员之间的逸闻。不遇天敌，能够一直狩猎、进食的重甲蟹会随着成长，不断寻找适合的螺与贝壳，作为新的甲胄。<br>被地面紊乱的奔流所缠绕后，它的性情愈加暴戾好战，俨然成为所有原海异种的噩梦…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_HermitCrabPrimo",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

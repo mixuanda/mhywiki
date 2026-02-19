@@ -1,0 +1,18 @@
+{
+  "id": "4053415",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "影卫信条",
+  "description": "初次在幽囚狱上层俯瞰幽囚狱时，选择凝视深渊",
+  "reward": 5,
+  "version": 2.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

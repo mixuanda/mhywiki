@@ -1,0 +1,18 @@
+{
+  "id": "4073703",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一起飞向天空",
+  "description": "使用同时包含知更鸟、星期日的队伍获得 1 场战斗的胜利",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

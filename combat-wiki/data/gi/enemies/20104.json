@@ -1,0 +1,25 @@
+{
+  "id": "20104",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "雷深渊法师",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "eam"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 深渊法师"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

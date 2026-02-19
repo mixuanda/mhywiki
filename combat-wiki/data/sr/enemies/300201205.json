@@ -1,0 +1,39 @@
+{
+  "id": "300201205",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "蕉研组的助蕉",
+  "description": "原本是搭载了通用教材的「圆幕先生」，受到模因病毒的影响，教材变成了蕉材。在蕉石般的严厉与蕉阳般的热情间转换，必不可少的猿工，值得蕉往的猴友。",
+  "stats": {
+    "HP": 2.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 110.0,
+    "Stance": 15.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Fire": 0.4,
+    "Wind": 0.4,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3002011.png",
+  "figure": "monsterfigure/Monster_3002011.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

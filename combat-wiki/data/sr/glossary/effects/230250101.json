@@ -1,0 +1,17 @@
+{
+  "id": "230250101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "太初有力",
+  "description": "<color> <b>A</b> </color>回合后施放【太初有为】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230250101,
+    "MDF": "MMonster_W3_Sunday_00_Skill08_TheWorld_V4",
+    "Name": "太初有力",
+    "Desc": "<color> <b>A</b> </color>回合后施放【太初有为】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

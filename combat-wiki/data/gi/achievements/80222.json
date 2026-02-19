@@ -1,0 +1,15 @@
+{
+  "id": "80222",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "微缩型骰子壶",
+  "description": "在获胜的牌局中，累计造成<color style='color:#FF0000;'><b>5</b></color>次8点以上的单次行动伤害。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

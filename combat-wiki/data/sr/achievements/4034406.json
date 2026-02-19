@@ -1,0 +1,18 @@
+{
+  "id": "4034406",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "骑乘B",
+  "description": "骑士王再度乘上「战马」之日<br><color style='color:#8790ab;'>※和Saber一同击败音符姥姥</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

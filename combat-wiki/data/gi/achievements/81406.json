@@ -1,0 +1,15 @@
+{
+  "id": "81406",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "明天交换明天",
+  "description": "教会珀西芙如何道别。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

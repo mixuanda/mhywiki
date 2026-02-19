@@ -1,0 +1,18 @@
+{
+  "id": "4053225",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "高成本影片",
+  "description": "在《美梦往事》中同一回合至少获得3.0个及以上的时间骰子6.0",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

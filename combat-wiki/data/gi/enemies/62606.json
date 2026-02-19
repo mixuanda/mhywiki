@@ -1,0 +1,27 @@
+{
+  "id": "62606",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「依奇卡胡伊皮利的庇护」",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Grass": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Wayob_Hookwalker"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.0 夜魂试炼"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

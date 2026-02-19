@@ -1,0 +1,18 @@
+{
+  "id": "4072502",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "园艺达人",
+  "description": "不消灭丰饶玄莲的情况下击败幻胧",
+  "reward": 10,
+  "version": 1.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

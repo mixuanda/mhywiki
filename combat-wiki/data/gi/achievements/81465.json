@@ -1,0 +1,15 @@
+{
+  "id": "81465",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "鲤跃天门开",
+  "description": "见证金鲤飞跃空谷。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

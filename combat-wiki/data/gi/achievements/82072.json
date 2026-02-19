@@ -1,0 +1,15 @@
+{
+  "id": "82072",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "国王刺客",
+  "description": "击败龙脊雪山的真正王者…？",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "15"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

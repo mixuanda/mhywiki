@@ -1,0 +1,17 @@
+{
+  "id": "10014062",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "老主顾",
+  "description": "已记录<color> <b>A</b> </color>点伤害值。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014062,
+    "MDF": "MAvatar_Cipher_BpKuoSan_Self",
+    "Name": "老主顾",
+    "Desc": "已记录<color> <b>A</b> </color>点伤害值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

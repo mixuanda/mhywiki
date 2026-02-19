@@ -1,0 +1,18 @@
+{
+  "id": "4053012",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "品味感觉",
+  "description": "「钟表把戏」能带来什么？<br><color style='color:#8790ab;'>※在梦中引导1.0个人的情绪</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

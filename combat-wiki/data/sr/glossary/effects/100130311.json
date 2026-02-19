@@ -1,0 +1,18 @@
+{
+  "id": "100130311",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "摇花缎水，沾衣不摘",
+  "description": "全属性抗性穿透提高<color> <b>A</b> </color>，造成伤害时无视目标<color> <b>B</b> </color>的防御力。",
+  "effectType": "character",
+  "content": {
+    "_id": 100130311,
+    "MDF": "RuanMei_Skill03_Area_Rank01_Friend",
+    "Name": "摇花缎水，沾衣不摘",
+    "Desc": "全属性抗性穿透提高<color> <b>A</b> </color>，造成伤害时无视目标<color> <b>B</b> </color>的防御力。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

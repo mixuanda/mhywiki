@@ -1,0 +1,15 @@
+{
+  "id": "84155",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "途中的见闻",
+  "description": "见证一次逸闻。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

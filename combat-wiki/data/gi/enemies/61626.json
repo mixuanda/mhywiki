@@ -1,0 +1,32 @@
+{
+  "id": "61626",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的岩居蟹",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_HermitCrab_Mature_Elite"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": {
+    "Name": "历经百战的岩居蟹",
+    "Icon": "UI_MonsterIcon_HermitCrab_Mature_Elite",
+    "DescList": [
+      "• 在场上散布@「岩居之种」#：短暂间隔后爆炸，若受到@任意绽放伤害#，则会被转化，对首领造成 @500%# 自身受到的绽放伤害的伤害，不超过 1500000",
+      "• 战斗开始后，敌人@立刻升空蓄力#，转化 @6# 个「岩居之种」#可以破除护盾使其瘫痪，使全部抗性降低 @40%#，否则将造成大量伤害并使全部抗性提升 @70%#"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

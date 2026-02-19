@@ -1,0 +1,19 @@
+{
+  "id": "220220802",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "繁生",
+  "description": "攻击力提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220220802,
+    "MDF": "MMonster_W2_Xuanlu_02_Buff",
+    "Name": "繁生",
+    "Desc": "攻击力提高。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

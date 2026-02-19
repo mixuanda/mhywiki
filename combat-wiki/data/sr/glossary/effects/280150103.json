@@ -1,0 +1,19 @@
+{
+  "id": "280150103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "增幅",
+  "description": "攻击力提高<color> <b>A</b> </color>，技能得到强化。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150103,
+    "MDF": "MMonster_W0_Boss_00_Part2_AttackUp",
+    "Name": "增幅",
+    "Desc": "攻击力提高<color> <b>A</b> </color>，技能得到强化。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

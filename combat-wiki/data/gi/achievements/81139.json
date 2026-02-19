@@ -1,0 +1,15 @@
+{
+  "id": "81139",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "尽倾江海里",
+  "description": "成功制作20次鱼饵。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

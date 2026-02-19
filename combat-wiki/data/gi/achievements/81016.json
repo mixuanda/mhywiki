@@ -1,0 +1,15 @@
+{
+  "id": "81016",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无妄引咎密宫",
+  "description": "跟随仙灵点燃火光，解锁无妄坡内的秘境入口。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81067",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "来点颜色瞧瞧？",
+  "description": "制作600份染料。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "18"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

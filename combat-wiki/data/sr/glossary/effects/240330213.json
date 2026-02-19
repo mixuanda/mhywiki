@@ -1,0 +1,17 @@
+{
+  "id": "240330213",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害降低",
+  "description": "该目标对敌方目标造成伤害时，敌方目标受到的伤害降低<color> <b>A</b> </color>，当【侵蚀】状态移除时该状态移除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330213,
+    "MDF": "MMonster_W4_Claymore_01_LocalLegend_Fatigue",
+    "Name": "伤害降低",
+    "Desc": "该目标对敌方目标造成伤害时，敌方目标受到的伤害降低<color> <b>A</b> </color>，当【侵蚀】状态移除时该状态移除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

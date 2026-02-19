@@ -1,0 +1,15 @@
+{
+  "id": "84118",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沧海不归客",
+  "description": "与托马一起见证犬少将的故事",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

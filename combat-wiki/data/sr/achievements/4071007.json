@@ -1,0 +1,18 @@
+{
+  "id": "4071007",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "落井下石",
+  "description": "单场战斗中对陷入弱点击破的敌人累计造成 20000.0 伤害",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

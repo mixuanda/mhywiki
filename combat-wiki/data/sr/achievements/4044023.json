@@ -1,0 +1,18 @@
+{
+  "id": "4044023",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "同步鸟瞰点",
+  "description": "抵达云石市集的最高处",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

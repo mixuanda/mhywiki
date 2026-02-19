@@ -1,0 +1,25 @@
+{
+  "id": "401",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "无相之雷",
+  "description": "代号为「阿莱夫」的高级雷元素生命。\n无相元素是顶尖的元素构造体，会在元素能量喷涌的位置，或元素地脉阻塞的地点形成。\n不同的无相元素会基于其元素特性，进化出战斗的方式。",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "eh"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 无相元素"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81552",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "急急现形",
+  "description": "第一次使用「灵谜涂鸦」的力量，创生「灵谜体」。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

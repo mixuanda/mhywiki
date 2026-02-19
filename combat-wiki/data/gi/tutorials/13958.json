@@ -1,0 +1,35 @@
+{
+  "id": "13958",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13958",
+  "tags": [],
+  "content": {
+    "_id": 13958,
+    "N": "作战策略",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_MonsterChess_Monster_02",
+        "D": "不同的交战单位之间存在一定的压制关系：<br>能造成<color style='color:#FFCC33'>范围伤害#的单位，面对<color style='color:#FFCC33'>小队#单位时具有显著优势。<br><color style='color:#FFCC33'>近战#单位压制<color style='color:#FFCC33'>远程#单位，<color style='color:#FFCC33'>远程#单位压制<color style='color:#FFCC33'>空中#单位，<color style='color:#FFCC33'>空中#单位压制<color style='color:#FFCC33'>近战#单位。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess_Monster_01",
+        "D": "<color style='color:#FFCC33'>近战#单位拥有极高的战斗韧性，承受更高的伤害，能够一定程度上保护其他单位。<br><color style='color:#FFCC33'>空中#单位能在空中飞行，从而规避来自地面的近战伤害和一些范围伤害。<br><color style='color:#FFCC33'>远程#单位射程较远、伤害较高，但是相对比较脆弱。大部分远程单位都可以攻击空中单位。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Monster_03",
+        "D": "当上阵或调整我方单位时，对阵的敌方单位若存在<color style='color:#FFCC33'>元素免疫#或<color style='color:#FFCC33'>空中#单位的压制关系，则会显示压制提示。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_07",
+        "D": "在每场推演的第2/6回合，旅行者将获得1次机会，抽选<color style='color:#FFCC33'>阵列战旗#。<br>己方佩戴阵列战旗后，将强化队伍内的交战单位。<br>在第4/8回合，旅行者的阵列战旗会获得强化。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

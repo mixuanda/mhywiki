@@ -1,0 +1,39 @@
+{
+  "id": "202210001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "嘉实之杪",
+  "description": "随玄鹿足迹而生的建木枝梢。",
+  "stats": {
+    "HP": 2.4,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 66.0,
+    "Stance": 4.0
+  },
+  "weakness": [
+    "Fire",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_2022100.png",
+  "figure": "monsterfigure/Monster_2022100.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

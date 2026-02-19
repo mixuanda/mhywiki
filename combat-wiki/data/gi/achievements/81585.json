@@ -1,0 +1,15 @@
+{
+  "id": "81585",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「他们给了我名字」",
+  "description": "帮助伊凯卡完成枪手训练。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

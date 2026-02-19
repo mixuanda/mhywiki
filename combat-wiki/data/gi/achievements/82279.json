@@ -1,0 +1,15 @@
+{
+  "id": "82279",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「尖峰」",
+  "description": "战胜地方传奇 · 尖峰。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

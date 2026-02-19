@@ -1,0 +1,15 @@
+{
+  "id": "80157",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "烁然灼目",
+  "description": "将「流明石触媒」强化至最大等级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "30"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

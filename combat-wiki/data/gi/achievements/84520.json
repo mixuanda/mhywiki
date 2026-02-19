@@ -1,0 +1,15 @@
+{
+  "id": "84520",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "西风佑我",
+  "description": "见证吉丽安娜的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

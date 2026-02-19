@@ -1,0 +1,25 @@
+{
+  "id": "60601",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "雷萤",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "ecic"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 飞萤"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

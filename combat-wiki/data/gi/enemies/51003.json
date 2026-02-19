@@ -1,0 +1,27 @@
+{
+  "id": "51003",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「公义」",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "kdt"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 「公义」"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

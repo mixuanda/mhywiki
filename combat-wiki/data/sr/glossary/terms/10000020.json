@@ -1,0 +1,15 @@
+{
+  "id": "10000020",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "境界",
+  "description": "境界效果全场唯一，持续期间无法施放其他境界效果的技能。",
+  "content": {
+    "_id": 10000020,
+    "Name": "境界",
+    "Desc": "境界效果全场唯一，持续期间无法施放其他境界效果的技能。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "12418",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "饰铁之花",
+  "description": "造型优雅利落的大剑，其上装饰节庆的鲜花与缎带。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 564.7837244,
+  "subStatType": "EM",
+  "subStatValue": 110.256,
+  "materialRefs": [
+    "112055",
+    "112076",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12418.js"
+  }
+}

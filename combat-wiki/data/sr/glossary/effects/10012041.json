@@ -1,0 +1,17 @@
+{
+  "id": "10012041",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "斩勘神形",
+  "description": "【神君】攻击段数。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012041,
+    "MDF": "MAvatar_JingYuan_00_BattleEvent_ATKCount",
+    "Name": "斩勘神形",
+    "Desc": "【神君】攻击段数。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "300202003",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "惊梦剧团的幸运贩售",
+  "description": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是为宾客带来惊喜的抽奖机器，失控后仍在筹备着各种礼品，渴望奉献自身来印证来者的幸运。",
+  "stats": {
+    "HP": 2.25,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002020.png",
+  "figure": "monsterfigure/Monster_3002020.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

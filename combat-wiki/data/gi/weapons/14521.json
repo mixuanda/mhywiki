@@ -1,0 +1,22 @@
+{
+  "id": "14521",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "真语秘匣",
+  "description": "黄金与玉石雕琢而成的角匣，传说曾供奉于蓝宝石之城图莱杜拉深处的神殿。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 541.829758,
+  "subStatType": "CD",
+  "subStatValue": 0.882048,
+  "materialRefs": [
+    "112061",
+    "112133",
+    "114044"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14521.js"
+  }
+}

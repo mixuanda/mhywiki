@@ -1,0 +1,15 @@
+{
+  "id": "61000015",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "奖励",
+  "description": "奖励区域，在这个区域中可以通过选择获得不同的奖励。",
+  "content": {
+    "_id": 61000015,
+    "Name": "奖励",
+    "Desc": "奖励区域，在这个区域中可以通过选择获得不同的奖励。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

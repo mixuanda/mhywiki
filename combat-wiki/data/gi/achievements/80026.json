@@ -1,0 +1,15 @@
+{
+  "id": "80026",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "英雄之礼",
+  "description": "获得四星圣遗物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

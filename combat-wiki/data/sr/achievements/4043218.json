@@ -1,0 +1,18 @@
+{
+  "id": "4043218",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "鳄鱼公敌",
+  "description": "在《小小哈努行动》的结局关卡中击败「钢铁鳄鱼」",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

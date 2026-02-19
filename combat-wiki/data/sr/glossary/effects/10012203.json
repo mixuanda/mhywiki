@@ -1,0 +1,19 @@
+{
+  "id": "10012203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "电举",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012203,
+    "MDF": "MAvatar_Feixiao_00_AttackProperty",
+    "Name": "电举",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

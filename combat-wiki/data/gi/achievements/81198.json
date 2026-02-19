@@ -1,0 +1,15 @@
+{
+  "id": "81198",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一把钥匙开一把锁",
+  "description": "找到所有的键纹。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

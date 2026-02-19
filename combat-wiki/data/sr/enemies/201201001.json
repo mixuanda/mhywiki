@@ -1,0 +1,39 @@
+{
+  "id": "201201001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "格律诗人",
+  "description": "由小聪打造的「格律诗人」。<br>内置「灵感玉兆」，搜集诗体格式，节奏音律等素材，用于辅助诗歌格律的创作。",
+  "stats": {
+    "HP": 1.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2012010.png",
+  "figure": "monsterfigure/Monster_2012010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

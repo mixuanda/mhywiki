@@ -1,0 +1,18 @@
+{
+  "id": "4074203",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "驯龙高手",
+  "description": "单场战斗中，使用我方角色遐蝶召唤3.0次「死龙·玻吕刻斯」",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

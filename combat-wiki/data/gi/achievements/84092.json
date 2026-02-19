@@ -1,0 +1,15 @@
+{
+  "id": "84092",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "漫游星河之夜",
+  "description": "回想关于血亲的回忆。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

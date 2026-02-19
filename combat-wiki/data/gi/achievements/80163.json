@@ -1,0 +1,15 @@
+{
+  "id": "80163",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如草芳绚",
+  "description": "将须弥的七天神像供奉至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "31"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

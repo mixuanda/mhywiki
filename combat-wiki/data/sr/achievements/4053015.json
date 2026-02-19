@@ -1,0 +1,18 @@
+{
+  "id": "4053015",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "心脏怦怦直跳",
+  "description": "在梦里，就连情绪都有实体<br><color style='color:#8790ab;'>※收集1.0个情绪齿轮</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

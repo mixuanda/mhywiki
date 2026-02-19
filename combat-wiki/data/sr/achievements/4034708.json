@@ -1,0 +1,18 @@
+{
+  "id": "4034708",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "缪斯，请为我叙说",
+  "description": "光锥之内，皆是命运<br><color style='color:#8790ab;'>※为史诗写下最后的句点</color>",
+  "reward": 20,
+  "version": 3.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5300512",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "水形幻人 · 洪流",
+  "description": "最高难度 90s | Lv105",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Narcissusborn_Normal_01"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

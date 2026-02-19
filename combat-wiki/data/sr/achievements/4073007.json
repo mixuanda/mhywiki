@@ -1,0 +1,18 @@
+{
+  "id": "4073007",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "持续断糖",
+  "description": "单次战斗中，使用护盾反弹同一惊梦剧团的甜猿泰山扔出的10.0个汽水瓶",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

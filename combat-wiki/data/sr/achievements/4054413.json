@@ -1,0 +1,18 @@
+{
+  "id": "4054413",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一杯赏英雄",
+  "description": "见证一位异乡友人的归去",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

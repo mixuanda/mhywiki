@@ -1,0 +1,18 @@
+{
+  "id": "4053048",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "就是这么牛",
+  "description": "见证一个「伟大的愿景」<br><color style='color:#8790ab;'>※收集家族成员对于筑梦边境项目的评价</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

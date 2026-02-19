@@ -1,0 +1,15 @@
+{
+  "id": "80116",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雾夜的灼灼电影",
+  "description": "在鹤观追上6个雷灵。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "27"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

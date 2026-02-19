@@ -1,0 +1,18 @@
+{
+  "id": "4040202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不开放世界",
+  "description": "激活贝洛伯格 14.0 个界域定锚",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "220340144",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "战血激昂",
+  "description": "造成的伤害提高，击破特攻提高，此效果可叠加。",
+  "content": {
+    "_id": 220340144,
+    "Name": "战血激昂",
+    "Desc": "造成的伤害提高，击破特攻提高，此效果可叠加。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

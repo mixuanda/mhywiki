@@ -1,0 +1,17 @@
+{
+  "id": "280030307",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "惩戒预警",
+  "description": "回合结束时，将会受到相应惩戒。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030307,
+    "MDF": "Monster_XP_Elite02_00_EdictInsert",
+    "Name": "惩戒预警",
+    "Desc": "回合结束时，将会受到相应惩戒。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84350",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "归途",
+  "description": "完成「归途」。",
+  "reward": 10,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

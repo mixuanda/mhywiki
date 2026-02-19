@@ -1,0 +1,18 @@
+{
+  "id": "2403501015",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "错误：核心受损",
+  "description": "【最终进程：错误日志4】\n\n【侵入变量】丹恒：代入SkoPeo365值▀█储存异常量█▄无法删除\n【侵入变量】三月七：代入PhiLia093值▄▀系统时间回滚█▀死循环\nNeiKos496：检测到合并分离▀▀█▄造成核心损坏▄▄▄关键进程中止▄▄▄\n\n严重警告：系统崩溃，即将中止运作\n\n提示：检测到PhiLia093接管权限",
+  "effectType": "monster",
+  "content": {
+    "_id": 2403501015,
+    "MDF": "MMonster_W4_IronTombPhantom_00_Phase4",
+    "Name": "错误：核心受损",
+    "Desc": "【最终进程：错误日志4】\n\n【侵入变量】丹恒：代入SkoPeo365值▀█储存异常量█▄无法删除\n【侵入变量】三月七：代入PhiLia093值▄▀系统时间回滚█▀死循环\nNeiKos496：检测到合并分离▀▀█▄造成核心损坏▄▄▄关键进程中止▄▄▄\n\n严重警告：系统崩溃，即将中止运作\n\n提示：检测到PhiLia093接管权限",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

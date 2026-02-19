@@ -1,0 +1,15 @@
+{
+  "id": "80004",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "神戟狂言凌云霄",
+  "description": "集齐全套《神霄折戟录》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "1"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84079",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沙海奇兵",
+  "description": "发现流沙之下的古代神殿。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

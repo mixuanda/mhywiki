@@ -1,0 +1,15 @@
+{
+  "id": "70000003",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "转身鞭拳",
+  "description": "同时陷入灼烧和弱点击破状态的单位，受到攻击后会额外受到火属性附加伤害。",
+  "content": {
+    "_id": 70000003,
+    "Name": "转身鞭拳",
+    "Desc": "同时陷入灼烧和弱点击破状态的单位，受到攻击后会额外受到火属性附加伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

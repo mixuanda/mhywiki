@@ -1,0 +1,21 @@
+{
+  "id": "1005052",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的暝视龙 · 苦寒",
+  "description": "能够利用生长出的覆羽进行腾跃，亦是唯一一种掌握了进入「灵觉」状态技巧的龙。<br>然而强大的感知力有时并非祝福。在地脉乱流的裹挟下，它的羽翼不复温暖，无数苦楚与憎恶正悄然凝结为寒冰…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Natsaurus_Shamansaurus_Normal",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81437",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "人间剧",
+  "description": "见证勒鲁瓦一家的故事。",
+  "reward": 5,
+  "version": "4.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

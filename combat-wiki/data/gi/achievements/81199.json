@@ -1,0 +1,15 @@
+{
+  "id": "81199",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "岩中幽谷",
+  "description": "解锁「岩中幽谷」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

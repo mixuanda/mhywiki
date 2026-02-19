@@ -1,0 +1,25 @@
+{
+  "id": "10106",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "爆弹丘丘人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "phil"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > 远程丘丘人"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

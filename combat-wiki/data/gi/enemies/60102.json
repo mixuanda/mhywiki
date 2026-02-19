@@ -1,0 +1,25 @@
+{
+  "id": "60102",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "炽热骗骗花",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "pwp"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 骗骗花"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

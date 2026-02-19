@@ -1,0 +1,18 @@
+{
+  "id": "4044304",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虫鸣秘闻：神机之秘",
+  "description": "如何驯服神机？<br><color style='color:#8790ab;'>※解开「穹顶关塞」晨昏之眼的预言谜题</color>",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "100120510",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "充能",
+  "description": "当充能叠加至上限时，消耗所有充能并立即对敌方全体施放1次追加攻击。",
+  "effectType": "character",
+  "content": {
+    "_id": 100120510,
+    "MDF": "MAvatar_Advanced_Ren_Qi",
+    "Name": "充能",
+    "Desc": "当充能叠加至上限时，消耗所有充能并立即对敌方全体施放1次追加攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

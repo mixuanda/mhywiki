@@ -1,0 +1,17 @@
+{
+  "id": "240340137",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "共祭",
+  "description": "当【%CasterName】施放【将尽的命数】时，一同施放【将尽的命数】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340137,
+    "MDF": "MMonster_W4_FireProwler_01_IF_Activated02",
+    "Name": "共祭",
+    "Desc": "当【%CasterName】施放【将尽的命数】时，一同施放【将尽的命数】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

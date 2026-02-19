@@ -1,0 +1,18 @@
+{
+  "id": "4054615",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一日为师…",
+  "description": "在「天气真好，养它！」中，收到9.0封来自小大地兽的感谢",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

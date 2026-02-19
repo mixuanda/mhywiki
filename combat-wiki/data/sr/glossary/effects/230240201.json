@@ -1,0 +1,17 @@
+{
+  "id": "230240201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "次级燃烧",
+  "description": "攻击时消耗生命值，同时速度提高<color> <b>A</b> </color>且额外获得一次行动。当前还剩<color> <b>B</b> </color>点【熔火能量】解除【次级燃烧】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240201,
+    "MDF": "Monster_W3_Sam_00_Enhance",
+    "Name": "次级燃烧",
+    "Desc": "攻击时消耗生命值，同时速度提高<color> <b>A</b> </color>且额外获得一次行动。当前还剩<color> <b>B</b> </color>点【熔火能量】解除【次级燃烧】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

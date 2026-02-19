@@ -1,0 +1,25 @@
+{
+  "id": "107",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "变异雷史莱姆",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "meslm"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 大史莱姆"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

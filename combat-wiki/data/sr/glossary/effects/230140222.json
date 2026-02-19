@@ -1,0 +1,17 @@
+{
+  "id": "230140222",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "弱点无效",
+  "description": "【夜幕将临】状态结束前，韧性无法被削减。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230140222,
+    "MDF": "Monster_W3_DeathPart_00_RLBoss_WeakPointProtected",
+    "Name": "弱点无效",
+    "Desc": "【夜幕将临】状态结束前，韧性无法被削减。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10011064",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "追歼",
+  "description": "下一次攻击造成伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011064,
+    "MDF": "MAvatar_Pela_SkillTree03_DamageAddedRatio",
+    "Name": "追歼",
+    "Desc": "下一次攻击造成伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

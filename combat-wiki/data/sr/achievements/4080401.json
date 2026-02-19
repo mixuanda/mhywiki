@@ -1,0 +1,18 @@
+{
+  "id": "4080401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "开题报告",
+  "description": "收集 10.0 本来自空间站「黑塔」的阅读物",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60000003",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "回味",
+  "description": "由特定「欢愉」命途祝福造成的随机属性追加攻击伤害。",
+  "content": {
+    "_id": 60000003,
+    "Name": "回味",
+    "Desc": "由特定「欢愉」命途祝福造成的随机属性追加攻击伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

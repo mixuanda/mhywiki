@@ -1,0 +1,15 @@
+{
+  "id": "81243",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "然后时间开始流动",
+  "description": "完成兰帝裟的未竟之事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82053",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "清泉的猎人",
+  "description": "击败过纯水精灵召唤的每一种幻形生物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "14"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

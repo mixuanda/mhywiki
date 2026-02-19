@@ -1,0 +1,17 @@
+{
+  "id": "10014136",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "至暗之谜",
+  "description": "长夜月回合开始时，使长夜月退出【至暗之谜】状态。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014136,
+    "MDF": "MAvatar_Evernight_00_UltraMode_Energy_0",
+    "Name": "至暗之谜",
+    "Desc": "长夜月回合开始时，使长夜月退出【至暗之谜】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82299",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "蕴光之茧",
+  "description": "为角色恢复生命值，清除「蕴光之茧」。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

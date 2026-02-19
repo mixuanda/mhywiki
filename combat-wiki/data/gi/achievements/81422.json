@@ -1,0 +1,15 @@
+{
+  "id": "81422",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一个预计内的结局",
+  "description": "帮助枫丹科学院重回正轨…？",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81044",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「一口吃掉了几十万摩拉！」",
+  "description": "掌握「稠汁蔬菜炖肉」的制作方法。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

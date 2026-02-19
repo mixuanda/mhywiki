@@ -1,0 +1,15 @@
+{
+  "id": "84325",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "再相见",
+  "description": "我一定会找到你，无论跨过多么遥远的距离。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

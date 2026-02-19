@@ -1,0 +1,18 @@
+{
+  "id": "4054608",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "大地兽一家",
+  "description": "在「天气真好，养它！」中，陪伴小大地兽顺利成长",
+  "reward": 10,
+  "version": 3.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

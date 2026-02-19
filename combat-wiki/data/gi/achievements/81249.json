@@ -1,0 +1,15 @@
+{
+  "id": "81249",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如狮子寻找勇气…",
+  "description": "找回兰沙恭丢失的「勇气」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

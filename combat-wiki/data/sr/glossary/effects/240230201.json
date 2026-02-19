@@ -1,0 +1,17 @@
+{
+  "id": "240230201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "欧洛尼斯印记",
+  "description": "当目标再获得<color>【欧洛尼斯印记】</color>时，会解除所有印记，受到量子属性伤害并大概率陷入纠缠状态。当目标再获得<color>【艾格勒印记】</color>时，会解除所有印记，受到基于自身生命上限<color> <b>A</b> </color>的真实伤害，减少能量并大概率陷入纠缠状态。施放终结技可解除此印记。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240230201,
+    "MDF": "MMonster_W4_Unicorn_00_Debuff_Mark",
+    "Name": "欧洛尼斯印记",
+    "Desc": "当目标再获得<color>【欧洛尼斯印记】</color>时，会解除所有印记，受到量子属性伤害并大概率陷入纠缠状态。当目标再获得<color>【艾格勒印记】</color>时，会解除所有印记，受到基于自身生命上限<color> <b>A</b> </color>的真实伤害，减少能量并大概率陷入纠缠状态。施放终结技可解除此印记。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

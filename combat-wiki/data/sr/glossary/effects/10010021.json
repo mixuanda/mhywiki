@@ -1,0 +1,19 @@
+{
+  "id": "10010021",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "破敌锋芒",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010021,
+    "MDF": "MAvatar_DanHeng_00_MazeSkill_AttackRatioUp",
+    "Name": "破敌锋芒",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

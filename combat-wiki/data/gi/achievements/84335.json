@@ -1,0 +1,15 @@
+{
+  "id": "84335",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "小小的一步",
+  "description": "在过程中积累的经验，与在开始前进行的思考同样重要。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

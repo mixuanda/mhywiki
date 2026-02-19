@@ -1,0 +1,15 @@
+{
+  "id": "81376",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "当午夜钟声敲响",
+  "description": "知晓了卡特皮拉的真实面目。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

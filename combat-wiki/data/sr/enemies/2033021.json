@@ -1,0 +1,38 @@
+{
+  "id": "2033021",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "蚀月心兽&「飞霄」之影",
+  "description": "挑动其心魔，窃据其威灵，幻化其形貌，潜伏在飞霄体内的孽物展开了对她的狩猎。<br>这场猎杀的尾声，存活的一方将以天击将军的身份行于世间。",
+  "stats": {
+    "HP": 17.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_2033020.png",
+  "figure": "monsterfigure/Monster_2033020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

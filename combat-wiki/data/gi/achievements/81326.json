@@ -1,0 +1,15 @@
+{
+  "id": "81326",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "蒂尔甘之日",
+  "description": "洁净高天的渊薮后，灵光与甘露的力量已遍撒大地。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

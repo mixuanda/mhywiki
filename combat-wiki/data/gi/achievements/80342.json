@@ -1,0 +1,15 @@
+{
+  "id": "80342",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "追忆先祖",
+  "description": "帮助蒂图解放了部族先民的灵魂。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

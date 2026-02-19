@@ -1,0 +1,15 @@
+{
+  "id": "80001",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "风与异乡人",
+  "description": "使用风元素吹散一株蒲公英。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "1"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

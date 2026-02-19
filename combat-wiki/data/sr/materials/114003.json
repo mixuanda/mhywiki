@@ -1,0 +1,10 @@
+{
+  "id": "114003",
+  "game": "sr",
+  "entityType": "material",
+  "name": "造梦马达",
+  "icon": "itemicon/114003.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10014082",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "照见英雄本色",
+  "description": "每层使攻击力提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014082,
+    "MDF": "MAvatar_Phainon_00_Tree03_Property",
+    "Name": "照见英雄本色",
+    "Desc": "每层使攻击力提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "15509",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "飞雷之弦振",
+  "description": "曾由将军御赐的长弓，闪烁着永不熄灭的雷光。",
+  "rarity": 5,
+  "weaponType": 5,
+  "baseAtk": 608.0745972,
+  "subStatType": "CD",
+  "subStatValue": 0.661536,
+  "materialRefs": [
+    "112013",
+    "112052",
+    "114032"
+  ],
+  "affix": {
+    "115509": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "攻击力提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，并能获得「飞雷之巴印」的威势。飞雷之巴印：持有1/2/3层飞雷之巴印时，普通攻击造成的伤害提高 <color style='color:#99FFFFFF'>12/24/40%</color> / <color style='color:#99FFFFFF'>15/30/50%</color> / <color style='color:#99FFFFFF'>18/36/60%</color> / <color style='color:#99FFFFFF'>21/42/70%</color> / <color style='color:#99FFFFFF'>24/48/80%</color> 。在下列情况下，角色将各获得1层飞雷之巴印：普通攻击造成伤害时，持续5秒；施放元素战技时，持续10秒；此外，角色元素能量低于100%时，将获得1层飞雷之巴印，此飞雷之巴印会在角色的元素能量充满时消失。每层飞雷之巴印的持续时间独立计算。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15509.js"
+  }
+}

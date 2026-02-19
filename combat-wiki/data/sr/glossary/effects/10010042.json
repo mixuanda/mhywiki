@@ -1,0 +1,17 @@
+{
+  "id": "10010042",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "名的传承",
+  "description": "普攻和战技额外造成1次伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010042,
+    "MDF": "MAvatar_Welt_00_Rank01_Enhance",
+    "Name": "名的传承",
+    "Desc": "普攻和战技额外造成1次伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3002021",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "蕉研组的财富蕉师",
+  "description": "原本是搭载了财富学院教材的「幸运贩售」，受到模因病毒的影响，教材变成了蕉材。市场中蕉黠的头脑便是最强的武器，腹中满是福祸难测的蕉易，令猴蕉绿不已。",
+  "stats": {
+    "HP": 4.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 6.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3002021.png",
+  "figure": "monsterfigure/Monster_3002021.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4034007",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "三度迎来日落",
+  "description": "追随理性的呼唤，掐灭神性的光芒<br><color style='color:#8790ab;'>※回收「天谴之矛」的火种</color>",
+  "reward": 10,
+  "version": 3.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

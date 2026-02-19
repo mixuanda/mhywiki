@@ -1,0 +1,19 @@
+{
+  "id": "100141010",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "风化",
+  "description": "一定回合内，每回合开始时受到风属性伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141010,
+    "MDF": "MAvatar_Harscyline_00_DOT_Poison2",
+    "Name": "风化",
+    "Desc": "一定回合内，每回合开始时受到风属性伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

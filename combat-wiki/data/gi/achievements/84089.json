@@ -1,0 +1,15 @@
+{
+  "id": "84089",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "经变 · 狐猫鸟与怪",
+  "description": "解开纳西妲藏起的谜题，得知散兵过去的经历。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

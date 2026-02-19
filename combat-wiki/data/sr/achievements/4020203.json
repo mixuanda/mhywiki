@@ -1,0 +1,18 @@
+{
+  "id": "4020203",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "星际大迁徙",
+  "description": "获得 50.0 名角色",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 2,
+    "Name": "流光遗痕",
+    "Icon": "CollectAchievementIcon.png",
+    "Count": 14
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

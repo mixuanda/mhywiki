@@ -1,0 +1,18 @@
+{
+  "id": "4053201",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "把历史装进瓶子",
+  "description": "在热砂海选会场探秘汽水地窖的四大珍藏",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84363",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "血与沙的游戏",
+  "description": "不过是一捧尘沙罢了。",
+  "reward": 5,
+  "version": "6.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

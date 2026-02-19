@@ -1,0 +1,15 @@
+{
+  "id": "84330",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "未奉献的牺牲",
+  "description": "他所追寻的究竟是什么…",
+  "reward": 5,
+  "version": "5.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

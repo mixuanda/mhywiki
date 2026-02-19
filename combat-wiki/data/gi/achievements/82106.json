@@ -1,0 +1,15 @@
+{
+  "id": "82106",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "遇火斩火",
+  "description": "在海乱鬼 · 炎威的武器附有烈焰的情况下，击败海乱鬼 · 炎威。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

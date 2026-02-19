@@ -1,0 +1,15 @@
+{
+  "id": "82234",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「嵌合神骨的蛇姬」",
+  "description": "击败处于飞悬状态下的嵌合神骨的蛇姬。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

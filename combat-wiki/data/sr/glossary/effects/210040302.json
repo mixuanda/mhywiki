@@ -1,0 +1,18 @@
+{
+  "id": "210040302",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "弱点无效",
+  "description": "当场上存在其他敌方目标时，布洛妮娅的韧性无法被削减。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040302,
+    "MDF": "MMonster_W1_Bronya_00_WeakPointProtected",
+    "Name": "弱点无效",
+    "Desc": "当场上存在其他敌方目标时，布洛妮娅的韧性无法被削减。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

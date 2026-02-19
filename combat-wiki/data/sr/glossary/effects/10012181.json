@@ -1,0 +1,18 @@
+{
+  "id": "10012181",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "鼎阵妙法，奇正相生",
+  "description": "处于结界中的敌方目标受到的终结技伤害提高<color> <b>A</b> </color>，且行动时有<color> <b>B</b> </color>基础概率陷入1层【烬煨】，结界存在期间该效果最多触发<color> <b>C</b> </color>次，且敌人每回合只能触发1次。该效果还可触发<color> <b>D</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012181,
+    "MDF": "MAvatar_Jiaoqiu_00_Debuff_Ultra",
+    "Name": "鼎阵妙法，奇正相生",
+    "Desc": "处于结界中的敌方目标受到的终结技伤害提高<color> <b>A</b> </color>，且行动时有<color> <b>B</b> </color>基础概率陷入1层【烬煨】，结界存在期间该效果最多触发<color> <b>C</b> </color>次，且敌人每回合只能触发1次。该效果还可触发<color> <b>D</b> </color>次。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

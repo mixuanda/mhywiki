@@ -1,0 +1,31 @@
+{
+  "id": "62901",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "炉壳山鼬",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_VolcanoWeasel"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 火山生物"
+  ],
+  "analysis": {
+    "Name": "炉壳山鼬",
+    "Icon": "UI_MonsterIcon_VolcanoWeasel",
+    "DescList": [
+      "• 会钻入地下并留下「秘源机核」，其具有等同于 @100%# 生命值的白色护盾，被@下落攻击#命中时额外损失 @25%# 护盾<br>• 破除护盾时损失生命值，等同于护盾受到的 @15%# 非下落伤害 + @160%# 下落伤害，不超过 @50%# 生命值"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

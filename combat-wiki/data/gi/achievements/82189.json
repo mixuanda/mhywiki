@@ -1,0 +1,15 @@
+{
+  "id": "82189",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "冰与风的鼓动",
+  "description": "探寻隐山猊兽与冰元素之间的关系。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

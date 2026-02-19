@@ -1,0 +1,15 @@
+{
+  "id": "81375",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "消费社会",
+  "description": "在「破烂骨头商店」尽情消费。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

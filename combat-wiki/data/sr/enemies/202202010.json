@@ -1,0 +1,39 @@
+{
+  "id": "202202010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「药王秘传」内丹士",
+  "description": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>得药炼心，结丹炼己。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
+  "stats": {
+    "HP": 1.0,
+    "ATK": 12.00006,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Phys",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.4,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2022020.png",
+  "figure": "monsterfigure/Monster_2022020.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

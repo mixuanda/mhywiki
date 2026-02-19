@@ -1,0 +1,15 @@
+{
+  "id": "80047",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "岩间引路人",
+  "description": "在璃月追随20个仙灵，并点亮仙灵之庭（层岩巨渊与沉玉谷另外计算 ）。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "5"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

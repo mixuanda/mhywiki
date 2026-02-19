@@ -1,0 +1,28 @@
+{
+  "id": "10003",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "守护之心",
+  "icon": "UI_RelicIcon_10003",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "防御力提高30%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "队伍里每有不同一种元素类型的自己的角色，自身获得30%相应的元素抗性。"
+    }
+  ],
+  "parts": [
+    "守护之花",
+    "守护徽印",
+    "守护座钟",
+    "守护之皿",
+    "守护束带"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

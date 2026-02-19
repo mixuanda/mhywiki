@@ -1,0 +1,18 @@
+{
+  "id": "4053306",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Alpha Sapphire",
+  "description": "「折纸小鸟对对碰」活动中，将开拓小鸟与三月小鸟摆放在相邻街机上",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

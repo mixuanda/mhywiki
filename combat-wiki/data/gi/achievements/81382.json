@@ -1,0 +1,15 @@
+{
+  "id": "81382",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "并不怎么窄的门",
+  "description": "开启了通往某间藏书室的大门。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

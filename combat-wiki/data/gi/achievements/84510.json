@@ -1,0 +1,15 @@
+{
+  "id": "84510",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「知天命…」",
+  "description": "在「好兆头」中，帮助志华找到五个爱情运来临的征兆。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

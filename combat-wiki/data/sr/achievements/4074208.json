@@ -1,0 +1,18 @@
+{
+  "id": "4074208",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "半条命",
+  "description": "我方全体角色在最大生命值百分比低于50%的状态下，消灭「冥魂渡者，死龙残躯，玻吕刻斯」",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

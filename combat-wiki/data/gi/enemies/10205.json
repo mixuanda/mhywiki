@@ -1,0 +1,25 @@
+{
+  "id": "10205",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "丘丘岩盔王",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "slc"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > 丘丘王"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

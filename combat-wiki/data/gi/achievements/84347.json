@@ -1,0 +1,15 @@
+{
+  "id": "84347",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "你存在的时空",
+  "description": "完成「你存在的时空」。",
+  "reward": 10,
+  "version": "5.7",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

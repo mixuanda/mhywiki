@@ -1,0 +1,15 @@
+{
+  "id": "84091",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "倾落伽蓝",
+  "description": "完成「倾落伽蓝」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "110405",
+  "game": "sr",
+  "entityType": "material",
+  "name": "暴风之眼",
+  "icon": "itemicon/110405.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

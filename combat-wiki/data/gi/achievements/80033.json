@@ -1,0 +1,15 @@
+{
+  "id": "80033",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 蒙德",
+  "description": "解除蒙德所有地灵龛的封印。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "4"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

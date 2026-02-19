@@ -1,0 +1,18 @@
+{
+  "id": "4034301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "黎明沉默无言",
+  "description": "哀悼一位伟大凡人的陨落<br><color style='color:#8790ab;'>※聆听白厄的演讲</color>",
+  "reward": 10,
+  "version": 3.3,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

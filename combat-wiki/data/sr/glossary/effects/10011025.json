@@ -1,0 +1,17 @@
+{
+  "id": "10011025",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "再现",
+  "description": "当前处于【再现】获得的额外回合中。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011025,
+    "MDF": "Local_Seele_PassiveActionModifier",
+    "Name": "再现",
+    "Desc": "当前处于【再现】获得的额外回合中。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81285",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "发掘报告怎么写？",
+  "description": "第一次探索沙漠地下的遗迹。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

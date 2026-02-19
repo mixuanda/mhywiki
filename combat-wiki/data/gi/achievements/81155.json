@@ -1,0 +1,15 @@
+{
+  "id": "81155",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "池中宅邸",
+  "description": "解锁「池中宅邸」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

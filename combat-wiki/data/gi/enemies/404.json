@@ -1,0 +1,25 @@
+{
+  "id": "404",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "无相之水",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "hh"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 无相元素"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

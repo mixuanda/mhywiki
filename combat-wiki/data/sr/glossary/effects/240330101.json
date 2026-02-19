@@ -1,0 +1,19 @@
+{
+  "id": "240330101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "防御降低",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330101,
+    "MDF": "MMonster_XP_Elite01_02_DefenceDown",
+    "Name": "防御降低",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "100141536",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "记忆，化作涟漪片片♪",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141536,
+    "MDF": "MServant_CyreneServant_00_Rank06_Sub",
+    "Name": "记忆，化作涟漪片片♪",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

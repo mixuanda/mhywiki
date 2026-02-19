@@ -1,0 +1,18 @@
+{
+  "id": "4044702",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虫鸣秘闻：岁月之吻",
+  "description": "那座桥梁是何形状？<br><color style='color:#8790ab;'>※解开「灾梦余温」无名泰坦大墓的预言谜题</color>",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4073304",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "去吧，阿…萨姆",
+  "description": "使用我方角色流萤对战卡芙卡并陷入「支配」状态",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

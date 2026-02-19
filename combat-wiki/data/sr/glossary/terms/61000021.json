@@ -1,0 +1,15 @@
+{
+  "id": "61000021",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "知识",
+  "description": "通过骰子能力标记的区域，根据所选被动能力的不同，会发挥出不一样的效果。",
+  "content": {
+    "_id": 61000021,
+    "Name": "知识",
+    "Desc": "通过骰子能力标记的区域，根据所选被动能力的不同，会发挥出不一样的效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

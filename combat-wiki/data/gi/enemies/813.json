@@ -1,0 +1,25 @@
+{
+  "id": "813",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "813",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Grass": 1.35
+  },
+  "weakness": [],
+  "icon": [
+    ""
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

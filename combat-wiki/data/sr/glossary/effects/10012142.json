@@ -1,0 +1,17 @@
+{
+  "id": "10012142",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "恶报",
+  "description": "当【恶报】叠加至上限时，消耗所有【恶报】并立即对敌方施放1次追加攻击。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012142,
+    "MDF": "MAvatar_Xueyi_00_BP_Passive01",
+    "Name": "恶报",
+    "Desc": "当【恶报】叠加至上限时，消耗所有【恶报】并立即对敌方施放1次追加攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

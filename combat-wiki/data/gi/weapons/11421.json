@@ -1,0 +1,18 @@
+{
+  "id": "11421",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "「一心传」名刀",
+  "description": "萦绕着不祥紫气的诡异妖刀，其中蕴藏的邪力与戾气都有所减弱。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.20673,
+  "materialRefs": [],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11421.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "230020151",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "讥讽",
+  "description": "「斯科特」成员能够使用【讥讽】相关技能。受到攻击后不会切换状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230020151,
+    "MDF": "MModifier_Monster_W3_TV_02_Side1Scot",
+    "Name": "讥讽",
+    "Desc": "「斯科特」成员能够使用【讥讽】相关技能。受到攻击后不会切换状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

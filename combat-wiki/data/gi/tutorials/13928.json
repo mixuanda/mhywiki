@@ -1,0 +1,27 @@
+{
+  "id": "13928",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13928",
+  "tags": [],
+  "content": {
+    "_id": 13928,
+    "N": "笔腾墨跃",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Base_01",
+        "D": "在挑战中，由旅行者回忆而来的伙伴会保持<color style='color:#ec9d1f'>奔跑#的状态，妥善利用伙伴们的<color style='color:#ec9d1f'>元素战技#跨越沟壑或障碍，在限定时间内抵达终点即可完成挑战。"
+      },
+      {
+        "I": "UI_Activity_LanV6Parkour_Base_02",
+        "D": "抵达终点时，剩余的时间越多，收集的玉石越多，完成挑战时的得分就越高。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

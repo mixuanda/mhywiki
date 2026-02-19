@@ -1,0 +1,15 @@
+{
+  "id": "80331",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "煌耀如火",
+  "description": "将纳塔的七天神像供奉至满级。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

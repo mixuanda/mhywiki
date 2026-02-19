@@ -1,0 +1,1123 @@
+{
+  "id": "3-4",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "abyss",
+  "name": "3.4",
+  "openTime": "2023/02/01 - 2023/03/15",
+  "generation": 3,
+  "phases": [
+    59,
+    60,
+    61
+  ],
+  "floors": [
+    {
+      "floorId": "37",
+      "config": {
+        "Disorder": "角色触发绽放反应产生的草原核在迸发时造成的伤害提升125%，角色触发烈绽放、超绽放反应造成的伤害提升125%。",
+        "Chambers": [
+          {
+            "Name": "9-1",
+            "Level": 72,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 110,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60907,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 60905,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60901,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 110,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60909,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 60904,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60902,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 61202,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 111,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 60907,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60909,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 52103,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 52102,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 52104,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 52101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 52104,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 52105,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 53101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 52105,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 52102,
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-2",
+            "Level": 74,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10202,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10107,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10116,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  },
+                  {
+                    "ID": 10113,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 10203,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10304,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10105,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  },
+                  {
+                    "ID": 10109,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 10201,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10103,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10106,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4,
+                "Monsters": [
+                  {
+                    "ID": 10207,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10305,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10110,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  },
+                  {
+                    "ID": 10109,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10302,
+                    "Num": 1,
+                    "Affix": [
+                      5004
+                    ]
+                  },
+                  {
+                    "ID": 111,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 113,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 20103,
+                    "Num": 1,
+                    "Affix": [
+                      5001,
+                      6106
+                    ]
+                  },
+                  {
+                    "ID": 20103,
+                    "Num": 1,
+                    "Affix": [
+                      5002,
+                      1026
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-3",
+            "Level": 76,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 61201,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60904,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 60902,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 61203,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60904,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 60902,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 52104,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 53102,
+                    "Num": 1,
+                    "Affix": [
+                      6101
+                    ]
+                  },
+                  {
+                    "ID": 53103,
+                    "Num": 1,
+                    "Affix": [
+                      6104
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "38",
+      "config": {
+        "Disorder": "对敌人触发蔓激化、超激化反应时，这些反应带来的伤害提升提高75%。",
+        "Chambers": [
+          {
+            "Name": "10-1",
+            "Level": 80,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60904,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 60902,
+                    "Num": 3
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 105,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 60905,
+                    "Num": 3
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 61202,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 106,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 107,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60902,
+                    "Num": 3
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60506,
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-2",
+            "Level": 82,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 51002,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 51001,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 52102,
+                    "Num": 3
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10208,
+                    "Num": 1,
+                    "Affix": [
+                      1027
+                    ]
+                  },
+                  {
+                    "ID": 20104,
+                    "Num": 1,
+                    "Affix": [
+                      6104,
+                      5001
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-3",
+            "Level": 85,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 53101,
+                    "Num": 1,
+                    "Affix": [
+                      6106
+                    ]
+                  },
+                  {
+                    "ID": 53102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 53103,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30106,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30102,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30501,
+                    "Num": 1,
+                    "Affix": [
+                      1026
+                    ]
+                  },
+                  {
+                    "ID": 30301,
+                    "Num": 2,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "47",
+      "config": {
+        "Disorder": "队伍中所有角色获得75%草元素伤害加成。",
+        "Chambers": [
+          {
+            "Name": "11-1",
+            "Level": 88,
+            "GoalType": 1,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 53101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 52102,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 52104,
+                    "Num": 3,
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 53102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50104,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 50701,
+                    "Num": 2,
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 54101,
+                    "Num": 1,
+                    "Affix": [
+                      5271
+                    ]
+                  },
+                  {
+                    "ID": 52103,
+                    "Num": 2,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 52105,
+                    "Num": 2,
+                    "Mark": true
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10207,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ],
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10202,
+                    "Num": 2,
+                    "Affix": [
+                      5001
+                    ],
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 10208,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-2",
+            "Level": 90,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60510,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 60511,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 61201,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61203,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61202,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61204,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 20201,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 61005,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-3",
+            "Level": 92,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 113,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 111,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 106,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 107,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 51002,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 51001,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50801,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50802,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50803,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 60203,
+                "Monsters": [
+                  {
+                    "ID": 60203,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "48",
+      "config": {
+        "Disorder": "仅在此层，地脉的涌流平缓通顺。",
+        "ShowVers": [
+          1,
+          3,
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "12-1",
+            "Level": 95,
+            "GoalType": 0,
+            "Gadgets": [
+              70350031,
+              0
+            ],
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40101,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40302,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 40101,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4,
+                "Monsters": [
+                  {
+                    "ID": 40103,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60103,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 20101,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  },
+                  {
+                    "ID": 20102,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  },
+                  {
+                    "ID": 20104,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Vers": [
+                  1
+                ],
+                "Monsters": [
+                  {
+                    "ID": 30102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 53101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 53102,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Vers": [
+                  3,
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 53101,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 53102,
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-2",
+            "Level": 98,
+            "GoalType": 0,
+            "DPS": {
+              "1": 2500331,
+              "3": 2500331
+            },
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Vers": [
+                  1
+                ],
+                "Monsters": [
+                  {
+                    "ID": 51001,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 51002,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 1,
+                "Vers": [
+                  3,
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 51001,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50801,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 61004,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61003,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 50905,
+                "Vers": [
+                  1,
+                  3
+                ],
+                "Monsters": [
+                  {
+                    "ID": 50902,
+                    "Num": 1,
+                    "HPOverride": 12.8,
+                    "HPDown": true
+                  },
+                  {
+                    "ID": 50904,
+                    "Num": 1,
+                    "HPOverride": 12.8,
+                    "HPDown": true
+                  },
+                  {
+                    "ID": 50903,
+                    "Num": 1,
+                    "HPOverride": 12.8,
+                    "HPDown": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 50905,
+                "Vers": [
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 50902,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50904,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50903,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-3",
+            "Level": 100,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 40501,
+                "Monsters": [
+                  {
+                    "ID": 40501,
+                    "Num": 1,
+                    "Affix": [
+                      5222
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 53101,
+                    "Num": 1,
+                    "Affix": [
+                      6106
+                    ]
+                  },
+                  {
+                    "ID": 53102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 53103,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 54103,
+                    "Num": 1,
+                    "Affix": [
+                      5271
+                    ]
+                  },
+                  {
+                    "ID": 54102,
+                    "Num": 1,
+                    "Affix": [
+                      5271
+                    ]
+                  },
+                  {
+                    "ID": 54104,
+                    "Num": 1,
+                    "Affix": [
+                      5271
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "blessings": [
+    {
+      "blessingId": "55",
+      "config": {
+        "Name": "丛棘之月",
+        "Desc": "处于原激化状态下的敌人的<color style='color:#0000FF;'>草元素抗性和雷元素抗性降低30%</color>，该效果将在原激化状态结束2秒后移除。"
+      }
+    },
+    {
+      "blessingId": "56",
+      "config": {
+        "Name": "郁苍之月",
+        "Desc": "角色通过普通攻击、重击、下落攻击、元素战技或元素爆发对敌人造成草元素伤害后，将获得一层「郁苍」效果：<color style='color:#0000FF;'>角色造成的伤害提升8%</color>。该效果持续6秒，每0.1秒至多触发一次，至多叠加6层，每层独立计时。"
+      }
+    },
+    {
+      "blessingId": "57",
+      "config": {
+        "Name": "奋荣之月",
+        "Desc": "角色对敌人触发蔓激化、超激化反应时，将在敌人的位置<color style='color:#0000FF;'>释放冲击波</color>，造成真实伤害。每3秒至多通过这种方式释放一次冲击波。",
+        "ShockWaveConfig": [
+          {
+            "ShockWaveDesc": "半径：5m",
+            "ShockWaveDMG": 9
+          }
+        ]
+      }
+    }
+  ],
+  "source": {
+    "files": [
+      "gi/CH/database.js",
+      "gi/CH/database_extra.js"
+    ]
+  }
+}

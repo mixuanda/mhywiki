@@ -1,0 +1,17 @@
+{
+  "id": "100141210",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "见者",
+  "description": "施放终结技时使刻律德菈获得<color> <b>A</b> </color>点充能。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141210,
+    "MDF": "MAvatar_Cerydra_00_PointB2",
+    "Name": "见者",
+    "Desc": "施放终结技时使刻律德菈获得<color> <b>A</b> </color>点充能。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

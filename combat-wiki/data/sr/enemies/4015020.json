@@ -1,0 +1,39 @@
+{
+  "id": "4015020",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "绝灭者，阳雷的业果，晨昏之眼",
+  "description": "以霸道统治天空的征服者，被黑潮裹挟后的样貌。往昔的是非功过或许难以评说，但此刻饱含杀意的，只是一团破坏一切的无明业火。",
+  "stats": {
+    "HP": 250.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 32.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4015020.png",
+  "figure": "monsterfigure/Monster_4015020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

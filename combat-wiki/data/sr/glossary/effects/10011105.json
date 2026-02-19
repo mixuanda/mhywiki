@@ -1,0 +1,19 @@
+{
+  "id": "10011105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "求生反应",
+  "description": "生命上限提高<color> <b>A</b> </color>点，效果抵抗提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011105,
+    "MDF": "MAvatar_Lynx_00_HPAddedRatio02",
+    "Name": "求生反应",
+    "Desc": "生命上限提高<color> <b>A</b> </color>点，效果抵抗提高<color> <b>B</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

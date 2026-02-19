@@ -1,0 +1,15 @@
+{
+  "id": "70000306",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "部位",
+  "description": "对部位进行的攻击会同时对本体削减等量的生命值",
+  "content": {
+    "_id": 70000306,
+    "Name": "部位",
+    "Desc": "对部位进行的攻击会同时对本体削减等量的生命值"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

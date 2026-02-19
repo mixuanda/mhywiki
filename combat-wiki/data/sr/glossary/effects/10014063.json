@@ -1,0 +1,18 @@
+{
+  "id": "10014063",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "嘿，空手套白银",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014063,
+    "MDF": "MAvatar_Cipher_BP_Buff",
+    "Name": "嘿，空手套白银",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

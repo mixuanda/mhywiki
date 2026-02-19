@@ -1,0 +1,15 @@
+{
+  "id": "82272",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「空中攻击并不总能成功」",
+  "description": "在一次挑战中，破坏过两次金焰绒翼龙暴君发射出的「炽风翎羽」。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "59"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

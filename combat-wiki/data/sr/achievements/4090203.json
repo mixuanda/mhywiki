@@ -1,0 +1,18 @@
+{
+  "id": "4090203",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不许动！",
+  "description": "「模拟宇宙」战斗内，任意单个敌人处于冻结状态下累计达到 10.0 个回合",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

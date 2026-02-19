@@ -1,0 +1,18 @@
+{
+  "id": "4093605",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不完美学者",
+  "description": "在「模拟宇宙：不可知域」中，通过「庸众集」的所有关卡",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

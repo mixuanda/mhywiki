@@ -1,0 +1,15 @@
+{
+  "id": "81310",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "完美沙暴",
+  "description": "「让我们直冲气象地狱。」",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

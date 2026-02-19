@@ -1,0 +1,39 @@
+{
+  "id": "300102001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "柯柯娜的诚实",
+  "description": "诚实之心，曾相信只要以诚对人他人便会以诚待己。",
+  "stats": {
+    "HP": 1.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_3001020.png",
+  "figure": "monsterfigure/Monster_3001020.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10012064",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "逐寇",
+  "description": "每叠加1层，【剑势】造成的伤害提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012064,
+    "MDF": "MAvatar_Sushang_00_PointB2_Buff",
+    "Name": "逐寇",
+    "Desc": "每叠加1层，【剑势】造成的伤害提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

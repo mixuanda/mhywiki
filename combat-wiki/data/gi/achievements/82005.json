@@ -1,0 +1,15 @@
+{
+  "id": "82005",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "特斯拉球还流行吗？",
+  "description": "粉碎一个雷萤术士的护罩。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "8"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

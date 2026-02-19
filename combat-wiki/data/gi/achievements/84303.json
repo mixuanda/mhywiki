@@ -1,0 +1,15 @@
+{
+  "id": "84303",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "仿若无因飘落的轻雨",
+  "description": "完成「仿若无因飘落的轻雨」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

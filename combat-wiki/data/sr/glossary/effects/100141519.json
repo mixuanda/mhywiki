@@ -1,0 +1,18 @@
+{
+  "id": "100141519",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「岁月」之诗",
+  "description": "「长夜」施放忆灵技【迷梦，流失，如露】时造成的伤害提高<color> <b>A</b> </color>，长夜月施放战技/终结技后，额外获得<color> <b>B</b> </color>点【忆质】。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141519,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Evernight",
+    "Name": "献予「岁月」之诗",
+    "Desc": "「长夜」施放忆灵技【迷梦，流失，如露】时造成的伤害提高<color> <b>A</b> </color>，长夜月施放战技/终结技后，额外获得<color> <b>B</b> </color>点【忆质】。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

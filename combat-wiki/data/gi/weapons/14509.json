@@ -1,0 +1,22 @@
+{
+  "id": "14509",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "神乐之真意",
+  "description": "表演神乐之舞时所用的神铃，为宫司所赐福。神樱之香萦绕其上。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 608.0745972,
+  "subStatType": "CD",
+  "subStatValue": 0.661536,
+  "materialRefs": [
+    "112055",
+    "112058",
+    "114036"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14509.js"
+  }
+}

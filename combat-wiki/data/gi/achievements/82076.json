@@ -1,0 +1,15 @@
+{
+  "id": "82076",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…还有蜥蜴和斯波克」",
+  "description": "同一个角色连续被猜拳三连击命中。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

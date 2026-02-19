@@ -1,0 +1,18 @@
+{
+  "id": "4073404",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "没什么好怕的",
+  "description": "单场战斗中，我方角色受到的所有来自咆哮灵柩的「恐惧萦绕」状态都被成功解除",
+  "reward": 5,
+  "version": 2.4,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82239",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「特拉扎库伊洛特尔」",
+  "description": "在完成一次挑战的过程中，每次均只通过1次攻击，破除「特拉扎库伊洛特尔」的护罩。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

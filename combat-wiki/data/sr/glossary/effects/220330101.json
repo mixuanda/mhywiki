@@ -1,0 +1,18 @@
+{
+  "id": "220330101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "恐惧萦绕",
+  "description": "第二个回合开始时陷入【恐惧】状态，在此之前对<color>%CasterName</color>发起一次攻击可解除【恐惧萦绕】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220330101,
+    "MDF": "MCommon_FearPre",
+    "Name": "恐惧萦绕",
+    "Desc": "第二个回合开始时陷入【恐惧】状态，在此之前对<color>%CasterName</color>发起一次攻击可解除【恐惧萦绕】。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

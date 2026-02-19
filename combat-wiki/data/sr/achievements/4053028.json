@@ -1,0 +1,18 @@
+{
+  "id": "4053028",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "魔形皮皮西",
+  "description": "皮皮西？变形怪？<br><color style='color:#8790ab;'>※在酒店大堂识破「皮皮西」的真身</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

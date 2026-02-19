@@ -1,0 +1,18 @@
+{
+  "id": "10010091",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "蓄能",
+  "description": "每层使攻击力提高<color> <b>A</b> </color>，该效果最多叠加5层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010091,
+    "MDF": "MAvatar_Asta_00_Passive_Charge",
+    "Name": "蓄能",
+    "Desc": "每层使攻击力提高<color> <b>A</b> </color>，该效果最多叠加5层。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

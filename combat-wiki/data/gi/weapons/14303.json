@@ -1,0 +1,22 @@
+{
+  "id": "14303",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "异世界行记",
+  "description": "廉价的幻想小说，不具备参考价值。作为法器的力量当然也来自幻想。",
+  "rarity": 3,
+  "weaponType": 3,
+  "baseAtk": 401.2935898,
+  "subStatType": "ER",
+  "subStatValue": 0.39049000000000006,
+  "materialRefs": [
+    "112007",
+    "112025",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14303.js"
+  }
+}

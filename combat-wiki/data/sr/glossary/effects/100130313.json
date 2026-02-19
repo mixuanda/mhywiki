@@ -1,0 +1,18 @@
+{
+  "id": "100130313",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "芦前漫步",
+  "description": "对处于弱点击破状态的敌方目标造成伤害时，攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100130313,
+    "MDF": "Avatar_RuanMei_AttackBreakEnemyAttackUp",
+    "Name": "芦前漫步",
+    "Desc": "对处于弱点击破状态的敌方目标造成伤害时，攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

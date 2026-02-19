@@ -1,0 +1,18 @@
+{
+  "id": "10011121",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "涨幅惊人！",
+  "description": "账账的伤害倍率提高<color> <b>A</b> </color>，暴击伤害提高<color> <b>B</b> </color>，且当陷入【负债证明】状态下的敌方目标受到我方的普攻、战技或终结技的攻击时，账账行动提前<color> <b>C</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011121,
+    "MDF": "MAvatar_Topaz_00_UltraEnhance",
+    "Name": "涨幅惊人！",
+    "Desc": "账账的伤害倍率提高<color> <b>A</b> </color>，暴击伤害提高<color> <b>B</b> </color>，且当陷入【负债证明】状态下的敌方目标受到我方的普攻、战技或终结技的攻击时，账账行动提前<color> <b>C</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

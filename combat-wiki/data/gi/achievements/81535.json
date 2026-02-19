@@ -1,0 +1,15 @@
+{
+  "id": "81535",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "在不可逆的时间里…",
+  "description": "在「游靶气球」玩法中，击破所有的气球。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "110113",
+  "game": "sr",
+  "entityType": "material",
+  "name": "净世残刃",
+  "icon": "itemicon/110113.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

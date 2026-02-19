@@ -1,0 +1,19 @@
+{
+  "id": "240320403",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "潜伏",
+  "description": "无法成为主动选择类技能的主目标。弱点被击破或场上除自身以外的全部敌方单位都处于【潜伏】状态，则自身解除【潜伏】状态。场上没有其他敌方单位时，自身解除【潜伏】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240320403,
+    "MDF": "MMonster_W4_Scholar_01_LocalLegend_Stealth",
+    "Name": "潜伏",
+    "Desc": "无法成为主动选择类技能的主目标。弱点被击破或场上除自身以外的全部敌方单位都处于【潜伏】状态，则自身解除【潜伏】状态。场上没有其他敌方单位时，自身解除【潜伏】状态。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

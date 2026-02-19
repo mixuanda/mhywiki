@@ -1,0 +1,15 @@
+{
+  "id": "10014081",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "毁伤",
+  "description": "卡厄斯兰那的专属充能，上限为7点。未变身时也会保留。",
+  "content": {
+    "_id": 10014081,
+    "Name": "毁伤",
+    "Desc": "卡厄斯兰那的专属充能，上限为7点。未变身时也会保留。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

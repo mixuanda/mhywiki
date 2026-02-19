@@ -1,0 +1,10 @@
+{
+  "id": "111013",
+  "game": "sr",
+  "entityType": "material",
+  "name": "践踏的意志",
+  "icon": "itemicon/111013.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

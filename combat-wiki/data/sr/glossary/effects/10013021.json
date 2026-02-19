@@ -1,0 +1,19 @@
+{
+  "id": "10013021",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "升格",
+  "description": "暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013021,
+    "MDF": "MAvatar_Argenti_00_Passive_Charge",
+    "Name": "升格",
+    "Desc": "暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

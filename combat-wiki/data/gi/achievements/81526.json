@@ -1,0 +1,15 @@
+{
+  "id": "81526",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "湖上之光",
+  "description": "见证了流泉之众大训练场的竣工…这东西真的有用吗？",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

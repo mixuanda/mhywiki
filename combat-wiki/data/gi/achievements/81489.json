@@ -1,0 +1,15 @@
+{
+  "id": "81489",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "侧耳倾听",
+  "description": "在「流泉之众」观看即兴乐队的演出。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

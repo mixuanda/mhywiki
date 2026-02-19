@@ -1,0 +1,15 @@
+{
+  "id": "80191",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…与睡梦同姓",
+  "description": "完成「黄金梦乡」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "35"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

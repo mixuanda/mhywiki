@@ -1,0 +1,15 @@
+{
+  "id": "82140",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "电子脑硬化症",
+  "description": "击败处于超频过载状态下的半永恒统辖矩阵。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "34"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

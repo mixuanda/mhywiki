@@ -1,0 +1,18 @@
+{
+  "id": "4072020",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "全金属外壳",
+  "description": "受到辅助机械臂单元「控场起爆」技能攻击后仍然存活",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

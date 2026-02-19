@@ -1,0 +1,15 @@
+{
+  "id": "81290",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "超越时间的虚影",
+  "description": "触碰沙漠中每一处神秘的壁画。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82264",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「波塔波的声援」",
+  "description": "在完成一次挑战的过程中，让所有「佑灵身」的生命值均完全恢复。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

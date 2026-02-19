@@ -1,0 +1,15 @@
+{
+  "id": "84509",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "厨子与渔夫",
+  "description": "完成「独钓江雪」与「勿言勿笑」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

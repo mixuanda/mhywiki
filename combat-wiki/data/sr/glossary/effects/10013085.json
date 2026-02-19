@@ -1,0 +1,17 @@
+{
+  "id": "10013085",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "四相断我",
+  "description": "施放终结技后黄泉获得<color> <b>A</b> </color>点【残梦】，并为敌方随机单体附上<color> <b>A</b> </color>层【集真赤】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013085,
+    "MDF": "MAvatar_Acheron_00_UltraSkillSpareCount",
+    "Name": "四相断我",
+    "Desc": "施放终结技后黄泉获得<color> <b>A</b> </color>点【残梦】，并为敌方随机单体附上<color> <b>A</b> </color>层【集真赤】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "100130412",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "惊惶",
+  "description": "我方目标对其造成的暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100130412,
+    "MDF": "MAvatar_Aventurine_00_Skill03_CritDmgIncrease",
+    "Name": "惊惶",
+    "Desc": "我方目标对其造成的暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

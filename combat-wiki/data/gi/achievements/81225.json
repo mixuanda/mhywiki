@@ -1,0 +1,15 @@
+{
+  "id": "81225",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "众妙之门",
+  "description": "真正踏入「兰那罗的世界」…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "220040147",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "击破行动延后",
+  "description": "被弱点击破时行动额外延后。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040147,
+    "MDF": "Monster_W2_Kafka_00_IF03_SummonBreakShow",
+    "Name": "击破行动延后",
+    "Desc": "被弱点击破时行动额外延后。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

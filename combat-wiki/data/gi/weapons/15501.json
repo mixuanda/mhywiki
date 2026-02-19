@@ -1,0 +1,32 @@
+{
+  "id": "15501",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "天空之翼",
+  "description": "象征风龙身为风之神眷属的大弓。释弦时的鸣声是风之神的偏爱，蕴含苍空与长风的力量。",
+  "rarity": 5,
+  "weaponType": 5,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "CR",
+  "subStatValue": 0.220512,
+  "materialRefs": [
+    "112013",
+    "112022",
+    "114008"
+  ],
+  "affix": {
+    "115501": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "暴击伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ；攻击命中时有 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>100%</color> 概率造成125%攻击力的小范围物理伤害，该效果每 <color style='color:#99FFFFFF'>4</color> / <color style='color:#99FFFFFF'>3.5</color> / <color style='color:#99FFFFFF'>3</color> / <color style='color:#99FFFFFF'>2.5</color> / <color style='color:#99FFFFFF'>2</color> 秒只能触发一次。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15501.js"
+  }
+}

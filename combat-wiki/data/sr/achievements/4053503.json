@@ -1,0 +1,18 @@
+{
+  "id": "4053503",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "拳愿非天",
+  "description": "以往你总是亲自上阵战斗，也该试试做「幕后黑手」了<br><color style='color:#8790ab;'>※成为卢卡的教练</color>",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

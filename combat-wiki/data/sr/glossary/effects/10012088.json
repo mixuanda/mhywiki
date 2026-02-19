@@ -1,0 +1,18 @@
+{
+  "id": "10012088",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "六壬兆堪",
+  "description": "可以消耗该状态抵抗控制类负面状态。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012088,
+    "MDF": "MAvatar_FuXuan_00_Tree02",
+    "Name": "六壬兆堪",
+    "Desc": "可以消耗该状态抵抗控制类负面状态。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

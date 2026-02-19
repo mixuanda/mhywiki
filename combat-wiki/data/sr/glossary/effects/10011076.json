@@ -1,0 +1,18 @@
+{
+  "id": "10011076",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "强化反击",
+  "description": "队友受到攻击也会触发反击，且反击造成的伤害倍率提高。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011076,
+    "MDF": "MAvatar_Klara_00_PassiveATKCount",
+    "Name": "强化反击",
+    "Desc": "队友受到攻击也会触发反击，且反击造成的伤害倍率提高。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

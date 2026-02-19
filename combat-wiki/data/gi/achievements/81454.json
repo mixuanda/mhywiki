@@ -1,0 +1,15 @@
+{
+  "id": "81454",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「想学啊？我教你！」",
+  "description": "战胜身份特殊的古华派非正式弟子三次。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

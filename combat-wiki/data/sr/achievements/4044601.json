@@ -1,0 +1,18 @@
+{
+  "id": "4044601",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "微光城市",
+  "description": "褪去权杖δ-me 13 的神话色彩，初入无名泰坦大墓",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

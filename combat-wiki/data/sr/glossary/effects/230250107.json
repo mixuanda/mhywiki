@@ -1,0 +1,17 @@
+{
+  "id": "230250107",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "太初有思",
+  "description": "免疫所有伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230250107,
+    "MDF": "MMonster_W3_Sunday_00_P3Skill10Buff",
+    "Name": "太初有思",
+    "Desc": "免疫所有伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044607",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "食物泡与溶酶体",
+  "description": "使用巴特鲁斯的视角，吞掉一只宝箱",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

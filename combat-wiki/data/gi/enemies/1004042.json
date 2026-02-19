@@ -1,0 +1,21 @@
+{
+  "id": "1004042",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的执灯人 · 常形",
+  "description": "昔日对抗漆黑灾厄的英勇战士，即使生命之光已然消逝，其不屈的意志仍未消散，永誓猎杀狂猎之人时至今日仍继续着他的无尽战斗。可惜，在地脉乱象之中，黑渊的侵蚀已深入骨髓，使他迷失方向，守护家园的意志也在逐渐消散…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_WildHuntMaleSigurd",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

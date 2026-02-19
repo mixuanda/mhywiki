@@ -1,0 +1,21 @@
+{
+  "id": "1005041",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深罪浸礼者 · 常形",
+  "description": "因为深渊的力量取得「进化」而获得了多余的肢体的深渊魔物。能够驱役多种元素的力量。<br>在地脉的记忆中，它们如同难以拔除的钉刺，持续将痛苦注入世界的骨髓。",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Archdeacon",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

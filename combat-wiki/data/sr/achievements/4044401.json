@@ -1,0 +1,18 @@
+{
+  "id": "4044401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虫鸣秘闻：铃中古调",
+  "description": "风铃诉说着怎样的旋律？<br><color style='color:#8790ab;'>※解开哀丽秘榭的预言谜题</color>",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

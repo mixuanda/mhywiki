@@ -1,0 +1,18 @@
+{
+  "id": "4044022",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "夏虫不可忆冰",
+  "description": "使若虫被残留有记忆的物件砸中",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

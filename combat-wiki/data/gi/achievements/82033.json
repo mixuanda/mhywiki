@@ -1,0 +1,15 @@
+{
+  "id": "82033",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「艺术就是…」",
+  "description": "达成10次：2秒内，通过超载反应打败4名敌人。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "6"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

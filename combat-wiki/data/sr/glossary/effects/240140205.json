@@ -1,0 +1,17 @@
+{
+  "id": "240140205",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "征服",
+  "description": "【天谴之矛，迈德漠斯】征服了<color>%CasterName</color>的魂灵，受到<color>%CasterName</color>攻击的伤害提高<color> <b>A</b> </color>，被我方消灭后解除<color>%CasterName</color>的【受征服】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140205,
+    "MDF": "Monster_W4_HearsePart_00_Soul_B",
+    "Name": "征服",
+    "Desc": "【天谴之矛，迈德漠斯】征服了<color>%CasterName</color>的魂灵，受到<color>%CasterName</color>攻击的伤害提高<color> <b>A</b> </color>，被我方消灭后解除<color>%CasterName</color>的【受征服】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

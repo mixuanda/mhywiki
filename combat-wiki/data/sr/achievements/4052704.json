@@ -1,0 +1,18 @@
+{
+  "id": "4052704",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "收服以太灵了！",
+  "description": "在「以太战线」中，获得所有以太灵",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

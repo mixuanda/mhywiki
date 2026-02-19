@@ -1,0 +1,15 @@
+{
+  "id": "81319",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "群鸟的授记",
+  "description": "在祖尔宛的见证下，斯露莎已取得「双角的花冠」…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

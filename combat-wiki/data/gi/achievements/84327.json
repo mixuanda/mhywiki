@@ -1,0 +1,15 @@
+{
+  "id": "84327",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "荣花与炎日之途",
+  "description": "完成「荣花与炎日之途」。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

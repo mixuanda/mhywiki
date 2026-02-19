@@ -1,0 +1,18 @@
+{
+  "id": "100141517",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「诡计」之诗",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141517,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Cipher_Sub",
+    "Name": "献予「诡计」之诗",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

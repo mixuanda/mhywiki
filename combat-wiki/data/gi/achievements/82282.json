@@ -1,0 +1,15 @@
+{
+  "id": "82282",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「战羊」与「铁爪」",
+  "description": "战胜地方传奇「战羊」与「铁爪」。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

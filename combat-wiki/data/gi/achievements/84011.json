@@ -1,0 +1,15 @@
+{
+  "id": "84011",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "异乡异客",
+  "description": "在「本地人不会去的景点」被外地人搭救。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84052",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "千手百眼，天下人间",
+  "description": "完成「千手百眼，天下人间」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

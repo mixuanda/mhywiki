@@ -1,0 +1,15 @@
+{
+  "id": "81455",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "壁绘的面纱",
+  "description": "见证四处壁画。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

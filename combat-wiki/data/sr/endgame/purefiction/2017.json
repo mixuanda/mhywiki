@@ -1,0 +1,909 @@
+{
+  "id": "2017",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "purefiction",
+  "name": "主观叙事",
+  "content": {
+    "_id": 2017,
+    "Name": "主观叙事",
+    "Blessing": [
+      {
+        "_id": 3031202,
+        "Name": "战技攻击",
+        "Desc": "我方施放战技攻击敌方目标后，每击中1个敌方目标，使我方额外积累<color style='color:#f29e38;'> 5 </color>点「战意值」。"
+      },
+      {
+        "_id": 3031203,
+        "Name": "战熄潮平",
+        "Desc": "战斗开始时，我方施放战技攻击敌方目标后，对每个被攻击的敌方目标造成固定数值的伤害。"
+      },
+      {
+        "_id": 3031204,
+        "Name": "战意汹涌",
+        "Desc": "进入「战意汹涌」时，我方全体行动提前<color style='color:#f29e38;'> 100% </color>，期间敌方目标受到的伤害提高<color style='color:#f29e38;'> 50% </color>，且我方施放战技攻击敌方目标后，额外对每个被攻击的敌方目标的相邻目标造成固定数值的伤害。"
+      }
+    ],
+    "Buffs": [
+      {
+        "_id": 3031344,
+        "Name": "谣曲",
+        "Desc": "「战意汹涌」期间，忆灵造成的伤害提高<color style='color:#f29e38;'> 30% </color>，当忆灵消失时，使忆师行动提前<color style='color:#f29e38;'> 15% </color>。",
+        "SimpleDesc": "忆灵攻击后每击中1个敌方目标，使我方额外积累<color style='color:#f29e38;'> 3 </color>点「战意值」。"
+      },
+      {
+        "_id": 3031345,
+        "Name": "奏雅",
+        "Desc": "进入「战意汹涌」时，立即恢复<color style='color:#f29e38;'> 3 </color>个战技点。「战意汹涌」期间，敌方目标受到的持续伤害提高<color style='color:#f29e38;'> 30% </color>。",
+        "SimpleDesc": "敌方目标每次受到持续伤害后，使我方额外积累<color style='color:#f29e38;'> 1 </color>点「战意值」。"
+      },
+      {
+        "_id": 3031346,
+        "Name": "孤韵",
+        "Desc": "「战意汹涌」期间，我方施放战技攻击敌方目标后，对每个被攻击的敌方目标额外造成等同于原伤害<color style='color:#f29e38;'> 30% </color>的真实伤害。",
+        "SimpleDesc": ""
+      }
+    ],
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec"
+        ],
+        "Upper": [
+          {
+            "_id": 30315011,
+            "Level": 55,
+            "Waves": [
+              {
+                "KeepNum": 5,
+                "HPAdd": 0.5,
+                "EliteGroup": {
+                  "ID": 55,
+                  "ATK": 0.5
+                },
+                "Monsters": [
+                  {
+                    "ID": 2002010,
+                    "Num": 12,
+                    "HP": 8355,
+                    "SPD": 120,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 2022060,
+                    "Num": 10,
+                    "HP": 11488,
+                    "SPD": 83,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 300205006,
+                    "Num": 2,
+                    "HP": 52218,
+                    "SPD": 144,
+                    "Stance": 6
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 1.4,
+                "EliteGroup": {
+                  "ID": 55,
+                  "ATK": 0.5
+                },
+                "Monsters": [
+                  {
+                    "ID": 3002030,
+                    "Num": 20,
+                    "HP": 18798,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 4022010,
+                    "Num": 20,
+                    "HP": 25065,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 800301020,
+                    "Num": 1,
+                    "HP": 689275,
+                    "SPD": 100,
+                    "Stance": 14
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 4.2,
+                "EliteGroup": {
+                  "ID": 55,
+                  "ATK": 0.5
+                },
+                "Monsters": [
+                  {
+                    "ID": 1002040,
+                    "Num": 20,
+                    "HP": 23533,
+                    "SPD": 83,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 8002010,
+                    "Num": 20,
+                    "HP": 34394,
+                    "SPD": 120,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 800303020,
+                    "Num": 1,
+                    "HP": 1493430,
+                    "SPD": 120,
+                    "Stance": 14
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30315012,
+            "Level": 55,
+            "Waves": [
+              {
+                "KeepNum": 5,
+                "HPAdd": 0.5,
+                "EliteGroup": {
+                  "ID": 55,
+                  "ATK": 0.5
+                },
+                "Monsters": [
+                  {
+                    "ID": 3002010,
+                    "Num": 12,
+                    "HP": 14360,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 1022020,
+                    "Num": 10,
+                    "HP": 7833,
+                    "SPD": 100,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 300205006,
+                    "Num": 2,
+                    "HP": 52218,
+                    "SPD": 144,
+                    "Stance": 6
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 1.4,
+                "EliteGroup": {
+                  "ID": 55,
+                  "ATK": 0.5
+                },
+                "Monsters": [
+                  {
+                    "ID": 4012030,
+                    "Num": 20,
+                    "HP": 21723,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 4012010,
+                    "Num": 20,
+                    "HP": 21723,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 401301201,
+                    "Num": 1,
+                    "HP": 689275,
+                    "SPD": 132,
+                    "Stance": 14
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 4.2,
+                "EliteGroup": {
+                  "ID": 55,
+                  "ATK": 0.5
+                },
+                "Monsters": [
+                  {
+                    "ID": 2022060,
+                    "Num": 20,
+                    "HP": 39825,
+                    "SPD": 83,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 2022110,
+                    "Num": 20,
+                    "HP": 36204,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 202303016,
+                    "Num": 1,
+                    "HP": 1493430,
+                    "SPD": 120,
+                    "Stance": 14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Phys",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Fire",
+          "Wind"
+        ],
+        "Upper": [
+          {
+            "_id": 30315021,
+            "Level": 65,
+            "Waves": [
+              {
+                "KeepNum": 5,
+                "HPAdd": 0.5,
+                "EliteGroup": {
+                  "ID": 56,
+                  "ATK": 0.6
+                },
+                "Monsters": [
+                  {
+                    "ID": 1002040,
+                    "Num": 12,
+                    "HP": 13394,
+                    "SPD": 83,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 2002030,
+                    "Num": 10,
+                    "HP": 15454,
+                    "SPD": 120,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 300205006,
+                    "Num": 2,
+                    "HP": 103029,
+                    "SPD": 144,
+                    "Stance": 6
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 1.4,
+                "EliteGroup": {
+                  "ID": 56,
+                  "ATK": 0.6
+                },
+                "Monsters": [
+                  {
+                    "ID": 8002010,
+                    "Num": 20,
+                    "HP": 31321,
+                    "SPD": 120,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 1022010,
+                    "Num": 20,
+                    "HP": 24727,
+                    "SPD": 100,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 800302023,
+                    "Num": 1,
+                    "HP": 1359978,
+                    "SPD": 120,
+                    "Stance": 14
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 4.2,
+                "EliteGroup": {
+                  "ID": 56,
+                  "ATK": 0.6
+                },
+                "Monsters": [
+                  {
+                    "ID": 4012040,
+                    "Num": 20,
+                    "HP": 92863,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 4022010,
+                    "Num": 20,
+                    "HP": 107150,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 402301002,
+                    "Num": 1,
+                    "HP": 2946619,
+                    "SPD": 120,
+                    "Stance": 16
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30315022,
+            "Level": 65,
+            "Waves": [
+              {
+                "KeepNum": 5,
+                "HPAdd": 0.5,
+                "EliteGroup": {
+                  "ID": 56,
+                  "ATK": 0.6
+                },
+                "Monsters": [
+                  {
+                    "ID": 2002010,
+                    "Num": 12,
+                    "HP": 16485,
+                    "SPD": 120,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 4012020,
+                    "Num": 10,
+                    "HP": 26787,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 300205006,
+                    "Num": 2,
+                    "HP": 103029,
+                    "SPD": 144,
+                    "Stance": 6
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 1.4,
+                "EliteGroup": {
+                  "ID": 56,
+                  "ATK": 0.6
+                },
+                "Monsters": [
+                  {
+                    "ID": 2002010,
+                    "Num": 20,
+                    "HP": 26375,
+                    "SPD": 120,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 202205004,
+                    "Num": 20,
+                    "HP": 32969,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 800304018,
+                    "Num": 1,
+                    "HP": 1359978,
+                    "SPD": 172,
+                    "Stance": 10
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 4.2,
+                "EliteGroup": {
+                  "ID": 56,
+                  "ATK": 0.6
+                },
+                "Monsters": [
+                  {
+                    "ID": 4032040,
+                    "Num": 20,
+                    "HP": 142866,
+                    "SPD": 155,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 1002040,
+                    "Num": 20,
+                    "HP": 46432,
+                    "SPD": 83,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 202302014,
+                    "Num": 1,
+                    "HP": 2946619,
+                    "SPD": 144,
+                    "Stance": 14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec"
+        ],
+        "Upper": [
+          {
+            "_id": 30315031,
+            "Level": 75,
+            "Waves": [
+              {
+                "KeepNum": 5,
+                "HPAdd": 0.5,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 2002010,
+                    "Num": 12,
+                    "HP": 27119,
+                    "SPD": 132,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 2022060,
+                    "Num": 10,
+                    "HP": 37288,
+                    "SPD": 91,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 300205006,
+                    "Num": 2,
+                    "HP": 169491,
+                    "SPD": 158,
+                    "Stance": 6
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 1.4,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 3002030,
+                    "Num": 20,
+                    "HP": 61017,
+                    "SPD": 110,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 4022010,
+                    "Num": 20,
+                    "HP": 81356,
+                    "SPD": 110,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 800301020,
+                    "Num": 1,
+                    "HP": 2237284,
+                    "SPD": 110,
+                    "Stance": 14
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 4.2,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 1002040,
+                    "Num": 20,
+                    "HP": 76384,
+                    "SPD": 91,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 8002010,
+                    "Num": 20,
+                    "HP": 111638,
+                    "SPD": 132,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 800303020,
+                    "Num": 1,
+                    "HP": 4847449,
+                    "SPD": 132,
+                    "Stance": 14
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30315032,
+            "Level": 75,
+            "Waves": [
+              {
+                "KeepNum": 5,
+                "HPAdd": 0.5,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 3002010,
+                    "Num": 12,
+                    "HP": 46610,
+                    "SPD": 110,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 1022020,
+                    "Num": 10,
+                    "HP": 25424,
+                    "SPD": 110,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 300205006,
+                    "Num": 2,
+                    "HP": 169491,
+                    "SPD": 158,
+                    "Stance": 6
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 1.4,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 4012030,
+                    "Num": 20,
+                    "HP": 70508,
+                    "SPD": 110,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 4012010,
+                    "Num": 20,
+                    "HP": 70508,
+                    "SPD": 110,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 401301201,
+                    "Num": 1,
+                    "HP": 2237284,
+                    "SPD": 145,
+                    "Stance": 14
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 4.2,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 2022060,
+                    "Num": 20,
+                    "HP": 129265,
+                    "SPD": 91,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 2022110,
+                    "Num": 20,
+                    "HP": 117514,
+                    "SPD": 110,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 202303016,
+                    "Num": 1,
+                    "HP": 4847449,
+                    "SPD": 132,
+                    "Stance": 14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Phys",
+          "Fire"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Quantum"
+        ],
+        "Upper": [
+          {
+            "_id": 30315041,
+            "Level": 85,
+            "Waves": [
+              {
+                "KeepNum": 5,
+                "HPAdd": 0.6,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 4052010,
+                    "Num": 12,
+                    "HP": 91044,
+                    "SPD": 173,
+                    "Stance": 4
+                  },
+                  {
+                    "ID": 1022010,
+                    "Num": 10,
+                    "HP": 42020,
+                    "SPD": 120,
+                    "Stance": 2
+                  },
+                  {
+                    "ID": 300205006,
+                    "Num": 2,
+                    "HP": 280136,
+                    "SPD": 173,
+                    "Stance": 6
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 2.4,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 4052010,
+                    "Num": 20,
+                    "HP": 193469,
+                    "SPD": 173,
+                    "Stance": 4
+                  },
+                  {
+                    "ID": 8022020,
+                    "Num": 20,
+                    "HP": 187516,
+                    "SPD": 173,
+                    "Stance": 4
+                  },
+                  {
+                    "ID": 405301002,
+                    "Num": 1,
+                    "HP": 4911138,
+                    "SPD": 173,
+                    "Stance": 18
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 10.5,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 8032020,
+                    "Num": 20,
+                    "HP": 442965,
+                    "SPD": 120,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 4032030,
+                    "Num": 20,
+                    "HP": 684583,
+                    "SPD": 120,
+                    "Stance": 4
+                  },
+                  {
+                    "ID": 100403008,
+                    "Num": 1,
+                    "HP": 16611203,
+                    "SPD": 144,
+                    "Stance": 16
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 30315042,
+            "Level": 85,
+            "Waves": [
+              {
+                "KeepNum": 5,
+                "HPAdd": 0.6,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 4032050,
+                    "Num": 12,
+                    "HP": 84041,
+                    "SPD": 186,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 4012010,
+                    "Num": 10,
+                    "HP": 72835,
+                    "SPD": 120,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 300205006,
+                    "Num": 2,
+                    "HP": 280136,
+                    "SPD": 173,
+                    "Stance": 6
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 2.4,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 8012030,
+                    "Num": 20,
+                    "HP": 125011,
+                    "SPD": 120,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 2022060,
+                    "Num": 20,
+                    "HP": 130964,
+                    "SPD": 100,
+                    "Stance": 3
+                  },
+                  {
+                    "ID": 800302023,
+                    "Num": 1,
+                    "HP": 4911138,
+                    "SPD": 144,
+                    "Stance": 14
+                  }
+                ]
+              },
+              {
+                "KeepNum": 5,
+                "HPAdd": 10.5,
+                "EliteGroup": {
+                  "ID": 57,
+                  "ATK": 0.7
+                },
+                "Monsters": [
+                  {
+                    "ID": 4032024,
+                    "Num": 20,
+                    "HP": 483235,
+                    "SPD": 168,
+                    "Stance": 6
+                  },
+                  {
+                    "ID": 403202401,
+                    "Num": 20,
+                    "HP": 483235,
+                    "SPD": 128,
+                    "Stance": 6
+                  },
+                  {
+                    "ID": 4034014,
+                    "Num": 1,
+                    "HP": 16611203,
+                    "SPD": 158,
+                    "Stance": 24
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "BST": 1
+  },
+  "source": {
+    "files": [
+      "data/CH/Fiction_1.js",
+      "data/CH/Fiction_2.js"
+    ]
+  }
+}

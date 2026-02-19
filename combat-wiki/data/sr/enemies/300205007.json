@@ -1,0 +1,30 @@
+{
+  "id": "300205007",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "量产机",
+  "description": "模仿星核猎手的小主播。由于是小主播，所以服装比较粗糙，看得出是量产版本。",
+  "stats": {
+    "HP": 50.0,
+    "ATK": 9.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 12.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002050.png",
+  "figure": "monsterfigure/Monster_3002050.png",
+  "camp": {
+    "id": "7",
+    "name": "银河"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

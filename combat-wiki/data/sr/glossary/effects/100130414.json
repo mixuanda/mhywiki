@@ -1,0 +1,19 @@
+{
+  "id": "100130414",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "枪口以右",
+  "description": "效果命中降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100130414,
+    "MDF": "MAvatar_Aventurine_00_Passive_ReduceStatusProbability",
+    "Name": "枪口以右",
+    "Desc": "效果命中降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "220330103",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "恐惧",
+  "description": "无法行动，持续至自身下个回合开始。",
+  "content": {
+    "_id": 220330103,
+    "Name": "恐惧",
+    "Desc": "无法行动，持续至自身下个回合开始。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6-0-phase-4",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "6.0",
+  "phase": 4,
+  "featuredFiveStar": [
+    {
+      "N": "Tighnari",
+      "X": 2
+    },
+    {
+      "N": "Dehya",
+      "X": 2
+    },
+    {
+      "N": "Cyno",
+      "X": 4
+    },
+    {
+      "N": "Nilou",
+      "X": 4
+    },
+    {
+      "N": "Wanderer",
+      "X": 4
+    },
+    {
+      "N": "Alhatham",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

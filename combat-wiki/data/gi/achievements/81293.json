@@ -1,0 +1,15 @@
+{
+  "id": "81293",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无名之城的过往",
+  "description": "居尔城神殿的壁画，讲述着一度辉煌的过往…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84376",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "？？？",
+  "description": "？？？",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

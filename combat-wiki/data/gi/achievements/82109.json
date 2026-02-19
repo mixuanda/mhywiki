@@ -1,0 +1,15 @@
+{
+  "id": "82109",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "画龙点睛",
+  "description": "在战斗中不曾获取过护盾的情况下，击败若陀龙王。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "20"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

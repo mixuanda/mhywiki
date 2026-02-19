@@ -1,0 +1,18 @@
+{
+  "id": "4034411",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "摩登时代",
+  "description": "虫豸啃噬金钱，贪婪腐化奇迹<br><color style='color:#8790ab;'>※战胜圣杯战争的幕后黑手</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4053606",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "已老实…？",
+  "description": "与在走廊罚站的学生交谈",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

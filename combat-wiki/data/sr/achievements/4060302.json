@@ -1,0 +1,18 @@
+{
+  "id": "4060302",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "隧洞幽影（二）",
+  "description": "通关 400.0 次侵蚀隧洞",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 6,
+    "Name": "不屈者的荣光",
+    "Icon": "ChallengeAchievementIcon.png",
+    "Count": 12
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

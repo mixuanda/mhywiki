@@ -1,0 +1,18 @@
+{
+  "id": "4053518",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一壶浊酒尽余欢",
+  "description": "在冒险任务「长亭外，古道边」中，为仙舟贵客送行，并迎接出差归来的符玄",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

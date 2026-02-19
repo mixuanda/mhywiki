@@ -1,0 +1,18 @@
+{
+  "id": "4034501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不屈服的祭品",
+  "description": "愿黎明带来捷报，正如俗语所言，黎明是夜的孩子<br><color style='color:#8790ab;'>※奔赴第一次逐火之旅的时代</color>",
+  "reward": 10,
+  "version": 3.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

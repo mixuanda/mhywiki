@@ -1,0 +1,22 @@
+{
+  "id": "13407",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "西风长枪",
+  "description": "西风骑士团的制式长枪。枪杆直挺，枪尖轻风流溢。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112004",
+    "112025",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13407.js"
+  }
+}

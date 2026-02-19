@@ -1,0 +1,15 @@
+{
+  "id": "81549",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "凡走过必留痕迹",
+  "description": "龙龙饼干是开始也是结束。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

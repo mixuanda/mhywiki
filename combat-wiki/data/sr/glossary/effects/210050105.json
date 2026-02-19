@@ -1,0 +1,17 @@
+{
+  "id": "210050105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "创世纪的前奏",
+  "description": "下次攻击对我方全体施放【创世绝响】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210050105,
+    "MDF": "MMonster_W1_CocoliaP2_00_Skill08_Charge",
+    "Name": "创世纪的前奏",
+    "Desc": "下次攻击对我方全体施放【创世绝响】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

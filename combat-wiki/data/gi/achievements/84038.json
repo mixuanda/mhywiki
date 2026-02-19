@@ -1,0 +1,15 @@
+{
+  "id": "84038",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "柊三十郎",
+  "description": "顺利押送货物，离开离岛。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "230140221",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "悼亡诗",
+  "description": "造成的伤害提高<color> <b>A</b> </color>，并使【永眠墓碣】的生命值增加<color> <b>B</b> </color>格，该效果可叠加。当前【永眠墓碣】的初始生命值为<color> <b>C</b> </color>格。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230140221,
+    "MDF": "Monster_W3_Death_00_RLBoss_DamageUp",
+    "Name": "悼亡诗",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>，并使【永眠墓碣】的生命值增加<color> <b>B</b> </color>格，该效果可叠加。当前【永眠墓碣】的初始生命值为<color> <b>C</b> </color>格。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

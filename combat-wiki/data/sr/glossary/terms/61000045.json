@@ -1,0 +1,15 @@
+{
+  "id": "61000045",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "群攻",
+  "description": "技能标签的一种，以群体攻击为主要效果的技能会拥有该标签。",
+  "content": {
+    "_id": 61000045,
+    "Name": "群攻",
+    "Desc": "技能标签的一种，以群体攻击为主要效果的技能会拥有该标签。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

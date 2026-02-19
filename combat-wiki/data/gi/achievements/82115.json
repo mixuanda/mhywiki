@@ -1,0 +1,15 @@
+{
+  "id": "82115",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "将盐送给敌人，将水留给自己",
+  "description": "在一次无相之水挑战中，获取至少三个「水滴」发射的愈疗晶球。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "29"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

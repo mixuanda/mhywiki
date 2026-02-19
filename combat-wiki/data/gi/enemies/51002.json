@@ -1,0 +1,25 @@
+{
+  "id": "51002",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "海乱鬼 · 炎威",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "kfm"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 海乱鬼"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

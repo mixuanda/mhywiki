@@ -1,0 +1,16 @@
+{
+  "id": "unknown",
+  "game": "sr",
+  "entityType": "futureIntel",
+  "name": "风堇",
+  "versions": [
+    "3.3",
+    "3.3v6",
+    "3.3v5",
+    "3.3v4",
+    "3.3v3"
+  ],
+  "source": {
+    "file": "Char/HSR.json"
+  }
+}

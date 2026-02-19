@@ -1,0 +1,18 @@
+{
+  "id": "4092930",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "机械飞升",
+  "description": "在「模拟宇宙：黄金与机械」的神经网络中激活第 1.0 个神经",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4034504",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "为往日流尽金血",
+  "description": "听啊，你这大地下的极乐力量——回应召唤，送来助襄。庇佑孩子，赐他们以胜利和希望<br><color style='color:#8790ab;'>※浇奠英雄们的牺牲，然后继续前进</color>",
+  "reward": 10,
+  "version": 3.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

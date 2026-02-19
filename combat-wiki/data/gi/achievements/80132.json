@@ -1,0 +1,15 @@
+{
+  "id": "80132",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "福斯福洛斯的指引",
+  "description": "在渊下宫追随6个仙灵，并点亮仙灵之庭。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "28"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "40403",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "元能构装体 · 勘探机",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "pc"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 赤王造物"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

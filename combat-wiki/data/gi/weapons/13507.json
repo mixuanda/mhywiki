@@ -1,0 +1,22 @@
+{
+  "id": "13507",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "息灾",
+  "description": "由奇异晶石打造成的锋锐利器。幽幽蓝光似乎诉说着无尽往事。",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 740.5801544000001,
+  "subStatType": "ATK",
+  "subStatValue": 0.165384,
+  "materialRefs": [
+    "112028",
+    "112040",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13507.js"
+  }
+}

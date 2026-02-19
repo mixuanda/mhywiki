@@ -1,0 +1,39 @@
+{
+  "id": "100201509",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "公司安保幻象",
+  "description": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
+  "stats": {
+    "HP": 3.0,
+    "ATK": 5.9999400000000005,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Fire",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1002011.png",
+  "figure": "monsterfigure/Monster_1002011.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

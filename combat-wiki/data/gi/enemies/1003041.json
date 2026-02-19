@@ -1,0 +1,21 @@
+{
+  "id": "1003041",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "兆载永劫龙兽 · 常形",
+  "description": "如同古时曾制御大地的君王一般，令人望而生畏的龙形战斗机械。<br>这架不知疲倦的神秘机械巨兽似乎证明，传说已经覆灭的国度确已触及了人所不应抵达的领域。<br>在地脉的记忆中，它所展现的战力被深深烙下，转作守军中最为可怖的代表…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_GargoyleFafnir",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81179",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "七个字母",
+  "description": "尝试解读「石根文字」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

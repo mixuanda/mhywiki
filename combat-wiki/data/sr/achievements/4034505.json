@@ -1,0 +1,18 @@
+{
+  "id": "4034505",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "报仇神",
+  "description": "他这样把一生的幸福撞毁在正义的礁石上，没有人流泪，没有人观看<br><color style='color:#8790ab;'>※见证并击败「神礼观众」的正身</color>",
+  "reward": 10,
+  "version": 3.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81024",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "威遍风土",
+  "description": "蒙德的声望等级达到8级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

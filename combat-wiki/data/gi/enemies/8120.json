@@ -1,0 +1,28 @@
+{
+  "id": "8120",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "十六倍曼陀草",
+  "description": "异乎寻常的巨大曼陀草，似乎是经历了漫长的人工选育才诞生的奇异品种。虽然最初培育它的目的早已不得而知，但从其拥有着独特的领地意识来看，或许它曾是某个特殊社会实验的产物。",
+  "stats": {},
+  "resistance": {
+    "Grass": 1.35
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Mandragora_Elite"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 地方传奇",
+    "地方传奇 > 6.3"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

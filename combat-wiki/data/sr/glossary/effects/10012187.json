@@ -1,0 +1,18 @@
+{
+  "id": "10012187",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "九沸九变，火为之纪",
+  "description": "全属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012187,
+    "MDF": "MAvatar_Jiaoqiu_00_SkillRank06_ResistDown",
+    "Name": "九沸九变，火为之纪",
+    "Desc": "全属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

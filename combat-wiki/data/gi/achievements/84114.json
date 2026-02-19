@@ -1,0 +1,15 @@
+{
+  "id": "84114",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "但是，代价是…",
+  "description": "帮助迪奥娜找到特制基底饮品。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

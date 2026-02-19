@@ -1,0 +1,18 @@
+{
+  "id": "4054320",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Evil May Cry",
+  "description": "在「银河球棒侠传说」活动中，战胜黑斗篷魔王",
+  "reward": 10,
+  "version": 3.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

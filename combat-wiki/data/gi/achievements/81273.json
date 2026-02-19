@@ -1,0 +1,15 @@
+{
+  "id": "81273",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "再听一遍那首歌谣",
+  "description": "重新站在圣显厅的赤王御座之前。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

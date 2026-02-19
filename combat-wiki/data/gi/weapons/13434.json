@@ -1,0 +1,22 @@
+{
+  "id": "13434",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "圣祭者的辉杖",
+  "description": "纯净无垢的银白长枪，传说在过去曾被亥珀波瑞亚的主祭们用作指引霜月之子前行的权杖。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 620.0329535,
+  "subStatType": "CR",
+  "subStatValue": 0.09188,
+  "materialRefs": [
+    "112124",
+    "112136",
+    "114080"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13434.js"
+  }
+}

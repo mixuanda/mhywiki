@@ -1,0 +1,22 @@
+{
+  "id": "11414",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "天目影打刀",
+  "description": "传说中连以神速见长的天狗都能斩落的名士订制的刀。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ATK",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112046",
+    "112049",
+    "114028"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11414.js"
+  }
+}

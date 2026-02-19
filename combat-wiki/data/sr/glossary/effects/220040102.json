@@ -1,0 +1,19 @@
+{
+  "id": "220040102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "支配",
+  "description": "使我方单体无法行动，且随机攻击1名我方其他目标。若该目标被施放技能解除负面效果，将会优先被解除【支配】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040102,
+    "MDF": "Monster_W2_Kafka_00_Charm",
+    "Name": "支配",
+    "Desc": "使我方单体无法行动，且随机攻击1名我方其他目标。若该目标被施放技能解除负面效果，将会优先被解除【支配】状态。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

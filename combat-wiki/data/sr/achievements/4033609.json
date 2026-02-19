@@ -1,0 +1,18 @@
+{
+  "id": "4033609",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我的朋友波提欧",
+  "description": "猿猴崇尚野蛮，也将以野蛮的方式死去<br>※波提欧视角下，击败扰乱流梦礁的「助蕉」",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4053047",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "遥星之门",
+  "description": "冒险家还是海盗？<br><color style='color:#8790ab;'>※倾听科琳关于宇宙的故事</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

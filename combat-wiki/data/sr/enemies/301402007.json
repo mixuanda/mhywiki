@@ -1,0 +1,39 @@
+{
+  "id": "301402007",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "平庸的死亡",
+  "description": "由音符小姐的绝望凝聚成的宝具。「不要走上舞台，不要追寻星光」，临死前的悔恨化作怪物，将舞台上英雄们的装扮剥离，为他们带来平庸而美好的结局。",
+  "stats": {
+    "HP": 25.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3014020.png",
+  "figure": "monsterfigure/Monster_3014020.png",
+  "camp": {
+    "id": "11",
+    "name": "忆域迷因"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

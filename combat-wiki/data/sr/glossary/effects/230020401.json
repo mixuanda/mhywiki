@@ -1,0 +1,17 @@
+{
+  "id": "230020401",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "预定闹钟",
+  "description": "下次行动施放【起床铃声】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230020401,
+    "MDF": "MMonster_W3_Clock_00_Skill01_Charge",
+    "Name": "预定闹钟",
+    "Desc": "下次行动施放【起床铃声】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

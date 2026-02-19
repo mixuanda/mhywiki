@@ -1,0 +1,19 @@
+{
+  "id": "100130413",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "红黑之间",
+  "description": "防御力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100130413,
+    "MDF": "MAvatar_Aventurine_00_Maze_Defence",
+    "Name": "红黑之间",
+    "Desc": "防御力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

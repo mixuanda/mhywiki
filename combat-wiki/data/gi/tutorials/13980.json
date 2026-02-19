@@ -1,0 +1,27 @@
+{
+  "id": "13980",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13980",
+  "tags": [],
+  "content": {
+    "_id": 13980,
+    "N": "深渊的雾障",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Nodkrai_ShenyuanSmoke01",
+        "D": "不断淤积的深渊气息形成的雾障，可以利用月矩力波将其清除。"
+      },
+      {
+        "I": "UI_Nodkrai_ShenyuanSmoke02",
+        "D": "但若是多个深渊雾障汇聚而成的大型雾障，则需要将与之连结的深渊雾障全部清除后，才能将其彻底净化。"
+      }
+    ],
+    "Y": 2,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

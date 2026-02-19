@@ -1,0 +1,18 @@
+{
+  "id": "4044302",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虫鸣秘闻：无形长阶",
+  "description": "是什么遮蔽了燃火之路？<br><color style='color:#8790ab;'>※解开「无晖祈堂」黎明云崖的预言谜题</color>",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

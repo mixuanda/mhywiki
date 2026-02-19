@@ -1,0 +1,39 @@
+{
+  "id": "402302002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "月夜天马",
+  "description": "在遥远的造物世，艾格勒打造黎明机器后，它又在刻法勒协助下创造了代表各种泰坦的奇兽。据信，月夜天马象征着它的老对手欧洛尼斯。",
+  "stats": {
+    "HP": 82.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Fire",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4023020.png",
+  "figure": "monsterfigure/Monster_4023020.png",
+  "camp": {
+    "id": "13",
+    "name": "晨昏奇兽"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

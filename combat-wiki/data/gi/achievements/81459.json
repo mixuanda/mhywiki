@@ -1,0 +1,15 @@
+{
+  "id": "81459",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "香莙梦",
+  "description": "了解魂香花的秘密。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

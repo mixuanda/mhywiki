@@ -1,0 +1,19 @@
+{
+  "id": "240620202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "罪血腐蚀",
+  "description": "回合开始时受到<color> <b>A</b> </color>点固定数值虚数属性伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240620202,
+    "MDF": "MMonster_W2_Beast01_04_SkillP02_GoldBlood_DOT",
+    "Name": "罪血腐蚀",
+    "Desc": "回合开始时受到<color> <b>A</b> </color>点固定数值虚数属性伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

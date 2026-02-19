@@ -1,0 +1,15 @@
+{
+  "id": "82269",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「铁须」",
+  "description": "战胜地方传奇 · 铁须。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

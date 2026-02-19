@@ -1,0 +1,18 @@
+{
+  "id": "4052714",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "腿只是装饰而已",
+  "description": "为造物引擎制定一份离谱的策划案",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

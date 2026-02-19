@@ -1,0 +1,15 @@
+{
+  "id": "80396",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "献给某人的花束",
+  "description": "或许比起曾触手可得的整个世界，对它来说，有其他更为重要的东西。",
+  "reward": 10,
+  "version": "5.5",
+  "group": {
+    "id": "60"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

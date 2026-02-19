@@ -1,0 +1,15 @@
+{
+  "id": "84040",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "屏风后的白鹭公主",
+  "description": "与神里家的大小姐正式会面。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

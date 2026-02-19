@@ -1,0 +1,18 @@
+{
+  "id": "4052324",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一鼓作气，再而衰，三而竭",
+  "description": "在任务「亦师亦友」完成后，收到所有铖杰热情衰退的短信",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

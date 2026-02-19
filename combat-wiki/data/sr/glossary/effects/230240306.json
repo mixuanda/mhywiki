@@ -1,0 +1,17 @@
+{
+  "id": "230240306",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "速效进化",
+  "description": "被不处于【天敌】状态下的我方目标攻击时，无法造成暴击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240306,
+    "MDF": "MMonster_W3_Sam_01_Skill04UnselectableMark",
+    "Name": "速效进化",
+    "Desc": "被不处于【天敌】状态下的我方目标攻击时，无法造成暴击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

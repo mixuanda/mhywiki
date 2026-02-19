@@ -1,0 +1,10 @@
+{
+  "id": "110223",
+  "game": "sr",
+  "entityType": "material",
+  "name": "焚天之魔",
+  "icon": "itemicon/110223.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

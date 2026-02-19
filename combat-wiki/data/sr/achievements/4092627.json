@@ -1,0 +1,18 @@
+{
+  "id": "4092627",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "笃定发生",
+  "description": "在「模拟宇宙：寰宇蝗灾」中，累计使用 10.0 次作弊",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

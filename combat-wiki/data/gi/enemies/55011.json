@@ -1,0 +1,25 @@
+{
+  "id": "55011",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "铸砂勇士 · 叩问人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Human_Female_NoWeapon_Drillhead"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 铸砂勇士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

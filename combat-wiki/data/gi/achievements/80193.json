@@ -1,0 +1,15 @@
+{
+  "id": "80193",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "胜负师放浪记",
+  "description": "将牌手等级提升至10级。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "114",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "骇域漫游的信使",
+  "icon": "71021.png",
+  "setBonuses": [
+    "速度提高 <b>6%</b> 。",
+    "当装备者对我方目标施放终结技时，我方全体速度提高 <b>12%</b> ，持续 <b>1</b> 回合，该效果无法叠加。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/114.js"
+  }
+}

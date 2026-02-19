@@ -1,0 +1,25 @@
+{
+  "id": "3740303",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "重武装兆载永劫龙兽",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "abd"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

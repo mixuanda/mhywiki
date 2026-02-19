@@ -1,0 +1,18 @@
+{
+  "id": "4092920",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "翠鸟董事会专员",
+  "description": "通关「模拟宇宙：黄金与机械」时，使用自定义骰「琥珀障壁」，为 30.0 个及以上的区域附加【知识】效果",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

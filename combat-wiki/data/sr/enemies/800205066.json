@@ -1,0 +1,39 @@
+{
+  "id": "800205066",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "序列扑满",
+  "description": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+  "stats": {
+    "HP": 1.2,
+    "ATK": 18.0,
+    "DEF": 1.5,
+    "SPD": 83.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_8002050.png",
+  "figure": "monsterfigure/Monster_8002050.png",
+  "camp": {
+    "id": "4",
+    "name": "模拟宇宙"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

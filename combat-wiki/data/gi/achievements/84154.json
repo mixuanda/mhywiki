@@ -1,0 +1,15 @@
+{
+  "id": "84154",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "DECKS & DETECTIVES",
+  "description": "侦破走私案后，与琳妮特享受宁静的茶会时光。",
+  "reward": 5,
+  "version": "4.5",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

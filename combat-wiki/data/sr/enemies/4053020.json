@@ -1,0 +1,39 @@
+{
+  "id": "4053020",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "飓风大母",
+  "description": "大海的女儿们，被「毁灭」的罪孽蚀尽灵肉，只余空荡扭曲的形骸…这一世，她们追随「海洋」的利刃，并非湮灭于虚无，而是成为袭向黑日的巨浪。<br>末日的雨从天而降，宣告万物的灭亡——<br>孕育大浪的飓风啊，你尝尽子嗣的绝望，最终孕满疯狂——<br>亿万死胎的海葬，泪也应汹涌如洪水，将恨拍在岸上。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 165.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Elec"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4053020.png",
+  "figure": "monsterfigure/Monster_4053020.png",
+  "camp": {
+    "id": "15",
+    "name": "渊下海妖"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4073509",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "棉花糖兔子",
+  "description": "使用灵砂在单场战斗中保持【浮元】在场直到战斗胜利",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82134",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "末路狂花",
+  "description": "掣电树放射集束电光时，通过攻击其花冠，使之瘫痪。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "34"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1003013",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "银鬃尉官（完整）",
+  "description": "代码受到影响后的完整投影。参照本体为贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。",
+  "stats": {
+    "HP": 4.5,
+    "ATK": 20.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 6.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1003010.png",
+  "figure": "monsterfigure/Monster_1003010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

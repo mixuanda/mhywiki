@@ -1,0 +1,18 @@
+{
+  "id": "4053303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我的船长我的船",
+  "description": "完成冒险任务「云帆归心」",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

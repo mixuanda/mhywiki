@@ -1,0 +1,34 @@
+{
+  "id": "62502",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "突角龙",
+  "description": "拥有坚硬的冠骨和强大身躯力量，能够在火山四周的原野上飞速疾驰的龙。\n传说中，原本的突角龙具有堪称庞大的形体，甚至可以用角顶着山峰进行移动，只不过行动远不如当今这样灵敏。或许如今突角龙身躯里所具备的那种力量，也是一种血脉之中的遗留。",
+  "stats": {},
+  "resistance": {
+    "Phys": 0.10000000149011612,
+    "Fire": 0.10000000149011612,
+    "Water": 0.10000000149011612,
+    "Elec": 0.5,
+    "Ice": 0.10000000149011612,
+    "Grass": 0.10000000149011612,
+    "Wind": 0.10000000149011612,
+    "Rock": 0.10000000149011612
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Natsaurus_Bisonsaurus_Normal"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 龙"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054420",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "你醒啦，起来打工吧！",
+  "description": "招募幽灵小鸟作为街机店员工",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

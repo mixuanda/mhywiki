@@ -1,0 +1,15 @@
+{
+  "id": "84523",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "梦想与工作，诗与面包",
+  "description": "完成「所谓『工作』」，并获得霖铃的诗集。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

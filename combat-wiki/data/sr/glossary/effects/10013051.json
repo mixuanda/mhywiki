@@ -1,0 +1,19 @@
+{
+  "id": "10013051",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "速度提高",
+  "description": "每层使速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013051,
+    "MDF": "MAvatar_Dr_Ratio_00_Passive_Buff_01",
+    "Name": "速度提高",
+    "Desc": "每层使速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

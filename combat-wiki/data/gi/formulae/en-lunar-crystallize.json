@@ -1,0 +1,22 @@
+{
+  "id": "en-lunar-crystallize",
+  "game": "gi",
+  "entityType": "formula",
+  "language": "EN",
+  "title": "Lunar Crystallize",
+  "subtitle": "HomDGCat Wiki 6.3v1",
+  "content": [
+    [
+      "Lunar Crystallize DMG is calculated in the same way as Lunar Charged DMG. The only difference is that Direct Lunar Crystallize has a multiplier of @1.6# instead of @3#, and Reaction Lunar Crystallize has a multiplier of @0.96# instead of @1.8#."
+    ],
+    [
+      "Under certain conditions, when @Geo# meets @Hydro#, three Moondrifts appear.",
+      "After triggering Lunar Crystallize 3 times, each of the three Moondrifts deal Lunar Crystallize DMG once."
+    ],
+    "$$Direct DMG=\\begin{aligned} &1.6\\times DEF\\times Multiplier \\times (1+Base Bonus\\%) \\\\& \\times\\left( 1+\\frac{6\\times EM}{EM + 2000} + DMG Bonus\\% \\right) \\\\& \\times RES \\times Crit \\times Elevation\\end{aligned}$$",
+    "When dealing Reaction Lunar Crystallize DMG, @all participating characters# contribute to the DMG.$$Reaction DMG=\\begin{aligned} &1446.85 \\times 0.96 \\times (1+Base Bonus\\%) \\\\& \\times\\left( 1+\\frac{6\\times EM}{EM + 2000} + DMG Bonus\\% \\right) \\\\& \\times RES \\times Crit \\times Elevation\\end{aligned}$$ $$Final DMG=Highest+\\frac{1}{2}Second+\\frac{1}{12}Third+\\frac{1}{12}Fourth$$"
+  ],
+  "source": {
+    "file": "javascripts/formulae_gi.js"
+  }
+}

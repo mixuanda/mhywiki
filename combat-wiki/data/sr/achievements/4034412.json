@@ -1,0 +1,18 @@
+{
+  "id": "4034412",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "啊，朋友再见",
+  "description": "守望月亮的稚子，终于与故人重逢<br><color style='color:#8790ab;'>※当列车迎来意料之外的访客</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

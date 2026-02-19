@@ -1,0 +1,18 @@
+{
+  "id": "230240138",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "桂冠",
+  "description": "每层额外为【不可抵挡的命运】追加一次伤害。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240138,
+    "MDF": "Monster_W2_Argenti_00_IF_FlowerPower",
+    "Name": "桂冠",
+    "Desc": "每层额外为【不可抵挡的命运】追加一次伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

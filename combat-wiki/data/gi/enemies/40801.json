@@ -1,0 +1,25 @@
+{
+  "id": "40801",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "实验性场力发生装置",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_MachinaIustitia_Gravitas"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 力场机器"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10080022",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "牵制盗垒",
+  "description": "每层使攻击力提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080022,
+    "MDF": "MAvatar_PlayerGirl_00_Passive_BreakAtkUp",
+    "Name": "牵制盗垒",
+    "Desc": "每层使攻击力提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

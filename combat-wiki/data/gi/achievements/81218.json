@@ -1,0 +1,15 @@
+{
+  "id": "81218",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…闻起来像沥青。」",
+  "description": "第一次因漆黑污泥的污染而倒下。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

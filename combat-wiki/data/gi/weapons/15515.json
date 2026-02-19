@@ -1,0 +1,57 @@
+{
+  "id": "15515",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黎明破晓之史",
+  "description": "一切抗争的诗歌都将乘风而来，落为弦上的轻音。而其中汇聚的力量如同撕开无边黑夜的破晓之光。",
+  "rarity": 5,
+  "weaponType": 5,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "CD",
+  "subStatValue": 0.441024,
+  "materialRefs": [
+    "112016",
+    "112037",
+    "114012"
+  ],
+  "affix": {
+    "115515": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "装备者获得「渐起的晓风」：脱离战斗状态3秒后，普通攻击、元素战技和元素爆发造成的伤害提升 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> 。在战斗状态下，上述伤害提升效果每秒降低 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到降低至0%；装备者的普通攻击、元素战技或元素爆发命中敌人时，对应类别的伤害提升效果提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到提升至 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> ，上述每种类别的攻击每0.1秒至多触发一次该效果。装备者处于队伍后台时，依然能触发上述效果。<br>此外，队伍拥有「魔导 · 秘仪」效果时，装备者的普通攻击、元素战技或元素爆发命中敌人时，改为使所有类别的伤害提升效果提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "装备者获得「渐起的晓风」：脱离战斗状态3秒后，普通攻击、元素战技和元素爆发造成的伤害提升 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> 。在战斗状态下，上述伤害提升效果每秒降低 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到降低至0%；装备者的普通攻击、元素战技或元素爆发命中敌人时，对应类别的伤害提升效果提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到提升至 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> ，上述每种类别的攻击每0.1秒至多触发一次该效果。装备者处于队伍后台时，依然能触发上述效果。<br>此外，队伍拥有「魔导 · 秘仪」效果时，装备者的普通攻击、元素战技或元素爆发命中敌人时，改为使所有类别的伤害提升效果提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "装备者获得「渐起的晓风」：脱离战斗状态3秒后，普通攻击、元素战技和元素爆发造成的伤害提升 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> 。在战斗状态下，上述伤害提升效果每秒降低 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到降低至0%；装备者的普通攻击、元素战技或元素爆发命中敌人时，对应类别的伤害提升效果提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到提升至 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> ，上述每种类别的攻击每0.1秒至多触发一次该效果。装备者处于队伍后台时，依然能触发上述效果。<br>此外，队伍拥有「魔导 · 秘仪」效果时，装备者的普通攻击、元素战技或元素爆发命中敌人时，改为使所有类别的伤害提升效果提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "装备者获得「渐起的晓风」：脱离战斗状态3秒后，普通攻击、元素战技和元素爆发造成的伤害提升 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> 。在战斗状态下，上述伤害提升效果每秒降低 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到降低至0%；装备者的普通攻击、元素战技或元素爆发命中敌人时，对应类别的伤害提升效果提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到提升至 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> ，上述每种类别的攻击每0.1秒至多触发一次该效果。装备者处于队伍后台时，依然能触发上述效果。<br>此外，队伍拥有「魔导 · 秘仪」效果时，装备者的普通攻击、元素战技或元素爆发命中敌人时，改为使所有类别的伤害提升效果提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "装备者获得「渐起的晓风」：脱离战斗状态3秒后，普通攻击、元素战技和元素爆发造成的伤害提升 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> 。在战斗状态下，上述伤害提升效果每秒降低 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到降低至0%；装备者的普通攻击、元素战技或元素爆发命中敌人时，对应类别的伤害提升效果提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到提升至 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> ，上述每种类别的攻击每0.1秒至多触发一次该效果。装备者处于队伍后台时，依然能触发上述效果。<br>此外，队伍拥有「魔导 · 秘仪」效果时，装备者的普通攻击、元素战技或元素爆发命中敌人时，改为使所有类别的伤害提升效果提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "装备者获得「渐起的晓风」：脱离战斗状态3秒后，普通攻击、元素战技和元素爆发造成的伤害提升 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> 。在战斗状态下，上述伤害提升效果每秒降低 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到降低至0%；装备者的普通攻击、元素战技或元素爆发命中敌人时，对应类别的伤害提升效果提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，直到提升至 <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>75%</color> / <color style='color:#99FFFFFF'>90%</color> / <color style='color:#99FFFFFF'>105%</color> / <color style='color:#99FFFFFF'>120%</color> ，上述每种类别的攻击每0.1秒至多触发一次该效果。装备者处于队伍后台时，依然能触发上述效果。<br>此外，队伍拥有「魔导 · 秘仪」效果时，装备者的普通攻击、元素战技或元素爆发命中敌人时，改为使所有类别的伤害提升效果提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15515.js"
+  }
+}

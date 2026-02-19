@@ -1,0 +1,15 @@
+{
+  "id": "86010",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「急冻树、青空、南风」",
+  "description": "与其他玩家一同战胜急冻树。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "13"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

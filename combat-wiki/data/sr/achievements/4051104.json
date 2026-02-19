@@ -1,0 +1,18 @@
+{
+  "id": "4051104",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "钻石与铁锈",
+  "description": "在任务「致：黯淡星」中选择将转译录交给伯纳德",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

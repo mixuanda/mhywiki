@@ -1,0 +1,15 @@
+{
+  "id": "86024",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "越过冰霜与烈焰",
+  "description": "与其他玩家一同战胜「女士」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "33"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

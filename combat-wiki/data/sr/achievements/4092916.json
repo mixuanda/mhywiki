@@ -1,0 +1,18 @@
+{
+  "id": "4092916",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "杀猪盘",
+  "description": "通关「模拟宇宙：黄金与机械」时，使用自定义骰「扑满推演」，在战斗中击败 15.0 个及以上扑满",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

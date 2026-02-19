@@ -1,0 +1,22 @@
+{
+  "id": "12502",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "狼的末路",
+  "description": "狼的骑士所使的大剑。原本只是城中铁匠赠予的厚重的铁片，却在他与狼的情谊中，获得神话般的力量。",
+  "rarity": 5,
+  "weaponType": 2,
+  "baseAtk": 608.0745972,
+  "subStatType": "ATK",
+  "subStatValue": 0.49615200000000004,
+  "materialRefs": [
+    "112010",
+    "112025",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12502.js"
+  }
+}

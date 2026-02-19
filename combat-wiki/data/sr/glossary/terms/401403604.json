@@ -1,0 +1,15 @@
+{
+  "id": "401403604",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "腐败反噬",
+  "description": "攻击该目标后，攻击者会受到少量量子属性<u>【衰亡伤害】</u>。",
+  "content": {
+    "_id": 401403604,
+    "Name": "腐败反噬",
+    "Desc": "攻击该目标后，攻击者会受到少量量子属性<u>【衰亡伤害】</u>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

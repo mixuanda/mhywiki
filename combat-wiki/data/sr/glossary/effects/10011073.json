@@ -1,0 +1,18 @@
+{
+  "id": "10011073",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "庇护",
+  "description": "受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011073,
+    "MDF": "MAvatar_Klara_00_Passive_DamageReduce",
+    "Name": "庇护",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

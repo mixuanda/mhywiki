@@ -1,0 +1,18 @@
+{
+  "id": "4074003",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "斜行战术",
+  "description": "在和「天谴先锋」的战斗中，至少5.0名我方目标参与分摊【在滔滔血海中沉溺】的伤害，且分摊伤害后没有我方目标被击败",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

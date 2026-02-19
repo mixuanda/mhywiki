@@ -1,0 +1,25 @@
+{
+  "id": "54103",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "镀金旅团 · 炽沙叙事人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "emsl"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 镀金旅团高层"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

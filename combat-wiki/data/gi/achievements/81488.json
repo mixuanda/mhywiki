@@ -1,0 +1,15 @@
+{
+  "id": "81488",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "舞！舞！舞！",
+  "description": "在「回声之子」观看「钻头热舞」的比赛。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

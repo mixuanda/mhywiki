@@ -1,0 +1,18 @@
+{
+  "id": "4073013",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "修罗雪姬",
+  "description": "在单场战斗中，使用黄泉的终结技「残梦尽染，一刀缭断」消灭所有敌人并获得战斗胜利",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

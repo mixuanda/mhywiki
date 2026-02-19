@@ -1,0 +1,17 @@
+{
+  "id": "240140221",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "世代受征服",
+  "description": "可回复的生命上限永久降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140221,
+    "MDF": "Monster_W4_HearsePart_00_BlackBlood_Enhance",
+    "Name": "世代受征服",
+    "Desc": "可回复的生命上限永久降低<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

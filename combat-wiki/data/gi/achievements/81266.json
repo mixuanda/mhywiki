@@ -1,0 +1,15 @@
+{
+  "id": "81266",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "像因论派学者一样思考",
+  "description": "墨水瓶里拥有可怕的权力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

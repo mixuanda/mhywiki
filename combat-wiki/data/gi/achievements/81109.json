@@ -1,0 +1,15 @@
+{
+  "id": "81109",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "情非得已",
+  "description": "打开广海的心结。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

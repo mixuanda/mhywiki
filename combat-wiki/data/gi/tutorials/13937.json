@@ -1,0 +1,27 @@
+{
+  "id": "13937",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13937",
+  "tags": [],
+  "content": {
+    "_id": 13937,
+    "N": "回忆之中的嘉明",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Avatar_3_01",
+        "D": "在回忆中，嘉明可以借助元素战技<color style='color:#ec9d1f'>向前跃起#，越过一定距离的沟壑…"
+      },
+      {
+        "I": "UI_Activity_LanV6Parkour_Avatar_3_02",
+        "D": "嘉明在向前跃起的过程中，若触碰到障碍，可<color style='color:#ec9d1f'>高高跃起#；若接触的是「大詹灯」，还可以<color style='color:#ec9d1f'>将其击破#。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

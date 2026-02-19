@@ -1,0 +1,15 @@
+{
+  "id": "220020301",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "震荡",
+  "description": "受到攻击后，陷入【强烈震荡】状态，然后解除【震荡】状态。",
+  "content": {
+    "_id": 220020301,
+    "Name": "震荡",
+    "Desc": "受到攻击后，陷入【强烈震荡】状态，然后解除【震荡】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

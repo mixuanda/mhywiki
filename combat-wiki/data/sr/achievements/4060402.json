@@ -1,0 +1,18 @@
+{
+  "id": "4060402",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "历战余响（二）",
+  "description": "通关 10.0 次历战余响",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 6,
+    "Name": "不屈者的荣光",
+    "Icon": "ChallengeAchievementIcon.png",
+    "Count": 12
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

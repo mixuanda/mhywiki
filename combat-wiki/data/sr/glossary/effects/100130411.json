@@ -1,0 +1,18 @@
+{
+  "id": "100130411",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "100130411",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 100130411,
+    "MDF": "MAvatar_Aventurine_00_Skill03_CoinAdd",
+    "Name": {},
+    "Desc": {},
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

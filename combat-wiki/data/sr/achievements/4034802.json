@@ -1,0 +1,18 @@
+{
+  "id": "4034802",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "过去是未来的倒影",
+  "description": "时间在刀尖上舞蹈，只有光能刺向未来<br><color style='color:#8790ab;'>※见证「终末」与「开拓」的交汇</color>",
+  "reward": 10,
+  "version": 3.8,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

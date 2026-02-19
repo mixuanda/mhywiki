@@ -1,0 +1,15 @@
+{
+  "id": "81236",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「芝麻，芝麻，请开门。」",
+  "description": "通过暗号，成功进入愚人众藏身的营地。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

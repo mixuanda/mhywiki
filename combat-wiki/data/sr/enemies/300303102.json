@@ -1,0 +1,39 @@
+{
+  "id": "300303102",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "颓不流",
+  "description": "来自朱明的武者。",
+  "stats": {
+    "HP": 11.0,
+    "ATK": 9.0,
+    "DEF": 1.0,
+    "SPD": 90.0,
+    "Stance": 6.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3003030.png",
+  "figure": "monsterfigure/Monster_3003030.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

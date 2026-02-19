@@ -1,0 +1,25 @@
+{
+  "id": "55053",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "横蛮勇士 · 抓扑人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Human_Fat_Sword_Bisonsaurus"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 横蛮勇士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

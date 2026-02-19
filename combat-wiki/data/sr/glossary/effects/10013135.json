@@ -1,0 +1,19 @@
+{
+  "id": "10013135",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "笃信补完微缺",
+  "description": "速度提高<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013135,
+    "MDF": "MAvatar_Sunday_10_Rank02_SpeedUp",
+    "Name": "笃信补完微缺",
+    "Desc": "速度提高<color> <b>A</b> </color>点。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

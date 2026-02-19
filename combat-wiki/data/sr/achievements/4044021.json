@@ -1,0 +1,18 @@
+{
+  "id": "4044021",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "投石入湖",
+  "description": "在发动「欧洛尼斯祷言」的过程中，被另一个残留有记忆的的物件砸中",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

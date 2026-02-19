@@ -1,0 +1,18 @@
+{
+  "id": "4071609",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "还有你，布洛妮娅？",
+  "description": "使用我方角色布洛妮娅在对战可可利亚时完成最后的制胜一击",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

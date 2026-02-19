@@ -1,0 +1,19 @@
+{
+  "id": "10012248",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "初花学剑动星芒",
+  "description": "场上存在【师父】时，速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012248,
+    "MDF": "MAvatar_Mar_7th_10_Rank01_SpeedUp",
+    "Name": "初花学剑动星芒",
+    "Desc": "场上存在【师父】时，速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

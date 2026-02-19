@@ -1,0 +1,18 @@
+{
+  "id": "4043214",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "如狼见参",
+  "description": "在任意《狼之道•终》关卡里，没有反弹一次硬币攻击就打败了石头老板",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

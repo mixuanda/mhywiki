@@ -1,0 +1,15 @@
+{
+  "id": "82237",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「不死」",
+  "description": "在打断3次「绝技 · 巨型不死冲撞」的蓄力后，击败「不死」。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

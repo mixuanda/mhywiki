@@ -1,0 +1,25 @@
+{
+  "id": "61003",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "赤炎 · 圣骸赤鹫",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "csrv"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 圣骸兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240530101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "请泊舟暂歇",
+  "description": "受到一定次数的普攻、战技、终结技或忆灵技攻击后行动提前。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530101,
+    "MDF": "MMonster_W4_Manta_00_Passive",
+    "Name": "请泊舟暂歇",
+    "Desc": "受到一定次数的普攻、战技、终结技或忆灵技攻击后行动提前。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

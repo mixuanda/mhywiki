@@ -1,0 +1,21 @@
+{
+  "id": "1005053",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "实验性场力发生装置 · 增幅",
+  "description": "枫丹动能工程科学研究院的作品，拥有「抵消」重力的效果，因为事故而失控。<br>尽管它金属外壳上仍旧光辉熠熠，但在地脉扭曲的记忆中，这一大型装置早已背离了过往的设计目的，徒留散播毁灭的机能…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Gravitas",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

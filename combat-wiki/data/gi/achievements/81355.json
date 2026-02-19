@@ -1,0 +1,15 @@
+{
+  "id": "81355",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "这是我喜爱的事物中…",
+  "description": "…小小的一部分。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

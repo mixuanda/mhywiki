@@ -1,0 +1,15 @@
+{
+  "id": "84300",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "我愿是急流",
+  "description": "听见「纯水精灵」的呼唤并与其意识连接。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

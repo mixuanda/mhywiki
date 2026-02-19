@@ -1,0 +1,22 @@
+{
+  "id": "13301",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "白缨枪",
+  "description": "千岩军士兵的制式装备，枪身牢靠，枪尖锋锐，是无比可靠的武器。",
+  "rarity": 3,
+  "weaponType": 4,
+  "baseAtk": 401.2935898,
+  "subStatType": "CR",
+  "subStatValue": 0.234294,
+  "materialRefs": [
+    "112031",
+    "112034",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13301.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "15416",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "曚云之月",
+  "description": "出自螺钿与珊瑚的精美战弓，月色的弓臂上流动着凄然的光彩。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112052",
+    "112055",
+    "114032"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15416.js"
+  }
+}

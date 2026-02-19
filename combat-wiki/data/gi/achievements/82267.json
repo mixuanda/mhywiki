@@ -1,0 +1,15 @@
+{
+  "id": "82267",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「图帕尧的协辅」",
+  "description": "在完成一次挑战的过程中，没有角色倒下。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

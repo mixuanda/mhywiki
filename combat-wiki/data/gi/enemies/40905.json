@@ -1,0 +1,33 @@
+{
+  "id": "40905",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "秘源机兵 · 统御械",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_DragonCollar"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 秘源机兵"
+  ],
+  "analysis": {
+    "Name": "秘源机兵 · 统御械",
+    "Icon": "UI_MonsterIcon_DragonCollar",
+    "DescList": [
+      "• 会进入强化状态：全抗 @210%# ，并逐渐积累能量施放旋转攻击",
+      "• 强化期间，若维持@冰元素伤害#频率高于@每 0.8s 一次#，则可使其陷入低能量状态：冰抗变为 @-40%# ，其他抗 @0%#",
+      "• 强化期间，若侦测到@处于夜魂加持状态#的角色，将进入特殊状态：全抗 @50%# ，改为使用追踪射线进行攻击"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

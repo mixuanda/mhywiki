@@ -1,0 +1,17 @@
+{
+  "id": "280340123",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "庄家点数",
+  "description": "当前【点数】为<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340123,
+    "MDF": "MMonster_W3_Aventurine_00_IF_Score_Dark",
+    "Name": "庄家点数",
+    "Desc": "当前【点数】为<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "302401101",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "银枝（完整）",
+  "description": "代码受到影响后的完整投影。参照本体为「纯美骑士团」的古典骑士。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Ice"
+  ],
+  "resistance": {
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3024010.png",
+  "figure": "monsterfigure/Monster_3024010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

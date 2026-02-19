@@ -1,0 +1,22 @@
+{
+  "id": "11416",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "笼钓瓶一心",
+  "description": "于遥远北国诞生之名刀，曾在归乡路上沾染无数罪恶，只为「一心」二字。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112019",
+    "112055",
+    "114036"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11416.js"
+  }
+}

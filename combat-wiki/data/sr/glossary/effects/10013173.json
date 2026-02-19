@@ -1,0 +1,18 @@
+{
+  "id": "10013173",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "常世道返三途无六钱",
+  "description": "造成伤害时无视敌方目标<color> <b>A</b> </color>的防御力，退出【结印】状态后恢复<color> <b>B</b> </color>点能量。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013173,
+    "MDF": "MAvatar_Rappa_00_SkillRank01",
+    "Name": "常世道返三途无六钱",
+    "Desc": "造成伤害时无视敌方目标<color> <b>A</b> </color>的防御力，退出【结印】状态后恢复<color> <b>B</b> </color>点能量。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

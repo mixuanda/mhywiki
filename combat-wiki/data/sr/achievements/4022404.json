@@ -1,0 +1,18 @@
+{
+  "id": "4022404",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "腹笥深广",
+  "description": "收集 80.0 本来自仙舟「罗浮」的阅读物",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80430",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "双屋的呼唤",
+  "description": "点亮纳塔区域中，悠悠度假村的地图。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "62"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

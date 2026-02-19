@@ -1,0 +1,18 @@
+{
+  "id": "230250104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "在光明中行",
+  "description": "能够抵消我方全体受到伤害的护盾。护盾耗尽或效果消失前敌方目标的攻击不会对我方目标的生命值造成削减。当前剩余<color> <b>A</b> </color>点护盾。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230250104,
+    "MDF": "MMonster_W3_Sunday_00_LightTeam_Shield_Display",
+    "Name": "在光明中行",
+    "Desc": "能够抵消我方全体受到伤害的护盾。护盾耗尽或效果消失前敌方目标的攻击不会对我方目标的生命值造成削减。当前剩余<color> <b>A</b> </color>点护盾。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

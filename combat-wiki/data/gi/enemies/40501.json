@@ -1,0 +1,25 @@
+{
+  "id": "40501",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "半永恒统辖矩阵",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "spcm"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 赤王造物"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

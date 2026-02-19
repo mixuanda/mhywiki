@@ -1,0 +1,18 @@
+{
+  "id": "10012083",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "避厄",
+  "description": "使受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012083,
+    "MDF": "MAvatar_FuXuan_00_DamageReduce",
+    "Name": "避厄",
+    "Desc": "使受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

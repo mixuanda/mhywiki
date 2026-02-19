@@ -1,0 +1,18 @@
+{
+  "id": "4084001",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "回到未未未未来",
+  "description": "在短时间内连续使用「奇迹典籍」切换时空5.0次",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

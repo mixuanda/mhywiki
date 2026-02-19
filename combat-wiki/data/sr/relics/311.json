@@ -1,0 +1,15 @@
+{
+  "id": "311",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "苍穹战线格拉默",
+  "icon": "71026.png",
+  "setBonuses": [
+    "使装备者的攻击力提高 <b>12%</b> 。当装备者的速度大于等于 <b>135</b> / <b>160</b> 时，使装备者造成的伤害提高 <b>12%</b> / <b>18%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/311.js"
+  }
+}

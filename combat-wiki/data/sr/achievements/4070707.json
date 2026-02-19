@@ -1,0 +1,18 @@
+{
+  "id": "4070707",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "冰破阵（二）",
+  "description": "累计触发 300.0 次冰属性击破效果",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

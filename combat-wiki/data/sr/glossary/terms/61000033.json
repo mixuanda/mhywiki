@@ -1,0 +1,15 @@
+{
+  "id": "61000033",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "构音推演：狩星巡日",
+  "description": "回响推演攻击后，使首领敌人立刻行动。",
+  "content": {
+    "_id": 61000033,
+    "Name": "构音推演：狩星巡日",
+    "Desc": "回响推演攻击后，使首领敌人立刻行动。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

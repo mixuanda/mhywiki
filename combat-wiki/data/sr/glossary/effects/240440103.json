@@ -1,0 +1,17 @@
+{
+  "id": "240440103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "「律法」的惩戒",
+  "description": "每次行动后损失<color> <b>A</b> </color>的生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240440103,
+    "MDF": "Monster_W4_Theoroi_00_Destruction",
+    "Name": "「律法」的惩戒",
+    "Desc": "每次行动后损失<color> <b>A</b> </color>的生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

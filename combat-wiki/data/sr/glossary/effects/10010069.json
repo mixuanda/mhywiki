@@ -1,0 +1,19 @@
+{
+  "id": "10010069",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "额外火弱点",
+  "description": "被添加的额外火弱点，火属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010069,
+    "MDF": "MAvatar_Silwolf_00_BPSkill_WeakType_Fire",
+    "Name": "额外火弱点",
+    "Desc": "被添加的额外火弱点，火属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

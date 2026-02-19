@@ -1,0 +1,17 @@
+{
+  "id": "10012253",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "炽灼",
+  "description": "普攻【焕焕辰尾】强化为能造成扩散伤害的【冉冉方炽】。持有【狐祈】的我方目标每次施放攻击时，忘归人有<color> <b>A</b> </color>的基础概率使受到攻击的敌方目标防御力降低<color> <b>B</b> </color>，持续<color> <b>C</b> </color>回合。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012253,
+    "MDF": "MAvatar_Fugue_00_BPSkillBuffListen",
+    "Name": "炽灼",
+    "Desc": "普攻【焕焕辰尾】强化为能造成扩散伤害的【冉冉方炽】。持有【狐祈】的我方目标每次施放攻击时，忘归人有<color> <b>A</b> </color>的基础概率使受到攻击的敌方目标防御力降低<color> <b>B</b> </color>，持续<color> <b>C</b> </color>回合。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

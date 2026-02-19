@@ -1,0 +1,18 @@
+{
+  "id": "4083009",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天斩无斩",
+  "description": "在探索中，使用黄泉秘技「四相断我」连续消灭5.0个敌人",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

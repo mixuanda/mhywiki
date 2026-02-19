@@ -1,0 +1,15 @@
+{
+  "id": "80472",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "聚所共建 ·  望崖营壁",
+  "description": "将「望崖营壁」共建至满级。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "66"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

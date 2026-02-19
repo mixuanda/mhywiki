@@ -1,0 +1,39 @@
+{
+  "id": "302102001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「授勋」",
+  "description": "「授勋」的雕塑：传言曾有一朵被女神亲吻过的玫瑰，它的美永不凋零。",
+  "stats": {
+    "HP": 2.75,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3021020.png",
+  "figure": "monsterfigure/Monster_3021020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

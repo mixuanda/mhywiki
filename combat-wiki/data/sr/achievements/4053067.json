@@ -1,0 +1,18 @@
+{
+  "id": "4053067",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Omakase",
+  "description": "为顾客提供错误饮品的次数达到5.0次",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

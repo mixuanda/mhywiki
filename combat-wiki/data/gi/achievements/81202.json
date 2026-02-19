@@ -1,0 +1,15 @@
+{
+  "id": "81202",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "CREDE TENEBRIS",
+  "description": "打开遗迹中的密室。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

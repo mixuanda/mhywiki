@@ -1,0 +1,15 @@
+{
+  "id": "10000005",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "附加伤害",
+  "description": "使受击者额外受到1次伤害，本次伤害不视为造成了1次攻击。",
+  "content": {
+    "_id": 10000005,
+    "Name": "附加伤害",
+    "Desc": "使受击者额外受到1次伤害，本次伤害不视为造成了1次攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

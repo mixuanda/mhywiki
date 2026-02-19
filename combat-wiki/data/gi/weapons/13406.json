@@ -1,0 +1,22 @@
+{
+  "id": "13406",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "千岩长枪",
+  "description": "取孤云阁的岩片精工打造的长枪，枪尖坚固无比。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112013",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13406.js"
+  }
+}

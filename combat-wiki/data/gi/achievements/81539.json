@@ -1,0 +1,15 @@
+{
+  "id": "81539",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "海岸边的缤纷色彩",
+  "description": "陪海边的幻写灵玩耍。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

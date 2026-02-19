@@ -1,0 +1,15 @@
+{
+  "id": "81562",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "天鹰座裂隙之外",
+  "description": "辉煌不过是往日残留的幻觉…",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84549",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "放松疗法",
+  "description": "满足三个病人的愿望。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

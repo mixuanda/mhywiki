@@ -1,0 +1,18 @@
+{
+  "id": "4044112",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "万径之起始",
+  "description": "发现缇里西庇俄丝的逃生密道",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

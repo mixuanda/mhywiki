@@ -1,0 +1,15 @@
+{
+  "id": "81125",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大踏鞴长正",
+  "description": "获得过去某把武器的绘图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

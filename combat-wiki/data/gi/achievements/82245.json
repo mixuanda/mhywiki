@@ -1,0 +1,15 @@
+{
+  "id": "82245",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「切玛利的遮荫」",
+  "description": "在没有角色倒下的情况下，击败「切玛利的遮荫」。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

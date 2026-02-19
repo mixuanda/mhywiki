@@ -1,0 +1,18 @@
+{
+  "id": "4012801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "有序入场",
+  "description": "首次浏览访客登记簿",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

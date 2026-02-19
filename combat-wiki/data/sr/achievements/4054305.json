@@ -1,0 +1,18 @@
+{
+  "id": "4054305",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一日刻法勒",
+  "description": "为了守护孩子们的笑容，假扮一次刻法勒",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

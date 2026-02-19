@@ -1,0 +1,15 @@
+{
+  "id": "84020",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "爱乐之花",
+  "description": "对琉璃百合唱了蒙德的曲子…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

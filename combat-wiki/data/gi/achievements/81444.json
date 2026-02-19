@@ -1,0 +1,15 @@
+{
+  "id": "81444",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "触及苍穹的容颜",
+  "description": "运用仙力，短暂摆脱大地的束缚。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

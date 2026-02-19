@@ -1,0 +1,15 @@
+{
+  "id": "403401001",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "灾难之力",
+  "description": "施放特定技能时，消耗【灾难之力】的所有层数追加攻击段数。",
+  "content": {
+    "_id": 403401001,
+    "Name": "灾难之力",
+    "Desc": "施放特定技能时，消耗【灾难之力】的所有层数追加攻击段数。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

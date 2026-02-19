@@ -1,0 +1,18 @@
+{
+  "id": "4043015",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "所有悲伤的年轻人",
+  "description": "首次进入某个「白日梦」酒店-现实中的「特殊客房」",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

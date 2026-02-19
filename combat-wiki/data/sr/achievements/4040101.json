@@ -1,0 +1,18 @@
+{
+  "id": "4040101",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "角色扮演游戏里合法",
+  "description": "开启 30.0 次空间站「黑塔」战利品",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

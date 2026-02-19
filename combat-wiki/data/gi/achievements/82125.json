@@ -1,0 +1,15 @@
+{
+  "id": "82125",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "基本上无害",
+  "description": "击败没有积攒任何怒气的飘浮灵。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

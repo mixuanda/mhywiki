@@ -1,0 +1,18 @@
+{
+  "id": "4053029",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "盛会之星与六苜蓿币",
+  "description": "爱和梦想究竟哪个更重要？<br><color style='color:#8790ab;'>※了解一个被梦想撕碎的家庭的故事</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

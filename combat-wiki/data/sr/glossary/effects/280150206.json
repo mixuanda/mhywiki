@@ -1,0 +1,17 @@
+{
+  "id": "280150206",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "休眠",
+  "description": "处于【休眠】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150206,
+    "MDF": "Monster_W2_HuanlongPart_01_Dormancy",
+    "Name": "休眠",
+    "Desc": "处于【休眠】状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

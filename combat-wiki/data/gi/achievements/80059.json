@@ -1,0 +1,15 @@
+{
+  "id": "80059",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "踏雪引路人",
+  "description": "在龙脊雪山追随10个温暖仙灵，并点亮仙灵之庭。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "16"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

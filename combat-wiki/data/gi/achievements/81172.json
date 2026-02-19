@@ -1,0 +1,15 @@
+{
+  "id": "81172",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "双城记",
+  "description": "即使是鹤观，似乎也建立在古老遗迹的残骸上。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

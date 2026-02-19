@@ -1,0 +1,22 @@
+{
+  "id": "13502",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "天空之脊",
+  "description": "象征风龙坚定决心的长枪。直挺的枪杆直指天穹，蕴含苍空与长风的力量。",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "ER",
+  "subStatValue": 0.36752,
+  "materialRefs": [
+    "112010",
+    "112025",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13502.js"
+  }
+}

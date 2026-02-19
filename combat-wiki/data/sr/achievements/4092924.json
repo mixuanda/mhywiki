@@ -1,0 +1,18 @@
+{
+  "id": "4092924",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "黑塔的宝藏",
+  "description": "通关「模拟宇宙：黄金与机械」时，使用自定义骰「奇物推演」，拥有 30.0 个及以上的奇物",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

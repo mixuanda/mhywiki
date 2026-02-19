@@ -1,0 +1,17 @@
+{
+  "id": "10012241",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "师父",
+  "description": "施放攻击或终结技后，<color>%CasterName</color>每次获得最多1点充能。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012241,
+    "MDF": "MAvatar_Mar_7th_10_Skill02_Master",
+    "Name": "师父",
+    "Desc": "施放攻击或终结技后，<color>%CasterName</color>每次获得最多1点充能。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

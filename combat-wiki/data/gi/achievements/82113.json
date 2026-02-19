@@ -1,0 +1,15 @@
+{
+  "id": "82113",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雷音坠落",
+  "description": "击败飞翔的雷音权现。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

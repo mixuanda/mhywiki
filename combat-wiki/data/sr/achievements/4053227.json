@@ -1,0 +1,18 @@
+{
+  "id": "4053227",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Rail Road, Take Me Home",
+  "description": "在流梦礁中，通过「钟表匠」的梦泡进入稚子的梦",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

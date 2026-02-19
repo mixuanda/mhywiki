@@ -1,0 +1,22 @@
+{
+  "id": "11412",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "降临之剑",
+  "description": "造型独特的剑。看起来并不属于这个世界。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 440.19358980000004,
+  "subStatType": "ATK",
+  "subStatValue": 0.35190040000000006,
+  "materialRefs": [
+    "112022",
+    "112037",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11412.js"
+  }
+}

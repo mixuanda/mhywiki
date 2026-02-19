@@ -1,0 +1,15 @@
+{
+  "id": "82278",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "背水的逆转诗",
+  "description": "在战场被破坏至最小时，击败蚀灭的源焰之主。",
+  "reward": 10,
+  "version": "5.3",
+  "group": {
+    "id": "59"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

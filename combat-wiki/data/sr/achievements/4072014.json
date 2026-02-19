@@ -1,0 +1,18 @@
+{
+  "id": "4072014",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "灾虐未至",
+  "description": "「历战余响」中，阻止末日兽施放「末日临空」",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

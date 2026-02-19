@@ -1,0 +1,17 @@
+{
+  "id": "10012132",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "逆鳞",
+  "description": "可用来抵扣丹恒•饮月的战技点消耗，【逆鳞】最多持有<color> <b>A</b> </color>个。消耗【逆鳞】视为消耗战技点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012132,
+    "MDF": "MAvatar_DanHengIL_00_BPCostChange",
+    "Name": "逆鳞",
+    "Desc": "可用来抵扣丹恒•饮月的战技点消耗，【逆鳞】最多持有<color> <b>A</b> </color>个。消耗【逆鳞】视为消耗战技点。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

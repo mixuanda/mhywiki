@@ -1,0 +1,31 @@
+{
+  "id": "13940",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13940",
+  "tags": [],
+  "content": {
+    "_id": 13940,
+    "N": "如意斗彩",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Battle_01",
+        "D": "在挑战中，击败敌人会掉落如意钱。每隔一段时间，「聚财兜」自动吸取场地中的如意钱。旅行者需在限定时间内尽可能多地击败敌人，以获取更多如意钱。"
+      },
+      {
+        "I": "UI_Activity_LanV6Battle_02",
+        "D": "通过<color style='color:#ec9d1f'>特定方式命中或击败敌人#，以及在<color style='color:#ec9d1f'>与强敌交战过程中完成特定行为#，均能获得更多的如意钱。"
+      },
+      {
+        "I": "UI_Activity_LanV6Battle_03",
+        "D": "吸取一定数量的如意钱后，「聚财兜」将升级，并<color style='color:#ec9d1f'>使敌人掉落更多如意钱#。「聚财兜」最多可以升级两次。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

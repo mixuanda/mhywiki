@@ -1,0 +1,15 @@
+{
+  "id": "82069",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…摔得越重",
+  "description": "摧毁冰丘丘萨满的冰柱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "15"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

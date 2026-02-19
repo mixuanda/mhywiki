@@ -1,0 +1,19 @@
+{
+  "id": "280130202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "攻击提高",
+  "description": "攻击力提高<color> <b>A</b> </color>，最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280130202,
+    "MDF": "MMonster_AML_Elite01_01_AttackAdd",
+    "Name": "攻击提高",
+    "Desc": "攻击力提高<color> <b>A</b> </color>，最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

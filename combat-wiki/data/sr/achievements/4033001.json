@@ -1,0 +1,18 @@
+{
+  "id": "4033001",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "你还记得我吗？",
+  "description": "在旅程之初遇见了意外的人…<br><color style='color:#8790ab;'>※在陌生的梦境与黄泉邂逅</color>",
+  "reward": 10,
+  "version": 2.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

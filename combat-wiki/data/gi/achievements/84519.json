@@ -1,0 +1,15 @@
+{
+  "id": "84519",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "妙手怪医",
+  "description": "治好安娜的病。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "30741",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众特辖队 · 先锋士",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_NodKrai_Oprichnik_Male"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 愚人众特辖队 I"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

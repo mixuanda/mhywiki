@@ -1,0 +1,18 @@
+{
+  "id": "100141314",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "天亮了，雨落了",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141314,
+    "MDF": "MAvatar_Evernight_00_Skill02_Buff_PointB3",
+    "Name": "天亮了，雨落了",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

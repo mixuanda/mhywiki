@@ -1,0 +1,15 @@
+{
+  "id": "82054",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "水刑物语",
+  "description": "在未被部分幻形生物消散时留下的水弹命中的情况下，击败纯水精灵。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "14"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

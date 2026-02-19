@@ -1,0 +1,25 @@
+{
+  "id": "61622",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「双生妖精骑士」",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "lghtr"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.0"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

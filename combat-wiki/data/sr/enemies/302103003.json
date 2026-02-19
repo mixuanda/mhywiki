@@ -1,0 +1,39 @@
+{
+  "id": "302103003",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「枪尖」",
+  "description": "「枪」的雕塑；萦绕着纯美灵魂，枪与盾相依，枪是击破黯淡的勇气。",
+  "stats": {
+    "HP": 1.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3021030.png",
+  "figure": "monsterfigure/Monster_3021030.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

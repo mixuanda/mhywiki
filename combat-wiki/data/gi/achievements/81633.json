@@ -1,0 +1,15 @@
+{
+  "id": "81633",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "归乡歧旅",
+  "description": "为库济米奇的返乡之旅做出贡献。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

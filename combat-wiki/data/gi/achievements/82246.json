@@ -1,0 +1,15 @@
+{
+  "id": "82246",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「切玛利的遮荫」",
+  "description": "在完成一次挑战的过程中，于「切玛利的遮荫」吸收「流水造物」时，通过击飞冻结的「流水造物」，破除她的元素护罩。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

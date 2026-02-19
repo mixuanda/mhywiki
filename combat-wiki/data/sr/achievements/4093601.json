@@ -1,0 +1,18 @@
+{
+  "id": "4093601",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "并无恶意",
+  "description": "跟随黑塔，探明「权杖」系统背后的真相<br>※见证孤波算法难题的诞生",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

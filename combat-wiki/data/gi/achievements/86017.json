@@ -1,0 +1,15 @@
+{
+  "id": "86017",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "未来解冻计划",
+  "description": "与其他玩家一同战胜无相之冰。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "21"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

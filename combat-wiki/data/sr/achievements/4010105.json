@@ -1,0 +1,18 @@
+{
+  "id": "4010105",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "圣•遗器（五）",
+  "description": "将1件5星遗器强化至最高等级",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

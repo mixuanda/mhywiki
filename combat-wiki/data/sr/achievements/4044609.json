@@ -1,0 +1,18 @@
+{
+  "id": "4044609",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "被偷走的流体力学",
+  "description": "使用巴特鲁斯的视角，在水中游泳5.0秒以上",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

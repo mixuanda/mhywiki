@@ -1,0 +1,18 @@
+{
+  "id": "4072018",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "无风带",
+  "description": "使兴风者的「风落暴矢」技能因场上没有处于风化状态的我方目标而施放失败",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

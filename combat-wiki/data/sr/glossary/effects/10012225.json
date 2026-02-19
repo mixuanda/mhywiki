@@ -1,0 +1,18 @@
+{
+  "id": "10012225",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "晓兰深藏，宿香暗贮",
+  "description": "全属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012225,
+    "MDF": "MAvatar_Lingsha_Rank06_AllDamageTypeResistance",
+    "Name": "晓兰深藏，宿香暗贮",
+    "Desc": "全属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

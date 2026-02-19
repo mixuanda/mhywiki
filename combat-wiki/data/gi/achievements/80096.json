@@ -1,0 +1,15 @@
+{
+  "id": "80096",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 雷光所照之土 · 其二",
+  "description": "点亮稻妻区域中，海祇岛与清籁岛的地图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "26"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

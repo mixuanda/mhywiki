@@ -1,0 +1,28 @@
+{
+  "id": "28021305",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的玳龟 · 坚盾轰霆",
+  "description": "平日里性情温和，行动迟缓的爬行动物，被一些人视为吉祥与智慧的象征。但必要之时，这一特殊的个体也会对挑战者发起迅猛的攻势，将厚实的甲壳化为击碎敌人的重锤。\n在地脉极端紊乱的投映下，它的形象遭到扭曲，以狂热好战的姿态参战，成为攻守兼备的雷霆…",
+  "stats": {},
+  "resistance": {
+    "Phys": 0.5,
+    "Elec": 0.7
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tortoise_Electric"
+  ],
+  "figure": null,
+  "groups": [
+    "幽境危战 > 5.8"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

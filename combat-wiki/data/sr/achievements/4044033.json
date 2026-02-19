@@ -1,0 +1,18 @@
+{
+  "id": "4044033",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "禁飞区",
+  "description": "击碎1.0个飞天坛递",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

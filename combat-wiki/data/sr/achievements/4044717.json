@@ -1,0 +1,18 @@
+{
+  "id": "4044717",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "最古老的寓言",
+  "description": "发现「神话之外」的秘密",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

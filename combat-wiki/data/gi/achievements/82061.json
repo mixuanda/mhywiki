@@ -1,0 +1,15 @@
+{
+  "id": "82061",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "第三类永动机",
+  "description": "在15秒内，施放5次元素爆发。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "14"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

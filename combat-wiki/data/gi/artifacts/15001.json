@@ -1,0 +1,28 @@
+{
+  "id": "15001",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "角斗士的终幕礼",
+  "icon": "UI_RelicIcon_15001",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "攻击力提高18%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "装备该圣遗物套装的角色为单手剑、双手剑、长柄武器角色时，角色普通攻击造成的伤害提高35%。"
+    }
+  ],
+  "parts": [
+    "角斗士的留恋",
+    "角斗士的归宿",
+    "角斗士的希冀",
+    "角斗士的酣醉",
+    "角斗士的凯旋"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

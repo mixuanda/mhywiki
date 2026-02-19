@@ -1,0 +1,18 @@
+{
+  "id": "280340122",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "庄家优势•一",
+  "description": "当前【点数】大于我方【点数】时，受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340122,
+    "MDF": "MMonster_W3_Aventurine_00_IF_Defence",
+    "Name": "庄家优势•一",
+    "Desc": "当前【点数】大于我方【点数】时，受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

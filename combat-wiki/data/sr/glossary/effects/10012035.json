@@ -1,0 +1,18 @@
+{
+  "id": "10012035",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "虚弱",
+  "description": "对我方造成的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012035,
+    "MDF": "MAvatar_Luocha_00_Rank04_Fatigue",
+    "Name": "虚弱",
+    "Desc": "对我方造成的伤害降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

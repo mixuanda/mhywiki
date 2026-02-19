@@ -1,0 +1,15 @@
+{
+  "id": "82095",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "被命运诅咒的王",
+  "description": "击败强化状态下的丘丘雷兜王。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "20"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

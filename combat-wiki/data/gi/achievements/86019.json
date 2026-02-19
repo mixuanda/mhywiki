@@ -1,0 +1,15 @@
+{
+  "id": "86019",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "篝火大作战",
+  "description": "与其他玩家一同战胜无相之火。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "21"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10012085",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "柔兆",
+  "description": "受到致命攻击时不会陷入无法战斗状态并立即回复等同于自身生命上限<color> <b>A</b> </color>的生命值。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012085,
+    "MDF": "MAvatar_FuXuan_00_Rank02",
+    "Name": "柔兆",
+    "Desc": "受到致命攻击时不会陷入无法战斗状态并立即回复等同于自身生命上限<color> <b>A</b> </color>的生命值。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

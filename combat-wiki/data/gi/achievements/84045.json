@@ -1,0 +1,15 @@
+{
+  "id": "84045",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "不动鸣神，恒常乐土",
+  "description": "完成「不动鸣神，恒常乐土」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80377",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "旋律行进的方向",
+  "description": "在官方曲谱的演奏挑战中，获得<color style='color:#FF0000;'><b>15</b></color>次不同曲谱的「高遏行云」评价。",
+  "reward": 10,
+  "version": "5.3",
+  "group": {
+    "id": "58"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

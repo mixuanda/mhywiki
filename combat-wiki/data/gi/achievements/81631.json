@@ -1,0 +1,15 @@
+{
+  "id": "81631",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "离群野狼的回忆",
+  "description": "从此，染血的骑士告别了人理…",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

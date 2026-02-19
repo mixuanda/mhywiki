@@ -1,0 +1,15 @@
+{
+  "id": "82081",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "眩晕",
+  "description": "在急冻树旋转喷发急冻射线时，击破其花冠弱点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

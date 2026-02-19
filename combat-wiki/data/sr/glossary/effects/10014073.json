@@ -1,0 +1,18 @@
+{
+  "id": "10014073",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "倒置的火炬",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014073,
+    "MDF": "MServant_Castorice_SpeedRatio",
+    "Name": "倒置的火炬",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

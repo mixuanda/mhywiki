@@ -1,0 +1,18 @@
+{
+  "id": "4053232",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "爱遇之城",
+  "description": "帮助广告牌「爱遇见」给它的爱人传话",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

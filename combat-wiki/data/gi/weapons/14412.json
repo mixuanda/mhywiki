@@ -1,0 +1,22 @@
+{
+  "id": "14412",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "忍冬之果",
+  "description": "具有某种冰冷意志的奇特果实，散发着微弱的苦涩气息。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112025",
+    "112040",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14412.js"
+  }
+}

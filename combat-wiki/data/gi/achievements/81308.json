@@ -1,0 +1,15 @@
+{
+  "id": "81308",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…使列邦观看你的丑陋。」",
+  "description": "使残损的棋盘重现黄沙之间。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

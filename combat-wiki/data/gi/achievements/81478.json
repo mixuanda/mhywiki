@@ -1,0 +1,15 @@
+{
+  "id": "81478",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "饲主的职分",
+  "description": "为「小呜斯」带来了新鲜的食物。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80073",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "丘丘学的扩张",
+  "description": "集齐全套《丘丘人习俗考察》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "22"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

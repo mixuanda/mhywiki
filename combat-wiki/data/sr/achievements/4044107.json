@@ -1,0 +1,18 @@
+{
+  "id": "4044107",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "悸动的心",
+  "description": "将深爱般的誓言献上<br><color style='color:#8790ab;'>※使聚露植心再次活化</color>",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

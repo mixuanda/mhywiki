@@ -1,0 +1,15 @@
+{
+  "id": "84029",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "贼寇、狂人与漆黑之谜",
+  "description": "确认大盗宝家的异状。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

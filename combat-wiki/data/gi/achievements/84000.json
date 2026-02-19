@@ -1,0 +1,15 @@
+{
+  "id": "84000",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "漫长旅途的开端",
+  "description": "完成蒙德的魔神任务。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

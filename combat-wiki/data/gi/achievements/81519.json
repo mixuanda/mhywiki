@@ -1,0 +1,15 @@
+{
+  "id": "81519",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「觉醒吧！夜之头脑！」",
+  "description": "…然而，什么也没有发生。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

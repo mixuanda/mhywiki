@@ -1,0 +1,15 @@
+{
+  "id": "84116",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "皆大欢喜",
+  "description": "完成「家政官的日常工作」，解锁全部结局。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

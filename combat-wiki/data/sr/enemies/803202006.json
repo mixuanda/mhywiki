@@ -1,0 +1,39 @@
+{
+  "id": "803202006",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "基层员工 · 安保",
+  "description": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
+  "stats": {
+    "HP": 2.2,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_8032020.png",
+  "figure": "monsterfigure/Monster_8032020.png",
+  "camp": {
+    "id": "9",
+    "name": "星际和平公司"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

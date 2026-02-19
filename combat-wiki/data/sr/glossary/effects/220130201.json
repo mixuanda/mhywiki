@@ -1,0 +1,17 @@
+{
+  "id": "220130201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "【天坠】准备",
+  "description": "即将施放【天坠】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220130201,
+    "MDF": "MMonster_W2_Valkyrie02_00_DynamicAI_ToastAndEffect",
+    "Name": "【天坠】准备",
+    "Desc": "即将施放【天坠】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

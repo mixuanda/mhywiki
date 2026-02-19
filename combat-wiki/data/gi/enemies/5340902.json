@@ -1,0 +1,32 @@
+{
+  "id": "5340902",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "秘源机兵 · 火力升级套件",
+  "description": "最高难度 90s | Lv105",
+  "stats": {},
+  "resistance": {
+    "Phys": 0.6,
+    "Fire": 0.6,
+    "Water": 0.6,
+    "Elec": 0.6,
+    "Ice": 0.6,
+    "Wind": 0.6,
+    "Rock": 0.6,
+    "Grass": 0.6
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_DragonClaw"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

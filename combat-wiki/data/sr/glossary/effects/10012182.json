@@ -1,0 +1,18 @@
+{
+  "id": "10012182",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "藏腑和平，血气资荣",
+  "description": "攻击力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012182,
+    "MDF": "MAvatar_Jiaoqiu_00_Rank04_AttackDown",
+    "Name": "藏腑和平，血气资荣",
+    "Desc": "攻击力降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

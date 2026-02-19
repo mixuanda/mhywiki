@@ -1,0 +1,15 @@
+{
+  "id": "81181",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "渡过雾霭的河流",
+  "description": "终于，抵达雾海彼端…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

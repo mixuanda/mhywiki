@@ -1,0 +1,17 @@
+{
+  "id": "240640102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "执行队",
+  "description": "被消灭时削减【金血忆灵·裁定忘却之形】的韧性。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240640102,
+    "MDF": "MMonster_W4_Serpent_01_Summon_Deathrattle",
+    "Name": "执行队",
+    "Desc": "被消灭时削减【金血忆灵·裁定忘却之形】的韧性。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

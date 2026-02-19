@@ -1,0 +1,15 @@
+{
+  "id": "82303",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "德兹斯拉沃的移动城堡",
+  "description": "击败一艘至少因过热瘫痪过2次的超重型陆巡舰 · 机动战垒。",
+  "reward": 5,
+  "version": "6.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

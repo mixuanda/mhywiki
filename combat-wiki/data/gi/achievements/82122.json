@@ -1,0 +1,15 @@
+{
+  "id": "82122",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "硬着陆",
+  "description": "将攀援中的深海龙蜥击落。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

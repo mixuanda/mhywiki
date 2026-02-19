@@ -1,0 +1,25 @@
+{
+  "id": "80310",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「铁爪」",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_AnimalIcon_Penguin_01"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.5 地方传奇"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

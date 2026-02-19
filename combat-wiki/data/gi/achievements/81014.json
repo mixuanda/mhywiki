@@ -1,0 +1,15 @@
+{
+  "id": "81014",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "华清归藏密宫",
+  "description": "循着长存者之迹，叩开了秘境之门。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

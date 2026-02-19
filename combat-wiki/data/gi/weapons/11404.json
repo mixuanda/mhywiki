@@ -1,0 +1,22 @@
+{
+  "id": "11404",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "宗室长剑",
+  "description": "曾支配蒙德的旧日贵族的佩剑。做工精良，装饰与雕花彰显着挥舞者的身份。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112007",
+    "112016",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11404.js"
+  }
+}

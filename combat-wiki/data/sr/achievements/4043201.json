@@ -1,0 +1,18 @@
+{
+  "id": "4043201",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "往日气球",
+  "description": "打破流梦礁中的特殊石头老板气球",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

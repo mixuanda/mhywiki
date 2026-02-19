@@ -1,0 +1,39 @@
+{
+  "id": "8013011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "虚卒 · 践踏者（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 14.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8013010.png",
+  "figure": "monsterfigure/Monster_8013010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

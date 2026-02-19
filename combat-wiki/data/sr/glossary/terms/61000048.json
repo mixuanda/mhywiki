@@ -1,0 +1,15 @@
+{
+  "id": "61000048",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "增幅",
+  "description": "增幅会按比例影响权杖和组件中高亮部分的数值。",
+  "content": {
+    "_id": 61000048,
+    "Name": "增幅",
+    "Desc": "增幅会按比例影响权杖和组件中高亮部分的数值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

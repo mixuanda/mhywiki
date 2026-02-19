@@ -1,0 +1,18 @@
+{
+  "id": "210040252",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "同进同退",
+  "description": "自身得到大幅强化，速度提高<color> <b>A</b> </color>。此状态下，【极寒瀑流】将有小概率使受到攻击的我方目标陷入冻结状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040252,
+    "MDF": "MMonster_W1_Gepard_00_IF_03_Enhance",
+    "Name": "同进同退",
+    "Desc": "自身得到大幅强化，速度提高<color> <b>A</b> </color>。此状态下，【极寒瀑流】将有小概率使受到攻击的我方目标陷入冻结状态。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

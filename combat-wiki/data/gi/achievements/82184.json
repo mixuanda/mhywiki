@@ -1,0 +1,15 @@
+{
+  "id": "82184",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "鲜蟹献于鲜蟹王座",
+  "description": "在铁甲熔火帝皇虚弱时将其击败。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "40"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

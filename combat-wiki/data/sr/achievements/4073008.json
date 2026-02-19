@@ -1,0 +1,18 @@
+{
+  "id": "4073008",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "存在朝向死亡",
+  "description": "在只有一人可以行动的情况下击败忆域迷因「何物朝向死亡」",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

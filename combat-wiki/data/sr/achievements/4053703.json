@@ -1,0 +1,18 @@
+{
+  "id": "4053703",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "沐浴之王",
+  "description": "在使用浴缸泡澡时，尝试过3.0种入浴剂",
+  "reward": 5,
+  "version": 2.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

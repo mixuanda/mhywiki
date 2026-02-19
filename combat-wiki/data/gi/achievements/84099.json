@@ -1,0 +1,15 @@
+{
+  "id": "84099",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "白露与黑潮的序诗",
+  "description": "完成「白露与黑潮的序诗」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

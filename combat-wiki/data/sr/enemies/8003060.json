@@ -1,0 +1,38 @@
+{
+  "id": "8003060",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "虚构集合体",
+  "description": "虚构集合体",
+  "stats": {
+    "HP": 5.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "SpriteOutput/BattleEventIcon/Monster_Unknown.png",
+  "figure": "SpriteOutput/BattleEventIcon/Monster_Unknown.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

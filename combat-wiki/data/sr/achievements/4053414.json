@@ -1,0 +1,18 @@
+{
+  "id": "4053414",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "魔阴身考在哪里",
+  "description": "找到失踪已久的《魔阴身考》，并尝试了解失踪的原因",
+  "reward": 5,
+  "version": 2.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

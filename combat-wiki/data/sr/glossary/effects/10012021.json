@@ -1,0 +1,19 @@
+{
+  "id": "10012021",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "赐福",
+  "description": "攻击力提高<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012021,
+    "MDF": "MWAvatar_TingYun_00_BPSkill_AttackDelta",
+    "Name": "赐福",
+    "Desc": "攻击力提高<color> <b>A</b> </color>点。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

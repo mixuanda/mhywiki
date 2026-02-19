@@ -1,0 +1,15 @@
+{
+  "id": "81248",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "须弥怪物生态调查",
+  "description": "完成保护森林生态的工作。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

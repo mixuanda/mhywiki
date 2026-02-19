@@ -1,0 +1,18 @@
+{
+  "id": "4054008",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "战争的黎明",
+  "description": "窥探「浴血战端」悬锋城全部的追忆残像",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

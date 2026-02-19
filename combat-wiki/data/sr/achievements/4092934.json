@@ -1,0 +1,18 @@
+{
+  "id": "4092934",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "古旧空间的钥匙",
+  "description": "在「模拟宇宙：黄金与机械」通关时，使【位面紊乱！】的【扰动等级】大于等于 20.0 级",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

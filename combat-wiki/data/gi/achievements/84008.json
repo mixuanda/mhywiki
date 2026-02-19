@@ -1,0 +1,15 @@
+{
+  "id": "84008",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "风向是会转变的",
+  "description": "被特瓦林所救。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

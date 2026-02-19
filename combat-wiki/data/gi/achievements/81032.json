@@ -1,0 +1,15 @@
+{
+  "id": "81032",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "QUEST FAILED",
+  "description": "跟丢了悬赏目标…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

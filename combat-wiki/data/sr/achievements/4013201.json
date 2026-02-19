@@ -1,0 +1,18 @@
+{
+  "id": "4013201",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "今夜无人入眠",
+  "description": "开拓者踏上「同谐」命途",
+  "reward": 20,
+  "version": 2.2,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

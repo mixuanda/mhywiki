@@ -1,0 +1,19 @@
+{
+  "id": "10013124",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "青春的怅望",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013124,
+    "MDF": "MAvatar_Misha_00_Rank02_DefenceDown",
+    "Name": "青春的怅望",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

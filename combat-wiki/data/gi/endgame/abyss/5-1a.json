@@ -1,0 +1,716 @@
+{
+  "id": "5-1a",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "abyss",
+  "name": "5.1A",
+  "openTime": "2024/10/16 - 2024/11/16",
+  "generation": 5,
+  "phases": [
+    96
+  ],
+  "floors": [
+    {
+      "floorId": "77",
+      "config": {
+        "Disorder": "队伍中所有角色获得50%火元素伤害加成。",
+        "ShowVers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "9-1",
+            "Level": 72,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 62001,
+                    "Num": 6
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62002,
+                    "Num": 3
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 40101,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-2",
+            "Level": 74,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 62101,
+                    "Num": 6
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62102,
+                    "Num": 3
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 40103,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-3",
+            "Level": 76,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 62201,
+                    "Num": 6
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62202,
+                    "Num": 3
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 40302,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "78",
+      "config": {
+        "Disorder": "处于夜魂加持状态下时，角色造成的伤害提升50%。",
+        "ShowVers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "10-1",
+            "Level": 80,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "ExtraDesc": "<b>维持 5 个，按顺序杀一个出一个</b>",
+                "Monsters": [
+                  {
+                    "ID": 62101,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 55022,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55001,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55052,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55022,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55001,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 62101,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55105,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55106,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 54101,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-2",
+            "Level": 82,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "ExtraDesc": "<b>维持 5 个，按顺序杀一个出一个</b>",
+                "Monsters": [
+                  {
+                    "ID": 62001,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 55011,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55041,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55051,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55011,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55041,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 62001,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62002,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55102,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 54102,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-3",
+            "Level": 85,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "ExtraDesc": "<b>维持 5 个，按顺序杀一个出一个</b>",
+                "Monsters": [
+                  {
+                    "ID": 62201,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 55012,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55021,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55031,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55012,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55021,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 62201,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62202,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55103,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 55104,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 40901,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "81",
+      "config": {
+        "Disorder": "队伍中所有角色获得75%岩元素伤害加成。",
+        "ShowVers": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "Chambers": [
+          {
+            "Name": "11-1",
+            "Level": 88,
+            "GoalType": 1,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 62202,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62102,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 62701,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 62701,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-2",
+            "Level": 90,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 53102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 53103,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 50801,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 51001,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 51002,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40601,
+                    "Num": 3
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40612,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 40602,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 40608,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 40609,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-3",
+            "Level": 92,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60506,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30501,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 5112,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 5102,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "82",
+      "config": {
+        "Disorder": "仅在此层，地脉的涌流平缓通顺。",
+        "ShowVers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "12-1",
+            "Level": 95,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 61003,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 61004,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60509,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 21101,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 61402,
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-2",
+            "Level": 98,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10202,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10207,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40103,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 40632,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-3",
+            "Level": 100,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Vers": [
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 40302,
+                    "Num": 2,
+                    "HPOverride": 3.03333333333,
+                    "HPDown": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 1,
+                "Vers": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ],
+                "Monsters": [
+                  {
+                    "ID": 40302,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 0,
+                "Monsters": [
+                  {
+                    "ID": 61401,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Guide": [
+          40632
+        ]
+      }
+    }
+  ],
+  "blessings": [
+    {
+      "blessingId": "92",
+      "config": {
+        "Name": "刚坚之月",
+        "Desc": "角色施放元素战技后，该角色的<color style='color:#0000FF'>防御力提升60%</color>，持续9秒。"
+      }
+    }
+  ],
+  "source": {
+    "files": [
+      "gi/CH/database.js",
+      "gi/CH/database_extra.js"
+    ]
+  }
+}

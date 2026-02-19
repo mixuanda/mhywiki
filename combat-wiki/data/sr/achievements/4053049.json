@@ -1,0 +1,18 @@
+{
+  "id": "4053049",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "托拉斯之梦",
+  "description": "你看见的都是我的专利！<br><color style='color:#8790ab;'>※帮助艾默里奇完成他的计划</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

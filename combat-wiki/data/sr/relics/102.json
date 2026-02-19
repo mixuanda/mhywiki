@@ -1,0 +1,16 @@
+{
+  "id": "102",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "野穗伴行的快枪手",
+  "icon": "71001.png",
+  "setBonuses": [
+    "攻击力提高 <b>12%</b> 。",
+    "使装备者的速度提高 <b>6%</b> ，普攻造成的伤害提高 <b>10%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/102.js"
+  }
+}

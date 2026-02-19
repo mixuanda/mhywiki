@@ -1,0 +1,18 @@
+{
+  "id": "4070401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "连续普通拳",
+  "description": "单次攻击造成 2000.0 点伤害",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

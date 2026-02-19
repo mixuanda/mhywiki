@@ -1,0 +1,34 @@
+{
+  "id": "5-0-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.0",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Kinich",
+      "X": 1
+    },
+    {
+      "N": "Shougun",
+      "X": 5
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Chevreuse",
+      "X": 2
+    },
+    {
+      "N": "Sara",
+      "X": 5
+    },
+    {
+      "N": "Tohma",
+      "X": 8
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "10000009",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "增益效果",
+  "description": "对战斗有增益效果的所有持续状态，若无特殊说明则可以被解除。",
+  "content": {
+    "_id": 10000009,
+    "Name": "增益效果",
+    "Desc": "对战斗有增益效果的所有持续状态，若无特殊说明则可以被解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

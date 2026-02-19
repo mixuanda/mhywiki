@@ -1,0 +1,15 @@
+{
+  "id": "82241",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「依奇卡胡伊皮利的庇护」",
+  "description": "战胜地方传奇「依奇卡胡伊皮利的庇护」。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

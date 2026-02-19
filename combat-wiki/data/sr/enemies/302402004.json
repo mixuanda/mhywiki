@@ -1,0 +1,39 @@
+{
+  "id": "302402004",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「星核猎手」萨姆",
+  "description": "「星核猎手」的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
+  "stats": {
+    "HP": 44.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 20.0
+  },
+  "weakness": [
+    "Elec",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3024020.png",
+  "figure": "monsterfigure/Monster_3024020.png",
+  "camp": {
+    "id": "5",
+    "name": "星核猎手"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

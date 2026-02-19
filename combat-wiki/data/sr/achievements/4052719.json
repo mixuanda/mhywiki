@@ -1,0 +1,18 @@
+{
+  "id": "4052719",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "结束，然后是开始",
+  "description": "在尘埃落定后留下{TEXTJOIN4}",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

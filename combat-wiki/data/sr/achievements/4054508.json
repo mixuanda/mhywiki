@@ -1,0 +1,18 @@
+{
+  "id": "4054508",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "{NICKNAME}家的饭",
+  "description": "在「黄金迷境大饭店」中，为属于你的餐馆取名",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "51102",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "厄灵 · 风之魔鸢",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Wind": -0.5
+  },
+  "weakness": [],
+  "icon": [
+    "keq"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 镀金旅团厄灵"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

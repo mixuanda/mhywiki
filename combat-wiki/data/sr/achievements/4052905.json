@@ -1,0 +1,18 @@
+{
+  "id": "4052905",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "合格的饲养员",
+  "description": "完成冒险任务「异宠拾遗」",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81589",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "闪耀吧！皮皮潘偶像！",
+  "description": "观看了皮皮潘偶像大赛的决赛。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

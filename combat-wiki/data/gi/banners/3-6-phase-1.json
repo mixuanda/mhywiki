@@ -1,0 +1,34 @@
+{
+  "id": "3-6-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "3.6",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Nilou",
+      "X": 2
+    },
+    {
+      "N": "Nahida",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Dori",
+      "X": 2
+    },
+    {
+      "N": "Layla",
+      "X": 2
+    },
+    {
+      "N": "Shinobu",
+      "X": 3
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

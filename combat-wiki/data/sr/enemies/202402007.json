@@ -1,0 +1,30 @@
+{
+  "id": "202402007",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "负业磷火",
+  "description": "尾巴大爷以「负业磷火」的名号报名参赛，实际上是为了观察卢卡的康复情况。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 1.0,
+  "icon": "mostericon/Monster_2024020.png",
+  "figure": "monsterfigure/Monster_2024020.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

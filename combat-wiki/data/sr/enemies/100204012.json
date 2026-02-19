@@ -1,0 +1,39 @@
+{
+  "id": "100204012",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "银鬃近卫",
+  "description": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
+  "stats": {
+    "HP": 0.8,
+    "ATK": 14.99994,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_1002040.png",
+  "figure": "monsterfigure/Monster_1002040.png",
+  "camp": {
+    "id": "1",
+    "name": "雅利洛-Ⅵ"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10014087",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "时墟铁墓",
+  "description": "被添加的额外物理弱点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014087,
+    "MDF": "MAvatar_Phainon_00_Ultra_Weakness",
+    "Name": "时墟铁墓",
+    "Desc": "被添加的额外物理弱点。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

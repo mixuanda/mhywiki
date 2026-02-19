@@ -1,0 +1,39 @@
+{
+  "id": "301202004",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "忆域迷因「我心支离破碎」",
+  "description": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>坚不可摧的障壁包裹起生命，阻拦异己。但在那坚硬的躯壳下，却是脆弱不堪的无名地带。",
+  "stats": {
+    "HP": 2.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Elec"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3012020.png",
+  "figure": "monsterfigure/Monster_3012020.png",
+  "camp": {
+    "id": "11",
+    "name": "忆域迷因"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

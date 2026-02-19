@@ -1,0 +1,19 @@
+{
+  "id": "280150201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "噬命",
+  "description": "可回复的生命上限降低<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150201,
+    "MDF": "Monster_W2_Huanlong_00_BlackBlood",
+    "Name": "噬命",
+    "Desc": "可回复的生命上限降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

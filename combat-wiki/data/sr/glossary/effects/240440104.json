@@ -1,0 +1,17 @@
+{
+  "id": "240440104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "加载：秘所思",
+  "description": "再有<color> <b>A</b> </color>个敌方目标被消灭、我方角色陷入无法战斗状态或忆灵消失后施放【求解：第一因之果】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240440104,
+    "MDF": "Monster_W4_Theoroi_00_Destruction_Self",
+    "Name": "加载：秘所思",
+    "Desc": "再有<color> <b>A</b> </color>个敌方目标被消灭、我方角色陷入无法战斗状态或忆灵消失后施放【求解：第一因之果】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

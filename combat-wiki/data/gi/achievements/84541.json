@@ -1,0 +1,15 @@
+{
+  "id": "84541",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "至少有了个结局",
+  "description": "听顺吉讲述完他所构思的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

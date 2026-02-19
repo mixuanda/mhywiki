@@ -1,0 +1,15 @@
+{
+  "id": "81522",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "六荣冠与夜的传说",
+  "description": "纳塔所有部族的声望等级达到4级。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

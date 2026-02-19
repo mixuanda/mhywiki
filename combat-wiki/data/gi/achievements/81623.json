@@ -1,0 +1,15 @@
+{
+  "id": "81623",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "纯真年代的终结",
+  "description": "世界并不似想象中那样甜美…",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5-1-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.1",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Nahida",
+      "X": 4
+    },
+    {
+      "N": "Hutao",
+      "X": 5
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Sethos",
+      "X": 2
+    },
+    {
+      "N": "Shinobu",
+      "X": 5
+    },
+    {
+      "N": "Xingqiu",
+      "X": 11
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

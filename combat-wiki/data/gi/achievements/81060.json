@@ -1,0 +1,15 @@
+{
+  "id": "81060",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "宝钱大亨",
+  "description": "获得10000份洞天宝钱。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "18"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

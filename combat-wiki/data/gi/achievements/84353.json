@@ -1,0 +1,15 @@
+{
+  "id": "84353",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "月光下的少女",
+  "description": "在银月之庭与「少女」邂逅…",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

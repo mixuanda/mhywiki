@@ -1,0 +1,15 @@
+{
+  "id": "81221",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "《塔列辛之书》",
+  "description": "获得塔列辛的赠礼。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

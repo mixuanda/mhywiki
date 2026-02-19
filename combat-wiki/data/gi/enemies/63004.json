@@ -1,0 +1,26 @@
+{
+  "id": "63004",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "蕴光凛狼",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Magbeast_Steppenwolf"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 异种魔兽",
+    "异种魔兽 > 蕴光异兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

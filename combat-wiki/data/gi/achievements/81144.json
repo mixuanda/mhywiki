@@ -1,0 +1,15 @@
+{
+  "id": "81144",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "中场",
+  "description": "在稻妻，通过钓鱼钓到散落的书页。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

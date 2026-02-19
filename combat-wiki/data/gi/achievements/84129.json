@@ -1,0 +1,15 @@
+{
+  "id": "84129",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "有备才能无患",
+  "description": "鱼肉，当然是越多越好。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

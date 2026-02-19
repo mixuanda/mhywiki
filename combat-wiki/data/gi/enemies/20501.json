@@ -1,0 +1,25 @@
+{
+  "id": "20501",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "嗜岩 · 兽境猎犬",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "rrh"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 兽境群狼"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

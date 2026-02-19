@@ -1,0 +1,18 @@
+{
+  "id": "4073407",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "就是地道！",
+  "description": "单场战斗中，使用三月七•巡猎施放战技「师父，请喝茶！」时，出现苏打豆汁儿",
+  "reward": 5,
+  "version": 2.4,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "86022",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "心有灵犀一电通",
+  "description": "与其他玩家一同战胜雷音权现。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "33"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

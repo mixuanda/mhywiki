@@ -1,0 +1,15 @@
+{
+  "id": "84100",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "霹雳闪雷真君",
+  "description": "见证班尼特足以影响天气的厄运。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

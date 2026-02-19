@@ -1,0 +1,15 @@
+{
+  "id": "84575",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "龙的摇篮",
+  "description": "与一只小匿叶龙成为了朋友。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

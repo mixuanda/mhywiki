@@ -1,0 +1,15 @@
+{
+  "id": "81550",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "真的假不了",
+  "description": "帮助真正的大灵显化身对抗虚假的敌人。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4092940",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "反射闪避",
+  "description": "在「模拟宇宙：黄金与机械」中，在「躲避射线挑战」中连续成功躲避 6.0 轮",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

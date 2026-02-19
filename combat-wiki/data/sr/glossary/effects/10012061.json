@@ -1,0 +1,19 @@
+{
+  "id": "10012061",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "烛夜",
+  "description": "攻击力提高<color> <b>A</b> </color>，且施放战技时额外增加2次【剑势】的发动判定。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012061,
+    "MDF": "MAvatar_Sushang_00_UltraBuff",
+    "Name": "烛夜",
+    "Desc": "攻击力提高<color> <b>A</b> </color>，且施放战技时额外增加2次【剑势】的发动判定。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

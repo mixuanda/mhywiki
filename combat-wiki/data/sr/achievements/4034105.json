@@ -1,0 +1,18 @@
+{
+  "id": "4034105",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "人世正如木叶枯荣",
+  "description": "雄狮远离故土，抵达他流徙的终点<br><color style='color:#8790ab;'>※见证悬锋继业者归乡的末路</color>",
+  "reward": 10,
+  "version": 3.1,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

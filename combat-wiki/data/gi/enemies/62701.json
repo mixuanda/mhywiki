@@ -1,0 +1,25 @@
+{
+  "id": "62701",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "熔岩游像 · 流燃体",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Lava_Liquid"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 熔岩游像"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

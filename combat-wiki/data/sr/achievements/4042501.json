@@ -1,0 +1,18 @@
+{
+  "id": "4042501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "到此一飞：穹仪",
+  "description": "控制机巧鸟飞行到穹仪附近",
+  "reward": 5,
+  "version": 1.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

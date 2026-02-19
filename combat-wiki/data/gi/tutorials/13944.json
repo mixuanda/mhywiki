@@ -1,0 +1,27 @@
+{
+  "id": "13944",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13944",
+  "tags": [],
+  "content": {
+    "_id": 13944,
+    "N": "祝词",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_2_01",
+        "D": "在祝词编辑界面中，旅行者们可以用各类<color style='color:#ec9d1f'>祝词#和<color style='color:#ec9d1f'>纹样#，自由编辑出各类祝词。"
+      },
+      {
+        "I": "UI_Activity_LanV6Lantern_Des_2_02",
+        "D": "当其他人靠近附有祝词的「节礼霄灯」与「节庆霄灯」时，可以在此类霄灯上方直接阅读祝词。<br>如果灵活运用祝词的话，<color style='color:#ec9d1f'>或许也能为其他人提供帮助…？#"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

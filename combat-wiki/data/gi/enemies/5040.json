@@ -1,0 +1,25 @@
+{
+  "id": "5040",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "幻形蟹 · 水",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "hm"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 纯水幻形"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

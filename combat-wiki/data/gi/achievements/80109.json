@@ -1,0 +1,15 @@
+{
+  "id": "80109",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一样的月光",
+  "description": "完成「月浴之渊」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "26"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

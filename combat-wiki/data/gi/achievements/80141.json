@@ -1,0 +1,15 @@
+{
+  "id": "80141",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "火鼠裘、龙首珠、佛前钵和…",
+  "description": "取得露子委托的珊瑚枝条。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "28"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "803301013",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "铄金",
+  "description": "铄金选手拥有众多荣誉——仙舟古武术大师、罗浮百大民间高手、长乐天杯羽量级十强、形虎拳馆特聘教练…总之，他的武功未必是最强的，但称号一定是最多的。",
+  "stats": {
+    "HP": 135.0,
+    "ATK": 5.9999400000000005,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8033010.png",
+  "figure": "monsterfigure/Monster_8033010.png",
+  "camp": {
+    "id": "9",
+    "name": "星际和平公司"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

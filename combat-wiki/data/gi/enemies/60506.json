@@ -1,0 +1,25 @@
+{
+  "id": "60506",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深海龙蜥 · 原种",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "pbv"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 深海龙蜥"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

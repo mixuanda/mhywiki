@@ -1,0 +1,15 @@
+{
+  "id": "80294",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沧浪的寻宝者 · 其三",
+  "description": "在莫尔泰区、伊黎耶林区开启<color style='color:#FF0000;'><b>160</b></color>个宝箱。",
+  "reward": 20,
+  "version": "4.2",
+  "group": {
+    "id": "46"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

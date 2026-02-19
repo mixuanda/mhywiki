@@ -1,0 +1,10 @@
+{
+  "id": "110403",
+  "game": "sr",
+  "entityType": "material",
+  "name": "风雪之角",
+  "icon": "itemicon/110403.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

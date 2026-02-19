@@ -1,0 +1,19 @@
+{
+  "id": "10014017",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "看看好看的",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014017,
+    "MDF": "MAvatar_TheHerta_00_MazeSkill_AttackRatioUp",
+    "Name": "看看好看的",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

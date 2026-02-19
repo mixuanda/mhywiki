@@ -1,0 +1,15 @@
+{
+  "id": "84109",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "只有玫瑰知道的世界",
+  "description": "阅读诺艾尔的学习笔记。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

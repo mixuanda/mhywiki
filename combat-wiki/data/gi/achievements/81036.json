@@ -1,0 +1,15 @@
+{
+  "id": "81036",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "千年雪藏的事",
+  "description": "了解过去一支雪山考察队的结局。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044019",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "毁灭雕像的权利",
+  "description": "将奥赫玛城内的所有雕塑全部打坏",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

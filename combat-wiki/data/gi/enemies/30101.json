@@ -1,0 +1,25 @@
+{
+  "id": "30101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众先遣队 · 冰铳重卫士",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fsc2"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 愚人众先遣队"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

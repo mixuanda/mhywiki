@@ -1,0 +1,18 @@
+{
+  "id": "4074801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "弃旧，恋新",
+  "description": "战斗胜利时，大丽花的【共舞者】队友与战斗开始时不为同一人",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

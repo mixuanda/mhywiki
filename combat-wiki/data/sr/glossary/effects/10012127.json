@@ -1,0 +1,18 @@
+{
+  "id": "10012127",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "转魄",
+  "description": "暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012127,
+    "MDF": "MAvatar_Jingliu_Passive_CriticalUp",
+    "Name": "转魄",
+    "Desc": "暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

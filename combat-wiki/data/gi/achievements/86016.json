@@ -1,0 +1,15 @@
+{
+  "id": "86016",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "往日重现",
+  "description": "与其他玩家一同战胜若陀龙王。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "21"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4053030",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "精神卫生",
+  "description": "保护环境，从我做起<br><color style='color:#8790ab;'>※帮助格-蕾回收梦境中的垃圾</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

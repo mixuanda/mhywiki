@@ -1,0 +1,18 @@
+{
+  "id": "4012301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "至尊战甲",
+  "description": "任意角色所有部件均装备 15 级5星遗器",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

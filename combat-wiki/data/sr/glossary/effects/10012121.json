@@ -1,0 +1,18 @@
+{
+  "id": "10012121",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "转魄",
+  "description": "攻击力提高<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012121,
+    "MDF": "MWAvatar_Jingliu_Attack_Transfer_AddATK",
+    "Name": "转魄",
+    "Desc": "攻击力提高<color> <b>A</b> </color>点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

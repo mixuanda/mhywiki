@@ -1,0 +1,15 @@
+{
+  "id": "61000035",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "构音推演：极端氦闪",
+  "description": "回响推演攻击后，使角色防御力降低 <b>30%</b> ，持续 <b>2</b> 回合。",
+  "content": {
+    "_id": 61000035,
+    "Name": "构音推演：极端氦闪",
+    "Desc": "回响推演攻击后，使角色防御力降低 <b>30%</b> ，持续 <b>2</b> 回合。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

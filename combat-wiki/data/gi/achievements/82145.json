@@ -1,0 +1,15 @@
+{
+  "id": "82145",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "看不见的手",
+  "description": "在不破除元能构装体的不可视状态的情况下将其击败。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

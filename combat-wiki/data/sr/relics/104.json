@@ -1,0 +1,16 @@
+{
+  "id": "104",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "密林卧雪的猎人",
+  "icon": "71003.png",
+  "setBonuses": [
+    "冰属性伤害提高 <b>10%</b> 。",
+    "当装备者施放终结技时，暴击伤害提高 <b>25%</b> ，持续 <b>2</b> 回合。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/104.js"
+  }
+}

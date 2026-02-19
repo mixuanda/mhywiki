@@ -1,0 +1,15 @@
+{
+  "id": "81511",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "网中之梦",
+  "description": "捕捉夜晚的讯息…",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

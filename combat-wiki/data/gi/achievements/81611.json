@@ -1,0 +1,15 @@
+{
+  "id": "81611",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「为了家园与炉火」",
+  "description": "即使生命之光已然消逝，他不屈的意志仍未消散。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

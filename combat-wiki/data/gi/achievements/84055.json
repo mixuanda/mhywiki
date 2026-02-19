@@ -1,0 +1,15 @@
+{
+  "id": "84055",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "远大前程",
+  "description": "一位少年即将启程远行…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

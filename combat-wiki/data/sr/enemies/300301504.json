@@ -1,0 +1,39 @@
+{
+  "id": "300301504",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "蕉研组的谐乐蕉师",
+  "description": "原本是搭载了谐乐学院教材的「十七分熟」，受到模因病毒的影响，教材变成了蕉材。舞台上的蕉燥之心酝酿炽焰的蕉响乐，誓要将不听从蕉诲的坏猴生烤为蕉碳。",
+  "stats": {
+    "HP": 150.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 30.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Wind": 0.4,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3003013.png",
+  "figure": "monsterfigure/Monster_3003013.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

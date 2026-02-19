@@ -1,0 +1,15 @@
+{
+  "id": "81321",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…将一切希望弃扬。」",
+  "description": "到达地上国度的尽头。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

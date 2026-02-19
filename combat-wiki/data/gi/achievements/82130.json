@@ -1,0 +1,15 @@
+{
+  "id": "82130",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "渔人之利",
+  "description": "见证了蕈兽间的友军伤害。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

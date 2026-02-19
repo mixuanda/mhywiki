@@ -1,0 +1,18 @@
+{
+  "id": "4043501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "云之彼端，约定之地",
+  "description": "在竞锋舰上，首次完成「引航罗盘」",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

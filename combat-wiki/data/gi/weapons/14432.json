@@ -1,0 +1,70 @@
+{
+  "id": "14432",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "天光的纺琴",
+  "description": "如天光般的金色弦丝编制而成的鲁特琴，似乎是古时仙灵的遗物。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 509.605949,
+  "subStatType": "ER",
+  "subStatValue": 0.45940000000000003,
+  "materialRefs": [
+    "112127",
+    "112133",
+    "114084"
+  ],
+  "affix": {
+    "114432": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "施放元素战技后的20秒内，装备者的元素精通提升 <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>180</color> / <color style='color:#99FFFFFF'>210</color> / <color style='color:#99FFFFFF'>240</color> 点。",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        "15": {
+          "Affix": [
+            "施放元素战技后的20秒内，装备者的元素精通提升 <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>180</color> / <color style='color:#99FFFFFF'>210</color> / <color style='color:#99FFFFFF'>240</color> 点。",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        "2": {
+          "Affix": [
+            "施放元素战技后的20秒内，装备者的元素精通提升 <color style='color:#99FFFFFF'>120</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>180</color> / <color style='color:#99FFFFFF'>210</color> / <color style='color:#99FFFFFF'>240</color> 点。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "施放元素战技后的20秒内，装备者的元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "施放元素战技后的20秒内，装备者的元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "施放元素战技后的20秒内，装备者的元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "施放元素战技后的20秒内，装备者的元素精通提升 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14432.js"
+  }
+}

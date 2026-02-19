@@ -1,0 +1,18 @@
+{
+  "id": "4054407",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "绑架代替购买",
+  "description": "与哀丽秘榭的小奇美拉建立缘分",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

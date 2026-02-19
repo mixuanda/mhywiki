@@ -1,0 +1,17 @@
+{
+  "id": "10010026",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "寸长寸强",
+  "description": "天赋【寸长寸强】的效果已经可以触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010026,
+    "MDF": "MAvatar_DanHeng_00_Passive_BeginTargetEnhance",
+    "Name": "寸长寸强",
+    "Desc": "天赋【寸长寸强】的效果已经可以触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

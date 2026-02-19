@@ -1,0 +1,18 @@
+{
+  "id": "4040410",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "红的连红的，白的连白的",
+  "description": "完成 10.0 次磁流解阈",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

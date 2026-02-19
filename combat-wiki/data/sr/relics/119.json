@@ -1,0 +1,16 @@
+{
+  "id": "119",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "荡除蠹灾的铁骑",
+  "icon": "71032.png",
+  "setBonuses": [
+    "击破特攻提高 <b>16%</b> 。",
+    "当装备者的击破特攻大于等于 <b>150%</b> 时，对敌方目标造成的击破伤害无视其 <b>10%</b> 的防御力。当装备者的击破特攻大于等于 <b>250%</b> 时，对敌方目标造成的超击破伤害额外无视其 <b>15%</b> 的防御力。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/119.js"
+  }
+}

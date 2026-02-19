@@ -1,0 +1,15 @@
+{
+  "id": "80288",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 百泉谐律之地 · 其三",
+  "description": "解除枫丹区域中，莫尔泰区、伊黎耶林区所有地灵龛的封印。",
+  "reward": 10,
+  "version": "4.2",
+  "group": {
+    "id": "46"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

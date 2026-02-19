@@ -1,0 +1,39 @@
+{
+  "id": "403302301",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "黑潮斗将",
+  "description": "从黑潮中诞生的扭曲造物，对杀戮的渴求成为了空洞躯壳中仅存的意志。<br>生前的决斗之魂被黑潮扭曲，它握持一柄与肩齐高的双手大剑，在漫无目的的游荡中寻找着所有可摧毁的目标，为世界的纷乱献上新增的熵值。",
+  "stats": {
+    "HP": 50.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 160.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4033020.png",
+  "figure": "monsterfigure/Monster_4033020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

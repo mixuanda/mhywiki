@@ -1,0 +1,15 @@
+{
+  "id": "81022",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如光似电",
+  "description": "持续冲刺或使用替代冲刺的能力，移动15秒。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

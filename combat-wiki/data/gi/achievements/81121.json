@@ -1,0 +1,15 @@
+{
+  "id": "81121",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "重开之花",
+  "description": "获得叶名山薰的赠礼。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

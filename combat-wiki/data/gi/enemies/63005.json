@@ -1,0 +1,28 @@
+{
+  "id": "63005",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的蕴光凛狼",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Wind": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Magbeast_Steppenwolf_02"
+  ],
+  "figure": null,
+  "groups": [
+    "<b>6.3</b> > 地方传奇",
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

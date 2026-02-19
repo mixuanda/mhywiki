@@ -1,0 +1,46 @@
+{
+  "id": "101203002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "自动机兵 · 甲虫",
+  "description": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
+  "stats": {
+    "HP": 2.38,
+    "ATK": 14.4,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Ice",
+    "Elec",
+    "Wind",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_1012030.png",
+  "figure": "monsterfigure/Monster_1012030.png",
+  "camp": {
+    "id": "1",
+    "name": "雅利洛-Ⅵ"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

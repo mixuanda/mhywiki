@@ -1,0 +1,19 @@
+{
+  "id": "10010034",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "加速",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010034,
+    "MDF": "MAvatar_Himeko_00_SkillRank01_SpeedUP",
+    "Name": "加速",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80256",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "露景的清歌",
+  "description": "将枫丹廷区的露景泉等级提升至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "42"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

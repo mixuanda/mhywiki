@@ -1,0 +1,18 @@
+{
+  "id": "4034407",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "命运之夜，驻足此刻",
+  "description": "天秤的守护者，跨越时光而来<br><color style='color:#8790ab;'>※成功召唤你的从者</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

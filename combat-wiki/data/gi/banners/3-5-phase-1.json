@@ -1,0 +1,34 @@
+{
+  "id": "3-5-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "3.5",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Dehya",
+      "X": 1
+    },
+    {
+      "N": "Cyno",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Collei",
+      "X": 2
+    },
+    {
+      "N": "Bennett",
+      "X": 8
+    },
+    {
+      "N": "Barbara",
+      "X": 8
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

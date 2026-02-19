@@ -1,0 +1,15 @@
+{
+  "id": "84501",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…Odomu？",
+  "description": "在「语言交流」中与丘丘人交流成功。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "10"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

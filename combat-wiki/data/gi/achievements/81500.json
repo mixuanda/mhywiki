@@ -1,0 +1,15 @@
+{
+  "id": "81500",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "以战斗平息…",
+  "description": "完成「夜魂试炼之所」的战斗挑战。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

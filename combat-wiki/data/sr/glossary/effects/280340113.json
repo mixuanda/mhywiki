@@ -1,0 +1,17 @@
+{
+  "id": "280340113",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "永不败露",
+  "description": "受到进入赌局的目标攻击时使赌局的赔率翻倍。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340113,
+    "MDF": "Monster_W3_AventurinePart_00_SpeedZero_RL",
+    "Name": "永不败露",
+    "Desc": "受到进入赌局的目标攻击时使赌局的赔率翻倍。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

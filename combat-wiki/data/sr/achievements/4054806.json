@@ -1,0 +1,18 @@
+{
+  "id": "4054806",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "奥赫玛地区冠军",
+  "description": "在「黄金嗷呜大师赛」中，击败黄金对决模式中的所有奇美拉训练家",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

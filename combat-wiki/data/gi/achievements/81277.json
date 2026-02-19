@@ -1,0 +1,15 @@
+{
+  "id": "81277",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "请说暗语，然后进入",
+  "description": "打开吞羊岩的神秘大门。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

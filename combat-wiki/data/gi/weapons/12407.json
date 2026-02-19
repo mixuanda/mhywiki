@@ -1,0 +1,22 @@
+{
+  "id": "12407",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "白影剑",
+  "description": "剑身上有一面未开刃的异国大剑，经商路流落到璃月。在了解它的人手里，破坏力极可观。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 509.605949,
+  "subStatType": "DEF",
+  "subStatValue": 0.5172844000000001,
+  "materialRefs": [
+    "112031",
+    "112037",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12407.js"
+  }
+}

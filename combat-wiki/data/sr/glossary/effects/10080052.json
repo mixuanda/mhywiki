@@ -1,0 +1,18 @@
+{
+  "id": "10080052",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伴舞",
+  "description": "击破特攻提高<color> <b>A</b> </color>，并且攻击处于弱点击破状态下的敌方目标后，会将本次攻击的削韧值转化为1次超击破伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080052,
+    "MDF": "MAvatar_PlayerBoy_20_SkillP01_ListenBreakDamage",
+    "Name": "伴舞",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>，并且攻击处于弱点击破状态下的敌方目标后，会将本次攻击的削韧值转化为1次超击破伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

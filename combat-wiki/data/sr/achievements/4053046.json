@@ -1,0 +1,18 @@
+{
+  "id": "4053046",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "最「糟糕」的无名客",
+  "description": "给帕姆看看某个特定的梦泡",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

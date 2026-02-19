@@ -1,0 +1,18 @@
+{
+  "id": "4043211",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "第一滴血",
+  "description": "首次完成「哈努战线」的挑战",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

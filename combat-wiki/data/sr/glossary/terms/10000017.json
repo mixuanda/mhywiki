@@ -1,0 +1,15 @@
+{
+  "id": "10000017",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "真实伤害",
+  "description": "不受任何效果所影响的无属性伤害，本次伤害不视为造成了1次攻击。",
+  "content": {
+    "_id": 10000017,
+    "Name": "真实伤害",
+    "Desc": "不受任何效果所影响的无属性伤害，本次伤害不视为造成了1次攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054227",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "豹潮汹涌",
+  "description": "通关「豹豹碰碰大作战·究极进化版」的挑战难度",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

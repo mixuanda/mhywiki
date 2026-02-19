@@ -1,0 +1,15 @@
+{
+  "id": "82213",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "画中之梦",
+  "description": "完成<color style='color:#FF0000;'><b>1</b></color>名角色的绘想游迹挑战。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "52"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4034410",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "星辰啊，请照耀前路",
+  "description": "迈步向前吧，仅此便足以为英雄<br><color style='color:#8790ab;'>※突破「平庸」的束缚</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

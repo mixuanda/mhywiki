@@ -1,0 +1,19 @@
+{
+  "id": "10011112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "百折不回",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011112,
+    "MDF": "MAvatar_Luka_Rank04",
+    "Name": "百折不回",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

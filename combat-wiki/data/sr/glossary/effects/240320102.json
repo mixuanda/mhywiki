@@ -1,0 +1,19 @@
+{
+  "id": "240320102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "焕新",
+  "description": "下次攻击造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240320102,
+    "MDF": "MMonster_AML_Minion02_01_RallyHP_V2_Strongth",
+    "Name": "焕新",
+    "Desc": "下次攻击造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

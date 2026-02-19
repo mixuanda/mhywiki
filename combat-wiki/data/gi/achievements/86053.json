@@ -1,0 +1,15 @@
+{
+  "id": "86053",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "非统一秘源世界论",
+  "description": "与其他玩家一同战胜秘源机兵 · 统御械。",
+  "reward": 10,
+  "version": "6.0",
+  "group": {
+    "id": "64"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

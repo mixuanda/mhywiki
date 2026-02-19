@@ -1,0 +1,22 @@
+{
+  "id": "15417",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "王下近侍",
+  "description": "从兰那罗的故事中得到的武器。具有弓的形制，能够射落森林的敌人。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ATK",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112013",
+    "112064",
+    "114048"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15417.js"
+  }
+}

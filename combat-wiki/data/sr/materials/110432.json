@@ -1,0 +1,10 @@
+{
+  "id": "110432",
+  "game": "sr",
+  "entityType": "material",
+  "name": "明辉日珥",
+  "icon": "itemicon/110432.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

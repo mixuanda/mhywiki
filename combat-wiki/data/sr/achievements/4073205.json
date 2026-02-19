@@ -1,0 +1,18 @@
+{
+  "id": "4073205",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "独幕剧",
+  "description": "在「昔在、今在、永在的剧目」第二阶段时，敌方至多施放一次「为同一律献舞」",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

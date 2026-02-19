@@ -1,0 +1,15 @@
+{
+  "id": "81642",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "湮于淤黑",
+  "description": "因「深渊蚀能」的侵蚀而倒下。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81301",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "甚至不需要操作手册…",
+  "description": "让奔奔恢复以往的活力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

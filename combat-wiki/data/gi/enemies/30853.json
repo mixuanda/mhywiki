@@ -1,0 +1,25 @@
+{
+  "id": "30853",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "巡陆艇 · 尖端火力地效型",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuimecha_CoreC_MoveF_AttackB_Fire"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 巡陆艇 II"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

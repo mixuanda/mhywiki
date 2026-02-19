@@ -1,0 +1,15 @@
+{
+  "id": "81419",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "我畏惧我在风中的怒火…",
+  "description": "…将为至真至美的花朵带来凋败。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4073204",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "群像剧",
+  "description": "在「昔在、今在、永在的剧目」第一阶段时，让3.0名敌人轮流成为一次【司律】",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "10000012",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "持续伤害类负面状态",
+  "description": "裂伤，灼烧，触电，风化。",
+  "content": {
+    "_id": 10000012,
+    "Name": "持续伤害类负面状态",
+    "Desc": "裂伤，灼烧，触电，风化。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

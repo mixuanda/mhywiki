@@ -1,0 +1,18 @@
+{
+  "id": "4080201",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "知难而上（一）",
+  "description": "均衡等级达到 1.0 级",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

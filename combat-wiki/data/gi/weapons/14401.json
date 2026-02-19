@@ -1,0 +1,22 @@
+{
+  "id": "14401",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "西风秘典",
+  "description": "西风骑士团的学者间流传的秘典，记载着元素与物质的道理和力量。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 509.605949,
+  "subStatType": "ER",
+  "subStatValue": 0.45940000000000003,
+  "materialRefs": [
+    "112010",
+    "112016",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14401.js"
+  }
+}

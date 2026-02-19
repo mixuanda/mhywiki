@@ -1,0 +1,10 @@
+{
+  "id": "110417",
+  "game": "sr",
+  "entityType": "material",
+  "name": "镇灵敕符",
+  "icon": "itemicon/110417.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

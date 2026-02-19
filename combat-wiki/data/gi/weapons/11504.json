@@ -1,0 +1,22 @@
+{
+  "id": "11504",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "斫峰之刃",
+  "description": "传说中象征着某一则特定契约的利刃，曾经斩落过山岳的尖端。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 608.0745972,
+  "subStatType": "ATK",
+  "subStatValue": 0.49615200000000004,
+  "materialRefs": [
+    "112007",
+    "112031",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11504.js"
+  }
+}

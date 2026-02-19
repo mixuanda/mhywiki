@@ -1,0 +1,22 @@
+{
+  "id": "12426",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "「究极霸王超级魔剑」",
+  "description": "统治海原的究极霸王才能使用的超级魔剑。因为使用了特殊的防水材料，就算浸在水中也不会泡坏，几乎能称得上是无敌！",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112085",
+    "112094",
+    "114060"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12426.js"
+  }
+}

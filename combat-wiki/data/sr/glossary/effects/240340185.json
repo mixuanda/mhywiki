@@ -1,0 +1,17 @@
+{
+  "id": "240340185",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "共祭",
+  "description": "当【%CasterName】施放【亡死的黑云】时，一同施放【亡死的黑云】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340185,
+    "MDF": "MMonster_W4_FireProwler_11_Main03_Activated01",
+    "Name": "共祭",
+    "Desc": "当【%CasterName】施放【亡死的黑云】时，一同施放【亡死的黑云】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

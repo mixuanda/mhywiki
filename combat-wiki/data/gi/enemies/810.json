@@ -1,0 +1,32 @@
+{
+  "id": "810",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "霜夜巡天灵主",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_HerraFrost"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 霜夜灵嗣"
+  ],
+  "analysis": {
+    "Name": "霜夜巡天灵主",
+    "Icon": "UI_MonsterIcon_HerraFrost",
+    "DescList": [
+      "• 会进入「晦隐」状态：全部抗性提升 @120%#，受到 @50# 次伤害才能退出，月曜反应伤害视为 @6# 次伤害",
+      "• 退出「晦隐」状态时，会吸收期间@受到伤害最多#的元素类型，获得此元素的@免疫效果#和@永久附着#，若月曜反应或物理伤害为最高，则不会触发此效果"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80000003",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "伤害增幅",
+  "description": "伤害增幅能提高目标造成的伤害。\n伤害增幅与其他伤害提高效果独立乘算。",
+  "content": {
+    "_id": 80000003,
+    "Name": "伤害增幅",
+    "Desc": "伤害增幅能提高目标造成的伤害。\n伤害增幅与其他伤害提高效果独立乘算。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

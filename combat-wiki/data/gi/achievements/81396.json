@@ -1,0 +1,15 @@
+{
+  "id": "81396",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "孤独派报告",
+  "description": "获得克洛妮艾私自印制的「特别报告」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

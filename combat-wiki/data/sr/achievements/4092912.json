@@ -1,0 +1,18 @@
+{
+  "id": "4092912",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "D级人员",
+  "description": "在「模拟宇宙：黄金与机械」中，在「星际和平机械分部商城（其二）」事件中升级 1.0 次奇物",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "21031",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "重返幽冥",
+  "rarity": 4,
+  "path": "Hunt",
+  "skillId": 21031,
+  "baseStats": {
+    "HP": 846.72,
+    "ATK": 529.2,
+    "DEF": 330.75
+  },
+  "materialRefs": [
+    "110123",
+    "113003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21031.js"
+  }
+}

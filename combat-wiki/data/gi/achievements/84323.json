@@ -1,0 +1,15 @@
+{
+  "id": "84323",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "冰与火的战场",
+  "description": "立场需要强大的力量做支撑。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

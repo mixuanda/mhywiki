@@ -1,0 +1,15 @@
+{
+  "id": "86052",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "创造日前的黎明",
+  "description": "与其他玩家一同战胜熔岩辉龙像。",
+  "reward": 10,
+  "version": "6.0",
+  "group": {
+    "id": "64"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

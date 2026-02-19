@@ -1,0 +1,18 @@
+{
+  "id": "10011123",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "被执行",
+  "description": "受到的追加攻击的暴击伤害提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011123,
+    "MDF": "MAvatar_Topaz_BETargetTag_CriticalDamageUp",
+    "Name": "被执行",
+    "Desc": "受到的追加攻击的暴击伤害提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

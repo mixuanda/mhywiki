@@ -1,0 +1,15 @@
+{
+  "id": "82034",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…必须毁灭两次",
+  "description": "达成1次：2秒内，通过融化反应打败4名敌人。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "6"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

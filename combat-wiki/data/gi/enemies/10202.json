@@ -1,0 +1,25 @@
+{
+  "id": "10202",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "火斧丘丘暴徒",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "mita"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > 丘丘暴徒"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "240340104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "沉默的悲叹",
+  "description": "下次行动时施放【莫因舍弃而哭泣】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240340104,
+    "MDF": "MMonster_W4_FireProwler_00_Charge",
+    "Name": "沉默的悲叹",
+    "Desc": "下次行动时施放【莫因舍弃而哭泣】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

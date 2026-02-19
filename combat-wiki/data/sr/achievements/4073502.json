@@ -1,0 +1,18 @@
+{
+  "id": "4073502",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "生气了吗？",
+  "description": "在和「飞霄」之影的战斗中，「飞霄」之影释放【风胄雷鞮】，并在【风胄雷鞮】蓄力期间将蚀月心兽所有部位的弱点击破",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

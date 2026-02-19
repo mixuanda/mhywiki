@@ -1,0 +1,34 @@
+{
+  "id": "4-4-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.4",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Liuyun",
+      "X": 1
+    },
+    {
+      "N": "Nahida",
+      "X": 3
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Gaming",
+      "X": 1
+    },
+    {
+      "N": "Faruzan",
+      "X": 3
+    },
+    {
+      "N": "Noel",
+      "X": 9
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

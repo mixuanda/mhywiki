@@ -1,0 +1,22 @@
+{
+  "id": "13424",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "峡湾长歌",
+  "description": "在冰原捕鱼的人会使用的长枪，绝对不会放跑猎物。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 509.605949,
+  "subStatType": "CR",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112040",
+    "112079",
+    "114060"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13424.js"
+  }
+}

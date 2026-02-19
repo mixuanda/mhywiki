@@ -1,0 +1,15 @@
+{
+  "id": "84572",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "谁来说出真相？",
+  "description": "帮助吉雅罗寻找到了新的灵感…？",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

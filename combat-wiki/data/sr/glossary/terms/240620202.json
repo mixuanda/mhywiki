@@ -1,0 +1,15 @@
+{
+  "id": "240620202",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "罪血腐蚀",
+  "description": "回合开始时受到固定数值虚数属性伤害。",
+  "content": {
+    "_id": 240620202,
+    "Name": "罪血腐蚀",
+    "Desc": "回合开始时受到固定数值虚数属性伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

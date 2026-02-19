@@ -1,0 +1,30 @@
+{
+  "id": "1-6-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "1.6",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Klee",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Barbara",
+      "X": 4
+    },
+    {
+      "N": "Sucrose",
+      "X": 4
+    },
+    {
+      "N": "Fischl",
+      "X": 4
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

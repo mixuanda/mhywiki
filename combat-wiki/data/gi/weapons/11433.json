@@ -1,0 +1,66 @@
+{
+  "id": "11433",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "谧音吹哨",
+  "description": "金属打造的长剑，挥动时会发出沉郁的哨音。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ER",
+  "subStatValue": 0.6125318020000001,
+  "materialRefs": [
+    "112127",
+    "112130",
+    "114076"
+  ],
+  "affix": {
+    "111433": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "触发元素反应后的12秒内，生命值上限提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。月兆 · 初辉：该效果中的生命值上限额外提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。装备者处于队伍后台时，依然能触发上述效果。",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        "15": {
+          "Affix": [
+            "触发元素反应后的12秒内，生命值上限提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。月兆 · 满辉：该效果中的生命值上限额外提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "触发元素反应后的12秒内，生命值上限提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。月兆 · 满辉：该效果中的生命值上限额外提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "触发元素反应后的12秒内，生命值上限提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。月兆 · 满辉：该效果中的生命值上限额外提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "触发元素反应后的12秒内，生命值上限提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。月兆 · 满辉：该效果中的生命值上限额外提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "触发元素反应后的12秒内，生命值上限提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。月兆 · 满辉：该效果中的生命值上限额外提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "触发元素反应后的12秒内，生命值上限提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。月兆 · 满辉：该效果中的生命值上限额外提高 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。装备者处于队伍后台时，依然能触发上述效果。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11433.js"
+  }
+}

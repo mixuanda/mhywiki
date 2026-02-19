@@ -1,0 +1,25 @@
+{
+  "id": "55051",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "铸砂勇士 · 投矛手",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Human_Fat_NoWeapon_Drillhead"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 铸砂勇士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

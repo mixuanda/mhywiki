@@ -1,0 +1,17 @@
+{
+  "id": "240140306",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "弱点无效",
+  "description": "在【玻吕刻斯】下次行动前，【玻吕刻斯】的韧性无法被削减并免疫来自我方目标造成的行动延后效果。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140306,
+    "MDF": "Monster_W4_Pollux_00_Strengthen_Property",
+    "Name": "弱点无效",
+    "Desc": "在【玻吕刻斯】下次行动前，【玻吕刻斯】的韧性无法被削减并免疫来自我方目标造成的行动延后效果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

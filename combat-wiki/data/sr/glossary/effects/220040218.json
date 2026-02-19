@@ -1,0 +1,17 @@
+{
+  "id": "220040218",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "锁定",
+  "description": "被<color>%CasterName</color>锁定为施放【风归云动，天河泻梦】的目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040218,
+    "MDF": "MMonster_W2_Yanqing_00_Skill02_Mark",
+    "Name": "锁定",
+    "Desc": "被<color>%CasterName</color>锁定为施放【风归云动，天河泻梦】的目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

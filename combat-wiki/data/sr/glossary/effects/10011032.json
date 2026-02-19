@@ -1,0 +1,19 @@
+{
+  "id": "10011032",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "攻击提高",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011032,
+    "MDF": "MAvatar_Serval_00_Tree03_AttackRatioUp",
+    "Name": "攻击提高",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

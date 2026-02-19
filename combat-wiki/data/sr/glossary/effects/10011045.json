@@ -1,0 +1,19 @@
+{
+  "id": "10011045",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "减速",
+  "description": "速度降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011045,
+    "MDF": "MAvatar_Gepard_00_Rank02_SpeedDown",
+    "Name": "减速",
+    "Desc": "速度降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

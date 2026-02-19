@@ -1,0 +1,15 @@
+{
+  "id": "81349",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "飞行的梦想",
+  "description": "完成一次「安东 · 罗杰飞行器」的航程。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

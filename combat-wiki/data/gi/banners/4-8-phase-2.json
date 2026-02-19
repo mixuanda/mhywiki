@@ -1,0 +1,34 @@
+{
+  "id": "4-8-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.8",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Emilie",
+      "X": 1
+    },
+    {
+      "N": "Yelan",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Razor",
+      "X": 7
+    },
+    {
+      "N": "Feiyan",
+      "X": 9
+    },
+    {
+      "N": "Xiangling",
+      "X": 11
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

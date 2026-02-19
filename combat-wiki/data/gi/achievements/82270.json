@@ -1,0 +1,15 @@
+{
+  "id": "82270",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「铁须」",
+  "description": "在从未让铁须破坏「熔裂突刺」的情况下，将其击败。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

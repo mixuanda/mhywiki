@@ -1,0 +1,18 @@
+{
+  "id": "4043503",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "舟摇星动紫罗中",
+  "description": "在竞锋舰上，透过机巧鸟进入泊船区深处",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

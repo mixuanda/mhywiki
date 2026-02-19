@@ -1,0 +1,15 @@
+{
+  "id": "80021",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "你所不知道的事",
+  "description": "将8个角色好感等级提升至10级。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

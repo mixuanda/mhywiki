@@ -1,0 +1,18 @@
+{
+  "id": "230030421",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "攻击提高",
+  "description": "每个陷入【异梦】状态的目标使自身攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030421,
+    "MDF": "MMonster_W3_Figure_00_RLElite_AttackUP",
+    "Name": "攻击提高",
+    "Desc": "每个陷入【异梦】状态的目标使自身攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

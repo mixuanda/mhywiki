@@ -1,0 +1,18 @@
+{
+  "id": "4034506",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "英雄未死之前",
+  "description": "倾听遥远而忧伤的歌，它唱着存在之母的名字：幻觉、意志、痛苦<br><color style='color:#8790ab;'>※传承英雄未死之前的一切</color>",
+  "reward": 10,
+  "version": 3.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

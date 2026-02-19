@@ -1,0 +1,15 @@
+{
+  "id": "82290",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「雷吉」",
+  "description": "在完成一次挑战的过程中，曾于短时间内连续弹回4枚子弹。",
+  "reward": 20,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

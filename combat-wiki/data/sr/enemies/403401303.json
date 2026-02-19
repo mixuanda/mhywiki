@@ -1,0 +1,39 @@
+{
+  "id": "403401303",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "末日歧途的盗火者",
+  "description": "伴随黑潮而来、狩猎泰坦火种的无名剑士，无人知晓其真身。<br>身负不可思议的力量，剑技也近乎无懈可击。疯狂与执着交织于它的锋刃，神悟树庭与哀丽秘榭皆毁于其手。",
+  "stats": {
+    "HP": 110.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 132.0,
+    "Stance": 40.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.4,
+    "Wind": 0.4,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4034010.png",
+  "figure": "monsterfigure/Monster_4034010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

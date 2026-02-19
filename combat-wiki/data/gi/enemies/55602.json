@@ -1,0 +1,34 @@
+{
+  "id": "55602",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的皮皮潘偶像",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tenoyollotzin"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": {
+    "Name": "历经百战的皮皮潘偶像",
+    "Icon": "UI_MonsterIcon_Tenoyollotzin",
+    "DescList": [
+      "• 会创造三顶帽子，隐藏于其中一顶之下，并快速变换帽子的位置，如果本体帽子受到@感电#或@月感电#伤害，则会暂停",
+      "• 帽子具有 @36%#~@40%# 血量，除@水雷#外的其他抗性@大幅提升#，受到的@感电#和@月感电#伤害 @+300%#",
+      "• 击败@本体帽子#使其瘫痪（@巨幅降低#全部抗性），@感电#和@月感电#伤害的击破效率@大幅提升#",
+      "• 瘫痪时会损失生命值，等同于帽子受到的 @12%# 非水雷伤害 + @100%# 水雷伤害，不超过帽子生命值的 @120%#"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

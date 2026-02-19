@@ -1,0 +1,39 @@
+{
+  "id": "3022011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "旧梦的回声",
+  "description": "某人对至亲记忆之余音。迢迢长夜里，它们与他同在——昔在、今在，以后永在。",
+  "stats": {
+    "HP": 5.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.4,
+    "Wind": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3022010.png",
+  "figure": "monsterfigure/Monster_3022010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

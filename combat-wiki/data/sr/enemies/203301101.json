@@ -1,0 +1,39 @@
+{
+  "id": "203301101",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "咆哮灵柩（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为博识学会研发的战斗机器。以步离人的生物组织为部件，兼具长生种顽强的生命力与无数岁月进化所得的「杀戮算法」。",
+  "stats": {
+    "HP": 42.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Elec",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2033010.png",
+  "figure": "monsterfigure/Monster_2033010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84581",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "原信奉还",
+  "description": "将四封快件都归还原主。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

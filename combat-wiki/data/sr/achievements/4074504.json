@@ -1,0 +1,18 @@
+{
+  "id": "4074504",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "伟业未竟，亦可再战",
+  "description": "持有【爵位】的角色使用战技消灭5.0个敌人",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

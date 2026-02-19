@@ -1,0 +1,25 @@
+{
+  "id": "22121604",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深邃摹结株 · 虚暗幻变",
+  "description": "如植株般侵蚀生长的深渊魔物。\n持续侵蚀此界的扭曲者，能够提取大地之中相对深层的记忆，亦能通过深渊的力量复现更为强大的记忆体。在地脉极端紊乱的投映下，曾随此物之根须散播的憎恶，逐渐转变为凶锐的锋刃，要让来访的挑战者们体会至为深刻的痛苦…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_TheAbyss_Dendrite"
+  ],
+  "figure": null,
+  "groups": [
+    "幽境危战 > 5.8"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

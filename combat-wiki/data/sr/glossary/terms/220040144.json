@@ -1,0 +1,15 @@
+{
+  "id": "220040144",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "血眼",
+  "description": "受到的伤害提高，速度提高。",
+  "content": {
+    "_id": 220040144,
+    "Name": "血眼",
+    "Desc": "受到的伤害提高，速度提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

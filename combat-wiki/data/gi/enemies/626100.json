@@ -1,0 +1,27 @@
+{
+  "id": "626100",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「波塔波的声援」",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Ice": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Wayob_Shamansaurus"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.2 夜魂试炼"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81288",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "飞跃医院",
+  "description": "曾有一位生还者逃离此处。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

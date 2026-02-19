@@ -1,0 +1,22 @@
+{
+  "id": "15407",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "钢轮弓",
+  "description": "以金属制成，用滑轮引弦的复合弓，来自异国。护养极其困难，但引弓轻松，威力惊人。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "Phys",
+  "subStatValue": 0.689711002,
+  "materialRefs": [
+    "112034",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15407.js"
+  }
+}

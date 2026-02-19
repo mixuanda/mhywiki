@@ -1,0 +1,15 @@
+{
+  "id": "10000004",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "追加攻击",
+  "description": "满足条件时自动触发的效果，对目标施放1次额外的攻击。",
+  "content": {
+    "_id": 10000004,
+    "Name": "追加攻击",
+    "Desc": "满足条件时自动触发的效果，对目标施放1次额外的攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

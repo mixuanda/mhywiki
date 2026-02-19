@@ -1,0 +1,17 @@
+{
+  "id": "10010031",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "乘胜追击",
+  "description": "天赋【乘胜追击】尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010031,
+    "MDF": "MAvatar_Himeko_00_Passive_PursuitCD",
+    "Name": "乘胜追击",
+    "Desc": "天赋【乘胜追击】尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

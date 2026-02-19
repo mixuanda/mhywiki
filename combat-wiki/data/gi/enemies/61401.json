@@ -1,0 +1,25 @@
+{
+  "id": "61401",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "魔像督军",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "moxiang1"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 魔像"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

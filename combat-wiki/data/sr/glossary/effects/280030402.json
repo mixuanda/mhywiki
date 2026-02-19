@@ -1,0 +1,19 @@
+{
+  "id": "280030402",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "dev_加速",
+  "description": "dev_每层使速度提升<color> <b>A</b> </color>，最多叠加<color> <b>B</b> </color>层",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030402,
+    "MDF": "Monster_XP_Elite02_01_Accelerate",
+    "Name": "dev_加速",
+    "Desc": "dev_每层使速度提升<color> <b>A</b> </color>，最多叠加<color> <b>B</b> </color>层",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

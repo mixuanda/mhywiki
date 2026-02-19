@@ -1,0 +1,17 @@
+{
+  "id": "280250111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "虫卵",
+  "description": "受到【蛰亡语】或【蚀亡语】攻击时，失去1点虫卵。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280250111,
+    "MDF": "MMonster_SW_Boss_01_IF_SwarmArmor",
+    "Name": "虫卵",
+    "Desc": "受到【蛰亡语】或【蚀亡语】攻击时，失去1点虫卵。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

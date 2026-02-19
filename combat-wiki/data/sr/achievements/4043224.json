@@ -1,0 +1,18 @@
+{
+  "id": "4043224",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "饱和式轰炸",
+  "description": "在一次《小小哈努行动》中一次性击败5.0个石头老板的爪牙",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82068",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "少冰无糖",
+  "description": "在冰丘丘萨满没能创造冰柱的情况下，击败冰丘丘萨满。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "15"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

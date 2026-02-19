@@ -1,0 +1,18 @@
+{
+  "id": "100141311",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "至暗之谜",
+  "description": "受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141311,
+    "MDF": "MAvatar_Evernight_00_UltraMode_Debuff",
+    "Name": "至暗之谜",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

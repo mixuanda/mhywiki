@@ -1,0 +1,15 @@
+{
+  "id": "82247",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「阿特拉托的佑助」",
+  "description": "战胜地方传奇「阿特拉托的佑助」。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

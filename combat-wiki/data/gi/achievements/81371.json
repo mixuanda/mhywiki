@@ -1,0 +1,15 @@
+{
+  "id": "81371",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「隐者王 · 多尔库」",
+  "description": "战胜地方传奇 · 隐者王 · 多尔库。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

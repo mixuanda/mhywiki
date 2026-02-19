@@ -1,0 +1,19 @@
+{
+  "id": "10010066",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "全属性抗性降低",
+  "description": "全属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010066,
+    "MDF": "MAvatar_Silwolf_00_BPSkill_AllDamageTypeResistanceDown",
+    "Name": "全属性抗性降低",
+    "Desc": "全属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

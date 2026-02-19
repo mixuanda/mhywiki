@@ -1,0 +1,15 @@
+{
+  "id": "81340",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "抹消角度的人",
+  "description": "借助结晶体的力量，压制兽境裂隙。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

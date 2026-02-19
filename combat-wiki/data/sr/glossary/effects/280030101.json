@@ -1,0 +1,17 @@
+{
+  "id": "280030101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "冰点",
+  "description": "外宇宙之冰的攻击模式得到强化。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030101,
+    "MDF": "XP_Ice_Elite_Powerful_Modifier",
+    "Name": "冰点",
+    "Desc": "外宇宙之冰的攻击模式得到强化。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

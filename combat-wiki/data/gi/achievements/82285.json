@@ -1,0 +1,15 @@
+{
+  "id": "82285",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「微末」",
+  "description": "战胜地方传奇「微末」。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "61"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

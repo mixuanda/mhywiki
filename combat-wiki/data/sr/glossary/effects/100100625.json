@@ -1,0 +1,19 @@
+{
+  "id": "100100625",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "额外冰弱点",
+  "description": "被添加的额外冰弱点，冰属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100625,
+    "MDF": "MAvatar_Advanced_Silwolf_00_BPSkill_WeakType_Ice",
+    "Name": "额外冰弱点",
+    "Desc": "被添加的额外冰弱点，冰属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

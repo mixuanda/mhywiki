@@ -1,0 +1,15 @@
+{
+  "id": "81215",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "三脚猫渭水非熊",
+  "description": "了解山巅大侠「唐无仇」的往事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

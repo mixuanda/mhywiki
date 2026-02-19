@@ -1,0 +1,17 @@
+{
+  "id": "10014039",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "好忙好忙的缇宝",
+  "description": "施放终结技后，缇宝可以发动追加攻击。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014039,
+    "MDF": "MAvatar_Tribbie_00_CanTriggerInsertTag",
+    "Name": "好忙好忙的缇宝",
+    "Desc": "施放终结技后，缇宝可以发动追加攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "23011",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "她已闭上双眼",
+  "rarity": 5,
+  "path": "Preservation",
+  "skillId": 23011,
+  "baseStats": {
+    "HP": 1270.08,
+    "ATK": 423.36,
+    "DEF": 529.2
+  },
+  "materialRefs": [
+    "110143",
+    "113013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/23011.js"
+  }
+}

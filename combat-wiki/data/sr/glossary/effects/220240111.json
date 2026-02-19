@@ -1,0 +1,19 @@
+{
+  "id": "220240111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "若木化生",
+  "description": "每回合回复等同于自身生命上限<color> <b>A</b> </color>的生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220240111,
+    "MDF": "MMonster_W2_Xuanlu_10_EnergyDrain",
+    "Name": "若木化生",
+    "Desc": "每回合回复等同于自身生命上限<color> <b>A</b> </color>的生命值。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

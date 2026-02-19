@@ -1,0 +1,32 @@
+{
+  "id": "91220",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "门扉前的弈局",
+  "description": "集魔女会诸家技艺而制成的集团军。\n虽然全都是既有技术，并无触及宇宙根本的高深智慧。它们把守跨越门扉的最后一关，同时自身也是一种隐喻。\n这个世界上或许有规则，可一旦越过门扉，就再无约束了。",
+  "stats": {},
+  "resistance": {
+    "Phys": 0.10000000149011612,
+    "Fire": 0.10000000149011612,
+    "Water": 0.7,
+    "Elec": 0.7,
+    "Ice": 0.10000000149011612,
+    "Grass": 0.10000000149011612,
+    "Wind": 0.10000000149011612,
+    "Rock": 0.10000000149011612
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_GiantChess"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

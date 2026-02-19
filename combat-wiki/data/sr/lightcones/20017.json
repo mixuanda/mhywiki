@@ -1,0 +1,23 @@
+{
+  "id": "20017",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "开疆",
+  "rarity": 3,
+  "path": "Preservation",
+  "skillId": 20017,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 264.6,
+    "DEF": 264.6
+  },
+  "materialRefs": [
+    "110143",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/20017.js"
+  }
+}

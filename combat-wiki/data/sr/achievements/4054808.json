@@ -1,0 +1,18 @@
+{
+  "id": "4054808",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "超越射击",
+  "description": "在与「狮震八方」任意难度的战斗中，我方目标累计消灭15.0个【后排目标】",
+  "reward": 5,
+  "version": 3.8,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

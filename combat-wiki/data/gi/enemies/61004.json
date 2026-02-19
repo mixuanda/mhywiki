@@ -1,0 +1,25 @@
+{
+  "id": "61004",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "苍雷 · 圣骸毒蝎",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "css"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 圣骸兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

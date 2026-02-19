@@ -1,0 +1,27 @@
+{
+  "id": "13930",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13930",
+  "tags": [],
+  "content": {
+    "_id": 13930,
+    "N": "击破「大詹灯」的方法",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Level_2_01",
+        "D": "挑战中会出现「大詹灯」，若在挑战中触碰到「大詹灯」，<color style='color:#ec9d1f'>会使得挑战的剩余时间减少#。但通过利用回忆之中的魈、嘉明和瓦雷莎的元素战技，能够将其击破，击破后能够<color style='color:#ec9d1f'>获取一定数量的玉石#。"
+      },
+      {
+        "I": "UI_Activity_LanV6Parkour_Level_2_01",
+        "D": "在回忆中，瓦雷莎<color style='color:#ec9d1f'>处于夜魂加持状态时，短按施放元素战技#能够使她<color style='color:#ec9d1f'>向前突进，击破「大詹灯」#。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

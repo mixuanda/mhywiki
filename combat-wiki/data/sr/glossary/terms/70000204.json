@@ -1,0 +1,15 @@
+{
+  "id": "70000204",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "颤栗",
+  "description": "扑满受到额外的伤害。",
+  "content": {
+    "_id": 70000204,
+    "Name": "颤栗",
+    "Desc": "扑满受到额外的伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

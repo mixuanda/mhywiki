@@ -1,0 +1,18 @@
+{
+  "id": "4044314",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "苍天之拳",
+  "description": "别以为躲在天上就没事了…<br><color style='color:#8790ab;'>※使用扎格列斯之手的冲拳动作，击败「穹顶关塞」晨昏之眼中某个躲藏的敌人</color>",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

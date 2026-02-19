@@ -1,0 +1,15 @@
+{
+  "id": "10000000",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "额外回合",
+  "description": "获得1个不消耗回合数的额外回合，在此回合中无法插入施放终结技。",
+  "content": {
+    "_id": 10000000,
+    "Name": "额外回合",
+    "Desc": "获得1个不消耗回合数的额外回合，在此回合中无法插入施放终结技。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

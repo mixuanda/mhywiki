@@ -1,0 +1,18 @@
+{
+  "id": "4084002",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "神圣车行",
+  "description": "连续开关「奇迹宝珠」5.0次",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

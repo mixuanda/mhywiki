@@ -1,0 +1,18 @@
+{
+  "id": "230030323",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "攻击提高",
+  "description": "每层使攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030323,
+    "MDF": "Monster_W3_Figure_02_RLElite_ChargeLayer_DamageUP",
+    "Name": "攻击提高",
+    "Desc": "每层使攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

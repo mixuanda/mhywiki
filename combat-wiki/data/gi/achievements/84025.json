@@ -1,0 +1,15 @@
+{
+  "id": "84025",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "命运初动",
+  "description": "完成任务「拾枝者 · 戴因斯雷布」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82242",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「依奇卡胡伊皮利的庇护」",
+  "description": "在完成一次挑战的过程中，于抉择的试炼期间，击败10名夜魂战士。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

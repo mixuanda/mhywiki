@@ -1,0 +1,15 @@
+{
+  "id": "81278",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大走廊的尽头",
+  "description": "进入赤王陵地下最隐秘的房间。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

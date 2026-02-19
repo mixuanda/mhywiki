@@ -1,0 +1,15 @@
+{
+  "id": "80385",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 丰沃烬落之野",
+  "description": "解除纳塔区域中，安饶之野所有地灵龛的封印。",
+  "reward": 10,
+  "version": "5.5",
+  "group": {
+    "id": "60"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

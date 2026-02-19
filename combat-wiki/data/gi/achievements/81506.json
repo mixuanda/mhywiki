@@ -1,0 +1,15 @@
+{
+  "id": "81506",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "再见了伙伴",
+  "description": "感谢你一路的陪伴。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10010054",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "持续伤害易伤",
+  "description": "每层使受到的持续伤害提高<color> <b>A</b> </color>，该效果最多叠加2层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010054,
+    "MDF": "MAvatar_Kafka_PassiveDotDamage",
+    "Name": "持续伤害易伤",
+    "Desc": "每层使受到的持续伤害提高<color> <b>A</b> </color>，该效果最多叠加2层。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

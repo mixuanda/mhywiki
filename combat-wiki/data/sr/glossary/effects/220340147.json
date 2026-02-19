@@ -1,0 +1,18 @@
+{
+  "id": "220340147",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "背水一战",
+  "description": "生命值上限提高<color> <b>A</b> </color>，攻击力提高<color> <b>B</b> </color>，此效果在【孤战】状态结束时移除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340147,
+    "MDF": "MMonster_W2_LycanKing_00_IF_ChampionHPEnhance",
+    "Name": "背水一战",
+    "Desc": "生命值上限提高<color> <b>A</b> </color>，攻击力提高<color> <b>B</b> </color>，此效果在【孤战】状态结束时移除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

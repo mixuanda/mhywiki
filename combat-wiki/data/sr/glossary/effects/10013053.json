@@ -1,0 +1,19 @@
+{
+  "id": "10013053",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "暴击率提高",
+  "description": "每层使暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013053,
+    "MDF": "MAvatar_Dr_Ratio_00_Passive_Buff_03",
+    "Name": "暴击率提高",
+    "Desc": "每层使暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

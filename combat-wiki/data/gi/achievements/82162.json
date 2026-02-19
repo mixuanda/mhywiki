@@ -1,0 +1,15 @@
+{
+  "id": "82162",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "食髓知味",
+  "description": "通过噬骸能量块的力量，使以下敌人陷入瘫痪状态：圣骸赤鹫、圣骸毒蝎、圣骸飞蛇、圣骸角鳄、圣骸牙兽。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "39"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

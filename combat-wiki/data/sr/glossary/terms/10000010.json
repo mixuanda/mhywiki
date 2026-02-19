@@ -1,0 +1,15 @@
+{
+  "id": "10000010",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "负面效果",
+  "description": "对战斗有负面效果的所有持续状态，若无特殊说明则可以被解除。",
+  "content": {
+    "_id": 10000010,
+    "Name": "负面效果",
+    "Desc": "对战斗有负面效果的所有持续状态，若无特殊说明则可以被解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5-8-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.8",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Mualani",
+      "X": 2
+    },
+    {
+      "N": "Chasca",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Ifa",
+      "X": 2
+    },
+    {
+      "N": "Olorun",
+      "X": 3
+    },
+    {
+      "N": "Bennett",
+      "X": 14
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

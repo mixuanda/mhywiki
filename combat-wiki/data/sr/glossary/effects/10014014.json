@@ -1,0 +1,17 @@
+{
+  "id": "10014014",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "灵感",
+  "description": "战技强化为【我有一个大胆的想法】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014014,
+    "MDF": "MAvatar_TheHerta_00_SKL21",
+    "Name": "灵感",
+    "Desc": "战技强化为【我有一个大胆的想法】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

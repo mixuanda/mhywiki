@@ -1,0 +1,15 @@
+{
+  "id": "80381",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "轮唱的艺术",
+  "description": "演奏其他玩家创作的曲谱时，获得<color style='color:#FF0000;'><b>20</b></color>次不同曲谱的「高遏行云」评价。",
+  "reward": 20,
+  "version": "5.3",
+  "group": {
+    "id": "58"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

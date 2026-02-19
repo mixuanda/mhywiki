@@ -1,0 +1,15 @@
+{
+  "id": "10000003",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "反击",
+  "description": "当目标受到攻击后自动触发的效果，对攻击者施放1次额外的攻击。\n反击也属于追加攻击。",
+  "content": {
+    "_id": 10000003,
+    "Name": "反击",
+    "Desc": "当目标受到攻击后自动触发的效果，对攻击者施放1次额外的攻击。\n反击也属于追加攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

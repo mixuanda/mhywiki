@@ -1,0 +1,15 @@
+{
+  "id": "81232",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "尽末了所毁灭的",
+  "description": "击败了「无留陀的化身」。接下来…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81269",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "神奇的匹热迷能",
+  "description": "迈向隐藏真相的一小步。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

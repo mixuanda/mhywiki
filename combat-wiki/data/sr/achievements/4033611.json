@@ -1,0 +1,18 @@
+{
+  "id": "4033611",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "邪祟•惊觉",
+  "description": "实际慈悲，此战有如大药师神向病危的邪祟垂下易断的蛛丝，点到•为止<br>※在「睡蕉的时刻」中，击败少量「睡蕉小猴」",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

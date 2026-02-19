@@ -1,0 +1,18 @@
+{
+  "id": "4052341",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不拾遗",
+  "description": "没有从碰瓷者那里收回被敲诈的信用点",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

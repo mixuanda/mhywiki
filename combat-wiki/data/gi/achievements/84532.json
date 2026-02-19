@@ -1,0 +1,15 @@
+{
+  "id": "84532",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "双人餐行",
+  "description": "帮助旭东和龟井宗久各完成一次烹饪。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

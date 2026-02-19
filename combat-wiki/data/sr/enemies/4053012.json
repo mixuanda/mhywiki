@@ -1,0 +1,39 @@
+{
+  "id": "4053012",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "波涛夫人",
+  "description": "大海的女儿们，被「毁灭」的罪孽蚀尽灵肉，只余空荡扭曲的形骸，为将临的黑日起舞颂唱。<br>残有的黑潮自往世流淌，落入此世浪涛——<br>美艳动人的波涛啊，你为君王饮尽灾殃，酒痕染花碎珍珠点缀的妆——<br>你醉倒在迷狂的屠场，在血与蜜酿的坟场，引歌为自己号丧。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 18.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Elec"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4053010.png",
+  "figure": "monsterfigure/Monster_4053010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

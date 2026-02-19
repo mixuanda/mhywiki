@@ -1,0 +1,19 @@
+{
+  "id": "10012023",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "驻晴",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012023,
+    "MDF": "MAvatar_Tingyun_00_SkillTree_B1_SpeedUp",
+    "Name": "驻晴",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

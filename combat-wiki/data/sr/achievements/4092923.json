@@ -1,0 +1,18 @@
+{
+  "id": "4092923",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "商人与炼金术士之门",
+  "description": "通关「模拟宇宙：黄金与机械」时，使用自定义骰「数据膨胀」，使用 25.0 次及以上重投或作弊",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

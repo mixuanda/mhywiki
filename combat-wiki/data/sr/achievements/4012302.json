@@ -1,0 +1,18 @@
+{
+  "id": "4012302",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "应行的路，我行尽了",
+  "description": "将任意角色全部行迹提升至最高等级",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 1,
+    "Name": "我，开拓者",
+    "Icon": "CultivateAchievementIcon.png",
+    "Count": 24
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

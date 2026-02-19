@@ -1,0 +1,15 @@
+{
+  "id": "61000007",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "祝福扑满",
+  "description": "祝福扑满信标，带有该信标的区域中战斗会出现扑满，消灭后可获得额外的祝福。",
+  "content": {
+    "_id": 61000007,
+    "Name": "祝福扑满",
+    "Desc": "祝福扑满信标，带有该信标的区域中战斗会出现扑满，消灭后可获得额外的祝福。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

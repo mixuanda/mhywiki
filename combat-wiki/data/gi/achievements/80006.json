@@ -1,0 +1,15 @@
+{
+  "id": "80006",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "清泉、白马与月光",
+  "description": "集齐全套《竹林月夜》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "1"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10013171",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "忍道•极•爱死天流",
+  "description": "弱点击破效率提高<color> <b>A</b> </color>，击破特攻提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013171,
+    "MDF": "MAvatar_Rappa_00_UltraMode",
+    "Name": "忍道•极•爱死天流",
+    "Desc": "弱点击破效率提高<color> <b>A</b> </color>，击破特攻提高<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

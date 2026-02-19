@@ -1,0 +1,17 @@
+{
+  "id": "280150208",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "弱点无效",
+  "description": "当【破灭玄莲】不处于【绽放】状态时，自身韧性无法被削减。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150208,
+    "MDF": "Monster_W2_HuanlongPart_01_WeakControl",
+    "Name": "弱点无效",
+    "Desc": "当【破灭玄莲】不处于【绽放】状态时，自身韧性无法被削减。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

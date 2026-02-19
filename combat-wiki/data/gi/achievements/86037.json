@@ -1,0 +1,15 @@
+{
+  "id": "86037",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "科学的力量真伟大！",
+  "description": "与其他玩家一同完成「冰风组曲」的一项挑战。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "44"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

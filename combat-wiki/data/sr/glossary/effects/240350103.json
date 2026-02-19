@@ -1,0 +1,17 @@
+{
+  "id": "240350103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "将带来解脱",
+  "description": "【反造物主】下次行动施放【莫要困毙洞中】，受到致命攻击后可解除该状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350103,
+    "MDF": "MMonster_W4_IronTombCorePart_00_Skill02_ChargeOnPart",
+    "Name": "将带来解脱",
+    "Desc": "【反造物主】下次行动施放【莫要困毙洞中】，受到致命攻击后可解除该状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

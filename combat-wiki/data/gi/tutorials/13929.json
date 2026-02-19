@@ -1,0 +1,27 @@
+{
+  "id": "13929",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13929",
+  "tags": [],
+  "content": {
+    "_id": 13929,
+    "N": "「大詹灯」与「浮霄笼」",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Level_1_01",
+        "D": "挑战中会出现「大詹灯」，若在挑战中触碰到「大詹灯」，<color style='color:#ec9d1f'>会使得挑战的剩余时间减少#。利用回忆中玛拉妮与闲云的元素战技，尽量<color style='color:#ec9d1f'>躲避#它吧。"
+      },
+      {
+        "I": "UI_Activity_LanV6Parkour_Level_1_02",
+        "D": "挑战中会出现「浮霄笼」，<color style='color:#ec9d1f'>抛射薪火命中「浮霄笼」#，能将其点亮，并使其高飞起来。放飞「浮霄笼」后，<color style='color:#ec9d1f'>会出现更多的玉石#。但若是直接触碰到「浮霄笼」，则会<color style='color:#ec9d1f'>扣除一段挑战的剩余时间#…"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

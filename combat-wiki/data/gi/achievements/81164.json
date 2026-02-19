@@ -1,0 +1,15 @@
+{
+  "id": "81164",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "益智海域",
+  "description": "在清籁岛上解开一系列机关。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

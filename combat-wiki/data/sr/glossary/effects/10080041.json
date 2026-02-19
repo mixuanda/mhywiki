@@ -1,0 +1,17 @@
+{
+  "id": "10080041",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "灼热意志",
+  "description": "【灼热意志】层数大于等于4层时，普攻将获得强化。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080041,
+    "MDF": "MWAvatar_PlayerGirl_10_WeaponCharge",
+    "Name": "灼热意志",
+    "Desc": "【灼热意志】层数大于等于4层时，普攻将获得强化。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4083203",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "AA制",
+  "description": "让波提欧和砂金抢着买单<br><color style='color:#8790ab;'>※在同一场战斗中触发砂金「战技•一」语音与波提欧「战斗开始•弱点击破」语音</color>",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

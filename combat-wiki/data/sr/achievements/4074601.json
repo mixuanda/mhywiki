@@ -1,0 +1,18 @@
+{
+  "id": "4074601",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "梦渡往昔，露载浮生",
+  "description": "使用我方角色长夜月的长夜，累计施放 10 次【迷梦，流失，如露】",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

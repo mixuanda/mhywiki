@@ -1,0 +1,19 @@
+{
+  "id": "230250105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "异梦",
+  "description": "一定回合内无法行动，且每回合开始时回复少量生命值。受到攻击时大幅提高受到的伤害，受到攻击后解除【异梦】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230250105,
+    "MDF": "MCommon_CTRL_Sleep",
+    "Name": "异梦",
+    "Desc": "一定回合内无法行动，且每回合开始时回复少量生命值。受到攻击时大幅提高受到的伤害，受到攻击后解除【异梦】状态。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

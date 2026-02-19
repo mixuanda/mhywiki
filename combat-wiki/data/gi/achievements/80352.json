@@ -1,0 +1,15 @@
+{
+  "id": "80352",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "夜馈寻迹 · 万火燎灼之原 · 其二",
+  "description": "解除纳塔区域中，镜璧山、翘枝崖所有部族秘藏之所的封印。",
+  "reward": 10,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

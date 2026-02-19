@@ -1,0 +1,15 @@
+{
+  "id": "81574",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "炽热的大脚",
+  "description": "发现了「生物火雨」的真面目。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

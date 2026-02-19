@@ -1,0 +1,15 @@
+{
+  "id": "81246",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "梦想开花时",
+  "description": "让毗波耶开满兰那罗的苗圃。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

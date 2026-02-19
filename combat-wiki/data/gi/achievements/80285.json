@@ -1,0 +1,15 @@
+{
+  "id": "80285",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "到此为止",
+  "description": "见证了枫丹动能工程科学研究院的故事。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "45"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

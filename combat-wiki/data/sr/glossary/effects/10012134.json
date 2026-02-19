@@ -1,0 +1,19 @@
+{
+  "id": "10012134",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "见谯",
+  "description": "下一次施放【盘拏耀跃】时虚数属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012134,
+    "MDF": "MAvatar_DanHengIL_00_Rank06_ImaginaryPenetrate",
+    "Name": "见谯",
+    "Desc": "下一次施放【盘拏耀跃】时虚数属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5-5-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.5",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Xilonen",
+      "X": 2
+    },
+    {
+      "N": "Venti",
+      "X": 6
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Faruzan",
+      "X": 5
+    },
+    {
+      "N": "Beidou",
+      "X": 10
+    },
+    {
+      "N": "Feiyan",
+      "X": 10
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

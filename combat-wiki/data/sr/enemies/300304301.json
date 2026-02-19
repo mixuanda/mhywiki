@@ -1,0 +1,39 @@
+{
+  "id": "300304301",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「同音共律的来日」",
+  "description": "美梦剧团中演奏谐乐的琴师。本应于「谐乐大典」之中献奏，如今却被「秩序」所缚，上演着关于「未来」的剧目。来日是永恒的长歌，幸福的愿景汇于弦上，以琴声呼唤谱曲的君王。",
+  "stats": {
+    "HP": 6.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Elec"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3003040.png",
+  "figure": "monsterfigure/Monster_3003040.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

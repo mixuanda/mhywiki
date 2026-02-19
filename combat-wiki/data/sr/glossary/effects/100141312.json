@@ -1,0 +1,18 @@
+{
+  "id": "100141312",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "与你，再见，无期",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141312,
+    "MDF": "MServant_EvernightServant_00_DeathRattle_Speed",
+    "Name": "与你，再见，无期",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

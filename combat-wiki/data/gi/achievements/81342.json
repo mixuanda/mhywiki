@@ -1,0 +1,15 @@
+{
+  "id": "81342",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "白船",
+  "description": "「她在梦海之上遨游…」",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

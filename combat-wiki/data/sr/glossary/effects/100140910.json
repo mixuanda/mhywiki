@@ -1,0 +1,17 @@
+{
+  "id": "100140910",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "乌云乌云快走开！",
+  "description": "已累计治疗数值：<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 100140910,
+    "MDF": "MServant_HyacineServant_00_Passive_Mark",
+    "Name": "乌云乌云快走开！",
+    "Desc": "已累计治疗数值：<color> <b>A</b> </color>点。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

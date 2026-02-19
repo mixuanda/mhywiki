@@ -1,0 +1,15 @@
+{
+  "id": "84078",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "迷梦与空幻与欺骗",
+  "description": "完成「迷梦与空幻与欺骗」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

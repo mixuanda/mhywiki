@@ -1,0 +1,15 @@
+{
+  "id": "81624",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "金之旅人、银之月",
+  "description": "完成「伴月纪闻 · 其二」。",
+  "reward": 5,
+  "version": "6.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80433",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "幻写引路人 · 其三",
+  "description": "在悠悠度假村追随<color style='color:#FF0000;'><b>6</b></color>个幻写灵，并完成涂鸦。",
+  "reward": 10,
+  "version": "5.8",
+  "group": {
+    "id": "62"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

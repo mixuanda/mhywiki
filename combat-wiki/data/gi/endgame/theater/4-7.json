@@ -1,0 +1,165 @@
+{
+  "id": "4-7",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "theater",
+  "name": "4.7",
+  "version": "4.7",
+  "time": "2024-07-01 - 2024-08-01",
+  "elements": [
+    "Fire",
+    "Elec",
+    "Wind"
+  ],
+  "initialCast": [
+    {
+      "ID": 96,
+      "Icon": "UI_AvatarIcon_Arlecchino"
+    },
+    {
+      "ID": 50,
+      "Icon": "UI_AvatarIcon_Tohma"
+    },
+    {
+      "ID": 98,
+      "Icon": "UI_AvatarIcon_Clorinde"
+    },
+    {
+      "ID": 65,
+      "Icon": "UI_AvatarIcon_Shinobu"
+    },
+    {
+      "ID": 75,
+      "Icon": "UI_AvatarIcon_Wanderer"
+    },
+    {
+      "ID": 76,
+      "Icon": "UI_AvatarIcon_Faruzan"
+    }
+  ],
+  "invitationCast": [
+    {
+      "ID": 82,
+      "Icon": "UI_AvatarIcon_Baizhuer"
+    },
+    {
+      "ID": 95,
+      "Icon": "UI_AvatarIcon_Sigewinne"
+    },
+    {
+      "ID": 78,
+      "Icon": "UI_AvatarIcon_Alhatham"
+    },
+    {
+      "ID": 86,
+      "Icon": "UI_AvatarIcon_Wriothesley"
+    }
+  ],
+  "chambers": [
+    [
+      {
+        "_id": 1,
+        "Level": 85,
+        "Configs": [
+          5,
+          6,
+          10,
+          13,
+          20,
+          21
+        ]
+      },
+      {
+        "_id": 2,
+        "Level": 85,
+        "Configs": [
+          1,
+          2,
+          17,
+          27,
+          117,
+          11
+        ]
+      },
+      {
+        "_id": 3,
+        "Level": 90,
+        "Configs": [
+          48
+        ],
+        "Time": "70s"
+      }
+    ],
+    [
+      {
+        "_id": 4,
+        "Level": 90,
+        "Configs": [
+          96,
+          97,
+          98,
+          119,
+          120,
+          95
+        ]
+      },
+      {
+        "_id": 5,
+        "Level": 90,
+        "Configs": [
+          99,
+          100,
+          102,
+          103,
+          104,
+          101
+        ]
+      },
+      {
+        "_id": 6,
+        "Level": 92,
+        "Configs": [
+          69
+        ],
+        "Time": "10s"
+      }
+    ],
+    [
+      {
+        "_id": 7,
+        "Level": 92,
+        "Configs": [
+          4,
+          7,
+          14,
+          30,
+          77,
+          116
+        ]
+      },
+      {
+        "_id": 8,
+        "Level": 95,
+        "Configs": [
+          82
+        ],
+        "Time": "65s"
+      }
+    ],
+    [],
+    []
+  ],
+  "hpProfile": {
+    "Ver": "4.7",
+    "Time": "2024/07",
+    "HP": [
+      1.8,
+      1.8,
+      1.8
+    ]
+  },
+  "shared": "_shared.json",
+  "source": {
+    "file": "gi/CH/maze.js"
+  }
+}

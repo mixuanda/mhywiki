@@ -1,0 +1,39 @@
+{
+  "id": "202301012",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「药王秘传」炼形者",
+  "description": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
+  "stats": {
+    "HP": 6.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Ice",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Elec": 0.4,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2023010.png",
+  "figure": "monsterfigure/Monster_2023010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

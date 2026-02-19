@@ -1,0 +1,18 @@
+{
+  "id": "10014056",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "真实历史的自然人",
+  "description": "全属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014056,
+    "MDF": "MAvatar_Anaxa_00_Rank02_Property",
+    "Name": "真实历史的自然人",
+    "Desc": "全属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

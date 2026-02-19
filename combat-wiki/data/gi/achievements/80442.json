@@ -1,0 +1,15 @@
+{
+  "id": "80442",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "月尘的寻宝者 · 其一",
+  "description": "在伦波岛、希汐岛、帕哈岛开启<color style='color:#FF0000;'><b>60</b></color>个宝箱。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

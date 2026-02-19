@@ -1,0 +1,18 @@
+{
+  "id": "10012151",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "敕令",
+  "description": "攻击力提高<color> <b>A</b> </color>，速度提高<color> <b>B</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012151,
+    "MDF": "WMAvatar_Hanya_Skill03Buff",
+    "Name": "敕令",
+    "Desc": "攻击力提高<color> <b>A</b> </color>，速度提高<color> <b>B</b> </color>点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

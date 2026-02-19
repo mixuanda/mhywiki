@@ -1,0 +1,15 @@
+{
+  "id": "86048",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "快速建造：关闭",
+  "description": "与其他玩家一同战胜秘源机兵 · 构型械。",
+  "reward": 10,
+  "version": "6.0",
+  "group": {
+    "id": "64"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

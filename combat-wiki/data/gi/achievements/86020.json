@@ -1,0 +1,15 @@
+{
+  "id": "86020",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「机关阵列没有永恒」",
+  "description": "与其他玩家一同战胜恒常机关阵列。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "21"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

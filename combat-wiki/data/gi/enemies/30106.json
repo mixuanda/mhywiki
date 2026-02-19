@@ -1,0 +1,25 @@
+{
+  "id": "30106",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众先遣队 · 火铳游击兵",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fsp"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 愚人众先遣队"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

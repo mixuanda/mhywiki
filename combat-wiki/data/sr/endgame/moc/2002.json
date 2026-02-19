@@ -1,0 +1,111 @@
+{
+  "id": "2002",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "moc",
+  "name": "猢狲长眠",
+  "content": {
+    "_id": 2002,
+    "Name": "猢狲长眠",
+    "Floors": [
+      {
+        "Floor": 12,
+        "Manual": true,
+        "HPSingle": 46444971,
+        "HPMulti": 36179731,
+        "Upper": [
+          {
+            "_id": 0,
+            "Level": 95,
+            "HardLevelGroup": 3,
+            "EliteGroup": {
+              "ID": 0,
+              "HP": 5.4
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 4053020,
+                  "HP": 2828178,
+                  "SPD": 218,
+                  "Stance": 16
+                },
+                {
+                  "ID": 4053010,
+                  "HP": 2828178,
+                  "SPD": 190,
+                  "Stance": 18
+                },
+                {
+                  "ID": 4053020,
+                  "HP": 2828178,
+                  "SPD": 218,
+                  "Stance": 16
+                }
+              ],
+              [
+                {
+                  "ID": 3004020,
+                  "HP": 9217766,
+                  "HPShow": 6.6,
+                  "SPD": 106,
+                  "Stance": 0
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 0,
+            "Level": 95,
+            "HardLevelGroup": 3,
+            "EliteGroup": {
+              "ID": 0,
+              "HP": 5.4
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 4023020,
+                  "HP": 2304441,
+                  "HPShow": 6,
+                  "SPD": 132,
+                  "Stance": 16
+                },
+                {
+                  "ID": 3003020,
+                  "HP": 3393814,
+                  "SPD": 190,
+                  "Stance": 10
+                },
+                {
+                  "ID": 4023020,
+                  "HP": 2304441,
+                  "HPShow": 6,
+                  "SPD": 132,
+                  "Stance": 16
+                }
+              ],
+              [
+                {
+                  "ID": 3014020,
+                  "HP": 5761104,
+                  "HPShow": 7.5,
+                  "SPD": 190,
+                  "Stance": 24
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/Chaos_1.js",
+      "data/CH/Chaos_2.js"
+    ]
+  }
+}

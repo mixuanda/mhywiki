@@ -1,0 +1,15 @@
+{
+  "id": "81037",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "冰冷的钢铁",
+  "description": "获得星银铸造的古代武器。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

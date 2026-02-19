@@ -1,0 +1,18 @@
+{
+  "id": "4033003",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "夜色名为温柔",
+  "description": "目睹流星划过梦中的天空<br><color style='color:#8790ab;'>※在筑梦边境得知流萤的秘密</color>",
+  "reward": 10,
+  "version": 2.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

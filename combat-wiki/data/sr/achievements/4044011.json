@@ -1,0 +1,18 @@
+{
+  "id": "4044011",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "并非盗取的火焰",
+  "description": "即使走着荒诞的道路，物质奖励也同样重要<br><color style='color:#8790ab;'>※在「黄金替罪羊」中，领取一次胜利后的奖励宝箱</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

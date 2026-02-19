@@ -1,0 +1,15 @@
+{
+  "id": "81276",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "强行突破作战",
+  "description": "坎瑞亚的机器，都是怪物吗？",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

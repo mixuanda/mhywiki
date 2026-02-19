@@ -1,0 +1,22 @@
+{
+  "id": "14409",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "昭心",
+  "description": "幽暗的琉璃宝珠，传说中拥有洞察人心清白的力量。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ATK",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112007",
+    "112028",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14409.js"
+  }
+}

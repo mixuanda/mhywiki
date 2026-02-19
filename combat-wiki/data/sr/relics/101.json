@@ -1,0 +1,16 @@
+{
+  "id": "101",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "云无留迹的过客",
+  "icon": "71000.png",
+  "setBonuses": [
+    "治疗量提高 <b>10%</b> 。",
+    "在战斗开始时，立即为我方恢复1个战技点。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/101.js"
+  }
+}

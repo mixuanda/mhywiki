@@ -1,0 +1,39 @@
+{
+  "id": "403303004",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "黑日狮鹫",
+  "description": "遭到黑潮侵蚀的正阳狮鹫。对杀戮的渴求成为了空洞躯壳中仅存的意志。<br>虽然失去了艾格勒的赐福，但黑潮中取之不竭的能量令它成为了更加恐怖的存在。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4033030.png",
+  "figure": "monsterfigure/Monster_4033030.png",
+  "camp": {
+    "id": "14",
+    "name": "黑潮造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

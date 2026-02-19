@@ -1,0 +1,15 @@
+{
+  "id": "81193",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「真的有区别吗…」",
+  "description": "在所有特别的位置上坐下过。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

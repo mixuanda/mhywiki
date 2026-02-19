@@ -1,0 +1,39 @@
+{
+  "id": "403202302",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "魔王爪牙",
+  "description": "黑斗篷魔王忠实的扈从，继承了魔王的部分力量和残暴性格，各个星球都有他们为非作歹的事迹。",
+  "stats": {
+    "HP": 70.0,
+    "ATK": 45.0,
+    "DEF": 1.0,
+    "SPD": 0.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4032020.png",
+  "figure": "monsterfigure/Monster_4032020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

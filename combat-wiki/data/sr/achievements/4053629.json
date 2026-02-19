@@ -1,0 +1,18 @@
+{
+  "id": "4053629",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Testify",
+  "description": "在「音律狩猎忍法帖」中，和你的乐队完成音乐派对的闭幕演出",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

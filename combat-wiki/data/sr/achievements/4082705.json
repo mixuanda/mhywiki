@@ -1,0 +1,18 @@
+{
+  "id": "4082705",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "大安事事昌",
+  "description": "在占卜店首次抽到吉签",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

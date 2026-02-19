@@ -1,0 +1,22 @@
+{
+  "id": "14512",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "图莱杜拉的回忆",
+  "description": "深蓝宝石与纯银雕成的铃铛，回响之声清脆悠远。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "CD",
+  "subStatValue": 0.441024,
+  "materialRefs": [
+    "112061",
+    "112064",
+    "114048"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14512.js"
+  }
+}

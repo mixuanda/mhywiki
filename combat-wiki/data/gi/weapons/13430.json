@@ -1,0 +1,57 @@
+{
+  "id": "13430",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "镇山之钉",
+  "description": "矿山的工匠们合力锻造的长枪，在过去是献给群山之灵的贡物。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112040",
+    "112112",
+    "114068"
+  ],
+  "affix": {
+    "113430": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "攀爬消耗的体力降低15%，元素战技造成的伤害提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，持续8秒。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "攀爬消耗的体力降低15%，元素战技造成的伤害提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，持续8秒。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "攀爬消耗的体力降低15%，元素战技造成的伤害提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，持续8秒。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "攀爬消耗的体力降低15%，元素战技造成的伤害提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，持续8秒。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "攀爬消耗的体力降低15%，元素战技造成的伤害提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，持续8秒。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "攀爬消耗的体力降低15%，元素战技造成的伤害提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，持续8秒。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13430.js"
+  }
+}

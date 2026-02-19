@@ -1,0 +1,35 @@
+{
+  "id": "3004024",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "千面斯科特（污染）",
+  "description": "集中了所有拍摄资源，成为大咖中的大咖的主角斯科特。意识和灵魂被从者分散后，以千般面相展开了对开拓者的复仇。",
+  "stats": {
+    "HP": 17.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 80.0,
+    "Stance": 0.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {},
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3004023.png",
+  "figure": "monsterfigure/Monster_3004023.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

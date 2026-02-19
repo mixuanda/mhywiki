@@ -1,0 +1,18 @@
+{
+  "id": "4034801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "高尚者的墓志铭",
+  "description": "坚持信念的代价，总是迷失返回的路<br><color style='color:#8790ab;'>※流萤视角下，与AR -214 重逢</color>",
+  "reward": 10,
+  "version": 3.8,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

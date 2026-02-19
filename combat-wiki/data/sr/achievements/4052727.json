@@ -1,0 +1,18 @@
+{
+  "id": "4052727",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "危险动作，请勿模仿",
+  "description": "再次因打破容器受到教训",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

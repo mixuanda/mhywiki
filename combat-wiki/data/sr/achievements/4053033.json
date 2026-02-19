@@ -1,0 +1,18 @@
+{
+  "id": "4053033",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "无人交响乐",
+  "description": "当欢乐的演奏家变得更欢乐会发生什么？<br><color style='color:#8790ab;'>※麦克斯的音乐变得更加欢乐</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

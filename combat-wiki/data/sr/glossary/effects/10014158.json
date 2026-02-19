@@ -1,0 +1,19 @@
+{
+  "id": "10014158",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「门径」之诗",
+  "description": "造成的伤害无视<color> <b>B</b> </color>敌人的防御，缇宝施放追加攻击触发缇宝的结界的附加伤害时，会额外造成<color> <b>A</b> </color>次附加伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014158,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Tribbie",
+    "Name": "献予「门径」之诗",
+    "Desc": "造成的伤害无视<color> <b>B</b> </color>敌人的防御，缇宝施放追加攻击触发缇宝的结界的附加伤害时，会额外造成<color> <b>A</b> </color>次附加伤害。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

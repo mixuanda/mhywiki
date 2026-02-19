@@ -1,0 +1,25 @@
+{
+  "id": "61005",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "驭风 · 圣骸飞蛇",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "csfs"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 圣骸兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

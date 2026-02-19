@@ -1,0 +1,18 @@
+{
+  "id": "10014058",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "质性揭露",
+  "description": "那刻夏对该目标造成的伤害提高<color> <b>A</b> </color>，此外对该目标施放普攻或战技后，对其额外施放1次战技。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014058,
+    "MDF": "MAvatar_Anaxa_00_Passive_Mark",
+    "Name": "质性揭露",
+    "Desc": "那刻夏对该目标造成的伤害提高<color> <b>A</b> </color>，此外对该目标施放普攻或战技后，对其额外施放1次战技。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

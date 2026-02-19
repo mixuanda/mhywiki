@@ -1,0 +1,15 @@
+{
+  "id": "81019",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "十岁差点打倒野猪",
+  "description": "被野猪击败。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

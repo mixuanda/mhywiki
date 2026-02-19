@@ -1,0 +1,19 @@
+{
+  "id": "100120511",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伤害提高",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100120511,
+    "MDF": "MAvatar_Advanced_Ren_Attack",
+    "Name": "伤害提高",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

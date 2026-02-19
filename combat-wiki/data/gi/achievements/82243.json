@@ -1,0 +1,15 @@
+{
+  "id": "82243",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「依奇卡胡伊皮利的庇护」",
+  "description": "在不被来自「依奇卡胡伊皮利的庇护」的攻击命中的情况下，将其击败。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

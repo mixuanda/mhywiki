@@ -1,0 +1,18 @@
+{
+  "id": "4053206",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "未完的筑梦诗",
+  "description": "劝说奥尔拉从梦境中醒来",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "10000021",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "后援",
+  "description": "敌方无法主动选中后援单位，我方【扩散】类型的技能，无法扩散至后援单位 。",
+  "content": {
+    "_id": 10000021,
+    "Name": "后援",
+    "Desc": "敌方无法主动选中后援单位，我方【扩散】类型的技能，无法扩散至后援单位 。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "100141535",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "真知",
+  "description": "攻击力提高<color> <b>B</b> </color>，造成的战技伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141535,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Anaxa_Halo",
+    "Name": "真知",
+    "Desc": "攻击力提高<color> <b>B</b> </color>，造成的战技伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

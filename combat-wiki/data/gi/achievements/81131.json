@@ -1,0 +1,15 @@
+{
+  "id": "81131",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "稚子敲针作钓钩",
+  "description": "首次成功钓鱼。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "86015",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「山动了」",
+  "description": "与其他玩家一同战胜古岩龙蜥。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "21"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

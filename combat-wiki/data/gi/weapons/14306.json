@@ -1,0 +1,18 @@
+{
+  "id": "14306",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "琥珀玥",
+  "description": "用琥珀雕磨制成的法器，在日照下会散发出温暖的光晕。",
+  "rarity": 3,
+  "weaponType": 3,
+  "baseAtk": 401.2935898,
+  "subStatType": "EM",
+  "subStatValue": 140.5764,
+  "materialRefs": [],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14306.js"
+  }
+}

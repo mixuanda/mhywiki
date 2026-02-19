@@ -1,0 +1,22 @@
+{
+  "id": "14505",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "碧落之珑",
+  "description": "由碧色美玉雕成的礼器，放射着天空与碧水的光泽。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 608.0745972,
+  "subStatType": "HP",
+  "subStatValue": 0.49615200000000004,
+  "materialRefs": [
+    "112061",
+    "112079",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14505.js"
+  }
+}

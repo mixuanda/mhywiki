@@ -1,0 +1,15 @@
+{
+  "id": "80467",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "远渡苍夜的霜林 · 其二",
+  "description": "解锁挪德卡莱区域中，虚海望、逐浪野、烟硌山峰所有传送锚点。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "66"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

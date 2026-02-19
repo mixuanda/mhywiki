@@ -1,0 +1,18 @@
+{
+  "id": "4043028",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "DRS最大受益者",
+  "description": "在《钟表小子》外传的《速度与坚果》中，连续完成 10.0 次「极限超车」，中间没有失误中断",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

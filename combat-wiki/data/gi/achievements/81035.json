@@ -1,0 +1,15 @@
+{
+  "id": "81035",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "逆子的归乡",
+  "description": "循着过去的考察队中某人的路径，抵达他启程返乡的地方。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

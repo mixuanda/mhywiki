@@ -1,0 +1,15 @@
+{
+  "id": "84310",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "万古的孑遗",
+  "description": "获知那维莱特的真实身份。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

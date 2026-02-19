@@ -1,0 +1,17 @@
+{
+  "id": "240520201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "向蜃楼冲锋",
+  "description": "【向蜃楼冲锋】状态解除前，其他【泡影稚子】会优先攻击被锁定的目标。当自身被击破或受到致命攻击时，解除此状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240520201,
+    "MDF": "MMonster_SW_Minion01_03_CommandMark",
+    "Name": "向蜃楼冲锋",
+    "Desc": "【向蜃楼冲锋】状态解除前，其他【泡影稚子】会优先攻击被锁定的目标。当自身被击破或受到致命攻击时，解除此状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80114",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雾海尽头",
+  "description": "解锁鹤观所有的传送锚点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "27"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81298",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "横冲直撞",
+  "description": "盲目的沙虫在沙面猪突猛进，偶尔也会带来意外收获。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

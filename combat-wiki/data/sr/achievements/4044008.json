@@ -1,0 +1,18 @@
+{
+  "id": "4044008",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "盒子里的美",
+  "description": "为织者们建立一座小型乐园<br><color style='color:#8790ab;'>※搜集70.0只创生若虫的赐福</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

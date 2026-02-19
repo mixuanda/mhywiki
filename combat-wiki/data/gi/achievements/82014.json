@@ -1,0 +1,15 @@
+{
+  "id": "82014",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "传球",
+  "description": "打落爆弹丘丘人手中的火史莱姆。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

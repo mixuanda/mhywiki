@@ -1,0 +1,15 @@
+{
+  "id": "80017",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "百炼千锤",
+  "description": "将一个武器突破至2阶。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "240120205",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "受教",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240120205,
+    "MDF": "MModifier_Monster_W4_Scholar_00_LocalLegend_BookTarget",
+    "Name": "受教",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

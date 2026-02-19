@@ -1,0 +1,25 @@
+{
+  "id": "62303",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "金焰绒翼龙暴君",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Natsaurus_Flamingo_Primo"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 王龙"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

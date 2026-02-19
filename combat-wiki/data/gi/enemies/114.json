@@ -1,0 +1,25 @@
+{
+  "id": "114",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "岩史莱姆",
+  "description": "大地之中的岩元素凝聚形成的小小魔物。\n广义而言，地壳之中蕴含着丰富的岩元素。由此产生的岩史莱姆也让人有着脚踏实地的感觉。",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "gslm"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 小史莱姆"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

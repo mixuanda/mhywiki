@@ -1,0 +1,18 @@
+{
+  "id": "4074706",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "二元崩塌",
+  "description": "在与「反造物主，流溢之恨」的战斗中，使「被囚禁的秘所思」或「被操弄的逻各斯」陷入【重创】状态1.0次",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

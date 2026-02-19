@@ -1,0 +1,15 @@
+{
+  "id": "70000302",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "追加施放",
+  "description": "在施放单攻技能后，会重新选择目标并再次使用该技能。",
+  "content": {
+    "_id": 70000302,
+    "Name": "追加施放",
+    "Desc": "在施放单攻技能后，会重新选择目标并再次使用该技能。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

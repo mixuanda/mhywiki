@@ -1,0 +1,26 @@
+{
+  "id": "en-lunar-bloom",
+  "game": "gi",
+  "entityType": "formula",
+  "language": "EN",
+  "title": "Lunar Bloom",
+  "subtitle": "HomDGCat Wiki 6.0v1",
+  "content": [
+    "Under certain conditions, when @Hydro# meets @Dendro#, generates a Dendro Core and applies @Verdant Dew# to characters. Certain characters can consume Verdant Dew.",
+    [
+      "Dendro Core DMG is @not Lunar Bloom#!",
+      "Lunar Bloom @only consists of direct DMG#!",
+      "Currently the only Lunar Bloom DMG is Lauma Hold E and Lauma C6."
+    ],
+    "—— <b>Lunar Bloom DMG</b>",
+    [
+      "Lunar Bloom DMG @ignores DEF#, does not consider @ordinary DMG increase#, but considers @EM#$$Base DMG = \\begin{aligned} & Property\\times Multiplier \\times (1 + Base Bonus \\%) \\\\ &\\times\\left( 1+\\frac{6\\times EM}{EM + 2000} + Lunar Bloom Bonus \\% \\right)\\end{aligned}$$$$FinalDMG= (BaseDMG + ExtraDMG) \\times RES \\times CRIT$$@BaseBonus#: Lauma Passive @14%#",
+      "@ExtraDMG#: Lauma Q (Does not consider @EM# and @Lunar Bloom Bonus#)"
+    ],
+    "—— <b>Dendro Core DMG</b>",
+    "Dendro Core DMG is still considered @Bloom# / @Burgeon# / @Hyperbloom# DMG. Multipliers are: Bloom @2# | Borgeon Hyperbloom @3#$$Base DMG = 1446.85 \\times Multiplier \\times \\left( 1+\\frac{16\\times EM}{EM + 2000} + ReactionBonus\\% \\right)$$$$FinalDMG= \\begin{aligned}  &\\left(BaseDMG + ExtraDMG \\right) \\times RES \\end{aligned}$$@ExtraDMG#: Lauma Q (Does not consider @EM# and @Lunar Bloom Bonus#)"
+  ],
+  "source": {
+    "file": "javascripts/formulae_gi.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "230140206",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "230140206",
+  "description": null,
+  "effectType": "monster",
+  "content": {
+    "_id": 230140206,
+    "MDF": "Monster_W3_Death_00_StanceBreakAddedRatio",
+    "Name": {},
+    "Desc": {},
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

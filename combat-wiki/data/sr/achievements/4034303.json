@@ -1,0 +1,18 @@
+{
+  "id": "4034303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我们的天空",
+  "description": "以人的意志，为神明的时代画上句号<br><color style='color:#8790ab;'>※战胜塞涅俄丝的意志</color>",
+  "reward": 10,
+  "version": 3.3,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

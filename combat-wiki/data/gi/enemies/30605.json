@@ -1,0 +1,25 @@
+{
+  "id": "30605",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的愚人众 · 霜役人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuus_Escadron_Ice"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

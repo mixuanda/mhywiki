@@ -1,0 +1,10 @@
+{
+  "id": "110426",
+  "game": "sr",
+  "entityType": "material",
+  "name": "炙梦喷枪",
+  "icon": "itemicon/110426.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3012040",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "忆域迷因「虚荣永无餍足」",
+  "description": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>旁人的夸饰、弱者的攀附、佞臣的谄媚…无休的虚荣之心化作模因生命，寻求着贪求名利的宿主。",
+  "stats": {
+    "HP": 1.25,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 150.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_3012040.png",
+  "figure": "monsterfigure/Monster_3012040.png",
+  "camp": {
+    "id": "11",
+    "name": "忆域迷因"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

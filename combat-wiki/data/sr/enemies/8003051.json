@@ -1,0 +1,39 @@
+{
+  "id": "8003051",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "兴风者（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。并会在战斗中召唤巽风造物，与自己合作战斗。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.4,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8003050.png",
+  "figure": "monsterfigure/Monster_8003050.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

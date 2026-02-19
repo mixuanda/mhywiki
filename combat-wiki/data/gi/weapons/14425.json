@@ -1,0 +1,22 @@
+{
+  "id": "14425",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "纯水流华",
+  "description": "造型奇特的剧本集，其中收录了科培琉司创作的所有剧本。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112082",
+    "112091",
+    "114056"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14425.js"
+  }
+}

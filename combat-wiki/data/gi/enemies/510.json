@@ -1,0 +1,25 @@
+{
+  "id": "510",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "浊水粉碎幻灵",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Necalevia_Normal"
+  ],
+  "figure": null,
+  "groups": [
+    "元素生命 > 浊水幻灵"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

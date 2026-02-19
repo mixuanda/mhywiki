@@ -1,0 +1,18 @@
+{
+  "id": "10011122",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "负债证明",
+  "description": "受到的追加攻击伤害提高<color> <b>A</b> </color>。账账会以此目标作为攻击目标。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011122,
+    "MDF": "MAvatar_Topaz_BETargetTag",
+    "Name": "负债证明",
+    "Desc": "受到的追加攻击伤害提高<color> <b>A</b> </color>。账账会以此目标作为攻击目标。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

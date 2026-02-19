@@ -1,0 +1,15 @@
+{
+  "id": "82268",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「图帕尧的协辅」",
+  "description": "在「图帕尧的协辅」悬停于空中时，将其击败。",
+  "reward": 20,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10013156",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "里程碑贩子",
+  "description": "【里程碑贩子】的效果尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013156,
+    "MDF": "MAvatar_Boothill_00_Rank02_CD",
+    "Name": "里程碑贩子",
+    "Desc": "【里程碑贩子】的效果尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

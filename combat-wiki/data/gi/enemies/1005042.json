@@ -1,0 +1,21 @@
+{
+  "id": "1005042",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的暝视龙 · 常形",
+  "description": "能够利用生长出的覆羽进行腾跃，亦是唯一一种掌握了进入「灵觉」状态技巧的龙。<br>在旧日对抗深渊的战争中，它曾如冰霜凝成的利刃一般锋锐。但可惜，在混乱地脉的影响下，它将利刃指向了错误的方向…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Natsaurus_Shamansaurus_Normal",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

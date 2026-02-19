@@ -1,0 +1,15 @@
+{
+  "id": "81253",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "飞驰如风",
+  "description": "在无郁稠林激活三处风场。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

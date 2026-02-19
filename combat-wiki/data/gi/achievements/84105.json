@@ -1,0 +1,15 @@
+{
+  "id": "84105",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "蒙德城的麻辣传说",
+  "description": "品尝芭芭拉的辣味饮料。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "803401201",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "孤注一掷的掷骰者",
+  "description": "星际和平公司「战略投资部」的高级干部，「石心十人」之一。借由基石分得「存护」令使的权能，以身作骰，置之死地而后生。",
+  "stats": {
+    "HP": 87.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 19.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.4,
+    "Quantum": 0.4,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_8034010.png",
+  "figure": "monsterfigure/Monster_8034010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

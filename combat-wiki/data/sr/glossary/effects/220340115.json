@@ -1,0 +1,18 @@
+{
+  "id": "220340115",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "狼主威仪",
+  "description": "当进入月狂时，月狂效果会得到强化。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340115,
+    "MDF": "MMonster_W2_LycanKing_00_RageStatusEnhance",
+    "Name": "狼主威仪",
+    "Desc": "当进入月狂时，月狂效果会得到强化。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4082709",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "木人：星穹铁道",
+  "description": "使用「自动木人桩」代为完成 3.0 场战斗",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

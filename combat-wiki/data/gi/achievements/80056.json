@@ -1,0 +1,15 @@
+{
+  "id": "80056",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 龙脊雪山",
+  "description": "点亮龙脊雪山的地图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "16"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80453",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "聚所共建 · 终夜长茔",
+  "description": "将「终夜长茔」共建至满级。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "100130415",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "100130415",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 100130415,
+    "MDF": "MAvatar_Aventurine_StackableShield",
+    "Name": {},
+    "Desc": {},
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

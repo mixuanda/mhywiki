@@ -1,0 +1,15 @@
+{
+  "id": "81346",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "不过是条猎犬…",
+  "description": "帮助玛梅赫修好了西摩尔。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

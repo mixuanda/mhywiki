@@ -1,0 +1,21 @@
+{
+  "id": "1002052",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的玳龟 · 迸雷",
+  "description": "平日里性情温和，行动迟缓的爬行动物，被一些人视为吉祥与智慧的象征。但必要之时，这一特殊的个体也会对挑战者发起迅猛的攻势，将厚实的甲壳化为击碎敌人的重锤。<br>随着地脉的记忆被紊乱现象影响，它的形象也逐渐转变，雷光中的攻势愈发躁狂…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_TortoiseElectric",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

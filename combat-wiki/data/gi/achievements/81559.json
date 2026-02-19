@@ -1,0 +1,15 @@
+{
+  "id": "81559",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "喷发的光珥",
+  "description": "见证了产生游隙灵道的巨大火山喷发。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

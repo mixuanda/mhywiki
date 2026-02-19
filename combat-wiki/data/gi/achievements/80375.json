@@ -1,0 +1,15 @@
+{
+  "id": "80375",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "二十五个钱币…",
+  "description": "在「千音藏品」中兑换<color style='color:#FF0000;'><b>5</b></color>个谱面主题。",
+  "reward": 20,
+  "version": "5.3",
+  "group": {
+    "id": "58"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

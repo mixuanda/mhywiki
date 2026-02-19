@@ -1,0 +1,15 @@
+{
+  "id": "61000011",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "战斗",
+  "description": "战斗区域，在这个区域中战胜敌人可以获得祝福。",
+  "content": {
+    "_id": 61000011,
+    "Name": "战斗",
+    "Desc": "战斗区域，在这个区域中战胜敌人可以获得祝福。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

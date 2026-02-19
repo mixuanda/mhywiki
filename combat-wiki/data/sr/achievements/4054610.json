@@ -1,0 +1,18 @@
+{
+  "id": "4054610",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "早期教育",
+  "description": "在「天气真好，养它！」中，小大地兽共计获得了25.0条独特的特质",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

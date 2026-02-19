@@ -1,0 +1,39 @@
+{
+  "id": "4012092",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "枯槁的筛骨",
+  "description": "曾支撑融合神单眼的骨骼。被黑潮裹挟后，继承了极化天气的能力。",
+  "stats": {
+    "HP": 18.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 132.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Phys",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4012092.png",
+  "figure": "monsterfigure/Monster_4012092.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82085",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "碰 · 一 · 碰",
+  "description": "利用护盾反制岩龙蜥的某一式冲撞攻击。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

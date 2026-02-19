@@ -1,0 +1,39 @@
+{
+  "id": "800304014",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "云骑幻象",
+  "description": "罗浮仙舟云骑军地面巡防部队的成员，手持阵刀，身着轻银打造的铠甲，维护各个洞天的日常秩序。",
+  "stats": {
+    "HP": 24.0,
+    "ATK": 14.99994,
+    "DEF": 1.0,
+    "SPD": 172.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Elec"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8003040.png",
+  "figure": "monsterfigure/Monster_8003040.png",
+  "camp": {
+    "id": "3",
+    "name": "裂界造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

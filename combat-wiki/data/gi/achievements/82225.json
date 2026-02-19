@@ -1,0 +1,15 @@
+{
+  "id": "82225",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「科西霍」",
+  "description": "在科西霍生成过雷棘护罩，且角色不被来自护罩的反噬攻击命中的情况下，将其击败。",
+  "reward": 20,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

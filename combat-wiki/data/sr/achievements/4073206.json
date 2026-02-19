@@ -1,0 +1,18 @@
+{
+  "id": "4073206",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "断章",
+  "description": "在「醉于盛会的此刻」进入蓄力状态后，打断其蓄力",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

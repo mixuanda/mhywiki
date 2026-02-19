@@ -1,0 +1,22 @@
+{
+  "id": "15412",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "幽夜华尔兹",
+  "description": "有着如同罪与幻想之夜一般颜色的弓。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 509.605949,
+  "subStatType": "Phys",
+  "subStatValue": 0.5172844000000001,
+  "materialRefs": [
+    "112016",
+    "112037",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15412.js"
+  }
+}

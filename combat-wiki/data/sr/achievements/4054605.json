@@ -1,0 +1,18 @@
+{
+  "id": "4054605",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "人性的，太人性的",
+  "description": "在「全世矩阵」无名泰坦大墓的深处，与同伴们下定再次出发的决心",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

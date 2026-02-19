@@ -1,0 +1,57 @@
+{
+  "id": "13431",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "虹的行迹",
+  "description": "以玉石锻成的锋锐长枪，在日耀中能隐隐映出虹色的光芒。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 509.605949,
+  "subStatType": "DEF",
+  "subStatValue": 0.5172844000000001,
+  "materialRefs": [
+    "112106",
+    "112115",
+    "114068"
+  ],
+  "affix": {
+    "113431": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续10秒。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续10秒。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续15秒。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续15秒。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续15秒。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "施放元素战技时，防御力提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> ，持续15秒。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13431.js"
+  }
+}

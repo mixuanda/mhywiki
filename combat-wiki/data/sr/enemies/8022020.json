@@ -1,0 +1,39 @@
+{
+  "id": "8022020",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "次蛰虫",
+  "description": "真蛰虫幼体；「真蛰虫」幼体依据生长程度可被划分为「幼蛰虫」与「次蛰虫」。",
+  "stats": {
+    "HP": 3.15,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 4.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_8022020.png",
+  "figure": "monsterfigure/Monster_8022020.png",
+  "camp": {
+    "id": "8",
+    "name": "虫群"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

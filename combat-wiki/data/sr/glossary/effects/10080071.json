@@ -1,0 +1,17 @@
+{
+  "id": "10080071",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "充能",
+  "description": "充能达到<color> <b>A</b> </color>时，迷迷立即行动并且可以施放【我会！帮你！】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080071,
+    "MDF": "MAvatar_PlayerBoy_30_TeamSP",
+    "Name": "充能",
+    "Desc": "充能达到<color> <b>A</b> </color>时，迷迷立即行动并且可以施放【我会！帮你！】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

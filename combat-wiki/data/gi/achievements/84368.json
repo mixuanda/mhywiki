@@ -1,0 +1,15 @@
+{
+  "id": "84368",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "在永远与须臾间",
+  "description": "月光永远联系着我们，不论日夜。",
+  "reward": 5,
+  "version": "6.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

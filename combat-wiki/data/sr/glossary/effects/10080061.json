@@ -1,0 +1,19 @@
+{
+  "id": "10080061",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "袒护白鸽的冠冕",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10080061,
+    "MDF": "MAvatar_PlayerGirl_20_Rank04_BreakDamageBuff",
+    "Name": "袒护白鸽的冠冕",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

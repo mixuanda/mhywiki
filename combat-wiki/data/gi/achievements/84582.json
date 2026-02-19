@@ -1,0 +1,15 @@
+{
+  "id": "84582",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "妙手采风",
+  "description": "帮助子澄寻找到作诗的灵感…？",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

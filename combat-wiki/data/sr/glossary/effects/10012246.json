@@ -1,0 +1,19 @@
+{
+  "id": "10012246",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "斡波",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012246,
+    "MDF": "MAvatar_Mar_7th_10_PointB3_Kill_Property",
+    "Name": "斡波",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

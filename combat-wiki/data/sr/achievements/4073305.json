@@ -1,0 +1,18 @@
+{
+  "id": "4073305",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我将，点燃大海！",
+  "description": "单场战斗中，使用装甲「萨姆」在「完全燃烧」状态结束前施放4.0次【火萤Ⅳ型-死星过载】",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

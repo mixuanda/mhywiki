@@ -1,0 +1,15 @@
+{
+  "id": "84150",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "幸运硬币",
+  "description": "参与凯亚设下的赌局。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "230140202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "夜幕将临",
+  "description": "锁定接下来使用普攻、战技、终结技的2名我方目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230140202,
+    "MDF": "Modifier_W3_Death_00_ChargeShoot",
+    "Name": "夜幕将临",
+    "Desc": "锁定接下来使用普攻、战技、终结技的2名我方目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

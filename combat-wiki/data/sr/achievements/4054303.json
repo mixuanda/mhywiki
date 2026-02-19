@@ -1,0 +1,18 @@
+{
+  "id": "4054303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "狮子王",
+  "description": "修复「沉沦暮城」奥赫玛和「无晖祈堂」黎明云崖中所有损坏的真言狮口",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

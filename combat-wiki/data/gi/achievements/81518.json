@@ -1,0 +1,15 @@
+{
+  "id": "81518",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "只有锻炼的地方还留着？",
+  "description": "来到了失落的古代试炼所…",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

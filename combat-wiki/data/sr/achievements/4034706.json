@@ -1,0 +1,18 @@
+{
+  "id": "4034706",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "末日及其四行尾注",
+  "description": "等号右侧，「智识」归于沉寂<br><color style='color:#8790ab;'>※亲历「毁灭」降临的瞬间</color>",
+  "reward": 10,
+  "version": 3.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

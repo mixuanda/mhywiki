@@ -1,0 +1,18 @@
+{
+  "id": "4054201",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "她曾借用你的体温",
+  "description": "窥探位于「双月高塔」的追忆残像",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

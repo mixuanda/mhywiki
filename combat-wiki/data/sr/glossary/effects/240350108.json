@@ -1,0 +1,18 @@
+{
+  "id": "240350108",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "已被记叙的「爱」",
+  "description": "昔涟的「爱」使目标造成的伤害大幅提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350108,
+    "MDF": "MMonster_W4_IronTombCore_00_Main_P3_AvatarDamageAdded",
+    "Name": "已被记叙的「爱」",
+    "Desc": "昔涟的「爱」使目标造成的伤害大幅提高。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

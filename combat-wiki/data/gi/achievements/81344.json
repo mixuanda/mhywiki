@@ -1,0 +1,15 @@
+{
+  "id": "81344",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "自然哲学百科全书",
+  "description": "靠一面玻璃幕墙和一本无法解读的书发现了过去的结社集会所。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

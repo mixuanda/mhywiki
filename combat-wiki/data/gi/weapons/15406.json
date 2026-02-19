@@ -1,0 +1,22 @@
+{
+  "id": "15406",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "试作澹月",
+  "description": "黑岩厂中秘藏的原型长弓。放矢之姿有如透过薄暮的月光。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112028",
+    "112037",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15406.js"
+  }
+}

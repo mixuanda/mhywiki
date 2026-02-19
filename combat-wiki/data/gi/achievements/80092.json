@@ -1,0 +1,15 @@
+{
+  "id": "80092",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "布武雷国",
+  "description": "稻妻的声望等级达到10级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

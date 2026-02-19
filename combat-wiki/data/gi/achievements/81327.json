@@ -1,0 +1,15 @@
+{
+  "id": "81327",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "奇景之旅",
+  "description": "完成「画家漂流记」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

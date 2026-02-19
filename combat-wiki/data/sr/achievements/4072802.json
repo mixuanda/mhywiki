@@ -1,0 +1,18 @@
+{
+  "id": "4072802",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "燚",
+  "description": "在「幻障迷境•浮烟」挑战中，场上同时存在 4.0 只「炎华造物」",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

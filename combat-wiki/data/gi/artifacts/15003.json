@@ -1,0 +1,28 @@
+{
+  "id": "15003",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "流浪大地的乐团",
+  "icon": "UI_RelicIcon_15003",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "元素精通提高80点。"
+    },
+    {
+      "Num": 4,
+      "Skill": "装备该圣遗物套装的角色为法器、弓箭角色时，角色重击造成的伤害提高35%。"
+    }
+  ],
+  "parts": [
+    "乐团的晨光",
+    "琴师的箭羽",
+    "终幕的时计",
+    "吟游者之壶",
+    "指挥的礼帽"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84140",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "最优解",
+  "description": "完成「难解之结」，解锁全部结局。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

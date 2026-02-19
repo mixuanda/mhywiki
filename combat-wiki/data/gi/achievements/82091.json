@@ -1,0 +1,15 @@
+{
+  "id": "82091",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…太阳岩龙蜥、月亮岩龙蜥",
+  "description": "击败过岩龙蜥的所有元素形态。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "20"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

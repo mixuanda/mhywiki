@@ -1,0 +1,15 @@
+{
+  "id": "80242",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "碛原引路人",
+  "description": "在荒石苍漠、浮罗囿追随<color style='color:#FF0000;'><b>16</b></color>个仙灵，并点亮仙灵之庭。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "41"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

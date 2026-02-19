@@ -1,0 +1,15 @@
+{
+  "id": "82185",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "砂砾收藏家",
+  "description": "在千年珍珠骏麟引导「原海古雷」时，在不破坏共鸣珊瑚珠的情况下直接破坏异海珍珠。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "40"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

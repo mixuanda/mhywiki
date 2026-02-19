@@ -1,0 +1,15 @@
+{
+  "id": "80208",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「那么，来吧，搭档…」",
+  "description": "在获胜的牌局中，累计召唤<color style='color:#FF0000;'><b>200</b></color>次召唤物。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84568",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "审美力批判",
+  "description": "聆听德皮耶里的「美学」理论。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81337",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "你是谁的子孙，叫什么名字？",
+  "description": "第一次使用斯露莎引导灵光之力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

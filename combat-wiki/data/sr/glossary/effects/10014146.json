@@ -1,0 +1,18 @@
+{
+  "id": "10014146",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "草木微尘皆入梦中",
+  "description": "受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014146,
+    "MDF": "MAvatar_DanHengPT_00_Rank06_AllDamageTypeTakenRatio",
+    "Name": "草木微尘皆入梦中",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

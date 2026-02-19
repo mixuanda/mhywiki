@@ -1,0 +1,15 @@
+{
+  "id": "84342",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如孩童的躁动般",
+  "description": "与伙伴们一同抵御自雪山而来的魔物。",
+  "reward": 5,
+  "version": "5.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

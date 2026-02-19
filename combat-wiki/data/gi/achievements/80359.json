@@ -1,0 +1,15 @@
+{
+  "id": "80359",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "燔炎的冒险家 · 其二",
+  "description": "在镜璧山、翘枝崖、奥奇卡纳塔完成<color style='color:#FF0000;'><b>3</b></color>个大世界限时挑战。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

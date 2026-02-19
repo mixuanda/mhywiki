@@ -1,0 +1,15 @@
+{
+  "id": "80105",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "循雷的寻宝者 · 其二",
+  "description": "在稻妻的海祇岛与清籁岛开启40个宝箱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "26"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81042",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猎人变成了猎物",
+  "description": "被大雪猪王击败。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

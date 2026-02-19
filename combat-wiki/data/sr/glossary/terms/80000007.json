@@ -1,0 +1,15 @@
+{
+  "id": "80000007",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "速度增幅",
+  "description": "速度增幅能提高目标行动的速度。\n速度增幅与其他速度提高效果独立乘算。",
+  "content": {
+    "_id": 80000007,
+    "Name": "速度增幅",
+    "Desc": "速度增幅能提高目标行动的速度。\n速度增幅与其他速度提高效果独立乘算。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

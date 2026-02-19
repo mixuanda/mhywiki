@@ -1,0 +1,15 @@
+{
+  "id": "80146",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "巨渊险过百牢关",
+  "description": "点亮「层岩巨渊 · 地下矿区」的地图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "30"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

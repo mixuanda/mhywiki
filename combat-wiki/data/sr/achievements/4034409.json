@@ -1,0 +1,18 @@
+{
+  "id": "4034409",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "了不起的葛瑞迪",
+  "description": "烂片之王破裂的心中，流淌着一个时代<br><color style='color:#8790ab;'>※破除葛瑞迪先生的宝具</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

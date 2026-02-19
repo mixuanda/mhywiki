@@ -1,0 +1,15 @@
+{
+  "id": "81062",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "不止是个小板凳",
+  "description": "制作120个摆设。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "18"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

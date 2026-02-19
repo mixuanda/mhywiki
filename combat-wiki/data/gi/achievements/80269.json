@@ -1,0 +1,15 @@
+{
+  "id": "80269",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "欺诈师列那",
+  "description": "集齐全套《枫丹动物寓言集》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "43"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81324",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "横跨深渊的绳索",
+  "description": "完成离渡之仪，打开穿过黑渊的道路…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82238",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「特拉扎库伊洛特尔」",
+  "description": "战胜地方传奇「特拉扎库伊洛特尔」。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

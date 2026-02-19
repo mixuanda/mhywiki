@@ -1,0 +1,15 @@
+{
+  "id": "81370",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「铁皮子爵」",
+  "description": "战胜地方传奇 · 铁皮子爵。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

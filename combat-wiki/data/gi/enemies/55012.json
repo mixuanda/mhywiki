@@ -1,0 +1,25 @@
+{
+  "id": "55012",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "疾迅勇士 · 引索客",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Human_Female_Sword_Hookwalker"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 疾迅勇士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

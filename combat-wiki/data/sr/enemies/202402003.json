@@ -1,0 +1,30 @@
+{
+  "id": "202402003",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "浮烟",
+  "description": "大岁阳「燎原」的碎片。融聚众多岁阳碎片，试图重现「燎原」之气魄。",
+  "stats": {
+    "HP": 15.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 1.0,
+  "icon": "mostericon/Monster_2024020.png",
+  "figure": "monsterfigure/Monster_2024020.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

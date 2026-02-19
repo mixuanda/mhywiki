@@ -1,0 +1,15 @@
+{
+  "id": "81483",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "曾与世界为敌",
+  "description": "封印千年的龙蜥之王，苏醒了…",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

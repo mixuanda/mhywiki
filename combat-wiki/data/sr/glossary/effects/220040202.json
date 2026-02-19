@@ -1,0 +1,17 @@
+{
+  "id": "220040202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "阵眼",
+  "description": "该敌方目标的弱点属性为风、雷、虚数的其中一种，对其施放正确属性的攻击，可以知晓其真实的弱点属性；对该目标造成弱点击破可以直接消灭该目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220040202,
+    "MDF": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_02",
+    "Name": "阵眼",
+    "Desc": "该敌方目标的弱点属性为风、雷、虚数的其中一种，对其施放正确属性的攻击，可以知晓其真实的弱点属性；对该目标造成弱点击破可以直接消灭该目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

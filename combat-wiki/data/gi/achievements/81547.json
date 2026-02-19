@@ -1,0 +1,15 @@
+{
+  "id": "81547",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "或许还需要走很多路…",
+  "description": "在托佐兹之岛上取得了龙蛋。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

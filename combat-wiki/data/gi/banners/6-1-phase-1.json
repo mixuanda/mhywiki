@@ -1,0 +1,34 @@
+{
+  "id": "6-1-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "6.1",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Nefer",
+      "X": 1
+    },
+    {
+      "N": "Furina",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Collei",
+      "X": 5
+    },
+    {
+      "N": "Yaoyao",
+      "X": 6
+    },
+    {
+      "N": "Xingqiu",
+      "X": 13
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

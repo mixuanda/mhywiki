@@ -1,0 +1,22 @@
+{
+  "id": "11427",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "船坞长剑",
+  "description": "如今几乎绝迹的便利切割工具，能够随着使用将钝化的刀片换掉。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "HP",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112082",
+    "112094",
+    "114056"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11427.js"
+  }
+}

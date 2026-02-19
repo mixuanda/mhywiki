@@ -1,0 +1,15 @@
+{
+  "id": "81564",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如入巨龙的眼瞳",
+  "description": "清除「圣山之心」的深渊影响，展露出其真实的样貌。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

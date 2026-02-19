@@ -1,0 +1,15 @@
+{
+  "id": "80029",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "祝圣篇章",
+  "description": "将一个五星圣遗物强化至最高等级。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "3"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

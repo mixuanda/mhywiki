@@ -1,0 +1,18 @@
+{
+  "id": "4040102",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "那么代价是什么？",
+  "description": "开启 110.0 次贝洛伯格战利品",
+  "reward": 20,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

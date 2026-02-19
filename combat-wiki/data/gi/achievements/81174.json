@@ -1,0 +1,15 @@
+{
+  "id": "81174",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雾里明灯",
+  "description": "点亮逢岳之野所有的雷石。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

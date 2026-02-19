@@ -1,0 +1,22 @@
+{
+  "id": "12305",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "以理服人",
+  "description": "精钢打造的趁手大铁棒子。最好的理论依据。",
+  "rarity": 3,
+  "weaponType": 2,
+  "baseAtk": 401.2935898,
+  "subStatType": "ATK",
+  "subStatValue": 0.35190040000000006,
+  "materialRefs": [
+    "112007",
+    "112028",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12305.js"
+  }
+}

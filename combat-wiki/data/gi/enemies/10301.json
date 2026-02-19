@@ -1,0 +1,25 @@
+{
+  "id": "10301",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "水丘丘萨满",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "hsc"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > 丘丘萨满"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

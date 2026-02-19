@@ -1,0 +1,18 @@
+{
+  "id": "4053064",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "大人物！",
+  "description": "在「惊梦酒吧」留下属于你的特调",
+  "reward": 10,
+  "version": 2.1,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

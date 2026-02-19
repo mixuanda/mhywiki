@@ -1,0 +1,15 @@
+{
+  "id": "84152",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "命运的示数",
+  "description": "完成「猫与随机数」，解锁全部结局。",
+  "reward": 20,
+  "version": "4.5",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4092301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一间自己的房间",
+  "description": "完成「模拟宇宙·第一世界」的探索",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4074105",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "没有影子的人",
+  "description": "在「至黑之剑，盗火行者」施放【沉默的悲叹】期间，击败所有「残破容器」",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

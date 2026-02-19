@@ -1,0 +1,10 @@
+{
+  "id": "110133",
+  "game": "sr",
+  "entityType": "material",
+  "name": "智识之钥",
+  "icon": "itemicon/110133.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81241",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "水与风的伙伴",
+  "description": "完成「直到『桓那』痊愈」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

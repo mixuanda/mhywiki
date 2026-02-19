@@ -1,0 +1,18 @@
+{
+  "id": "10014075",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "雪地的圣女，付记忆入殓",
+  "description": "每层使造成的伤害提高<color> <b>A</b> </color>，持续至本回合结束。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014075,
+    "MDF": "MAvatar_Castorice_00_Rank01_AllDamageTypeAddedRatio",
+    "Name": "雪地的圣女，付记忆入殓",
+    "Desc": "每层使造成的伤害提高<color> <b>A</b> </color>，持续至本回合结束。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

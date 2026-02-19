@@ -1,0 +1,15 @@
+{
+  "id": "84557",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "非必要需求",
+  "description": "找到古拉布吉尔给小蛇制作的所有道具。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80113",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大地勘探 · 鹤观",
+  "description": "点亮鹤观的地图。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "27"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

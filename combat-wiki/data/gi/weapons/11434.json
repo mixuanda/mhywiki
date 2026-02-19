@@ -1,0 +1,70 @@
+{
+  "id": "11434",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "织月者的曙色",
+  "description": "纯净无垢的锋锐银剑，足以如流淌的月光般穿透坚固的护甲，传说是最初的咏月使祝福过的圣器。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112124",
+    "112133",
+    "114084"
+  ],
+  "affix": {
+    "111434": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高 <color style='color:#99FFFFFF'>16%/28%</color> / <color style='color:#99FFFFFF'>20%/35%</color> / <color style='color:#99FFFFFF'>24%/42%</color> / <color style='color:#99FFFFFF'>28%/49%</color> / <color style='color:#99FFFFFF'>32%/56%</color> 。",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        "15": {
+          "Affix": [
+            "元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高 <color style='color:#99FFFFFF'>16%/28%</color> / <color style='color:#99FFFFFF'>20%/35%</color> / <color style='color:#99FFFFFF'>24%/42%</color> / <color style='color:#99FFFFFF'>28%/49%</color> / <color style='color:#99FFFFFF'>32%/56%</color> 。",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        "2": {
+          "Affix": [
+            "元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高 <color style='color:#99FFFFFF'>16%/28%</color> / <color style='color:#99FFFFFF'>20%/35%</color> / <color style='color:#99FFFFFF'>24%/42%</color> / <color style='color:#99FFFFFF'>28%/49%</color> / <color style='color:#99FFFFFF'>32%/56%</color> 。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高 <color style='color:#99FFFFFF'>16%/28%</color> / <color style='color:#99FFFFFF'>20%/35%</color> / <color style='color:#99FFFFFF'>24%/42%</color> / <color style='color:#99FFFFFF'>28%/49%</color> / <color style='color:#99FFFFFF'>32%/56%</color> 。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高 <color style='color:#99FFFFFF'>16%/28%</color> / <color style='color:#99FFFFFF'>20%/35%</color> / <color style='color:#99FFFFFF'>24%/42%</color> / <color style='color:#99FFFFFF'>28%/49%</color> / <color style='color:#99FFFFFF'>32%/56%</color> 。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高 <color style='color:#99FFFFFF'>16%/28%</color> / <color style='color:#99FFFFFF'>20%/35%</color> / <color style='color:#99FFFFFF'>24%/42%</color> / <color style='color:#99FFFFFF'>28%/49%</color> / <color style='color:#99FFFFFF'>32%/56%</color> 。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ；装备者的元素能量上限不超过60/40点时，元素爆发造成的伤害额外提高 <color style='color:#99FFFFFF'>16%/28%</color> / <color style='color:#99FFFFFF'>20%/35%</color> / <color style='color:#99FFFFFF'>24%/42%</color> / <color style='color:#99FFFFFF'>28%/49%</color> / <color style='color:#99FFFFFF'>32%/56%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11434.js"
+  }
+}

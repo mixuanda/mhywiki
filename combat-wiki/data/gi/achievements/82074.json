@@ -1,0 +1,15 @@
+{
+  "id": "82074",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "罚球",
+  "description": "有的地方是没办法挖出火史莱姆的…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

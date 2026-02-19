@@ -1,0 +1,23 @@
+{
+  "id": "23000",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "银河铁道之夜",
+  "rarity": 5,
+  "path": "Erudition",
+  "skillId": 23000,
+  "baseStats": {
+    "HP": 1164.24,
+    "ATK": 582.12,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110133",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/23000.js"
+  }
+}

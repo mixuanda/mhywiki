@@ -1,0 +1,18 @@
+{
+  "id": "4074307",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "直面苍穹的神罚",
+  "description": "在「绝灭者，阳雷的业果，晨昏之眼」的【黑潮同步率】达到最高时，承受【烬灰死寂•诸神屠灭】的攻击且没有我方角色陷入无法战斗状态",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

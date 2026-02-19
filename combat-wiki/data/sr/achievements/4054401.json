@@ -1,0 +1,18 @@
+{
+  "id": "4054401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "妖精森友会",
+  "description": "查阅村长邮箱中所有属于你的信件",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

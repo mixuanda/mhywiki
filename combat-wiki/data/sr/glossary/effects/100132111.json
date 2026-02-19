@@ -1,0 +1,18 @@
+{
+  "id": "100132111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "舔舐…背叛伸出火舌",
+  "description": "弱点击破效率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100132111,
+    "MDF": "MAvatar_Constance_00_Aura_OnTeam",
+    "Name": "舔舐…背叛伸出火舌",
+    "Desc": "弱点击破效率提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

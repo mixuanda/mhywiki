@@ -1,0 +1,18 @@
+{
+  "id": "4032801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "有尾庞庞",
+  "description": "与捉鬼小队一起收集怪谈异闻<br><color style='color:#8790ab;'>※找回尾巴，镇伏罗浮逃逸岁阳…</color>",
+  "reward": 10,
+  "version": 1.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

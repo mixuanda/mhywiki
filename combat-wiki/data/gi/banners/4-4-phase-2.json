@@ -1,0 +1,34 @@
+{
+  "id": "4-4-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.4",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Yae",
+      "X": 4
+    },
+    {
+      "N": "Xiao",
+      "X": 5
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Yaoyao",
+      "X": 3
+    },
+    {
+      "N": "Xinyan",
+      "X": 8
+    },
+    {
+      "N": "Ningguang",
+      "X": 8
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

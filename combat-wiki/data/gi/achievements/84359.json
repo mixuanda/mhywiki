@@ -1,0 +1,15 @@
+{
+  "id": "84359",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "火力压制",
+  "description": "对未被邀请之人的接待方式。",
+  "reward": 5,
+  "version": "6.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

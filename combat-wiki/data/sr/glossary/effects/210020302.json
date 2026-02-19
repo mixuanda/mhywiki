@@ -1,0 +1,17 @@
+{
+  "id": "210020302",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "援军",
+  "description": "受到<color>%CasterName</color>支援。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210020302,
+    "MDF": "MMonster_W1_Soldier04_00_SkillP01_Supported",
+    "Name": "援军",
+    "Desc": "受到<color>%CasterName</color>支援。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

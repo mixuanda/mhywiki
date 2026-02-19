@@ -1,0 +1,18 @@
+{
+  "id": "4044318",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天气控制仪",
+  "description": "在「穹顶关塞」晨昏之眼中，首次激活天象画壁…<br><color style='color:#8790ab;'>※你会发现，苍穹也能如手中黏土般随意摆弄</color>",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80268",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "美泉之地",
+  "description": "掌握「水」的元素力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "43"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

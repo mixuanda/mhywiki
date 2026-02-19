@@ -1,0 +1,15 @@
+{
+  "id": "61000036",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "构音推演：零龄主序",
+  "description": "敌方目标被消灭后，使回响推演行动提前 <b>50%</b> 。",
+  "content": {
+    "_id": 61000036,
+    "Name": "构音推演：零龄主序",
+    "Desc": "敌方目标被消灭后，使回响推演行动提前 <b>50%</b> 。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

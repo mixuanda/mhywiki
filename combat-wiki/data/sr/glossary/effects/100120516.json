@@ -1,0 +1,17 @@
+{
+  "id": "100120516",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "大辟万死",
+  "description": "已损失生命值：<color> <b>A</b> </color>点",
+  "effectType": "character",
+  "content": {
+    "_id": 100120516,
+    "MDF": "MAvatar_Advanced_Ren_Skill03_Listen",
+    "Name": "大辟万死",
+    "Desc": "已损失生命值：<color> <b>A</b> </color>点"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

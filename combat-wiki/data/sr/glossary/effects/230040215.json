@@ -1,0 +1,19 @@
+{
+  "id": "230040215",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "弱点击破效率提高",
+  "description": "弱点击破效率提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230040215,
+    "MDF": "MMonster_W3_Dinosaur_02_IF_StanceBreakRatioUp",
+    "Name": "弱点击破效率提高",
+    "Desc": "弱点击破效率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

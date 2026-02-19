@@ -1,0 +1,15 @@
+{
+  "id": "82090",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「冰冻三尺…」",
+  "description": "击败一个复苏了三次的无相之冰。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

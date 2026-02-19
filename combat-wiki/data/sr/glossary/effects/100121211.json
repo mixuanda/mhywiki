@@ -1,0 +1,18 @@
+{
+  "id": "100121211",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "霜魄",
+  "description": "下一次攻击无视目标<color> <b>A</b> </color>的防御力。",
+  "effectType": "character",
+  "content": {
+    "_id": 100121211,
+    "MDF": "MAvatar_AdvancedAvatar_Jingliu_PointB3",
+    "Name": "霜魄",
+    "Desc": "下一次攻击无视目标<color> <b>A</b> </color>的防御力。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

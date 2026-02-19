@@ -1,0 +1,18 @@
+{
+  "id": "4044709",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "诡计、时光和种子",
+  "description": "在时光归墟召唤贼灵",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

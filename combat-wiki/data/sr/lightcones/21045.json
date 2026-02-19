@@ -1,0 +1,23 @@
+{
+  "id": "21045",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "谐乐静默之后",
+  "rarity": 4,
+  "path": "Erudition",
+  "skillId": 21045,
+  "baseStats": {
+    "HP": 846.72,
+    "ATK": 476.28,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110203",
+    "114013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21045.js"
+  }
+}

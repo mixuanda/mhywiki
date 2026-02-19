@@ -1,0 +1,15 @@
+{
+  "id": "82022",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「随风而去吧！」",
+  "description": "达成1次：2秒内，触发冰、水、火、雷元素四种扩散反应。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "6"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "115013",
+  "game": "sr",
+  "entityType": "material",
+  "name": "哀叹漫无止息",
+  "icon": "itemicon/115013.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

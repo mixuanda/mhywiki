@@ -1,0 +1,39 @@
+{
+  "id": "302501001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「哲学的胎儿」星期日",
+  "description": "以「齐响诗班」为基质，「秩序」与「同谐」的力量交织形成卵壳，新生的神安眠于其中。形而上的胎儿喃喃着童年的旧梦，命途于长夜胎动，徒劳抗拒显著的黎明。",
+  "stats": {
+    "HP": 60.0,
+    "ATK": 19.56522,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 6.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3025010.png",
+  "figure": "monsterfigure/Monster_3025011.png",
+  "camp": {
+    "id": "7",
+    "name": "银河"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

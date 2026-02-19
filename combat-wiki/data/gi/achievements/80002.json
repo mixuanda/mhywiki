@@ -1,0 +1,15 @@
+{
+  "id": "80002",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "千嶂万仞",
+  "description": "掌握「岩」的元素力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "1"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

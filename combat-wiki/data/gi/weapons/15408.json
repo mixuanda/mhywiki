@@ -1,0 +1,22 @@
+{
+  "id": "15408",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黑岩战弓",
+  "description": "以黑岩塑成的弓。弓臂坚硬无比，只有膂力绝人的弓手才能尽心所欲地使用。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 564.7837244,
+  "subStatType": "CD",
+  "subStatValue": 0.36752,
+  "materialRefs": [
+    "112031",
+    "112040",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15408.js"
+  }
+}

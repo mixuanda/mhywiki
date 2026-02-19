@@ -1,0 +1,39 @@
+{
+  "id": "203501204",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "业火焚心的影将军",
+  "description": "受到「赤月」影响的飞霄，号令巨兽的她宛若神明，举手投足间都散发着可怖的力量。",
+  "stats": {
+    "HP": 385.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 144.0,
+    "Stance": 28.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Ice": 0.4,
+    "Wind": 0.4,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_2035010.png",
+  "figure": "monsterfigure/Monster_2033020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

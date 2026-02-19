@@ -1,0 +1,30 @@
+{
+  "id": "8032032",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「所有或一无所有」",
+  "description": "「诡弈砂金」所化博弈之骰，于赌局中裁断博徒们的命运。",
+  "stats": {
+    "HP": 2.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_8032030.png",
+  "figure": "monsterfigure/Monster_8032030.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

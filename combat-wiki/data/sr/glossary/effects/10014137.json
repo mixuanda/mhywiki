@@ -1,0 +1,18 @@
+{
+  "id": "10014137",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "白昼悄然离去",
+  "description": "持续期间，我方全体忆灵的暴击伤害提高。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014137,
+    "MDF": "MAvatar_Evernight_00_Skill02_Buff",
+    "Name": "白昼悄然离去",
+    "Desc": "持续期间，我方全体忆灵的暴击伤害提高。",
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

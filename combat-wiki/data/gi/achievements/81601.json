@@ -1,0 +1,15 @@
+{
+  "id": "81601",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "谁之罪",
+  "description": "完成了在月矩力试验设计局的冒险。",
+  "reward": 5,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

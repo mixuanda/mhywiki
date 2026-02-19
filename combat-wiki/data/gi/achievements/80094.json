@@ -1,0 +1,15 @@
+{
+  "id": "80094",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "循雷的冒险家 · 其一",
+  "description": "在稻妻区域的鸣神岛、神无冢与八酝岛，完成12个大世界机关限时挑战。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

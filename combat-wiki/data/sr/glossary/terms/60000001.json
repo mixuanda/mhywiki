@@ -1,0 +1,15 @@
+{
+  "id": "60000001",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "反震",
+  "description": "由特定「存护」命途祝福造成的附加伤害。",
+  "content": {
+    "_id": 60000001,
+    "Name": "反震",
+    "Desc": "由特定「存护」命途祝福造成的附加伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

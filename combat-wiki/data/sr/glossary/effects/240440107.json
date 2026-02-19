@@ -1,0 +1,19 @@
+{
+  "id": "240440107",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "化形",
+  "description": "受到的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240440107,
+    "MDF": "Monster_W4_Theoroi_00_DamageTakenUp",
+    "Name": "化形",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

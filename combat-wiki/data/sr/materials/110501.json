@@ -1,0 +1,10 @@
+{
+  "id": "110501",
+  "game": "sr",
+  "entityType": "material",
+  "name": "毁灭者的末路",
+  "icon": "itemicon/110501.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

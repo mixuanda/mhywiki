@@ -1,0 +1,21 @@
+{
+  "id": "1002053",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的皮皮潘偶像 · 闪幻",
+  "description": "以「特诺切」为演绎目标的皮皮潘偶像，精通奇妙的帽子戏法与战斗策略，能从多变的角度攻来，让鲁莽者付出代价…<br>受到地脉紊乱奔流的影响，演绎者的投影进一步演化，闪烁换位的帽子之下，隐藏着可怕的杀机…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Tenoyollotzin",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

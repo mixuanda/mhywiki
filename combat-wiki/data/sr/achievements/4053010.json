@@ -1,0 +1,18 @@
+{
+  "id": "4053010",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "如脆筒般脆弱",
+  "description": "使用消耗品「美梦脆筒」后，对错误的敌方目标施放技能",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

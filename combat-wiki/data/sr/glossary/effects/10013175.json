@@ -1,0 +1,18 @@
+{
+  "id": "10013175",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "忍•科学•堪忍袋",
+  "description": "下一次发动【忍具•降魔花弁】的第3段攻击时额外造成的击破伤害倍率提高<color> <b>A</b> </color>，削韧值提高<color> <b>B</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013175,
+    "MDF": "Avatar_Rappa_00_Break_Modifier_ForShow",
+    "Name": "忍•科学•堪忍袋",
+    "Desc": "下一次发动【忍具•降魔花弁】的第3段攻击时额外造成的击破伤害倍率提高<color> <b>A</b> </color>，削韧值提高<color> <b>B</b> </color>点。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

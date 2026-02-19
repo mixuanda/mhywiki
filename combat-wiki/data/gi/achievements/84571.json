@@ -1,0 +1,15 @@
+{
+  "id": "84571",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "新灵感！新产品！",
+  "description": "帮助安里研制三种新型的枫达，并且品尝一次「实验饮品」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

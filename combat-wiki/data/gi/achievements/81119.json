@@ -1,0 +1,15 @@
+{
+  "id": "81119",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "挥刀的理由",
+  "description": "让「公义」恢复清醒。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

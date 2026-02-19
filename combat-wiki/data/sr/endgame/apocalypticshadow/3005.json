@@ -1,0 +1,332 @@
+{
+  "id": "3005",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "apocalypticshadow",
+  "name": "冽风猢狲",
+  "content": {
+    "_id": 3005,
+    "Name": "冽风猢狲",
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 714050,
+        "Upper": [
+          {
+            "_id": 420191,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 705,
+              "ATK": 0.75,
+              "HP": 0.325
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401401,
+                  "HP": 99599,
+                  "HPCount": 2,
+                  "SPD": 130,
+                  "Stance": "114,162"
+                },
+                {
+                  "ID": 100402601,
+                  "HP": 47808,
+                  "SPD": 125,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420181,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 701,
+              "ATK": 0.9,
+              "HP": 0.25
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402101,
+                  "HP": 257426,
+                  "HPCount": 2,
+                  "SPD": 50,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 2572846,
+        "Upper": [
+          {
+            "_id": 420192,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 706,
+              "ATK": 0.85,
+              "HP": 0.65
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401402,
+                  "HP": 358873,
+                  "HPCount": 2,
+                  "SPD": 143,
+                  "Stance": "133,189"
+                },
+                {
+                  "ID": 100402602,
+                  "HP": 172259,
+                  "SPD": 138,
+                  "Stance": 12
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420182,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 702,
+              "HP": 0.5
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402102,
+                  "HP": 927550,
+                  "HPCount": 2,
+                  "SPD": 55,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 7216314,
+        "Upper": [
+          {
+            "_id": 420193,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 707,
+              "ATK": 0.85,
+              "HP": 1.17
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401403,
+                  "HP": 1006567,
+                  "HPCount": 2,
+                  "SPD": 156,
+                  "Stance": "152,216"
+                },
+                {
+                  "ID": 100402603,
+                  "HP": 483152,
+                  "SPD": 150,
+                  "Stance": 15
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420183,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 703,
+              "HP": 0.9
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402103,
+                  "HP": 2601590,
+                  "HPCount": 2,
+                  "SPD": 60,
+                  "Stance": 13
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Fire",
+          "Elec",
+          "Wind",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Ice",
+          "Elec",
+          "Imaginary"
+        ],
+        "HPAS": 12813677,
+        "Upper": [
+          {
+            "_id": 420194,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 708,
+              "ATK": 0.85,
+              "HP": 1.3
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401404,
+                  "HP": 1787315,
+                  "HPCount": 2,
+                  "SPD": 172,
+                  "Stance": "190,270"
+                },
+                {
+                  "ID": 100402604,
+                  "HP": 857911,
+                  "SPD": 165,
+                  "Stance": 20
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420184,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 704
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 300402104,
+                  "HP": 4619523,
+                  "HPCount": 2,
+                  "SPD": 76,
+                  "Stance": 16
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "Buff": {
+      "_id": 3110005,
+      "Name": "末法余烬",
+      "Desc": "拥有<color style='color:#f29e38;'>【坚防守备】</color>的敌方单位被<color style='color:#f29e38;'>弱点击破</color>时，使我方全体行动提前并恢复战技点。<br>敌方全体受到的弱点击破伤害提高<color style='color:#f29e38;'> 20% </color>，追加攻击伤害提高<color style='color:#f29e38;'> 20% </color>。"
+    },
+    "UB": [
+      {
+        "_id": 3111030,
+        "Name": "臻冰彻骨",
+        "Desc": "敌方全体受到的击破伤害提高<color style='color:#f29e38;'> 10% </color>。击破敌方弱点后，我方全体速度提高<color style='color:#f29e38;'> 20% </color>，持续<color style='color:#f29e38;'> 2 </color>回合。"
+      },
+      {
+        "_id": 3111033,
+        "Name": "持续腐化",
+        "Desc": "在拥有【坚防守备】的敌方单位被弱点击破前，累积受到的持续伤害值。在弱点击破后对该单位造成等同于累积伤害值<color style='color:#f29e38;'> 200% </color>的附加伤害。"
+      },
+      {
+        "_id": 3111034,
+        "Name": "风暴翻涌",
+        "Desc": "我方全体造成的量子属性伤害提高<color style='color:#f29e38;'> 60% </color>。消灭敌方目标后，攻击者行动提前<color style='color:#f29e38;'> 15% </color>。"
+      }
+    ],
+    "LB": [
+      {
+        "_id": 3111029,
+        "Name": "作弊小抄",
+        "Desc": "对我方单体目标施放战技或终结技时，使技能目标的攻击力提高<color style='color:#f29e38;'> 25% </color>，持续<color style='color:#f29e38;'> 2 </color>回合，该效果最多叠加<color style='color:#f29e38;'> 2 </color>次。"
+      },
+      {
+        "_id": 3111032,
+        "Name": "课间休息",
+        "Desc": "我方全体对处于弱点击破状态下的敌方目标造成的终结技伤害提高<color style='color:#f29e38;'> 70% </color>。"
+      },
+      {
+        "_id": 3111031,
+        "Name": "放学别走",
+        "Desc": "我方全体造成的普攻和战技伤害提高<color style='color:#f29e38;'> 55% </color>。"
+      }
+    ],
+    "UC": [
+      100101,
+      100102,
+      100103,
+      100104
+    ],
+    "LC": [
+      100801,
+      100802,
+      100803,
+      100804
+    ],
+    "UG": [
+      10011,
+      10012
+    ],
+    "LG": [
+      10081
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/AS.js"
+    ]
+  }
+}

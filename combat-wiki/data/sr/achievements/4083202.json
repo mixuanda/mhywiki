@@ -1,0 +1,18 @@
+{
+  "id": "4083202",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "三思而后行",
+  "description": "在筑梦模块上放置梦泡桥梁后，未通过梦泡桥梁就挪走筑梦模块",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

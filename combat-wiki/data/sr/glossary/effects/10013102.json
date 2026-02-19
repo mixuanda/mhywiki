@@ -1,0 +1,19 @@
+{
+  "id": "10013102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "茧式源火中枢",
+  "description": "受到的伤害降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013102,
+    "MDF": "MAvatar_Sam_00_PassiveSkill_AllDamageTypeResistance",
+    "Name": "茧式源火中枢",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

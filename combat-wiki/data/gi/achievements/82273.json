@@ -1,0 +1,15 @@
+{
+  "id": "82273",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "油炸冰淇淋…？",
+  "description": "在一次挑战中，利用火榴果的爆炸对贪食匿叶龙山王触发融化反应。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "59"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

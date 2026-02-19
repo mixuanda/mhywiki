@@ -1,0 +1,18 @@
+{
+  "id": "230250132",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "和光同尘",
+  "description": "造成伤害提高<color> <b>A</b> </color>，护盾耗尽时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230250132,
+    "MDF": "MMonster_W3_Sunday_00_IF_Skill07_Shield_Modifier",
+    "Name": "和光同尘",
+    "Desc": "造成伤害提高<color> <b>A</b> </color>，护盾耗尽时解除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

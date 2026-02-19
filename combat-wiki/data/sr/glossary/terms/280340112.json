@@ -1,0 +1,15 @@
+{
+  "id": "280340112",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "芬戈的礼物",
+  "description": "每层使造成的伤害提高。",
+  "content": {
+    "_id": 280340112,
+    "Name": "芬戈的礼物",
+    "Desc": "每层使造成的伤害提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

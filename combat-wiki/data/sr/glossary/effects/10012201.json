@@ -1,0 +1,17 @@
+{
+  "id": "10012201",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "雷狩",
+  "description": "天赋的追加攻击已经可以触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012201,
+    "MDF": "MAvatar_Feixiao_00_InsertIsReady",
+    "Name": "雷狩",
+    "Desc": "天赋的追加攻击已经可以触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054231",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "欢迎来到星舰学院",
+  "description": "获得阅读物《舰队基础知识手册》",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

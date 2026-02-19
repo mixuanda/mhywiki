@@ -1,0 +1,15 @@
+{
+  "id": "82117",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "破灭之时",
+  "description": "在不利用「红莲蛾」的情况下，击败「女士」 。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "29"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

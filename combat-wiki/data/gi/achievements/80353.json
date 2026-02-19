@@ -1,0 +1,15 @@
+{
+  "id": "80353",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "幻写引路人 · 其二",
+  "description": "在镜璧山、翘枝崖、奥奇卡纳塔追随<color style='color:#FF0000;'><b>3</b></color>个幻写灵，并完成涂鸦。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "100403003",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "布洛妮娅",
+  "description": "贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
+  "stats": {
+    "HP": 21.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 7.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1004030.png",
+  "figure": "monsterfigure/Monster_1004030.png",
+  "camp": {
+    "id": "1",
+    "name": "雅利洛-Ⅵ"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

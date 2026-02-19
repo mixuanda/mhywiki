@@ -1,0 +1,34 @@
+{
+  "id": "4-2-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.2",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Furina",
+      "X": 1
+    },
+    {
+      "N": "Baizhuer",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Charlotte",
+      "X": 1
+    },
+    {
+      "N": "Collei",
+      "X": 3
+    },
+    {
+      "N": "Beidou",
+      "X": 8
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

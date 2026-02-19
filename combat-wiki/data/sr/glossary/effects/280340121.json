@@ -1,0 +1,18 @@
+{
+  "id": "280340121",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "赌徒点数",
+  "description": "当前【点数】为<color> <b>B</b> </color>。敌方目标大于我方【点数】时，受到的伤害大幅降低；敌方目标小于等于我方【点数】时，受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340121,
+    "MDF": "MMonster_W3_Aventurine_00_IF_Score_Light",
+    "Name": "赌徒点数",
+    "Desc": "当前【点数】为<color> <b>B</b> </color>。敌方目标大于我方【点数】时，受到的伤害大幅降低；敌方目标小于等于我方【点数】时，受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "100401501",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "托帕幻象",
+  "description": "性格外向、善于交际的投资专家，公司旗下「战略投资部」总监之一，领导「特殊债务纠察部队」。",
+  "stats": {
+    "HP": 310.0,
+    "ATK": 5.14286,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 12.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.6,
+    "Wind": 0.4,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_1004010.png",
+  "figure": "monsterfigure/Monster_1004010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

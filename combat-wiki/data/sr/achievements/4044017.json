@@ -1,0 +1,18 @@
+{
+  "id": "4044017",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "刹那永远",
+  "description": "当时间逆流撞上时间凝滞，会发生什么？<br><color style='color:#8790ab;'>※利用暂停时间的能力凝固回溯中的物件</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

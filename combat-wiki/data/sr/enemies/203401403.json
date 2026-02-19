@@ -1,0 +1,39 @@
+{
+  "id": "203401403",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "雷奔云谲的恶狼主",
+  "description": "犯尽十恶，永镇于幽狱之底的步离人首领。<br>身负七百年苦狱仇恨，在脱出牢笼后，群狼之主向整个罗浮仙舟发起了挑战。但潜藏在疯狂之举的背后，似乎另有目标……",
+  "stats": {
+    "HP": 110.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 160.0,
+    "Stance": 38.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Ice": 0.4,
+    "Elec": 0.4,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2034010.png",
+  "figure": "monsterfigure/Monster_2034010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

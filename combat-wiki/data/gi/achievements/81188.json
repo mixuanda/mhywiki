@@ -1,0 +1,15 @@
+{
+  "id": "81188",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「明察冬鳗」小锦旗",
+  "description": "获得地走官的认可。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

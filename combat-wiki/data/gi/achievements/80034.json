@@ -1,0 +1,15 @@
+{
+  "id": "80034",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "风中引路人",
+  "description": "在蒙德追随10个仙灵，并点亮仙灵之庭（龙脊雪山地区除外）。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "4"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

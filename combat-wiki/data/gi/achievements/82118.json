@@ -1,0 +1,15 @@
+{
+  "id": "82118",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "逃逸电子",
+  "description": "在不被追踪电笼击中的情况下，击败雷音权现。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "29"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

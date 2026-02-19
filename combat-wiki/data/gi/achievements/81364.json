@@ -1,0 +1,15 @@
+{
+  "id": "81364",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「湖畔的尼尼安涅」",
+  "description": "战胜地方传奇 · 湖畔的尼尼安涅。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

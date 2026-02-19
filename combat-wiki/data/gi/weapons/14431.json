@@ -1,0 +1,57 @@
+{
+  "id": "14431",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "木棉之环",
+  "description": "昔日的双生英杰锻造的玉器，传说曾将盘踞火山的巨龙从天穹击坠。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 509.605949,
+  "subStatType": "HP",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112007",
+    "112109",
+    "114068"
+  ],
+  "affix": {
+    "114431": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击的伤害提升 <color style='color:#99FFFFFF'>0.6%</color> / <color style='color:#99FFFFFF'>0.7%</color> / <color style='color:#99FFFFFF'>0.8%</color> / <color style='color:#99FFFFFF'>0.9%</color> / <color style='color:#99FFFFFF'>1%</color> ，持续10秒。通过这种方式至多使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>0.6%</color> / <color style='color:#99FFFFFF'>0.7%</color> / <color style='color:#99FFFFFF'>0.8%</color> / <color style='color:#99FFFFFF'>0.9%</color> / <color style='color:#99FFFFFF'>1%</color> ，持续10秒。通过这种方式至多使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>0.6%</color> / <color style='color:#99FFFFFF'>0.7%</color> / <color style='color:#99FFFFFF'>0.8%</color> / <color style='color:#99FFFFFF'>0.9%</color> / <color style='color:#99FFFFFF'>1%</color> ，持续10秒。通过这种方式至多使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>0.6%</color> / <color style='color:#99FFFFFF'>0.7%</color> / <color style='color:#99FFFFFF'>0.8%</color> / <color style='color:#99FFFFFF'>0.9%</color> / <color style='color:#99FFFFFF'>1%</color> ，持续10秒。通过这种方式至多使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>0.6%</color> / <color style='color:#99FFFFFF'>0.7%</color> / <color style='color:#99FFFFFF'>0.8%</color> / <color style='color:#99FFFFFF'>0.9%</color> / <color style='color:#99FFFFFF'>1%</color> ，持续10秒。通过这种方式至多使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>0.6%</color> / <color style='color:#99FFFFFF'>0.7%</color> / <color style='color:#99FFFFFF'>0.8%</color> / <color style='color:#99FFFFFF'>0.9%</color> / <color style='color:#99FFFFFF'>1%</color> ，持续10秒。通过这种方式至多使普通攻击造成的伤害提升 <color style='color:#99FFFFFF'>16%</color> / <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>32%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14431.js"
+  }
+}

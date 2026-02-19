@@ -1,0 +1,15 @@
+{
+  "id": "81084",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "决胜的礼物！",
+  "description": "获得10份同伴赠礼。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "19"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

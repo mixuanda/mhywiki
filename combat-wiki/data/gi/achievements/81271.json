@@ -1,0 +1,15 @@
+{
+  "id": "81271",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "笔直航道",
+  "description": "到达赤王陵顶部的隐秘空间。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

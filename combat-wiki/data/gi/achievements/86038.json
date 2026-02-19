@@ -1,0 +1,15 @@
+{
+  "id": "86038",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一次成功的狩猎",
+  "description": "与其他玩家一同战胜铁甲熔火帝皇。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "44"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

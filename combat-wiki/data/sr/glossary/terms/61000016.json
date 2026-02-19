@@ -1,0 +1,15 @@
+{
+  "id": "61000016",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "事件",
+  "description": "事件区域，在这个区域中可以通过选择达成不同的结果。",
+  "content": {
+    "_id": 61000016,
+    "Name": "事件",
+    "Desc": "事件区域，在这个区域中可以通过选择达成不同的结果。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

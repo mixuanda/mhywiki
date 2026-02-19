@@ -1,0 +1,15 @@
+{
+  "id": "81411",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "再见，艾利法斯先生",
+  "description": "击败艾利法斯。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

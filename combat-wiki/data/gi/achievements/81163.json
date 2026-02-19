@@ -1,0 +1,15 @@
+{
+  "id": "81163",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "戴维 · 琼斯的箱子",
+  "description": "解开「清籁丸」内的所有机关。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

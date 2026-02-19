@@ -1,0 +1,39 @@
+{
+  "id": "300203002",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "柯柯娜的原则",
+  "description": "坚定之心，曾相信总有些底线不能被逾越。",
+  "stats": {
+    "HP": 2.25,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002030.png",
+  "figure": "monsterfigure/Monster_3002030.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

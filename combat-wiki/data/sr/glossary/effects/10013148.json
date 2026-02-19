@@ -1,0 +1,19 @@
+{
+  "id": "10013148",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "真诚？唯凭认沽",
+  "description": "无视敌方目标<color> <b>A</b> </color>的防御力。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013148,
+    "MDF": "MAvatar_Jade_00_Rank04_DefPenetrate",
+    "Name": "真诚？唯凭认沽",
+    "Desc": "无视敌方目标<color> <b>A</b> </color>的防御力。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

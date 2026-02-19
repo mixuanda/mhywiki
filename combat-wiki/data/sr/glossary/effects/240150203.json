@@ -1,0 +1,18 @@
+{
+  "id": "240150203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "振奋",
+  "description": "每回合开始时回复自身<color> <b>A</b> </color>生命值，造成的伤害提高<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150203,
+    "MDF": "Modifier_Monster_W4_DawnsEye_01_HOT",
+    "Name": "振奋",
+    "Desc": "每回合开始时回复自身<color> <b>A</b> </color>生命值，造成的伤害提高<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

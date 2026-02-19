@@ -1,0 +1,25 @@
+{
+  "id": "30201",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "愚人众 · 火之债务处理人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fpa"
+  ],
+  "figure": null,
+  "groups": [
+    "愚人众 > 债务处理人"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

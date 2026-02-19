@@ -1,0 +1,15 @@
+{
+  "id": "82077",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "基础不牢，地动山摇！",
+  "description": "通过击碎核心停留的玄岩柱，使同一个无相之岩落地三次。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

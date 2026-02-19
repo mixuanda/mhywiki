@@ -1,0 +1,15 @@
+{
+  "id": "81472",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「西尼阿斯」",
+  "description": "战胜地方传奇 · 西尼阿斯。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

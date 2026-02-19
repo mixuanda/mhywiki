@@ -1,0 +1,15 @@
+{
+  "id": "240150201",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "黑蚀",
+  "description": "处于【黑蚀】状态下的目标无法被选中，无法行动。",
+  "content": {
+    "_id": 240150201,
+    "Name": "黑蚀",
+    "Desc": "处于【黑蚀】状态下的目标无法被选中，无法行动。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

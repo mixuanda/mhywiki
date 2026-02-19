@@ -1,0 +1,18 @@
+{
+  "id": "4074008",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "伙伴，约定！",
+  "description": "使用「记忆」命途开拓者召唤迷迷",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

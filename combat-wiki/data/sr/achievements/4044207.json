@@ -1,0 +1,18 @@
+{
+  "id": "4044207",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "双月彼此依偎",
+  "description": "行走在旧时空的锁链上，抬头看向夜空…<br><color style='color:#8790ab;'>※你看见了高悬天际的双月</color>",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

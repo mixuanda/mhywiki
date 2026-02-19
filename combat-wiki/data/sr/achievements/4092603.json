@@ -1,0 +1,18 @@
+{
+  "id": "4092603",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "心房客",
+  "description": "「模拟宇宙：寰宇蝗灾」内，使用「记忆」命途连续 6.0 次复制【奖励】区域",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

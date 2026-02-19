@@ -1,0 +1,15 @@
+{
+  "id": "84028",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "慧眼识妖！",
+  "description": "正确鉴定所有情报。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

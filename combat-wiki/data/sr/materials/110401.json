@@ -1,0 +1,10 @@
+{
+  "id": "110401",
+  "game": "sr",
+  "entityType": "material",
+  "name": "铁狼碎齿",
+  "icon": "itemicon/110401.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

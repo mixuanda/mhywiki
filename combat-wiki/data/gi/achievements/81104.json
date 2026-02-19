@@ -1,0 +1,15 @@
+{
+  "id": "81104",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "地宫传奇…才怪咧！",
+  "description": "发掘失落记忆的冒险本身，又何尝不是宝藏呢？",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

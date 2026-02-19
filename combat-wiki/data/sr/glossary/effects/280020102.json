@@ -1,0 +1,19 @@
+{
+  "id": "280020102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "后手",
+  "description": "下次行动时施放【颂歌爆发】，对我方目标造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280020102,
+    "MDF": "XP_Minion02_00_Attack",
+    "Name": "后手",
+    "Desc": "下次行动时施放【颂歌爆发】，对我方目标造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

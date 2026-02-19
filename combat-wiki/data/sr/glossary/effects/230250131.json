@@ -1,0 +1,17 @@
+{
+  "id": "230250131",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "韵律不息",
+  "description": "「旧梦的回声」受到的伤害降低<color> <b>A</b> </color>，「万籁齐响的指挥家」弱点被击破时该效果解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230250131,
+    "MDF": "Monster_W3_SundayPart_00_IF_EX02_DamageReduce",
+    "Name": "韵律不息",
+    "Desc": "「旧梦的回声」受到的伤害降低<color> <b>A</b> </color>，「万籁齐响的指挥家」弱点被击破时该效果解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

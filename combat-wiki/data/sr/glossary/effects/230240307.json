@@ -1,0 +1,17 @@
+{
+  "id": "230240307",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "死灭本能",
+  "description": "已叠加<color> <b>A</b> </color>层【死灭本能】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240307,
+    "MDF": "MMonster_W3_Sam_01_EnhanceChargeCount",
+    "Name": "死灭本能",
+    "Desc": "已叠加<color> <b>A</b> </color>层【死灭本能】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

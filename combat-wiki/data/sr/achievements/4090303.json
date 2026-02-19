@@ -1,0 +1,18 @@
+{
+  "id": "4090303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "头号玩家",
+  "description": "「模拟宇宙」内，累计消灭 1000.0 个敌人",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

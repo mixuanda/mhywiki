@@ -1,0 +1,15 @@
+{
+  "id": "80306",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "翠陵的寻宝者",
+  "description": "在沉玉谷开启<color style='color:#FF0000;'><b>120</b></color>个宝箱。",
+  "reward": 10,
+  "version": "4.4",
+  "group": {
+    "id": "47"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

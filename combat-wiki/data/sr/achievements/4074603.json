@@ -1,0 +1,18 @@
+{
+  "id": "4074603",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "你可以完全信任丹恒",
+  "description": "单场战斗中，使用我方角色丹恒•腾荒累计提供 100000 点护盾",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

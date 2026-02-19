@@ -1,0 +1,17 @@
+{
+  "id": "10013057",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "智者的短见",
+  "description": "真理医生的队友攻击持有【智者的短见】的目标时，真理医生立即对该目标发动1次追加攻击，该效果最多触发<color> <b>A</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013057,
+    "MDF": "MAvatar_Dr_Ratio_00_Skill03_TheFool",
+    "Name": "智者的短见",
+    "Desc": "真理医生的队友攻击持有【智者的短见】的目标时，真理医生立即对该目标发动1次追加攻击，该效果最多触发<color> <b>A</b> </color>次。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

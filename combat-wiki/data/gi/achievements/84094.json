@@ -1,0 +1,15 @@
+{
+  "id": "84094",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「命运」的彼岸",
+  "description": "见证「罪人」赐予的「奇迹」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4040412",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "西北偏北",
+  "description": "完成 20.0 次引航罗盘",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

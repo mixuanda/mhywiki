@@ -1,0 +1,32 @@
+{
+  "id": "4660202",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "焚天爆炎树",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 3.3,
+    "Fire": 3.7,
+    "Water": 3.1,
+    "Elec": 3.1,
+    "Ice": 3.1,
+    "Grass": 3.1,
+    "Wind": 3.1,
+    "Rock": 3.1
+  },
+  "weakness": [],
+  "icon": [
+    "pr"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

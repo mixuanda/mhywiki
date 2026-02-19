@@ -1,0 +1,18 @@
+{
+  "id": "10012222",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "醇醉",
+  "description": "受到的击破伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012222,
+    "MDF": "MAvatar_Lingsha_BreakDamageUp",
+    "Name": "醇醉",
+    "Desc": "受到的击破伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

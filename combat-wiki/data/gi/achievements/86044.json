@@ -1,0 +1,15 @@
+{
+  "id": "86044",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "荣华易散",
+  "description": "与其他玩家一同战胜魔像督军。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "53"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

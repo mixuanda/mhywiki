@@ -1,0 +1,19 @@
+{
+  "id": "10011047",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "暴击率提高",
+  "description": "暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011047,
+    "MDF": "MAvatar_Gepard_00_Rank06_AddCritical",
+    "Name": "暴击率提高",
+    "Desc": "暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

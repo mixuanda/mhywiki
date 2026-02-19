@@ -1,0 +1,15 @@
+{
+  "id": "81446",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "我乃茶，釜中之茶",
+  "description": "帮罗叔修好了翘英庄的茶釜。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

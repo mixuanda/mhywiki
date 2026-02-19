@@ -1,0 +1,39 @@
+{
+  "id": "100401403",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "无望冽风的幻灭者",
+  "description": "无望冽风的幻灭者秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
+  "stats": {
+    "HP": 62.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 130.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.6,
+    "Imaginary": 0.6
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_1004010.png",
+  "figure": "monsterfigure/Monster_1004010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

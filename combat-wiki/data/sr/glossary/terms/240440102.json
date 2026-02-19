@@ -1,0 +1,15 @@
+{
+  "id": "240440102",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "潜能实现",
+  "description": "造成伤害提高，回合开始时回复生命值。",
+  "content": {
+    "_id": 240440102,
+    "Name": "潜能实现",
+    "Desc": "造成伤害提高，回合开始时回复生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

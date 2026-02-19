@@ -1,0 +1,15 @@
+{
+  "id": "81503",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "烦请高抬贵脚",
+  "description": "危险可能从天而降。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

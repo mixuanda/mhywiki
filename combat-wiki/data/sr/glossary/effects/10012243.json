@@ -1,0 +1,19 @@
+{
+  "id": "10012243",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "师父，请喝茶！",
+  "description": "<color>%CasterName</color>的【师父】的速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012243,
+    "MDF": "MAvatar_Mar_7th_10_Skill02_Master_SpeedUp",
+    "Name": "师父，请喝茶！",
+    "Desc": "<color>%CasterName</color>的【师父】的速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

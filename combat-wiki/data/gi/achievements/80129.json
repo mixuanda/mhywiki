@@ -1,0 +1,15 @@
+{
+  "id": "80129",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "动物园大亨",
+  "description": "使用道具「四方八方之网」捕获100只野外生物。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

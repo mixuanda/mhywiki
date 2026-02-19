@@ -1,0 +1,18 @@
+{
+  "id": "10012212",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "格挡",
+  "description": "触发天赋的反击效果时，将替换为发动反击【勘破•灭】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012212,
+    "MDF": "MAvatar_Yunli_00_Blocking",
+    "Name": "格挡",
+    "Desc": "触发天赋的反击效果时，将替换为发动反击【勘破•灭】。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

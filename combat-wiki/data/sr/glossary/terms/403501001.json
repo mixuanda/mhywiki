@@ -1,0 +1,15 @@
+{
+  "id": "403501001",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "行动锁定",
+  "description": "目标行动值不会因任意目标回合结束而改变。",
+  "content": {
+    "_id": 403501001,
+    "Name": "行动锁定",
+    "Desc": "目标行动值不会因任意目标回合结束而改变。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

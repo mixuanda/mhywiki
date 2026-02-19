@@ -1,0 +1,18 @@
+{
+  "id": "100141522",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "暖流",
+  "description": "攻击后恢复<color> <b>A</b> </color>点能量。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141522,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Harscyline_Sub",
+    "Name": "暖流",
+    "Desc": "攻击后恢复<color> <b>A</b> </color>点能量。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

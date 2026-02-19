@@ -1,0 +1,18 @@
+{
+  "id": "10012184",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "烬煨",
+  "description": "受到的伤害提高<color> <b>A</b> </color>，回合开始时会受到等同于椒丘<color> <b>B</b> </color>攻击力的火属性附加伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012184,
+    "MDF": "BUYONG_MAvatar_Jiaoqiu_00_Debuff_Flavor",
+    "Name": "烬煨",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>，回合开始时会受到等同于椒丘<color> <b>B</b> </color>攻击力的火属性附加伤害。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

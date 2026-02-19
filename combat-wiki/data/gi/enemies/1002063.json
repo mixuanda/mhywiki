@@ -1,0 +1,21 @@
+{
+  "id": "1002063",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的皮皮潘偶像 · 百诈瞬变",
+  "description": "以「特诺切」为演绎目标的皮皮潘偶像，精通奇妙的帽子戏法与战斗策略，能从多变的角度攻来，让鲁莽者付出代价…<br>在地脉极端紊乱的投映下，演绎者的偏执具象为拒绝与扼杀的攻势。挑战者稍有不慎，就会如「特诺切」碾碎的对手般化为齑粉…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Tenoyollotzin",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

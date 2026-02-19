@@ -1,0 +1,18 @@
+{
+  "id": "210120321",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "黄金圆环",
+  "description": "抵抗所有伤害，受到攻击后移除1层该效果。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210120321,
+    "MDF": "Modifier_StageSpecialAbility_10441211_Block",
+    "Name": "黄金圆环",
+    "Desc": "抵抗所有伤害，受到攻击后移除1层该效果。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

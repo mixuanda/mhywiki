@@ -1,0 +1,10 @@
+{
+  "id": "110402",
+  "game": "sr",
+  "entityType": "material",
+  "name": "恒温晶壳",
+  "icon": "itemicon/110402.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81265",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "沙漠中的探险",
+  "description": "沙漠中的探险才刚刚开始。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "12409",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "螭骨剑",
+  "description": "来自古代大海的稀有兵器，舞剑猎猎宛如太古的涛声。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 509.605949,
+  "subStatType": "CR",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112040",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12409.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054705",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "糖浆与蜜酿",
+  "description": "逐火的征程，会是茶余饭后的谈资吗？<br><color style='color:#8790ab;'>※与翁法罗斯告别后，重回匹诺康尼黄金的时刻</color>",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

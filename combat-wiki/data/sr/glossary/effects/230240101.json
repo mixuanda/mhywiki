@@ -1,0 +1,19 @@
+{
+  "id": "230240101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "灵魂释放",
+  "description": "骑士的祷告将灵魂释放，技能得到了强化。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240101,
+    "MDF": "MMonster_W2_Argenti_00_Power",
+    "Name": "灵魂释放",
+    "Desc": "骑士的祷告将灵魂释放，技能得到了强化。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

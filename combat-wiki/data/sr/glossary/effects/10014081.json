@@ -1,0 +1,17 @@
+{
+  "id": "10014081",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "此躯即神",
+  "description": "免疫控制类负面状态，攻击力提高<color> <b>A</b> </color>，生命上限提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014081,
+    "MDF": "MAvatar_Phainon_00_Ultra",
+    "Name": "此躯即神",
+    "Desc": "免疫控制类负面状态，攻击力提高<color> <b>A</b> </color>，生命上限提高<color> <b>B</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

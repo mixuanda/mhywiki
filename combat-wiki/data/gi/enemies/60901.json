@@ -1,0 +1,25 @@
+{
+  "id": "60901",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "浮游水蕈兽",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fhf"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 蕈兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

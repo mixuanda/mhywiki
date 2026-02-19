@@ -1,0 +1,15 @@
+{
+  "id": "81577",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "没有第三只吗？",
+  "description": "击败炉壳山鼬三…两兄弟。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

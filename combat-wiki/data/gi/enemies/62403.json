@@ -1,0 +1,27 @@
+{
+  "id": "62403",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「陨落的晨星之灵」",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Ice": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 5.2 夜魂试炼"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

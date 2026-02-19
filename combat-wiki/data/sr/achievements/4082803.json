@@ -1,0 +1,18 @@
+{
+  "id": "4082803",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "逃避可耻但有用！",
+  "description": "使用我方角色藿藿在队友全部陷入无法战斗状态时撤退",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

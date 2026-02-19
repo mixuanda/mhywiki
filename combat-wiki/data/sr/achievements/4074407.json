@@ -1,0 +1,18 @@
+{
+  "id": "4074407",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "Trace on!",
+  "description": "使用我方角色Archer施放【伪•螺旋剑】时，在【回路连接】状态下连续释 5 次【伪•螺旋剑】",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

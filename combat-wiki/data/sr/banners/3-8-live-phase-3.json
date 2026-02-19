@@ -1,0 +1,34 @@
+{
+  "id": "3-8-live-phase-3",
+  "game": "sr",
+  "entityType": "banner",
+  "version": "3.8 Live",
+  "phase": 3,
+  "featuredFiveStar": [
+    {
+      "N": 1402,
+      "X": 3
+    },
+    {
+      "N": 1313,
+      "X": 3
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": 1002,
+      "X": 6
+    },
+    {
+      "N": 1207,
+      "X": 7
+    },
+    {
+      "N": 1202,
+      "X": 8
+    }
+  ],
+  "source": {
+    "file": "data/banner.js"
+  }
+}

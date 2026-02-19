@@ -1,0 +1,22 @@
+{
+  "id": "14513",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "金流监督",
+  "description": "能够监控特定现象的悬浮仪器，废弃后被拾获者重新改造为其它用途。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 674.3345459999999,
+  "subStatType": "CR",
+  "subStatValue": 0.220512,
+  "materialRefs": [
+    "112082",
+    "112094",
+    "114060"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14513.js"
+  }
+}

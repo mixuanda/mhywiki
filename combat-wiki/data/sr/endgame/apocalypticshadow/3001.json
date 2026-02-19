@@ -1,0 +1,327 @@
+{
+  "id": "3001",
+  "game": "sr",
+  "entityType": "endgameCycle",
+  "mode": "apocalypticshadow",
+  "name": "冽风骑士",
+  "content": {
+    "_id": 3001,
+    "Name": "冽风骑士",
+    "Floors": [
+      {
+        "Floor": 1,
+        "ElemUpper": [
+          "Elec",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Imaginary"
+        ],
+        "HPAS": 306459,
+        "Upper": [
+          {
+            "_id": 420101,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 623,
+              "ATK": 0.75,
+              "HP": 0.25
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401401,
+                  "HP": 76615,
+                  "HPCount": 2,
+                  "SPD": 130,
+                  "Stance": "114,162"
+                },
+                {
+                  "ID": 100402601,
+                  "HP": 36775,
+                  "SPD": 125,
+                  "Stance": 10
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420111,
+            "Level": 60,
+            "EliteGroup": {
+              "ID": 620,
+              "ATK": 0.9,
+              "HP": 0.25
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 302401301,
+                  "HP": 76615,
+                  "HPCount": 2,
+                  "SPD": 105,
+                  "Stance": 14
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 2,
+        "ElemUpper": [
+          "Elec",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Imaginary"
+        ],
+        "HPAS": 1104226,
+        "Upper": [
+          {
+            "_id": 420102,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 624,
+              "ATK": 0.85,
+              "HP": 0.5
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401402,
+                  "HP": 276056,
+                  "HPCount": 2,
+                  "SPD": 143,
+                  "Stance": "133,189"
+                },
+                {
+                  "ID": 100402602,
+                  "HP": 132507,
+                  "SPD": 138,
+                  "Stance": 12
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420112,
+            "Level": 70,
+            "EliteGroup": {
+              "ID": 621,
+              "HP": 0.5
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 302401302,
+                  "HP": 276056,
+                  "HPCount": 2,
+                  "SPD": 116,
+                  "Stance": 18
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 3,
+        "ElemUpper": [
+          "Elec",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Imaginary"
+        ],
+        "HPAS": 3957445,
+        "Upper": [
+          {
+            "_id": 420103,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 625,
+              "ATK": 0.935,
+              "DEF": 1.05,
+              "HP": 1.15
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401403,
+                  "HP": 989361,
+                  "HPCount": 2,
+                  "SPD": 156,
+                  "Stance": "152,216"
+                },
+                {
+                  "ID": 100402603,
+                  "HP": 474893,
+                  "SPD": 150,
+                  "Stance": 15
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420113,
+            "Level": 80,
+            "EliteGroup": {
+              "ID": 622,
+              "ATK": 1.1,
+              "DEF": 1.05,
+              "HP": 1.15
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 302401303,
+                  "HP": 989361,
+                  "HPCount": 2,
+                  "SPD": 126,
+                  "Stance": 22
+                }
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "Floor": 4,
+        "ElemUpper": [
+          "Elec",
+          "Quantum"
+        ],
+        "ElemLower": [
+          "Phys",
+          "Fire",
+          "Imaginary"
+        ],
+        "HPAS": 5499432,
+        "Upper": [
+          {
+            "_id": 420104,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 627,
+              "ATK": 0.85
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 100401404,
+                  "HP": 1374858,
+                  "HPCount": 2,
+                  "SPD": 172,
+                  "Stance": "190,270"
+                },
+                {
+                  "ID": 100402604,
+                  "HP": 659932,
+                  "SPD": 165,
+                  "Stance": 20
+                }
+              ]
+            ]
+          }
+        ],
+        "Lower": [
+          {
+            "_id": 420114,
+            "Level": 90,
+            "EliteGroup": {
+              "ID": 626
+            },
+            "Monsters": [
+              [
+                {
+                  "ID": 302401304,
+                  "HP": 1374858,
+                  "HPCount": 2,
+                  "SPD": 139,
+                  "Stance": 30
+                }
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "Buff": {
+      "_id": 3110001,
+      "Name": "末法余烬",
+      "Desc": "拥有<color style='color:#f29e38;'>【坚防守备】</color>的敌方单位被<color style='color:#f29e38;'>弱点击破</color>时，使我方全体恢复战技点并激活终结技。<br>敌方全体受到的弱点击破伤害提高<color style='color:#f29e38;'> 15% </color>，超击破伤害额外提高<color style='color:#f29e38;'> 25% </color>。"
+    },
+    "UB": [
+      {
+        "_id": 3111008,
+        "Name": "破碎乐土",
+        "Desc": "我方全体击破特攻提高<color style='color:#f29e38;'> 50% </color>，对敌方造成超击破伤害后速度提高，提高数值等同于当前速度的<color style='color:#f29e38;'> 40% </color>，持续直到下次行动。"
+      },
+      {
+        "_id": 3111010,
+        "Name": "终结之刻",
+        "Desc": "我方全体终结技造成的伤害提高<color style='color:#f29e38;'> 50% </color>。消灭敌方目标后，攻击者行动提前<color style='color:#f29e38;'> 25% </color>。"
+      },
+      {
+        "_id": 3111011,
+        "Name": "持续腐化",
+        "Desc": "在拥有【坚防守备】的敌方单位被弱点击破前，累积受到的持续伤害值。在弱点击破后对该单位造成等同于累积伤害值<color style='color:#f29e38;'> 170% </color>的附加伤害。"
+      }
+    ],
+    "LB": [
+      {
+        "_id": 3111008,
+        "Name": "破碎乐土",
+        "Desc": "我方全体击破特攻提高<color style='color:#f29e38;'> 50% </color>，对敌方造成超击破伤害后速度提高，提高数值等同于当前速度的<color style='color:#f29e38;'> 40% </color>，持续直到下次行动。"
+      },
+      {
+        "_id": 3111009,
+        "Name": "灰色战场",
+        "Desc": "我方全体普攻、战技造成的伤害提高<color style='color:#f29e38;'> 50% </color>。消灭敌方目标后，攻击者行动提前<color style='color:#f29e38;'> 25% </color>。"
+      },
+      {
+        "_id": 3111012,
+        "Name": "末日追击",
+        "Desc": "在拥有【坚防守备】的敌方单位被弱点击破前，累积受到的追加攻击伤害值。在弱点击破后对该单位造成等同于累积伤害值<color style='color:#f29e38;'> 200% </color>的附加伤害。"
+      }
+    ],
+    "UC": [
+      100101,
+      100102,
+      100103,
+      100104
+    ],
+    "LC": [
+      100201,
+      100202,
+      100203,
+      100204
+    ],
+    "UG": [
+      10011,
+      10012
+    ],
+    "LG": [
+      10021,
+      10022
+    ]
+  },
+  "source": {
+    "files": [
+      "data/CH/AS.js"
+    ]
+  }
+}

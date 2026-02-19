@@ -1,0 +1,25 @@
+{
+  "id": "40607",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "机关 · 灵活采集型 · 荒",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_MachinaIustitia_Assimilator"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 小机关 · 荒"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

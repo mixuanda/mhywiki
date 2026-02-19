@@ -1,0 +1,19 @@
+{
+  "id": "10013152",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "额外物理弱点",
+  "description": "被添加的额外物理弱点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013152,
+    "MDF": "MAvatar_Boothill_00_Ultra_PhysicalWeakness",
+    "Name": "额外物理弱点",
+    "Desc": "被添加的额外物理弱点。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

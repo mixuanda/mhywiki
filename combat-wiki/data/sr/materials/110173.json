@@ -1,0 +1,10 @@
+{
+  "id": "110173",
+  "game": "sr",
+  "entityType": "material",
+  "name": "永恒之花",
+  "icon": "itemicon/110173.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

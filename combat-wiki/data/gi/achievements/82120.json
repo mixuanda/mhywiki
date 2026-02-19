@@ -1,0 +1,15 @@
+{
+  "id": "82120",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "禁止游泳",
+  "description": "在深海龙蜥之群挑战中，在深海龙蜥未入水的情况下击败它们。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "29"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

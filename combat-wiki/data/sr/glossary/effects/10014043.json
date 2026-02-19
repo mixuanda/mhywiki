@@ -1,0 +1,18 @@
+{
+  "id": "10014043",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "水与泥土",
+  "description": "【血仇】状态下万敌受到致命攻击时不会退出【血仇】状态。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014043,
+    "MDF": "MAvatar_Mydeimos_00_SkillTree01",
+    "Name": "水与泥土",
+    "Desc": "【血仇】状态下万敌受到致命攻击时不会退出【血仇】状态。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

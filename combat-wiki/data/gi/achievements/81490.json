@@ -1,0 +1,15 @@
+{
+  "id": "81490",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "禁止随意拿取！",
+  "description": "将黑曜石的偶像还回「悬木人」祖地的祭坛之上。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

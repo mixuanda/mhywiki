@@ -1,0 +1,15 @@
+{
+  "id": "81264",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "第几类接触",
+  "description": "不同寻常的「朋友」加入了考古小队。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

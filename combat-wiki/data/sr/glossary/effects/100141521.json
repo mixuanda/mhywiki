@@ -1,0 +1,18 @@
+{
+  "id": "100141521",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「律法」之诗",
+  "description": "持有【军功】的角色的暴击伤害提高<color> <b>A</b> </color>。奇袭结束后，刻律德菈获得<color> <b>B</b> </color>点充能。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141521,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Cerydra",
+    "Name": "献予「律法」之诗",
+    "Desc": "持有【军功】的角色的暴击伤害提高<color> <b>A</b> </color>。奇袭结束后，刻律德菈获得<color> <b>B</b> </color>点充能。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

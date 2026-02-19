@@ -1,0 +1,39 @@
+{
+  "id": "800205302",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "巨大扑满",
+  "description": "拥有比普通扑满更强壮的体格，看来伙食不错。",
+  "stats": {
+    "HP": 36.0,
+    "ATK": 18.0,
+    "DEF": 1.5,
+    "SPD": 83.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Ice"
+  ],
+  "resistance": {
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_8002050.png",
+  "figure": "monsterfigure/Monster_8002050.png",
+  "camp": {
+    "id": "4",
+    "name": "模拟宇宙"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

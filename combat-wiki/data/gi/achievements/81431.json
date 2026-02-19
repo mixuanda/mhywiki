@@ -1,0 +1,15 @@
+{
+  "id": "81431",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "凯撒来了也不卖",
+  "description": "获得这个世界上最伟大的艺术作品。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

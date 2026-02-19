@@ -1,0 +1,15 @@
+{
+  "id": "84043",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "直面雷光",
+  "description": "成为「眼狩令」的目标。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

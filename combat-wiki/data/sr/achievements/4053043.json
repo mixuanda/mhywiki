@@ -1,0 +1,18 @@
+{
+  "id": "4053043",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "垃美西斯二世",
+  "description": "挑战「白日梦」酒店、黄金的时刻、稚子的梦、筑梦边境中全部的王下一桶",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

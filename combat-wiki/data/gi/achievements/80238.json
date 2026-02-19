@@ -1,0 +1,15 @@
+{
+  "id": "80238",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "穷碧落而下墟渊",
+  "description": "解锁须弥区域中，荒石苍漠、浮罗囿的所有传送锚点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "41"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

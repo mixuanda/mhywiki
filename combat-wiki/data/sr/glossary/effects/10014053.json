@@ -1,0 +1,19 @@
+{
+  "id": "10014053",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "坠落在山谷的炽热",
+  "description": "每层使攻击力提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014053,
+    "MDF": "MAvatar_Anaxa_00_BPSkill_Buff",
+    "Name": "坠落在山谷的炽热",
+    "Desc": "每层使攻击力提高<color> <b>A</b> </color>，该效果最多叠加<color> <b>B</b> </color>层。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

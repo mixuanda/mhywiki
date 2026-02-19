@@ -1,0 +1,15 @@
+{
+  "id": "81015",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "塞西莉亚苗圃",
+  "description": "帮助仙灵归位，解锁奔狼领内的秘境入口。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

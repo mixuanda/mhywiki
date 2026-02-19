@@ -1,0 +1,15 @@
+{
+  "id": "80277",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "汐海引路人 · 其二",
+  "description": "在黎翡区、枫丹动能工程科学研究院区追随<color style='color:#FF0000;'><b>9</b></color>个仙灵，并点亮仙灵之庭。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "45"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81231",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "不再苍翠的苗圃",
+  "description": "踏入曾经的桓那兰那。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

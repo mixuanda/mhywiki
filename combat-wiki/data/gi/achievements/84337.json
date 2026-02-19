@@ -1,0 +1,15 @@
+{
+  "id": "84337",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "梦醒时分",
+  "description": "隐藏在梦境中的，是过去与未来的回音。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

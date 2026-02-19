@@ -1,0 +1,18 @@
+{
+  "id": "4092319",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "千星寰宇，一场游戏",
+  "description": "「模拟宇宙」内，累计解锁 40.0 个奇物",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

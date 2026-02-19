@@ -1,0 +1,19 @@
+{
+  "id": "10013033",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "残梅绽",
+  "description": "当敌方目标尝试从弱点击破状态恢复时，延长其弱点击破状态，并对其造成冰属性击破伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013033,
+    "MDF": "MAvatar_RuanMei_PassiveArea_Enemy",
+    "Name": "残梅绽",
+    "Desc": "当敌方目标尝试从弱点击破状态恢复时，延长其弱点击破状态，并对其造成冰属性击破伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

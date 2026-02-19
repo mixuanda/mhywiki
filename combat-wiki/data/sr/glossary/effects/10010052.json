@@ -1,0 +1,17 @@
+{
+  "id": "10010052",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "温柔亦同残酷",
+  "description": "天赋【温柔亦同残酷】的效果尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010052,
+    "MDF": "MAvatar_Kafka_00_Passive_CanAttackCD",
+    "Name": "温柔亦同残酷",
+    "Desc": "天赋【温柔亦同残酷】的效果尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

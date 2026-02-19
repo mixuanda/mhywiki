@@ -1,0 +1,18 @@
+{
+  "id": "13304",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "「旗杆」",
+  "description": "备用",
+  "rarity": 3,
+  "weaponType": 4,
+  "baseAtk": 189.42540000000002,
+  "subStatType": "",
+  "subStatValue": 0.0,
+  "materialRefs": [],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13304.js"
+  }
+}

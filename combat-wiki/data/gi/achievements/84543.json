@@ -1,0 +1,15 @@
+{
+  "id": "84543",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "啊哈…什么上钩了？",
+  "description": "与凯万一起钓起奇怪的东西…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

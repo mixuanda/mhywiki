@@ -1,0 +1,15 @@
+{
+  "id": "84073",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "是梦终将醒来",
+  "description": "从「花神诞日的轮回」中醒来。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

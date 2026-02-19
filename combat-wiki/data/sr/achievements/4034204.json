@@ -1,0 +1,18 @@
+{
+  "id": "4034204",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "以法为和平的王冠",
+  "description": "公民们将以投票的方式决定翁法罗斯的未来<br><color style='color:#8790ab;'>※见证「公民大会」最后的结果</color>",
+  "reward": 10,
+  "version": 3.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

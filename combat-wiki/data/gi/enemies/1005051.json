@@ -1,0 +1,21 @@
+{
+  "id": "1005051",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深罪浸礼者 · 锐言",
+  "description": "因为深渊的力量取得「进化」而获得了多余的肢体的深渊魔物。能够驱役多种元素的力量。<br>在深渊魔物中的独特地位赋予了它们非同寻常的压迫感，不幸死于其手的生灵则将恐惧融入地脉的记忆，使得它们的低语化为刀刃般的禁咒…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Archdeacon",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

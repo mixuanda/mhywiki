@@ -1,0 +1,18 @@
+{
+  "id": "4053512",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "今日无闻",
+  "description": "在「即使喝彩停息」中，有任意一次赛后采访没有选择卡美丽提问",
+  "reward": 5,
+  "version": 2.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

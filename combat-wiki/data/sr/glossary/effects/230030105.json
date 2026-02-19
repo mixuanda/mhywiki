@@ -1,0 +1,17 @@
+{
+  "id": "230030105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "急火",
+  "description": "当自身受到攻击或持续伤害时，叠加1层【炉灶加温】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030105,
+    "MDF": "MModifier_Monster_W3_Dinosaur_00_Fury",
+    "Name": "急火",
+    "Desc": "当自身受到攻击或持续伤害时，叠加1层【炉灶加温】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

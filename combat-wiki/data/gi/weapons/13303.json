@@ -1,0 +1,32 @@
+{
+  "id": "13303",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "黑缨枪",
+  "description": "解决了白缨容易弄脏问题的绝世好枪。",
+  "rarity": 3,
+  "weaponType": 4,
+  "baseAtk": 354.37940000000003,
+  "subStatType": "HP",
+  "subStatValue": 0.46919900200000003,
+  "materialRefs": [
+    "112013",
+    "112043",
+    "114024"
+  ],
+  "affix": {
+    "113303": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "对史莱姆类敌人造成的伤害增加 <color style='color:#99FFFFFF'>40%</color> / <color style='color:#99FFFFFF'>50%</color> / <color style='color:#99FFFFFF'>60%</color> / <color style='color:#99FFFFFF'>70%</color> / <color style='color:#99FFFFFF'>80%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13303.js"
+  }
+}

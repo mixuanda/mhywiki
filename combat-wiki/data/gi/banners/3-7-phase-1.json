@@ -1,0 +1,34 @@
+{
+  "id": "3-7-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "3.7",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Yae",
+      "X": 3
+    },
+    {
+      "N": "Yoimiya",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Momoka",
+      "X": 1
+    },
+    {
+      "N": "Yunjin",
+      "X": 5
+    },
+    {
+      "N": "Chongyun",
+      "X": 7
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

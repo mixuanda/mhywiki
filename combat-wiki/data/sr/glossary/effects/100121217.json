@@ -1,0 +1,18 @@
+{
+  "id": "100121217",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "蚀变于娄",
+  "description": "冰属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100121217,
+    "MDF": "MAvatar_Advanced_Jingliu_Rank06",
+    "Name": "蚀变于娄",
+    "Desc": "冰属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

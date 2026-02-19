@@ -1,0 +1,22 @@
+{
+  "id": "14502",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "四风原典",
+  "description": "崇信风的无名先民所写的教典珍本。数千年流传的信仰之力得到了风的青睐，饱含祝福与力量。",
+  "rarity": 5,
+  "weaponType": 3,
+  "baseAtk": 608.0745972,
+  "subStatType": "CR",
+  "subStatValue": 0.330768,
+  "materialRefs": [
+    "112004",
+    "112025",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14502.js"
+  }
+}

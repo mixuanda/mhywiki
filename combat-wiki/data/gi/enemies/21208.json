@@ -1,0 +1,25 @@
+{
+  "id": "21208",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深邃拟态 · 鳍游龙",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_TheAbyss_Rhizome"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

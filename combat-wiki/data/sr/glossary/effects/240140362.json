@@ -1,0 +1,17 @@
+{
+  "id": "240140362",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "迟到的死讯",
+  "description": "【生者不应逃离】被强化为【死者不应躲避】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140362,
+    "MDF": "MMonster_W4_PolluxPart_00_IF_Shield",
+    "Name": "迟到的死讯",
+    "Desc": "【生者不应逃离】被强化为【死者不应躲避】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

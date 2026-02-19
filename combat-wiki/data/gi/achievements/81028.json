@@ -1,0 +1,15 @@
+{
+  "id": "81028",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "QUEST CLEAR",
+  "description": "完成9次「讨伐悬赏」。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

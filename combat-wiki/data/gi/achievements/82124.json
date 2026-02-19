@@ -1,0 +1,15 @@
+{
+  "id": "82124",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猛犬注意",
+  "description": "击败正在咆哮的兽境猎犬。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

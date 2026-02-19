@@ -1,0 +1,39 @@
+{
+  "id": "102302007",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "深寒徘徊者",
+  "description": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
+  "stats": {
+    "HP": 12.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 10.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Quantum"
+  ],
+  "resistance": {
+    "Ice": 0.4,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1023020.png",
+  "figure": "monsterfigure/Monster_1023020.png",
+  "camp": {
+    "id": "3",
+    "name": "裂界造物"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

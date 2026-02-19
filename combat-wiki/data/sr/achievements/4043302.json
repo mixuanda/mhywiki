@@ -1,0 +1,18 @@
+{
+  "id": "4043302",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "可惜不是吹奏部",
+  "description": "拯救{TEXTJOIN#87}上的迷钟「老大」",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

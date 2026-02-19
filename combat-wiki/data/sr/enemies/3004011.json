@@ -1,0 +1,30 @@
+{
+  "id": "3004011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "昔在、今在、永在的剧目（完整）",
+  "description": "代码受到影响后的完整投影。参照本体为美梦剧团的演员们，蒙受了「秩序」的恩典，化作宣明法度的傀儡。它们在至高的诫命下起舞，献演迎接乐园的剧目。",
+  "stats": {
+    "HP": 27.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 0.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_3004010.png",
+  "figure": "monsterfigure/Monster_3004010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

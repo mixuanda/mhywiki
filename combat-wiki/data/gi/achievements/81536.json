@@ -1,0 +1,15 @@
+{
+  "id": "81536",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "追逐的荣光，或其意义…",
+  "description": "调解了飞屋三姐弟之间的矛盾与分歧。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

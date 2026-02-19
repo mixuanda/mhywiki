@@ -1,0 +1,15 @@
+{
+  "id": "81206",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "人情练达即文章",
+  "description": "完成所有生态调查任务，收到海迪夫给的推荐信。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

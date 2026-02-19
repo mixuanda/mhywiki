@@ -1,0 +1,25 @@
+{
+  "id": "55106",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "鳍游龙武士 · 裂礁之涛",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Launcher_Mosasaurus"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 鳍游龙武士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

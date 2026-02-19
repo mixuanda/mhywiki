@@ -1,0 +1,17 @@
+{
+  "id": "230140209",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "白日西沉",
+  "description": "已叠加3层【白日西沉】，即将发动致命攻击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230140209,
+    "MDF": "Modifier_W3_Death_00_HuntingMode3",
+    "Name": "白日西沉",
+    "Desc": "已叠加3层【白日西沉】，即将发动致命攻击。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80459",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "拨开天的雪幕",
+  "description": "集齐全套《朔风集》。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "65"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

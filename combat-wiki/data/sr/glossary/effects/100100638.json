@@ -1,0 +1,19 @@
+{
+  "id": "100100638",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "旁注",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100638,
+    "MDF": "MAvatar_Advanced_Silwolf_00_Tree03_AttackUp",
+    "Name": "旁注",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

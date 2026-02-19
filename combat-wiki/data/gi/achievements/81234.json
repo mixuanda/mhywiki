@@ -1,0 +1,15 @@
+{
+  "id": "81234",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "永不属于森林的孩子",
+  "description": "这样一来，问题应该解决了。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "10012074",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "抵挡负面效果",
+  "description": "抵挡1次负面效果。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012074,
+    "MDF": "MAvatar_Yukong_00_Point01_Resist",
+    "Name": "抵挡负面效果",
+    "Desc": "抵挡1次负面效果。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

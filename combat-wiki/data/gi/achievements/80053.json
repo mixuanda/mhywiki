@@ -1,0 +1,15 @@
+{
+  "id": "80053",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "磐岩的冒险家",
+  "description": "在璃月，完成10个大世界机关限时挑战（层岩巨渊与沉玉谷另外计算）。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "5"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

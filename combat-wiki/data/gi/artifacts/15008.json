@@ -1,0 +1,28 @@
+{
+  "id": "15008",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "染血的骑士道",
+  "icon": "UI_RelicIcon_15008",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "造成的物理伤害提高25%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "击败敌人后的10秒内，施放重击时不消耗体力，且重击造成的伤害提升50%。"
+    }
+  ],
+  "parts": [
+    "染血的铁之心",
+    "染血的黑之羽",
+    "骑士染血之时",
+    "染血骑士之杯",
+    "染血的铁假面"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

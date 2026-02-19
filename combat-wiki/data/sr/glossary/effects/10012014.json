@@ -1,0 +1,18 @@
+{
+  "id": "10012014",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "不求人",
+  "description": "施放普攻或施放强化普攻后立即进行1次追加攻击，对该目标造成等同于普攻或强化普攻伤害100%的量子属性伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012014,
+    "MDF": "MAvatar_QingQue_00_Rank04_ATK",
+    "Name": "不求人",
+    "Desc": "施放普攻或施放强化普攻后立即进行1次追加攻击，对该目标造成等同于普攻或强化普攻伤害100%的量子属性伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81538",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "献与永恒的宁静",
+  "description": "自旧日的统律者处取得如玉的机心。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

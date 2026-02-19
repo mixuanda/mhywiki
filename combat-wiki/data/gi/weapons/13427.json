@@ -1,0 +1,22 @@
+{
+  "id": "13427",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "勘探钻机",
+  "description": "如今几乎绝迹的长柄钻机，常用于勘探与石料切割雕刻作业。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "ATK",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112085",
+    "112094",
+    "114052"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13427.js"
+  }
+}

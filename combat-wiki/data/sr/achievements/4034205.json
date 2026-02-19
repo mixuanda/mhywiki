@@ -1,0 +1,18 @@
+{
+  "id": "4034205",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "拥抱你的长指",
+  "description": "如此幸福的一天，有一份独属于你的礼物<br><color style='color:#8790ab;'>※拾起遐蝶手工制作的戒指</color>",
+  "reward": 10,
+  "version": 3.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

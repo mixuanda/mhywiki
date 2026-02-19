@@ -1,0 +1,15 @@
+{
+  "id": "81069",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "标准图样",
+  "description": "习得120份摆设图纸。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "18"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

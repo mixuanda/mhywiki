@@ -1,0 +1,19 @@
+{
+  "id": "100130315",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "落烛照水燃",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 100130315,
+    "MDF": "buyong_luozhuzhaoshuiran",
+    "Name": "落烛照水燃",
+    "Desc": {},
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

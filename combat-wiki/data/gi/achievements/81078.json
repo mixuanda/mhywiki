@@ -1,0 +1,15 @@
+{
+  "id": "81078",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "Deja Vu!",
+  "description": "持续高速行驶「浪船」达到一定时间。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

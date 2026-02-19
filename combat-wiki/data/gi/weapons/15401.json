@@ -1,0 +1,22 @@
+{
+  "id": "15401",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "西风猎弓",
+  "description": "西风骑士团的制式反曲弓，只有杰出的弓手能与它的杰出性能相衬。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ER",
+  "subStatValue": 0.6125318020000001,
+  "materialRefs": [
+    "112025",
+    "112040",
+    "114012"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15401.js"
+  }
+}

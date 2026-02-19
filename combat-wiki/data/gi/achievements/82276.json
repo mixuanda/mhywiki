@@ -1,0 +1,15 @@
+{
+  "id": "82276",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "殊形之龙…",
+  "description": "分别在深邃摹结株复现古岩龙蜥、翠翎恐蕈以及千年珍珠骏麟的形象时，将其击败。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "59"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

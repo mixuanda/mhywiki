@@ -1,0 +1,15 @@
+{
+  "id": "82196",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「吉位！」",
+  "description": "一次挑战中，通过元素反应，使隐山猊兽分别在汇集风元素与水元素的仙力时陷入瘫痪状态。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "49"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

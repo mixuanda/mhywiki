@@ -1,0 +1,34 @@
+{
+  "id": "3-8-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "3.8",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Eula",
+      "X": 3
+    },
+    {
+      "N": "Klee",
+      "X": 4
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Mika",
+      "X": 2
+    },
+    {
+      "N": "Tohma",
+      "X": 5
+    },
+    {
+      "N": "Razor",
+      "X": 6
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

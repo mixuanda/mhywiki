@@ -1,0 +1,39 @@
+{
+  "id": "4032041",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "黑潮参议",
+  "description": "从黑潮中诞生的扭曲造物，对杀戮的渴求成为了空洞躯壳中仅存的意志。<br>原本可用来经世济民的学识反转为文明的恶敌，擅长潜伏与博弈的它们如同贪婪的秃鹫，渴望为黑潮不断奉上新的牺牲。",
+  "stats": {
+    "HP": 0.005,
+    "ATK": 66.66667,
+    "DEF": 1.0,
+    "SPD": 180.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4032040.png",
+  "figure": "monsterfigure/Monster_4032040.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

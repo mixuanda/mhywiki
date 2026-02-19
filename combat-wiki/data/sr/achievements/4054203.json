@@ -1,0 +1,18 @@
+{
+  "id": "4054203",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "清晨那安静的石板路",
+  "description": "与小女孩希瑞雅一同经历与「刻法勒」的对话<br><color style='color:#8790ab;'>※并守护一则温暖的谎言</color>",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

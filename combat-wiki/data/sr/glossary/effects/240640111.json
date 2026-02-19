@@ -1,0 +1,17 @@
+{
+  "id": "240640111",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "罪血浸染",
+  "description": "被【指名祸首】选中过的角色。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240640111,
+    "MDF": "Monster_W4_Serpent_01_RLBoss_Skill06Choose",
+    "Name": "罪血浸染",
+    "Desc": "被【指名祸首】选中过的角色。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

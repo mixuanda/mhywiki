@@ -1,0 +1,15 @@
+{
+  "id": "306",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "停转的萨尔索图",
+  "icon": "71017.png",
+  "setBonuses": [
+    "使装备者的暴击率提高 <b>8%</b> 。当装备者当前暴击率大于等于 <b>50%</b> 时，终结技和追加攻击造成的伤害提高 <b>15%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/306.js"
+  }
+}

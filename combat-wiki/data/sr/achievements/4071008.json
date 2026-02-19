@@ -1,0 +1,18 @@
+{
+  "id": "4071008",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "甲胄之殇",
+  "description": "单场战斗，1名角色累计受到 10000.0 点伤害",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

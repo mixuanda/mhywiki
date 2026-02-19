@@ -1,0 +1,18 @@
+{
+  "id": "4074301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "偷天换日",
+  "description": "单场战斗中，我方角色赛飞儿天赋效果记录的伤害值超过 9999999 点",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

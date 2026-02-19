@@ -1,0 +1,39 @@
+{
+  "id": "4034012",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "「黑斗篷魔王」",
+  "description": "盘踞在银河深处的恐怖大魔王，拥有脚踩星系拳打黑洞的实力，数百万颗星球被笼罩在漆黑斗篷的阴影下，全银河都在呼唤一位能掀翻魔王统治的勇士。",
+  "stats": {
+    "HP": 1200.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 250.0,
+    "Stance": 24.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4034010.png",
+  "figure": "monsterfigure/Monster_4034010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

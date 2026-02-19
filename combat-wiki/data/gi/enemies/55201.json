@@ -1,0 +1,31 @@
+{
+  "id": "55201",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "灵觉隐修的迷者",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_TribalWarrior_Udugan"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 暝视龙武士"
+  ],
+  "analysis": {
+    "Name": "灵觉隐修的迷者",
+    "Icon": "UI_MonsterIcon_TribalWarrior_Udugan",
+    "DescList": [
+      "• 会隐去自身，并创造四枚会攻击的迷影，具有 @8U 冻盾#（和大冰史莱姆相同）<br>• 击破一枚迷影使本体@现身 4s#，全部击破使本体@瘫痪 14s#，期间@全部抗性降低 40%#<br>• 使用瞑视龙或烟谜主角色的能力扫描迷影，会使其@失去行动能力#，且@损失 2U 护盾#"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81254",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "三之定则",
+  "description": "找到三篇失落的歌谱，获得三枚恒素果。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

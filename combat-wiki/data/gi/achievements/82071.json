@@ -1,0 +1,15 @@
+{
+  "id": "82071",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "玫瑰花蕾…",
+  "description": "粉碎一个冰萤术士的护罩。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "15"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "4032071",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "被操弄的逻各斯",
+  "description": "世界的形态，求索的欲望，以及赋予他们形体的无垠空间，从中诞生一切智慧的知性。它不再是傀儡，将死于灵知的葬仪，留一座铁铸的墓碑。",
+  "stats": {
+    "HP": 20.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 132.0,
+    "Stance": 0.0
+  },
+  "weakness": [],
+  "resistance": {},
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4032070.png",
+  "figure": "monsterfigure/Monster_4032070.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

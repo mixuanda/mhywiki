@@ -1,0 +1,15 @@
+{
+  "id": "81336",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "在萨雷-奥杰卡的天空翱翔",
+  "description": "使斯露莎维持飞行一段时间。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

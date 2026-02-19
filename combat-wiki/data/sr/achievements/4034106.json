@@ -1,0 +1,18 @@
+{
+  "id": "4034106",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "旧叶落地，然新木萌发",
+  "description": "当黎明用玫瑰色的手指送来曙光<br><color style='color:#8790ab;'>※见证缇安展翅飞向注定的明天</color>",
+  "reward": 10,
+  "version": 3.1,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

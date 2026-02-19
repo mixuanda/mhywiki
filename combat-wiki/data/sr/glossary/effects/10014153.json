@@ -1,0 +1,19 @@
+{
+  "id": "10014153",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "众愿啊，汇流如歌",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014153,
+    "MDF": "MAvatar_Cyrene_00_Passive_Sub",
+    "Name": "众愿啊，汇流如歌",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

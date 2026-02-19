@@ -1,0 +1,18 @@
+{
+  "id": "4044114",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "我们仍在路上",
+  "description": "门径，请指引我们<br><color style='color:#8790ab;'>※完成「雅努斯迷津」的最高难度谜题</color>",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

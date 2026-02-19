@@ -1,0 +1,15 @@
+{
+  "id": "84574",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "在那梦中之墟…",
+  "description": "见证「空想俱乐部」的故事。",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

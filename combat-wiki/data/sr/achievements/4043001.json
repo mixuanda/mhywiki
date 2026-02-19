@@ -1,0 +1,18 @@
+{
+  "id": "4043001",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天堂的这一边",
+  "description": "在匹诺康尼激活 15.0 次界域定锚",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

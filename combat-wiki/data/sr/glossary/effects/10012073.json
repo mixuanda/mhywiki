@@ -1,0 +1,18 @@
+{
+  "id": "10012073",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "箭彻七札",
+  "description": "普攻额外造成等同于驭空<color> <b>A</b> </color>攻击力的虚数属性伤害，并使削韧值提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012073,
+    "MDF": "MAvatar_Yukong_00_Passive_Bonus",
+    "Name": "箭彻七札",
+    "Desc": "普攻额外造成等同于驭空<color> <b>A</b> </color>攻击力的虚数属性伤害，并使削韧值提高<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

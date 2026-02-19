@@ -1,0 +1,18 @@
+{
+  "id": "10014086",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "弑魂之炽",
+  "description": "受到的伤害降低<color> <b>A</b> </color>，敌方目标行动完毕后发动反击。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014086,
+    "MDF": "MAvatar_Phainon_00_Guard",
+    "Name": "弑魂之炽",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>，敌方目标行动完毕后发动反击。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

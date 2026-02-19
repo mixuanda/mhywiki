@@ -1,0 +1,15 @@
+{
+  "id": "81092",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "花开之洞天",
+  "description": "在「贵本之道-『薿此芝田』」中收获800个采集物。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "23"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "10002",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "勇士之心",
+  "icon": "UI_RelicIcon_10002",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "攻击力提高18%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "对生命值高于50%的敌人，造成的伤害增加30%。"
+    }
+  ],
+  "parts": [
+    "勇士的勋章",
+    "勇士的期许",
+    "勇士的坚毅",
+    "勇士的壮行",
+    "勇士的冠冕"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

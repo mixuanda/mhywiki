@@ -1,0 +1,15 @@
+{
+  "id": "70000208",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "血狂",
+  "description": "每层【血狂】都将使持有者的暴击率和暴击伤害提高。",
+  "content": {
+    "_id": 70000208,
+    "Name": "血狂",
+    "Desc": "每层【血狂】都将使持有者的暴击率和暴击伤害提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

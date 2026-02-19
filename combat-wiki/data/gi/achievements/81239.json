@@ -1,0 +1,15 @@
+{
+  "id": "81239",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "以「安弗塔斯」之名",
+  "description": "造访勇士们的终点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

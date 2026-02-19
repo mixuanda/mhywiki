@@ -1,0 +1,18 @@
+{
+  "id": "4092638",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "轨道核打击",
+  "description": "完成「模拟宇宙：寰宇蝗灾」第五难度",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

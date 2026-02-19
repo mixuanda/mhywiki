@@ -1,0 +1,17 @@
+{
+  "id": "10013086",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "四相断我",
+  "description": "施放终结技后获得【四相断我】相应层数的【残梦】，同时为敌方随机单体附上相应层数的【集真赤】。该效果最多叠加<color> <b>A</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013086,
+    "MDF": "MAvatar_Acheron_00_UltraSkillSpareCount_PointB1",
+    "Name": "四相断我",
+    "Desc": "施放终结技后获得【四相断我】相应层数的【残梦】，同时为敌方随机单体附上相应层数的【集真赤】。该效果最多叠加<color> <b>A</b> </color>层。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

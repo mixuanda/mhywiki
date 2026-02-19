@@ -1,0 +1,19 @@
+{
+  "id": "100131312",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "群星喧哗之始",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100131312,
+    "MDF": "MAvatar_Sunday_10_CriticalChanceConvert",
+    "Name": "群星喧哗之始",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

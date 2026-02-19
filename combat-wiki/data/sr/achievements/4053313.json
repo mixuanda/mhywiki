@@ -1,0 +1,18 @@
+{
+  "id": "4053313",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "家庭影院",
+  "description": "在{TEXTJOIN#87}上使用放映机，并邀请列车组成员前来观看",
+  "reward": 5,
+  "version": 2.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

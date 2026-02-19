@@ -1,0 +1,15 @@
+{
+  "id": "81639",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "细细的黑线",
+  "description": "净化了流溢的深渊之力。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

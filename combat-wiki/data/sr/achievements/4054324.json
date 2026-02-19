@@ -1,0 +1,18 @@
+{
+  "id": "4054324",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "The Chosen One",
+  "description": "在「银河球棒侠传说」活动中，一次「幸运轮盘」或「幸运儿的赌局」攻击中roll到5.0个钻石",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

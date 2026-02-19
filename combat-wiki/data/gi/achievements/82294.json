@@ -1,0 +1,15 @@
+{
+  "id": "82294",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "按下自爆按钮！",
+  "description": "通过持续的火元素攻击，使熔岩辉龙像熔化崩解。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

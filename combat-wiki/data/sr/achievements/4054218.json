@@ -1,0 +1,18 @@
+{
+  "id": "4054218",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "豆豆眉最可爱！",
+  "description": "在「豹豹碰碰大作战」中，与浴场的所有小海豹对话一次，会有好事发生吗？",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

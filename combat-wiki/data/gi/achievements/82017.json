@@ -1,0 +1,15 @@
+{
+  "id": "82017",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "大黄金丘丘王",
+  "description": "在魔化状态结束前，击败丘丘岩盔王。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81000",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "俯瞰风景",
+  "description": "抵达庆云顶的制高点。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

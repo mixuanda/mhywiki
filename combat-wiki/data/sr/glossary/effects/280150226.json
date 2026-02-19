@@ -1,0 +1,17 @@
+{
+  "id": "280150226",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "毁灭增益",
+  "description": "已获得丰饶增益，消灭【破灭玄莲】无法再获取破灭增益。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150226,
+    "MDF": "Monster_W2_Huanlong_00_IF_Black_DeathRattle_Invalid",
+    "Name": "毁灭增益",
+    "Desc": "已获得丰饶增益，消灭【破灭玄莲】无法再获取破灭增益。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84373",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "终北的夜行诗",
+  "description": "完成「终北的夜行诗」。",
+  "reward": 10,
+  "version": "6.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4043032",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "石中榨血",
+  "description": "变成哈努兄弟后首次使用「哈努飞弹」击败石头老板的爪牙",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

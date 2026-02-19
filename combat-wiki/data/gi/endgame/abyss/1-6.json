@@ -1,0 +1,1026 @@
+{
+  "id": "1-6",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "abyss",
+  "name": "1.6",
+  "openTime": "2021/06/16 - 2021/07/31",
+  "generation": 1,
+  "phases": [
+    20,
+    21,
+    22
+  ],
+  "floors": [
+    {
+      "floorId": "13",
+      "config": {
+        "Disorder": "角色在场景中会持续积累严寒，达到上限后会持续失去生命值。<br>敌人会攻击场景中能削减严寒的「遗迹之烛」，使其停止运转。遗迹之烛在停止运转一段时间后，会重新启动。",
+        "Chambers": [
+          {
+            "Name": "9-1",
+            "Level": 72,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 11,
+                "ExtraDesc": "<b>分2小波，每小波3个</b>",
+                "Monsters": [
+                  {
+                    "ID": 10114,
+                    "Num": 3,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10114,
+                    "Num": 3,
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 21,
+                "ExtraDesc": "<b>维持3个，杀一个出一个</b>",
+                "Monsters": [
+                  {
+                    "ID": 10114,
+                    "Num": 6
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 12,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 60101,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 22,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 11,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 10305,
+                    "Num": 1,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10109,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ],
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10110,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ],
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 21,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 20102,
+                    "Num": 1,
+                    "Affix": [
+                      5002
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 12,
+                "Monsters": [
+                  {
+                    "ID": 10305,
+                    "Num": 1,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10109,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ],
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10110,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ],
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 22,
+                "Monsters": [
+                  {
+                    "ID": 20102,
+                    "Num": 1,
+                    "Affix": [
+                      5002,
+                      6101
+                    ]
+                  },
+                  {
+                    "ID": 10206,
+                    "Num": 2,
+                    "Mark": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-2",
+            "Level": 74,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 10,
+                "ExtraDesc": "<b>分2小波，每小波2个</b>",
+                "Monsters": [
+                  {
+                    "ID": 60101,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 60101,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 21,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 10113,
+                    "Num": 2,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10114,
+                    "Num": 2,
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 22,
+                "Monsters": [
+                  {
+                    "ID": 10113,
+                    "Num": 2,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10114,
+                    "Num": 2,
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 23,
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30104,
+                    "Num": 1,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 30101,
+                    "Num": 1,
+                    "Affix": [
+                      6101
+                    ]
+                  },
+                  {
+                    "ID": 30102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30105,
+                    "Num": 1,
+                    "Mark": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-3",
+            "Level": 76,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10204,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10110,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  },
+                  {
+                    "ID": 10305,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10109,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 1,
+                    "Affix": [
+                      6107
+                    ]
+                  },
+                  {
+                    "ID": 20103,
+                    "Num": 1,
+                    "Affix": [
+                      5003
+                    ]
+                  },
+                  {
+                    "ID": 20102,
+                    "Num": 1,
+                    "Affix": [
+                      5003
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "14",
+      "config": {
+        "Disorder": "角色在场景中会持续积累严寒，达到上限后会持续失去生命值。<br>场景中存在「温暖仙灵」，会持续削减附近角色的严寒。",
+        "Chambers": [
+          {
+            "Name": "10-1",
+            "Level": 80,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 10,
+                "ExtraDesc": "<b>分为3小波</b>",
+                "Monsters": [
+                  {
+                    "ID": 10113,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 10113,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 60101,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 21,
+                "ExtraDesc": "<b>维持3个，按顺序杀一个出一个</b>",
+                "Monsters": [
+                  {
+                    "ID": 111,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 109,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 111,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 109,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 22,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 20103,
+                    "Num": 1,
+                    "Affix": [
+                      5002,
+                      6106
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 20102,
+                    "Num": 1,
+                    "Affix": [
+                      5001,
+                      6101
+                    ]
+                  },
+                  {
+                    "ID": 20201,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-2",
+            "Level": 82,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 10,
+                "ExtraDesc": "<b>分3小波，每小波2个</b>",
+                "Monsters": [
+                  {
+                    "ID": 10113,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10113,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10113,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 21,
+                "ExtraDesc": "<b>维持4个，杀一个出一个</b>",
+                "Monsters": [
+                  {
+                    "ID": 10114,
+                    "Num": 8
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 22,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10301,
+                    "Num": 1,
+                    "Affix": [
+                      5004
+                    ]
+                  },
+                  {
+                    "ID": 10303,
+                    "Num": 1,
+                    "Affix": [
+                      5004
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 20102,
+                    "Num": 1,
+                    "Affix": [
+                      5002,
+                      6101
+                    ]
+                  },
+                  {
+                    "ID": 20301,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-3",
+            "Level": 85,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 405,
+                "Monsters": [
+                  {
+                    "ID": 405,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 20103,
+                    "Num": 1,
+                    "Affix": [
+                      5003,
+                      6112
+                    ]
+                  },
+                  {
+                    "ID": 10204,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "15",
+      "config": {
+        "Disorder": "扩散反应造成的伤害提高300%，影响范围扩大100%。",
+        "Chambers": [
+          {
+            "Name": "11-1",
+            "Level": 88,
+            "GoalType": 1,
+            "Upper": [
+              {
+                "WaveDesc": 11,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 10103,
+                    "Num": 2,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10107,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 12,
+                "Monsters": [
+                  {
+                    "ID": 10103,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10107,
+                    "Num": 2,
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 13,
+                "Monsters": [
+                  {
+                    "ID": 10201,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10202,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ],
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 21,
+                "ExtraDesc": "<b>AB组同时出现，各自分波互相独立</b>",
+                "Monsters": [
+                  {
+                    "ID": 10105,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ],
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10110,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ],
+                    "Mark": true
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 22,
+                "Monsters": [
+                  {
+                    "ID": 10110,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  },
+                  {
+                    "ID": 10109,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 23,
+                "Monsters": [
+                  {
+                    "ID": 10109,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  },
+                  {
+                    "ID": 10105,
+                    "Num": 1,
+                    "Affix": [
+                      5000
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10112,
+                    "Num": 3,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10113,
+                    "Num": 1,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10106,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ],
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10106,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 10112,
+                    "Num": 2,
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10106,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ],
+                    "Mark": true
+                  },
+                  {
+                    "ID": 10106,
+                    "Num": 2,
+                    "Affix": [
+                      5001
+                    ]
+                  },
+                  {
+                    "ID": 10113,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 10205,
+                    "Num": 1,
+                    "Mark": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-2",
+            "Level": 90,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30103,
+                    "Num": 1,
+                    "Affix": [
+                      1027
+                    ]
+                  },
+                  {
+                    "ID": 30105,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30106,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30102,
+                    "Num": 1,
+                    "Affix": [
+                      1026
+                    ]
+                  },
+                  {
+                    "ID": 30104,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30101,
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-3",
+            "Level": 92,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 40102,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 20201,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 20301,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "16",
+      "config": {
+        "Disorder": "仅在此层，地脉的涌流平缓通顺。",
+        "Chambers": [
+          {
+            "Name": "12-1",
+            "Level": 95,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60404,
+                    "Note": {
+                      "Text": "雷",
+                      "Color": "Elec"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60403,
+                    "Note": {
+                      "Text": "冰",
+                      "Color": "Ice"
+                    },
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60401,
+                    "Note": {
+                      "Text": "水",
+                      "Color": "Water"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60403,
+                    "Note": {
+                      "Text": "冰",
+                      "Color": "Ice"
+                    },
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-2",
+            "Level": 98,
+            "GoalType": 0,
+            "Gadgets": [
+              70350034,
+              0
+            ],
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 50601,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 50701,
+                    "Num": 3
+                  },
+                  {
+                    "ID": 50103,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50105,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30401,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50302,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50303,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50104,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50106,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60301,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 10205,
+                    "Num": 1,
+                    "Affix": [
+                      6103
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-3",
+            "Level": 100,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 20301,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 20103,
+                    "Num": 1,
+                    "Affix": [
+                      5003
+                    ]
+                  },
+                  {
+                    "ID": 20101,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 20201,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 20102,
+                    "Num": 1,
+                    "Affix": [
+                      5002
+                    ]
+                  },
+                  {
+                    "ID": 20101,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "blessings": [
+    {
+      "blessingId": "17",
+      "config": {
+        "Name": "涡旋之月",
+        "Desc": "当前场上角色使附近的敌人发生扩散反应时，会在发生反应的敌人处释放冲击波，造成范围伤害。每3.5秒至多通过这种方式释放一次冲击波。",
+        "ShockWaveConfig": [
+          {
+            "ShockWaveDesc": "半径：4m",
+            "ShockWaveDMG": 10
+          }
+        ]
+      }
+    },
+    {
+      "blessingId": "18",
+      "config": {
+        "Name": "风来之月",
+        "Desc": "当前场上角色使附近的敌人发生扩散反应时，会为队伍中所有角色恢复4点元素能量。该效果每3.5秒至多触发一次。"
+      }
+    },
+    {
+      "blessingId": "19",
+      "config": {
+        "Name": "山岚之月",
+        "Desc": "当前场上角色使附近的敌人发生扩散反应时，会在扩散反应位置留下持续8秒的山岚光环，每2秒对光环内的敌人造成一次伤害。每9秒最多产生一次山岚光环。",
+        "ShockWaveConfig": [
+          {
+            "ShockWaveDesc": "半径：2.5m",
+            "ShockWaveDMG": 5
+          }
+        ]
+      }
+    }
+  ],
+  "source": {
+    "files": [
+      "gi/CH/database.js",
+      "gi/CH/database_extra.js"
+    ]
+  }
+}

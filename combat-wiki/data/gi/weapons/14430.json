@@ -1,0 +1,61 @@
+{
+  "id": "14430",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "乘浪的回旋",
+  "description": "用海中巨蟒的长牙制成的回旋镖，对巨人图帕克来说是难得称手的兵器。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "ER",
+  "subStatValue": 0.6125318020000001,
+  "materialRefs": [
+    "112103",
+    "112109",
+    "114064"
+  ],
+  "affix": {
+    "114430": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，至多通过这种方式提升 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> ，该效果每15秒至多触发一次。",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        "2": {
+          "Affix": [
+            "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，至多通过这种方式提升 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> ，该效果每15秒至多触发一次。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，至多通过这种方式提升 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> ，该效果每15秒至多触发一次。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，至多通过这种方式提升 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> ，该效果每15秒至多触发一次。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，至多通过这种方式提升 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> ，该效果每15秒至多触发一次。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> ，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升 <color style='color:#99FFFFFF'>12%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>21%</color> / <color style='color:#99FFFFFF'>24%</color> ，至多通过这种方式提升 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> ，该效果每15秒至多触发一次。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14430.js"
+  }
+}

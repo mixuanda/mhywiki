@@ -1,0 +1,19 @@
+{
+  "id": "10013106",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "γ模组-过载核心",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013106,
+    "MDF": "MAvatar_Sam_00_SkillTree03_BreakDamageAddedRatio_Sub",
+    "Name": "γ模组-过载核心",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

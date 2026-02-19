@@ -1,0 +1,18 @@
+{
+  "id": "4074604",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "有龙则灵",
+  "description": "【龙灵】依附在有召唤物的角色身上累计行动 5 次",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

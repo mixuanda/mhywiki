@@ -1,0 +1,28 @@
+{
+  "id": "10011",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "幸运儿",
+  "icon": "UI_RelicIcon_10011",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "防御力提高100点。"
+    },
+    {
+      "Num": 4,
+      "Skill": "拾取摩拉时，恢复300点生命值。"
+    }
+  ],
+  "parts": [
+    "幸运儿绿花",
+    "幸运儿鹰羽",
+    "幸运儿沙漏",
+    "幸运儿之杯",
+    "幸运儿银冠"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

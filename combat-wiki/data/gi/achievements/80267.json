@@ -1,0 +1,15 @@
+{
+  "id": "80267",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "画、梦境和机器狗",
+  "description": "知晓了厄里那斯中心的秘密。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "42"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

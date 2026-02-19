@@ -1,0 +1,19 @@
+{
+  "id": "10014088",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "火与光，善恶的化身",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014088,
+    "MDF": "MAvatar_Phainon_00_Rank01_Property",
+    "Name": "火与光，善恶的化身",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "240120101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "震荡",
+  "description": "受到攻击后，陷入【强烈震荡】状态，然后解除【震荡】状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240120101,
+    "MDF": "MCommon_Unstable_Monster",
+    "Name": "震荡",
+    "Desc": "受到攻击后，陷入【强烈震荡】状态，然后解除【震荡】状态。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

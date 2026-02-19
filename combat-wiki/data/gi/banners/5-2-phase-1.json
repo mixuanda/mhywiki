@@ -1,0 +1,34 @@
+{
+  "id": "5-2-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.2",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Chasca",
+      "X": 1
+    },
+    {
+      "N": "Liney",
+      "X": 3
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Olorun",
+      "X": 1
+    },
+    {
+      "N": "Sucrose",
+      "X": 10
+    },
+    {
+      "N": "Barbara",
+      "X": 11
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

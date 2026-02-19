@@ -1,0 +1,15 @@
+{
+  "id": "10000008",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "弱点击破效率",
+  "description": "弱点击破效率越高，对韧性造成的伤害就越高。",
+  "content": {
+    "_id": 10000008,
+    "Name": "弱点击破效率",
+    "Desc": "弱点击破效率越高，对韧性造成的伤害就越高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

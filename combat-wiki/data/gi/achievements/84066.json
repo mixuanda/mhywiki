@@ -1,0 +1,15 @@
+{
+  "id": "84066",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "以魂证心",
+  "description": "完成「危途疑踪」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

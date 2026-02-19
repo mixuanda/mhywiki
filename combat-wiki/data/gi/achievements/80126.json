@@ -1,0 +1,15 @@
+{
+  "id": "80126",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雷与永远",
+  "description": "完成某位作家的取材委托。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "27"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

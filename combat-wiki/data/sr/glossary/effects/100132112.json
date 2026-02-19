@@ -1,0 +1,18 @@
+{
+  "id": "100132112",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "当一朵花含苞待放",
+  "description": "攻击处于弱点击破状态的敌方目标后，会将本次攻击的削韧值转化为1次<color> <b>A</b> </color>的超击破伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 100132112,
+    "MDF": "MAvatar_Constance_00_Rank01_SuperBreak",
+    "Name": "当一朵花含苞待放",
+    "Desc": "攻击处于弱点击破状态的敌方目标后，会将本次攻击的削韧值转化为1次<color> <b>A</b> </color>的超击破伤害。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

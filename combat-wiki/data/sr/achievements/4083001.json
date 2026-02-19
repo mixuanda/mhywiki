@@ -1,0 +1,18 @@
+{
+  "id": "4083001",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "摩擦，摩擦",
+  "description": "通过梦客漫步能力在同一条梦泡桥梁上来回通过多次",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

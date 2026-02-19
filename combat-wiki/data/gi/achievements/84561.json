@@ -1,0 +1,15 @@
+{
+  "id": "84561",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一步之遥",
+  "description": "在与希尔米的赛跑中大意落败…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4044116",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "所有命运已被标价",
+  "description": "在「神谕圣地」雅努萨波利斯，借助命运泰坦的权能完成挑战，并获取战利品。",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

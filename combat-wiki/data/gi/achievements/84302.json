@@ -1,0 +1,15 @@
+{
+  "id": "84302",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "悲剧的复写",
+  "description": "使「少女连环失踪案」真相大白。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

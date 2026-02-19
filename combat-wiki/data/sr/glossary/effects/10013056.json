@@ -1,0 +1,19 @@
+{
+  "id": "10013056",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "速度降低",
+  "description": "速度降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013056,
+    "MDF": "MAvatar_Dr_Ratio_00_Maze_SpeedDown",
+    "Name": "速度降低",
+    "Desc": "速度降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

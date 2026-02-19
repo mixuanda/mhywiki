@@ -1,0 +1,18 @@
+{
+  "id": "4043209",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "传奇海选王",
+  "description": "成功触发共6.0个「海选特快」的隐藏挑战",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

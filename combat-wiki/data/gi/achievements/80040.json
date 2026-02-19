@@ -1,0 +1,15 @@
+{
+  "id": "80040",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "逐风的冒险家",
+  "description": "在蒙德，完成5个大世界机关限时挑战（龙脊雪山地区除外）。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "4"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

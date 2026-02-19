@@ -1,0 +1,18 @@
+{
+  "id": "4070808",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "持伤破阵（二）",
+  "description": "累计使用持续伤害消灭 240.0 名敌人",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

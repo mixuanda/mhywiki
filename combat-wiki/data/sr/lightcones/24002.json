@@ -1,0 +1,23 @@
+{
+  "id": "24002",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "记忆的质料",
+  "rarity": 5,
+  "path": "Preservation",
+  "skillId": 24002,
+  "baseStats": {
+    "HP": 1058.4,
+    "ATK": 423.36,
+    "DEF": 529.2
+  },
+  "materialRefs": [
+    "110143",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/24002.js"
+  }
+}

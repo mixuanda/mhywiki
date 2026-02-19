@@ -1,0 +1,18 @@
+{
+  "id": "4030103",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "失落的世界",
+  "description": "发现雅利洛-Ⅵ地下的秘密<br><color style='color:#8790ab;'>※竟然有人生活在地下…</color>",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

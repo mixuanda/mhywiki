@@ -1,0 +1,39 @@
+{
+  "id": "302501303",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "万籁齐响的指挥家",
+  "description": "「齐响诗班」众愿之多米尼克斯，是为「同谐」希佩的众相化身之一，因「秩序」的干扰展现出不同以往的面貌。作为集群意识对愿望的回应，他指挥的颂歌能依照万千愿望重塑世界，建立新的法则，而所有许愿者都会成为其力量的来源。",
+  "stats": {
+    "HP": 175.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 150.0,
+    "Stance": 8.0
+  },
+  "weakness": [
+    "Fire",
+    "Elec",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.4,
+    "Wind": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3025010.png",
+  "figure": "monsterfigure/Monster_3025010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

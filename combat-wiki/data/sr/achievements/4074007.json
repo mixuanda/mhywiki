@@ -1,0 +1,18 @@
+{
+  "id": "4074007",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "征服王",
+  "description": "在「颁赐者，千军首，天谴之矛」施放【受征伐者皆见灾殃】后，用同一个角色消灭所有的「征服或被征服」",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

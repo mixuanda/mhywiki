@@ -1,0 +1,15 @@
+{
+  "id": "61000300",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "琥珀",
+  "description": "拥有护盾角色受到会使护盾耗尽的攻击，溢出护盾的伤害无效，并失去1层层数。",
+  "content": {
+    "_id": 61000300,
+    "Name": "琥珀",
+    "Desc": "拥有护盾角色受到会使护盾耗尽的攻击，溢出护盾的伤害无效，并失去1层层数。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

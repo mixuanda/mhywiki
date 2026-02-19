@@ -1,0 +1,39 @@
+{
+  "id": "3003018",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "暴怒斯科特（污染）",
+  "description": "集中了所有拍摄资源，成为大咖中的大咖的主角斯科特。意识和灵魂被从者分散后，以千般面相展开了对开拓者的复仇。",
+  "stats": {
+    "HP": 10.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Fire",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3003017.png",
+  "figure": "monsterfigure/Monster_3003017.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81261",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "漫长的重逢",
+  "description": "跟随失主的驮兽，完成它的旅程。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

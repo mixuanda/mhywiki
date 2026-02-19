@@ -1,0 +1,15 @@
+{
+  "id": "81332",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "闪光的道路",
+  "description": "完成所有「灵宝铎」的挑战。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81368",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圆滚滚的创化论",
+  "description": "陪伴幼小的膨膨兽健康长大。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

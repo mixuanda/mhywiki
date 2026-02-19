@@ -1,0 +1,15 @@
+{
+  "id": "81256",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雨落进了泥土",
+  "description": "完成「水天供书」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

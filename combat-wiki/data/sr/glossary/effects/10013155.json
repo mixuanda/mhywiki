@@ -1,0 +1,19 @@
+{
+  "id": "10013155",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "里程碑贩子",
+  "description": "击破特攻提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013155,
+    "MDF": "MAvatar_Boothill_00_Rank02_Enhance",
+    "Name": "里程碑贩子",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

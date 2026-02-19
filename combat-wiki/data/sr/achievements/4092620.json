@@ -1,0 +1,18 @@
+{
+  "id": "4092620",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "欢迎来到瓦尔哈拉",
+  "description": "在「模拟宇宙：寰宇蝗灾」中，在事件天才俱乐部5余清涂触发的战斗中失败",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

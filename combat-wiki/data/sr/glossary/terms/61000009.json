@@ -1,0 +1,15 @@
+{
+  "id": "61000009",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "空白",
+  "description": "空白区域，在这个区域中不会发生任何事件。",
+  "content": {
+    "_id": 61000009,
+    "Name": "空白",
+    "Desc": "空白区域，在这个区域中不会发生任何事件。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

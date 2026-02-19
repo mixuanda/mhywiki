@@ -1,0 +1,18 @@
+{
+  "id": "10013174",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "经年劣化任侠无忍义",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013174,
+    "MDF": "MAvatar_Rappa_00_SkillRank04",
+    "Name": "经年劣化任侠无忍义",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10014066",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "热情好客的多洛斯人",
+  "description": "天赋的追加攻击尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014066,
+    "MDF": "MAvatar_Cipher_BpKuoSan_Insert_CD",
+    "Name": "热情好客的多洛斯人",
+    "Desc": "天赋的追加攻击尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

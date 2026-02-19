@@ -1,0 +1,39 @@
+{
+  "id": "300102003",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "惊梦剧团的舞鸫假面",
+  "description": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
+  "stats": {
+    "HP": 1.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_3001020.png",
+  "figure": "monsterfigure/Monster_3001020.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

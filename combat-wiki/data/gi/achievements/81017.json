@@ -1,0 +1,15 @@
+{
+  "id": "81017",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「只要用心…」",
+  "description": "烹饪1道口味奇怪的料理。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

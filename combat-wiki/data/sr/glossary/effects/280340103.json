@@ -1,0 +1,19 @@
+{
+  "id": "280340103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "鸿运当头",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340103,
+    "MDF": "Monster_W3_Aventurine_00_DamageUp",
+    "Name": "鸿运当头",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

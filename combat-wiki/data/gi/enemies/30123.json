@@ -1,0 +1,25 @@
+{
+  "id": "30123",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的愚人众先遣队 · 雷锤前锋军",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fse"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

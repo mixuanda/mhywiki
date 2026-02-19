@@ -1,0 +1,15 @@
+{
+  "id": "81041",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一个冬天的童话",
+  "description": "在雪堆下发现了冰晶蝶。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

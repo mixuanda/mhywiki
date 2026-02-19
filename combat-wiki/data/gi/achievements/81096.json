@@ -1,0 +1,15 @@
+{
+  "id": "81096",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "山田五的木槌",
+  "description": "多次识破妖狸的法术。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

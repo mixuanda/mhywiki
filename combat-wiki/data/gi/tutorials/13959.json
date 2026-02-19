@@ -1,0 +1,31 @@
+{
+  "id": "13959",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13959",
+  "tags": [],
+  "content": {
+    "_id": 13959,
+    "N": "阵列强化",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_02",
+        "D": "每回合的战斗开始前，旅行者将获得一定次数的机会，用以抽选<color style='color:#FFCC33'>交战单位#、<color style='color:#FFCC33'>阵列战旗#与<color style='color:#FFCC33'>战斗策略#。<br>每回合将有一定次数的「刷新选项」的机会，以在选取交战单位或战斗策略时替换当前选项。<br>抽选的交战单位、阵列战旗与战斗策略将保留到本次推演结束。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess_Pick_03",
+        "D": "拥有2个等阶相同的交战单位时，会立刻将它们合成为1个等阶高一阶的战斗单位。<br>最多可以通过这种方式合成3阶的战斗单位。战斗单位的等阶越高，等级便越高，战斗力也越强。<br><color style='color:#FFCC33'>等级上限为120#。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_05",
+        "D": "除领队以外的交战单位有着<color style='color:#FFCC33'>普通#、<color style='color:#FFCC33'>精锐#和<color style='color:#FFCC33'>顶尖#三种精锐度，其对应的初始等级分别为20/30/50。<br>随着推演进行，出现更高精锐度交战单位的概率也将提升。<color style='color:#FFCC33'>精锐#交战单位将在第2回合后出现，<color style='color:#FFCC33'>顶尖#交战单位将在第6回合后出现。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

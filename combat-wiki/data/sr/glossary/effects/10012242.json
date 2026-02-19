@@ -1,0 +1,17 @@
+{
+  "id": "10012242",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "充能",
+  "description": "充能大于等于<color> <b>B</b> </color>点时立即行动，同时造成的伤害提高<color> <b>A</b> </color>，此外普攻获得强化。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012242,
+    "MDF": "MAvatar_Mar_7th_10_Energy",
+    "Name": "充能",
+    "Desc": "充能大于等于<color> <b>B</b> </color>点时立即行动，同时造成的伤害提高<color> <b>A</b> </color>，此外普攻获得强化。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

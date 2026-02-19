@@ -1,0 +1,10 @@
+{
+  "id": "110415",
+  "game": "sr",
+  "entityType": "material",
+  "name": "天人遗垢",
+  "icon": "itemicon/110415.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

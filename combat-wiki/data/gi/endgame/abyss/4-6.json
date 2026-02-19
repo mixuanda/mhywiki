@@ -1,0 +1,1441 @@
+{
+  "id": "4-6",
+  "game": "gi",
+  "entityType": "endgameCycle",
+  "mode": "abyss",
+  "name": "4.6",
+  "openTime": "2024/05/01 - 2024/06/15",
+  "generation": 4,
+  "phases": [
+    89,
+    90,
+    91
+  ],
+  "floors": [
+    {
+      "floorId": "57",
+      "config": {
+        "Disorder": "角色触发蒸发反应后的5秒内，该角色通过蒸发反应造成的伤害提升提高50%。",
+        "ShowVers": [
+          1,
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "9-1",
+            "Level": 72,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40601,
+                    "Note": {
+                      "Text": "荒"
+                    },
+                    "Num": 2
+                  },
+                  {
+                    "ID": 50103,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 50104,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40602,
+                    "Note": {
+                      "Text": "荒"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 40604,
+                    "Note": {
+                      "Text": "荒"
+                    },
+                    "Num": 2
+                  },
+                  {
+                    "ID": 50801,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50802,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50803,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40657,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50802,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50803,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40658,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 40652,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50105,
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-2",
+            "Level": 74,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 61602,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 111,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 109,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 5021,
+                    "Note": {
+                      "Text": "大猪"
+                    },
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40610,
+                    "Note": {
+                      "Text": "荒"
+                    },
+                    "Num": 1,
+                    "Affix": [
+                      5371
+                    ]
+                  },
+                  {
+                    "ID": 50106,
+                    "Num": 3
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 61601,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 113,
+                    "Num": 3
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40660,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 1,
+                    "Affix": [
+                      5371
+                    ]
+                  },
+                  {
+                    "ID": 50103,
+                    "Num": 3
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "9-3",
+            "Level": 76,
+            "GoalType": 0,
+            "Gadgets": [
+              502,
+              551
+            ],
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10202,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  },
+                  {
+                    "ID": 10207,
+                    "Num": 1,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40609,
+                    "Note": {
+                      "Text": "荒"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30501,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40660,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 1,
+                    "Affix": [
+                      5371
+                    ]
+                  },
+                  {
+                    "ID": 30201,
+                    "Num": 2,
+                    "Affix": [
+                      5001
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "58",
+      "config": {
+        "Disorder": "角色对处于水元素附着状态下的敌人造成的伤害提高50%。",
+        "ShowVers": [
+          1,
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "10-1",
+            "Level": 80,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40607,
+                    "Note": {
+                      "Text": "荒"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 30106,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 50107,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50302,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 50303,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40662,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 1
+                  },
+                  {
+                    "ID": 40654,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-2",
+            "Level": 82,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 605,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 606,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 607,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 61201,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61203,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61202,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61204,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 60506,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60510,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60511,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "10-3",
+            "Level": 85,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 54101,
+                    "Num": 1,
+                    "Affix": [
+                      5271
+                    ]
+                  },
+                  {
+                    "ID": 53102,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 40103,
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "71",
+      "config": {
+        "Disorder": "队伍中所有角色获得75%火元素伤害加成。",
+        "ShowVers": [
+          1,
+          2,
+          3,
+          4,
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "11-1",
+            "Level": 88,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10305,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10114,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10110,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10105,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10305,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10114,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10105,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10109,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10305,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10114,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10109,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10110,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4,
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10305,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10114,
+                    "Num": 2
+                  },
+                  {
+                    "ID": 10110,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 10105,
+                    "Num": 1
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 61201,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61203,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61202,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61204,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 53101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 53102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 53103,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-2",
+            "Level": 90,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 50801,
+                    "Num": 3
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 60509,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60510,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60511,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 40204,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 40202,
+                    "Num": 2
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4,
+                "Monsters": [
+                  {
+                    "ID": 60403,
+                    "Num": 1,
+                    "Note": {
+                      "Text": "冰",
+                      "Color": "Ice"
+                    }
+                  },
+                  {
+                    "ID": 60404,
+                    "Num": 1,
+                    "Note": {
+                      "Text": "雷",
+                      "Color": "Elec"
+                    }
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 113,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 109,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 106,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 107,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 60102,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60101,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 60103,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 606,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 604,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 605,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4,
+                "Monsters": [
+                  {
+                    "ID": 61601,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61602,
+                    "Num": 1
+                  },
+                  {
+                    "ID": 61603,
+                    "Num": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "11-3",
+            "Level": 92,
+            "GoalType": 0,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 20102,
+                    "Num": 1,
+                    "Affix": [
+                      5002
+                    ],
+                    "Note": {
+                      "Text": "200% 护盾"
+                    }
+                  },
+                  {
+                    "ID": 10106,
+                    "Num": 4
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 10206,
+                    "Num": 3
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 10204,
+                    "Num": 2
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 10401,
+                    "Num": 2,
+                    "Affix": [
+                      4186
+                    ],
+                    "Note": {
+                      "Text": "深渊特化"
+                    }
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 40102,
+                    "Num": 1
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 40301,
+                    "Num": 2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "floorId": "72",
+      "config": {
+        "Disorder": "仅在此层，地脉的涌流平缓通顺。",
+        "ShowVers": [
+          1,
+          2,
+          3,
+          4,
+          0
+        ],
+        "Chambers": [
+          {
+            "Name": "12-1",
+            "Level": 95,
+            "GoalType": 0,
+            "Center": -10,
+            "Upper": [
+              {
+                "WaveDesc": 50905,
+                "Monsters": [
+                  {
+                    "ID": 50902,
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        0,
+                        -4
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 50904,
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        0,
+                        4
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 50903,
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        0,
+                        0
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 51001,
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        0,
+                        -3
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 51002,
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        0,
+                        3
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 30501,
+                    "Num": 1,
+                    "Affix": [
+                      6106
+                    ],
+                    "Note": {
+                      "Text": "水泡",
+                      "Color": "Water"
+                    },
+                    "Pos": [
+                      [
+                        4,
+                        0
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 30106,
+                    "Num": 2,
+                    "Pos": [
+                      [
+                        2,
+                        4
+                      ],
+                      [
+                        2,
+                        -4
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 30605,
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        6,
+                        3
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 30606,
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        6,
+                        -3
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-2",
+            "Level": 98,
+            "GoalType": 0,
+            "Center": -10,
+            "DPS": {
+              "1": 3062535,
+              "2": 3062535,
+              "3": 3062535
+            },
+            "Upper": [
+              {
+                "WaveDesc": 60507,
+                "Vers": [
+                  1,
+                  2,
+                  3
+                ],
+                "Monsters": [
+                  {
+                    "ID": 60507,
+                    "Num": 1,
+                    "Affix": [
+                      5147
+                    ],
+                    "Note": {
+                      "Text": "生死恋"
+                    },
+                    "Pos": [
+                      [
+                        0,
+                        -6
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 60508,
+                    "Num": 1,
+                    "Affix": [
+                      5147
+                    ],
+                    "Note": {
+                      "Text": "生死恋"
+                    },
+                    "Pos": [
+                      [
+                        0,
+                        6
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 40701,
+                "Vers": [
+                  4,
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 40701,
+                    "Note": {
+                      "Text": "芒<br>深渊特化"
+                    },
+                    "Num": 1,
+                    "Affix": [
+                      40701
+                    ],
+                    "Pos": [
+                      [
+                        0,
+                        0
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 1,
+                "Monsters": [
+                  {
+                    "ID": 30201,
+                    "Num": 3,
+                    "Pos": [
+                      [
+                        -5,
+                        4
+                      ],
+                      [
+                        -5,
+                        0
+                      ],
+                      [
+                        -5,
+                        -4
+                      ]
+                    ],
+                    "Affix": [
+                      5001
+                    ],
+                    "Note": {
+                      "Text": "强攻强化"
+                    }
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Monsters": [
+                  {
+                    "ID": 54101,
+                    "Num": 1,
+                    "Affix": [
+                      5271
+                    ],
+                    "Note": {
+                      "Text": "满血召唤"
+                    },
+                    "Pos": [
+                      [
+                        0,
+                        4
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 54102,
+                    "Num": 1,
+                    "Affix": [
+                      5271
+                    ],
+                    "Note": {
+                      "Text": "满血召唤"
+                    },
+                    "Pos": [
+                      [
+                        0,
+                        -4
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Monsters": [
+                  {
+                    "ID": 20301,
+                    "Num": 2,
+                    "Pos": [
+                      [
+                        6,
+                        5
+                      ],
+                      [
+                        6,
+                        -5
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "12-3",
+            "Level": 100,
+            "GoalType": 0,
+            "DPS": {
+              "1": 2990468
+            },
+            "Center": -10,
+            "Upper": [
+              {
+                "WaveDesc": 1,
+                "Vers": [
+                  1
+                ],
+                "Monsters": [
+                  {
+                    "ID": 20102,
+                    "Note": {
+                      "Text": "强攻强化<br><color style='color:#00B0F0;'>冰牢</color>"
+                    },
+                    "Num": 1,
+                    "Affix": [
+                      5001,
+                      6101
+                    ],
+                    "Pos": [
+                      [
+                        -2,
+                        -2
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 20102,
+                    "Note": {
+                      "Text": "200% 护盾<br><color style='color:#00B0F0;'>凝结之冰</color>"
+                    },
+                    "Num": 1,
+                    "Affix": [
+                      5002,
+                      1029
+                    ],
+                    "Pos": [
+                      [
+                        -2,
+                        2
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Vers": [
+                  1
+                ],
+                "Monsters": [
+                  {
+                    "ID": 30501,
+                    "Num": 1,
+                    "Affix": [
+                      6106
+                    ],
+                    "Note": {
+                      "Text": "水泡",
+                      "Color": "Water"
+                    },
+                    "Pos": [
+                      [
+                        4,
+                        0
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 30101,
+                    "Num": 2,
+                    "Pos": [
+                      [
+                        2,
+                        4
+                      ],
+                      [
+                        2,
+                        -4
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Vers": [
+                  1
+                ],
+                "Monsters": [
+                  {
+                    "ID": 20202,
+                    "Num": 2,
+                    "Pos": [
+                      [
+                        -10,
+                        -3
+                      ],
+                      [
+                        -10,
+                        3
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 1,
+                "Vers": [
+                  2,
+                  3,
+                  4,
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 30101,
+                    "Num": 2,
+                    "Pos": [
+                      [
+                        4,
+                        -3
+                      ],
+                      [
+                        4,
+                        3
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 2,
+                "Vers": [
+                  2,
+                  3,
+                  4,
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 53103,
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        2,
+                        0
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 50801,
+                    "Num": 2,
+                    "Pos": [
+                      [
+                        4,
+                        -4
+                      ],
+                      [
+                        4,
+                        4
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 3,
+                "Vers": [
+                  2,
+                  3,
+                  4,
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 40658,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 2,
+                    "Pos": [
+                      [
+                        4,
+                        -3
+                      ],
+                      [
+                        4,
+                        3
+                      ]
+                    ]
+                  }
+                ]
+              },
+              {
+                "WaveDesc": 4,
+                "Vers": [
+                  2,
+                  3,
+                  4,
+                  0
+                ],
+                "Monsters": [
+                  {
+                    "ID": 40662,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 1,
+                    "Pos": [
+                      [
+                        4,
+                        0
+                      ]
+                    ]
+                  },
+                  {
+                    "ID": 40651,
+                    "Note": {
+                      "Text": "芒"
+                    },
+                    "Num": 2,
+                    "Pos": [
+                      [
+                        4,
+                        -4
+                      ],
+                      [
+                        4,
+                        4
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ],
+            "Lower": [
+              {
+                "WaveDesc": 21005,
+                "Monsters": [
+                  {
+                    "ID": 21001,
+                    "Note": {
+                      "Text": "<color style='color:#FF0000;'>火</color> <color style='color:#00B0F0;'>冰</color> <color style='color:#7030A0;'>雷</color><br><color style='color:#FF0000;'>12</color> / <color style='color:#00B0F0;'>12</color> / <color style='color:#7030A0;'>8</color><br>深渊特化"
+                    },
+                    "Num": 1,
+                    "Affix": [
+                      5282
+                    ],
+                    "Pos": [
+                      [
+                        0,
+                        0
+                      ]
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "blessings": [
+    {
+      "blessingId": "85",
+      "config": {
+        "Name": "扇烈之月",
+        "Desc": "角色对敌人触发蒸发、超载、融化、燃烧、烈绽放、火元素扩散或火元素结晶反应时，敌人的<color style='color:#0000FF;'>所有元素抗性和物理抗性降低30%</color>，持续4秒。"
+      }
+    },
+    {
+      "blessingId": "86",
+      "config": {
+        "Name": "奋戈之月",
+        "Desc": "角色受到治疗时，该角色的<color style='color:#0000FF;'>攻击力提升50%</color>，持续3秒。"
+      }
+    },
+    {
+      "blessingId": "87",
+      "config": {
+        "Name": "得策之月",
+        "Desc": "角色的当前生命值提升或降低时，该角色<color style='color:#0000FF;'>获得16%所有元素伤害与物理伤害加成</color>，持续8秒。<br>此效果至多叠加3层，每层独立计时。"
+      }
+    }
+  ],
+  "source": {
+    "files": [
+      "gi/CH/database.js",
+      "gi/CH/database_extra.js"
+    ]
+  }
+}

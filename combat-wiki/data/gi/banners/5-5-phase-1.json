@@ -1,0 +1,34 @@
+{
+  "id": "5-5-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.5",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Varesa",
+      "X": 1
+    },
+    {
+      "N": "Liuyun",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Iansan",
+      "X": 1
+    },
+    {
+      "N": "Gaming",
+      "X": 3
+    },
+    {
+      "N": "Chevreuse",
+      "X": 4
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

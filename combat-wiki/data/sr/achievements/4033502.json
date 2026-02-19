@@ -1,0 +1,18 @@
+{
+  "id": "4033502",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "古海潮落",
+  "description": "逆潮而行，兴风作浪，逃不过被浪涛吞没的时刻来临……<br><color style='color:#8790ab;'>※令龙师伏法</color>",
+  "reward": 10,
+  "version": 2.5,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

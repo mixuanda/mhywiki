@@ -1,0 +1,17 @@
+{
+  "id": "220221001",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "嘉实",
+  "description": "当场上存在2个【嘉实】时，丰饶玄鹿会立即施放【班龙触】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220221001,
+    "MDF": "MMonster_W2_Xuanlu_04_Charge",
+    "Name": "嘉实",
+    "Desc": "当场上存在2个【嘉实】时，丰饶玄鹿会立即施放【班龙触】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

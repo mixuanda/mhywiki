@@ -1,0 +1,15 @@
+{
+  "id": "81018",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「…人人都是食神。」",
+  "description": "烹饪10道口味奇怪的料理。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

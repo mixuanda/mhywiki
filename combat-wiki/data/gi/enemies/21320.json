@@ -1,0 +1,34 @@
+{
+  "id": "21320",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的执灯人",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_WildHunt_Male_Sigurd"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": {
+    "Name": "历经百战的执灯人",
+    "Icon": "UI_MonsterIcon_WildHunt_Male_Sigurd",
+    "DescList": [
+      "• 具有 @2# 层生命值，第一层为人类，第二层为狂猎",
+      "• 狂猎：生命值降至0后不会死亡，而是进入「失色哀恸」状态，并在一段时间后@回复至生命上限#；角色施放@满辉#强化的技能后，狂猎将@直接进入「失色哀恸」状态#",
+      "• 失色哀恸：基于队伍是否为@满辉#，受到的伤害将以 @90%# / @65%# 比例削减生命上限，@生命上限降至0#才会死亡",
+      "• 场上会出现狂猎幽魂；一段时间后，首领将猎杀场上的全部狂猎幽魂，并基于猎物的剩余生命值@治疗自身#"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

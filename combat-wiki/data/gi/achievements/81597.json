@@ -1,0 +1,15 @@
+{
+  "id": "81597",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「若我未被化作烟灰」",
+  "description": "目送渊上开启他的未知旅程。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

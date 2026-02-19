@@ -1,0 +1,30 @@
+{
+  "id": "2-7-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "2.7",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Itto",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Shinobu",
+      "X": 1
+    },
+    {
+      "N": "Gorou",
+      "X": 2
+    },
+    {
+      "N": "Chongyun",
+      "X": 6
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

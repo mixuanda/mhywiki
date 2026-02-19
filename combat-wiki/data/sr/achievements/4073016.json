@@ -1,0 +1,18 @@
+{
+  "id": "4073016",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "硬碰硬",
+  "description": "单场战斗中，不造成弱点击破的情况下击败忆域迷因「狂怒褪去之壳」",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

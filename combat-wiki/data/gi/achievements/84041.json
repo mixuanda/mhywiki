@@ -1,0 +1,15 @@
+{
+  "id": "84041",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "御守、仁义、天下一",
+  "description": "完成「三个小心愿」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

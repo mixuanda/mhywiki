@@ -1,0 +1,32 @@
+{
+  "id": "15503",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "终末嗟叹之诗",
+  "description": "如同诗人的乐器一般优美的弓，放出的箭矢如同叹息声一般穿透人心。",
+  "rarity": 5,
+  "weaponType": 5,
+  "baseAtk": 608.0745972,
+  "subStatType": "ER",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112016",
+    "112034",
+    "114008"
+  ],
+  "affix": {
+    "115503": {
+      "Ver": {
+        "L": {
+          "Affix": [
+            "飘游风中的「千年的大乐章」的一部分。元素精通提高 <color style='color:#99FFFFFF'>60</color> / <color style='color:#99FFFFFF'>75</color> / <color style='color:#99FFFFFF'>90</color> / <color style='color:#99FFFFFF'>105</color> / <color style='color:#99FFFFFF'>120</color> 点；元素战技或元素爆发命中敌人时，角色获得一枚追思之符，每0.2秒内至多触发一次，角色处于队伍后台也能触发。拥有4枚追思之符时，将消耗所有追思之符，使附近的队伍中所有角色获得持续12秒的「千年的大乐章 · 别离之歌」效果：元素精通提高 <color style='color:#99FFFFFF'>100</color> / <color style='color:#99FFFFFF'>125</color> / <color style='color:#99FFFFFF'>150</color> / <color style='color:#99FFFFFF'>175</color> / <color style='color:#99FFFFFF'>200</color> 点，攻击力提升 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。触发后20秒内，无法再次获得追思之符。「千年的大乐章」触发的多种数值效果中，同类数值效果不可叠加。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15503.js"
+  }
+}

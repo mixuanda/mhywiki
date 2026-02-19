@@ -1,0 +1,18 @@
+{
+  "id": "210040321",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "同仇敌忾",
+  "description": "自身得到大幅强化，速度提高<color> <b>A</b> </color>。此状态下，布洛妮娅将会召唤更多的【银鬃炮手】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040321,
+    "MDF": "MMonster_W1_Bronya_00_IF_02_Enhance",
+    "Name": "同仇敌忾",
+    "Desc": "自身得到大幅强化，速度提高<color> <b>A</b> </color>。此状态下，布洛妮娅将会召唤更多的【银鬃炮手】。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2032062",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "辟尘之尾",
+  "description": "心兽之尾，扫风雷，荡尘寰。",
+  "stats": {
+    "HP": 50.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 104.0,
+    "Stance": 22.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Wind",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.4,
+    "Ice": 0.4,
+    "Imaginary": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_2032060.png",
+  "figure": "monsterfigure/BossIconTemporary.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "122",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "识海迷坠的学者",
+  "icon": "71039.png",
+  "setBonuses": [
+    "暴击率提高 <b>8%</b> 。",
+    "战技和终结技造成的伤害提高 <b>20%</b> ，施放终结技后，下一次施放战技时造成的伤害额外提高 <b>25%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/122.js"
+  }
+}

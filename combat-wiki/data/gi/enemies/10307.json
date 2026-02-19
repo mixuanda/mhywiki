@@ -1,0 +1,23 @@
+{
+  "id": "10307",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "神神秘秘大大丘丘",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Shaman_None_01"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

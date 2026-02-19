@@ -1,0 +1,22 @@
+{
+  "id": "11306",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "飞天御剑",
+  "description": "可靠的钢剑，传说著名的「御剑公子」曾试图借助它飞天。",
+  "rarity": 3,
+  "weaponType": 1,
+  "baseAtk": 354.37940000000003,
+  "subStatType": "ER",
+  "subStatValue": 0.520651802,
+  "materialRefs": [
+    "112034",
+    "112043",
+    "114024"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11306.js"
+  }
+}

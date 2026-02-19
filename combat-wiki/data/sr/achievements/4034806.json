@@ -1,0 +1,18 @@
+{
+  "id": "4034806",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "忘却是梦的谢幕礼",
+  "description": "凡生命皆开启神秘，凡神秘皆蒙着黑暗，凡黑暗皆承载希望，凡希望皆服从生命<br><color style='color:#8790ab;'>※找到大丽花留给你的一簇记忆</color>",
+  "reward": 10,
+  "version": 3.8,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

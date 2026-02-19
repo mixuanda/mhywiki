@@ -1,0 +1,15 @@
+{
+  "id": "240150202",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "腐化",
+  "description": "可回复的生命上限降低。",
+  "content": {
+    "_id": 240150202,
+    "Name": "腐化",
+    "Desc": "可回复的生命上限降低。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

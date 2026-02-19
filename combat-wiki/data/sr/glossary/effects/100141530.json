@@ -1,0 +1,18 @@
+{
+  "id": "100141530",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "十三种光彩，倒映明天",
+  "description": "我方目标通过战技的结界造成的真实伤害倍率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141530,
+    "MDF": "MAvatar_Cyrene_00_Rank02",
+    "Name": "十三种光彩，倒映明天",
+    "Desc": "我方目标通过战技的结界造成的真实伤害倍率提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

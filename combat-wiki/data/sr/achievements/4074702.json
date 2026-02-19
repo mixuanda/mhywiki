@@ -1,0 +1,18 @@
+{
+  "id": "4074702",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "然后记忆化作涟漪",
+  "description": "单场战斗中，记忆命途开拓者施放强化普攻后，昔涟自动施放【花与箭的舞曲】达到 2 次",
+  "reward": 5,
+  "version": 3.7,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

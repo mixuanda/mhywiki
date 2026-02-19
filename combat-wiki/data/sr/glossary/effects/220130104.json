@@ -1,0 +1,17 @@
+{
+  "id": "220130104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "惩戒度",
+  "description": "当前【惩戒度】已达66%。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220130104,
+    "MDF": "MMonster_W2_Mecha03_00_Overdrive_Accumulate_Display2",
+    "Name": "惩戒度",
+    "Desc": "当前【惩戒度】已达66%。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

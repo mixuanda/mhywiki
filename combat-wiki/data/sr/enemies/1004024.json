@@ -1,0 +1,39 @@
+{
+  "id": "1004024",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "杰帕德（幻象）",
+  "description": "银鬃铁卫的戍卫长。<br>杰帕德会为士兵提供抵挡攻击伤害的护盾。出现于此的是基于你的记忆模拟出的幻影。",
+  "stats": {
+    "HP": 25.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 119.0,
+    "Stance": 15.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.6,
+    "Wind": 0.4,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1004020.png",
+  "figure": "monsterfigure/Monster_1004020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

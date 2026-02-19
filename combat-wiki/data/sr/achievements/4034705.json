@@ -1,0 +1,18 @@
+{
+  "id": "4034705",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "最后的伟大征程",
+  "description": "囚徒笑问傀儡，谁比谁更荒唐<br><color style='color:#8790ab;'>※抵达时光归墟</color>",
+  "reward": 10,
+  "version": 3.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

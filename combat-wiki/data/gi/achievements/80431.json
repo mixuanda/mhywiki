@@ -1,0 +1,15 @@
+{
+  "id": "80431",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "暖浪引路人",
+  "description": "解锁纳塔区域中，悠悠度假村所有传送锚点。",
+  "reward": 5,
+  "version": "5.8",
+  "group": {
+    "id": "62"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

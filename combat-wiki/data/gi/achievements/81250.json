@@ -1,0 +1,15 @@
+{
+  "id": "81250",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "究竟一切智地",
+  "description": "登上须弥城的最高处。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

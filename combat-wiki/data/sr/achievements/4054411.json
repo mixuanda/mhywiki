@@ -1,0 +1,18 @@
+{
+  "id": "4054411",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "铃儿响叮当",
+  "description": "将魔法风铃中的魔力消耗一空",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

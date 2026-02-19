@@ -1,0 +1,15 @@
+{
+  "id": "70000201",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "溢出伤害",
+  "description": "消灭目标时，本次攻击造成的伤害超出目标当前生命值的伤害量。",
+  "content": {
+    "_id": 70000201,
+    "Name": "溢出伤害",
+    "Desc": "消灭目标时，本次攻击造成的伤害超出目标当前生命值的伤害量。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

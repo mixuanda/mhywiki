@@ -1,0 +1,15 @@
+{
+  "id": "81359",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "从此以后…",
+  "description": "「…骑士战胜了魔王，救出了被囚禁的公主。王国终于恢复了光明…」",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

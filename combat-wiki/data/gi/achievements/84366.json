@@ -1,0 +1,15 @@
+{
+  "id": "84366",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "重要的日子",
+  "description": "节日就是要开开心心。",
+  "reward": 5,
+  "version": "6.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

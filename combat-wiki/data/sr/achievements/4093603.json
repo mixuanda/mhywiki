@@ -1,0 +1,18 @@
+{
+  "id": "4093603",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "最后的沉思",
+  "description": "获得关于宇宙未来的「唯一解」",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

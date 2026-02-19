@@ -1,0 +1,25 @@
+{
+  "id": "61602",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "大天使海兔",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Aplysia_Mature"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 原海异种"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

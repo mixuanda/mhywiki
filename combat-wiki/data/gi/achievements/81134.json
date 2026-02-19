@@ -1,0 +1,15 @@
+{
+  "id": "81134",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "通通400铃",
+  "description": "成功钓鱼100次。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

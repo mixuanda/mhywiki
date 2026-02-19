@@ -1,0 +1,17 @@
+{
+  "id": "220340143",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "孤战",
+  "description": "当前处在【孤战】状态，造成的伤害增加<color> <b>A</b> </color>，受到的伤害降低<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340143,
+    "MDF": "MMonster_W2_LycanKing_00_IF_PickUpMarkLycanKing",
+    "Name": "孤战",
+    "Desc": "当前处在【孤战】状态，造成的伤害增加<color> <b>A</b> </color>，受到的伤害降低<color> <b>B</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

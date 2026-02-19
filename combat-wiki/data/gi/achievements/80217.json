@@ -1,0 +1,15 @@
+{
+  "id": "80217",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一撕两半混沌球",
+  "description": "在获胜的牌局中，单次行动击败2名或2名以上对手角色牌的次数累计达到<color style='color:#FF0000;'><b>10</b></color>次。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

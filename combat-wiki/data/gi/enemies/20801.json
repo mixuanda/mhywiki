@@ -1,0 +1,25 @@
+{
+  "id": "20801",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "黑蛇骑士 · 斩风之剑",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "bskw"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 黑蛇众"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

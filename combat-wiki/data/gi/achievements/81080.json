@@ -1,0 +1,15 @@
+{
+  "id": "81080",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "围炉夜谈",
+  "description": "解锁10段同伴互动对话。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "19"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

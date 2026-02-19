@@ -1,0 +1,25 @@
+{
+  "id": "61901",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "隐山猊兽",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Hermit"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 猊兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

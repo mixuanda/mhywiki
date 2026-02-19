@@ -1,0 +1,57 @@
+{
+  "id": "13513",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "柔灯挽歌",
+  "description": "装饰着苍水晶的华美长枪，据说曾是某位传奇决斗代理人终生珍藏却从未使用过的武器。",
+  "rarity": 5,
+  "weaponType": 4,
+  "baseAtk": 608.0745972,
+  "subStatType": "CR",
+  "subStatValue": 0.330768,
+  "materialRefs": [
+    "112040",
+    "112100",
+    "114060"
+  ],
+  "affix": {
+    "113513": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "攻击力提升 <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>19%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>27%</color> / <color style='color:#99FFFFFF'>31%</color> ；装备者对敌人触发燃烧反应或对处于燃烧状态下的敌人造成草元素伤害后，造成的伤害提高 <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>33%</color> / <color style='color:#99FFFFFF'>38%</color> 。该效果持续8秒，至多叠加2层；叠加至2层或2层的持续时间刷新时，恢复 <color style='color:#99FFFFFF'>12</color> / <color style='color:#99FFFFFF'>13</color> / <color style='color:#99FFFFFF'>14</color> / <color style='color:#99FFFFFF'>15</color> / <color style='color:#99FFFFFF'>16</color> 点元素能量，每12秒至多通过这种方式恢复一次元素能量。上述2种效果角色处于队伍后台时也能触发。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "攻击力提升 <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>19%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>27%</color> / <color style='color:#99FFFFFF'>31%</color> ；装备者对敌人触发燃烧反应或对处于燃烧状态下的敌人造成草元素伤害后，造成的伤害提高 <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>33%</color> / <color style='color:#99FFFFFF'>38%</color> 。该效果持续8秒，至多叠加2层；叠加至2层或2层的持续时间刷新时，恢复 <color style='color:#99FFFFFF'>12</color> / <color style='color:#99FFFFFF'>13</color> / <color style='color:#99FFFFFF'>14</color> / <color style='color:#99FFFFFF'>15</color> / <color style='color:#99FFFFFF'>16</color> 点元素能量，每12秒至多通过这种方式恢复一次元素能量。上述2种效果角色处于队伍后台时也能触发。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "攻击力提升 <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>19%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>27%</color> / <color style='color:#99FFFFFF'>31%</color> ；装备者对敌人触发燃烧反应或对处于燃烧状态下的敌人造成草元素伤害后，造成的伤害提高 <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>33%</color> / <color style='color:#99FFFFFF'>38%</color> 。该效果持续8秒，至多叠加2层；叠加至2层或2层的持续时间刷新时，恢复 <color style='color:#99FFFFFF'>12</color> / <color style='color:#99FFFFFF'>13</color> / <color style='color:#99FFFFFF'>14</color> / <color style='color:#99FFFFFF'>15</color> / <color style='color:#99FFFFFF'>16</color> 点元素能量，每12秒至多通过这种方式恢复一次元素能量。上述2种效果角色处于队伍后台时也能触发。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "攻击力提升 <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>19%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>27%</color> / <color style='color:#99FFFFFF'>31%</color> ；装备者对敌人触发燃烧反应或对处于燃烧状态下的敌人造成草元素伤害后，造成的伤害提高 <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>33%</color> / <color style='color:#99FFFFFF'>38%</color> 。该效果持续8秒，至多叠加2层；叠加至2层或2层的持续时间刷新时，恢复 <color style='color:#99FFFFFF'>12</color> / <color style='color:#99FFFFFF'>13</color> / <color style='color:#99FFFFFF'>14</color> / <color style='color:#99FFFFFF'>15</color> / <color style='color:#99FFFFFF'>16</color> 点元素能量，每12秒至多通过这种方式恢复一次元素能量。上述2种效果角色处于队伍后台时也能触发。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "攻击力提升 <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>19%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>27%</color> / <color style='color:#99FFFFFF'>31%</color> ；装备者对敌人触发燃烧反应或对处于燃烧状态下的敌人造成草元素伤害后，造成的伤害提高 <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>33%</color> / <color style='color:#99FFFFFF'>38%</color> 。该效果持续8秒，至多叠加2层；叠加至2层或2层的持续时间刷新时，恢复 <color style='color:#99FFFFFF'>12</color> / <color style='color:#99FFFFFF'>13</color> / <color style='color:#99FFFFFF'>14</color> / <color style='color:#99FFFFFF'>15</color> / <color style='color:#99FFFFFF'>16</color> 点元素能量，每12秒至多通过这种方式恢复一次元素能量。上述2种效果角色处于队伍后台时也能触发。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "攻击力提升 <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>19%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>27%</color> / <color style='color:#99FFFFFF'>31%</color> ；装备者对敌人触发燃烧反应或对处于燃烧状态下的敌人造成草元素伤害后，造成的伤害提高 <color style='color:#99FFFFFF'>18%</color> / <color style='color:#99FFFFFF'>23%</color> / <color style='color:#99FFFFFF'>28%</color> / <color style='color:#99FFFFFF'>33%</color> / <color style='color:#99FFFFFF'>38%</color> 。该效果持续8秒，至多叠加2层；叠加至2层或2层的持续时间刷新时，恢复 <color style='color:#99FFFFFF'>12</color> / <color style='color:#99FFFFFF'>13</color> / <color style='color:#99FFFFFF'>14</color> / <color style='color:#99FFFFFF'>15</color> / <color style='color:#99FFFFFF'>16</color> 点元素能量，每12秒至多通过这种方式恢复一次元素能量。上述2种效果角色处于队伍后台时也能触发。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13513.js"
+  }
+}

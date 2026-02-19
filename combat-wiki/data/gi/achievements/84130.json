@@ -1,0 +1,15 @@
+{
+  "id": "84130",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "过当防卫",
+  "description": "一石激起千层浪，凝光的假期看来无福消受了。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

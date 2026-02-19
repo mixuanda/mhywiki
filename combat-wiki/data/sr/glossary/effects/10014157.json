@@ -1,0 +1,19 @@
+{
+  "id": "10014157",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「创世」之诗",
+  "description": "攻击力提高<color> <b>A</b> </color>点，暴击率提高<color> <b>B</b> </color>。施放强化普攻后，德谬歌立即获得1个额外回合并自动施放【花与箭的舞曲】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014157,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Player",
+    "Name": "献予「创世」之诗",
+    "Desc": "攻击力提高<color> <b>A</b> </color>点，暴击率提高<color> <b>B</b> </color>。施放强化普攻后，德谬歌立即获得1个额外回合并自动施放【花与箭的舞曲】。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

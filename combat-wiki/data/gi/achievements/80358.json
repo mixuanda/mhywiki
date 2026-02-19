@@ -1,0 +1,15 @@
+{
+  "id": "80358",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "燔炎的寻宝者 · 其二",
+  "description": "在镜璧山、翘枝崖、奥奇卡纳塔开启<color style='color:#FF0000;'><b>160</b></color>个宝箱。",
+  "reward": 20,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

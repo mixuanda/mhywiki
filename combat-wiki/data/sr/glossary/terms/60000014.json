@@ -1,0 +1,15 @@
+{
+  "id": "60000014",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "感官追猎",
+  "description": "每层使受到的追加攻击伤害提高 <b>8%</b> 。",
+  "content": {
+    "_id": 60000014,
+    "Name": "感官追猎",
+    "Desc": "每层使受到的追加攻击伤害提高 <b>8%</b> 。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

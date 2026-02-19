@@ -1,0 +1,18 @@
+{
+  "id": "240230113",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "易伤",
+  "description": "受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240230113,
+    "MDF": "MModifier_W4_Griffin_00_LocalLegend_AllDamageTaken",
+    "Name": "易伤",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

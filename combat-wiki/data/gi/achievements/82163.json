@@ -1,0 +1,15 @@
+{
+  "id": "82163",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "像是跳房子？",
+  "description": "在一次正机之神挑战中，激活所有的元素矩阵。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "39"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

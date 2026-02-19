@@ -1,0 +1,15 @@
+{
+  "id": "84505",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "帝君故事",
+  "description": "搜集到「岩游记」中所有有关岩王帝君的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "12"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

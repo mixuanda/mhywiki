@@ -1,0 +1,22 @@
+{
+  "id": "11406",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "试作斩岩",
+  "description": "黑岩厂中秘藏的古老长剑。可挥砍断岩而刃不卷。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 564.7837244,
+  "subStatType": "Phys",
+  "subStatValue": 0.344857798,
+  "materialRefs": [
+    "112028",
+    "112034",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11406.js"
+  }
+}

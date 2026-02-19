@@ -1,0 +1,15 @@
+{
+  "id": "82205",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "可靠的叙事者",
+  "description": "幻想真境剧诗：在任意难度下，完成整场演出时，选择过至少8次奇妙助益或辉彩祝福事件。",
+  "reward": 5,
+  "version": "4.7",
+  "group": {
+    "id": "50"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

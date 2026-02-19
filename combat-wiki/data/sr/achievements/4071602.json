@@ -1,0 +1,18 @@
+{
+  "id": "4071602",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "筑城者（与前筑城者）",
+  "description": "使用布洛妮娅、杰帕德、佩拉、希露瓦的4人队伍配置取得 1.0 场战斗的胜利",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

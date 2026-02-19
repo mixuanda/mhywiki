@@ -1,0 +1,18 @@
+{
+  "id": "4082708",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "贵人路上好商量",
+  "description": "在占卜店首次抽到闭目签",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4034401",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "门扉之始，王座之终",
+  "description": "英雄啊，兑现那染血的冀望<br><color style='color:#8790ab;'>※完成「再创世」之旅……？</color>",
+  "reward": 10,
+  "version": 3.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

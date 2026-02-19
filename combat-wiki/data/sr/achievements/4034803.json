@@ -1,0 +1,18 @@
+{
+  "id": "4034803",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "飞翔无需理由",
+  "description": "哪怕一切为时已晚，我们还是能去唱，自己能唱的歌<br><color style='color:#8790ab;'>※见证逐梦者的谐乐大典</color>",
+  "reward": 10,
+  "version": 3.8,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

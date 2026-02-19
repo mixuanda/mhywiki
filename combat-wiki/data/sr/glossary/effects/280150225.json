@@ -1,0 +1,17 @@
+{
+  "id": "280150225",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "丰饶增益",
+  "description": "消灭【丰饶玄莲】可使造成的伤害提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150225,
+    "MDF": "Monster_W2_Huanlong_00_IF_White_DeathRattle",
+    "Name": "丰饶增益",
+    "Desc": "消灭【丰饶玄莲】可使造成的伤害提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

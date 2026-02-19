@@ -1,0 +1,15 @@
+{
+  "id": "80345",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "太阳之金，以及血液…",
+  "description": "自「盗火贤者」的遗迹中，取得前往火山朝圣的信物。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

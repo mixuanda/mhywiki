@@ -1,0 +1,25 @@
+{
+  "id": "20802",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "黑蛇骑士 · 摧岩之钺",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "bskr"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 黑蛇众"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

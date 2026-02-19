@@ -1,0 +1,18 @@
+{
+  "id": "4044004",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虫鸣秘闻：捷足悖论",
+  "description": "战士总是在奔跑吗？<br><color style='color:#8790ab;'>※解开「纷争荒墟」悬锋城的预言谜题</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2032051",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "裂维之爪",
+  "description": "心兽之爪，决天维，裂地纪。",
+  "stats": {
+    "HP": 4.0,
+    "ATK": 15.0,
+    "DEF": 1.0,
+    "SPD": 118.0,
+    "Stance": 8.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_2032050.png",
+  "figure": "monsterfigure/BossIconTemporary.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

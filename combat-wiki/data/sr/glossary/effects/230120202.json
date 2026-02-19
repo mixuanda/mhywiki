@@ -1,0 +1,17 @@
+{
+  "id": "230120202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "守备击破",
+  "description": "受到的伤害提高，弱点击破恢复时解除。弱点击破恢复后受到的伤害降低。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230120202,
+    "MDF": "MCommon_SuperArmorBreak",
+    "Name": "守备击破",
+    "Desc": "受到的伤害提高，弱点击破恢复时解除。弱点击破恢复后受到的伤害降低。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "13956",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13956",
+  "tags": [],
+  "content": {
+    "_id": 13956,
+    "N": "月引周巡之述演",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_01",
+        "D": "在推演过程中，旅行者需要抽选交战单位与战斗策略，组成出战阵容，以与对手的阵容进行战斗。<br>每场推演中，需要进行10回合的战斗，每回合都需要迎战不同的对手。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_06",
+        "D": "每场推演开始时，旅行者可以从4个「战线领队」中抽选一个。领队实力强大，且有一个专属的战斗策略以提供增益。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Pick_02",
+        "D": "每回合的战斗开始前，旅行者将获得一定次数的机会，用以抽选<color style='color:#FFCC33'>交战单位#、<color style='color:#FFCC33'>阵列战旗#与<color style='color:#FFCC33'>战斗策略#。<br>每回合将有一定次数的「刷新选项」的机会，以在选取交战单位或战斗策略时替换当前选项。<br>抽选的交战单位、阵列战旗与战斗策略将保留到本次推演结束。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

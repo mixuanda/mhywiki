@@ -1,0 +1,15 @@
+{
+  "id": "81448",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「肉脯沉…什么出？」",
+  "description": "发现玉璜古龟的栖息地。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81010",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "冢里最好的剑",
+  "description": "解开剑冢的三层封印。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

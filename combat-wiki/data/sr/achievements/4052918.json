@@ -1,0 +1,18 @@
+{
+  "id": "4052918",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "彼此的命运",
+  "description": "获得稀有造物「墨镜猫咪」",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

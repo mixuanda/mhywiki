@@ -1,0 +1,18 @@
+{
+  "id": "4070902",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "消消乐",
+  "description": "在队伍中有 3.0 个相同属性角色的情况下获得战斗胜利",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84046",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无念无想，泡影断灭",
+  "description": "完成「无念无想，泡影断灭」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

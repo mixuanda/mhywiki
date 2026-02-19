@@ -1,0 +1,27 @@
+{
+  "id": "62610",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "波塔波的声援 · 秘影重现",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Ice": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Wayob_Shamansaurus"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

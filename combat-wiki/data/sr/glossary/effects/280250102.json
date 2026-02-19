@@ -1,0 +1,18 @@
+{
+  "id": "280250102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "增殖",
+  "description": "受到的伤害降低<color> <b>A</b> </color>，每次受到攻击时召唤普通虫群，弱点被击破时对敌方全体造成等同自身韧性上限的削韧值，并使自身以外的敌方目标受到的伤害提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280250102,
+    "MDF": "Monster_SW_Boss_01_DamageReduce",
+    "Name": "增殖",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>，每次受到攻击时召唤普通虫群，弱点被击破时对敌方全体造成等同自身韧性上限的削韧值，并使自身以外的敌方目标受到的伤害提高。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

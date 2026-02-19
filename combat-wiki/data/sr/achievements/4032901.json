@@ -1,0 +1,18 @@
+{
+  "id": "4032901",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天才在左，庸人在右",
+  "description": "平息黑塔空间站新的风波<br><color style='color:#8790ab;'>※完成开拓续闻「庸与神的冠冕」</color>",
+  "reward": 10,
+  "version": 1.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

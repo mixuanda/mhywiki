@@ -1,0 +1,18 @@
+{
+  "id": "4074005",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "止战之殇",
+  "description": "在和「蛮神，疯王，纷争的化身」的单场战斗中，破坏其【战甲】和【泰坦神躯】",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

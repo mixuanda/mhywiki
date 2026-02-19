@@ -1,0 +1,17 @@
+{
+  "id": "240150208",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "百眼一心",
+  "description": "受到伤害时，【至高，至阳，天空的化身】损失等量生命值。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240150208,
+    "MDF": "MMonster_W4_DawnsEye_00_B_PartHP",
+    "Name": "百眼一心",
+    "Desc": "受到伤害时，【至高，至阳，天空的化身】损失等量生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

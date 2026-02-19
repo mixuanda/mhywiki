@@ -1,0 +1,15 @@
+{
+  "id": "84371",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如梦幻泡影",
+  "description": "目睹过去在这里发生过的「历史」。",
+  "reward": 5,
+  "version": "6.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

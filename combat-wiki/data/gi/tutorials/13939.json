@@ -1,0 +1,23 @@
+{
+  "id": "13939",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13939",
+  "tags": [],
+  "content": {
+    "_id": 13939,
+    "N": "回忆之中的闲云",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Avatar_5_01",
+        "D": "在回忆中，闲云可以借助元素战技进行连续跳跃。当<color style='color:#ec9d1f'>短按施放#元素战技时，闲云可以向前跳跃。在<color style='color:#ec9d1f'>每次短按元素战技后的一定时间内再次短按，即可进行连续跳跃，最多连续跳跃三次#。每次起跳的间隔不同，闲云跳跃的轨迹也会有些许变化..."
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

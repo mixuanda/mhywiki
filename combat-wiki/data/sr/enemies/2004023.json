@@ -1,0 +1,39 @@
+{
+  "id": "2004023",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "云骑骁卫 · 彦卿（幻象）",
+  "description": "将军景元的侍卫，不过总角之年的御剑天才。出现于此的是你的记忆模拟出的幻影。",
+  "stats": {
+    "HP": 70.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 119.0,
+    "Stance": 22.0
+  },
+  "weakness": [
+    "Elec",
+    "Wind",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Fire": 0.2,
+    "Ice": 0.6
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_2004020.png",
+  "figure": "monsterfigure/Monster_2004020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

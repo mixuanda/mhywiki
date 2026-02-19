@@ -1,0 +1,19 @@
+{
+  "id": "100140813",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "身承炎炬万千",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100140813,
+    "MDF": "MAvatar_Phainon_00_SkillTree02_Property",
+    "Name": "身承炎炬万千",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "烈火朝生暮死",
+  "description": "将伊来内换取的「余火」汇入火焰",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

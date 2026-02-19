@@ -1,0 +1,15 @@
+{
+  "id": "81252",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "茉莉低语，石榴开怀",
+  "description": "完成「正法炬书」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

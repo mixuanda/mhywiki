@@ -1,0 +1,19 @@
+{
+  "id": "10014024",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "短视之惩",
+  "description": "攻击力提高<color> <b>A</b> </color>点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014024,
+    "MDF": "MAvatar_Aglaea_Skill03_Servant_PointB1_AddAttack",
+    "Name": "短视之惩",
+    "Desc": "攻击力提高<color> <b>A</b> </color>点。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

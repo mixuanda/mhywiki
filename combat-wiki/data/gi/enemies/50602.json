@@ -1,0 +1,27 @@
+{
+  "id": "50602",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "罗基 · 艾威尔森",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "thpu1"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.2"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

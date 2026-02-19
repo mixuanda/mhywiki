@@ -1,0 +1,15 @@
+{
+  "id": "81057",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "伐伐伐伐木工",
+  "description": "获得600份木材。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "18"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

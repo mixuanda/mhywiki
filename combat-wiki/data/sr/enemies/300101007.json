@@ -1,0 +1,39 @@
+{
+  "id": "300101007",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "惊梦剧团的弹簧荷官",
+  "description": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是牌桌上的娱乐道具，失控后仍在舞动着手中的骰子，用粗鲁的方式进行游戏。",
+  "stats": {
+    "HP": 2.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 83.0,
+    "Stance": 1.0
+  },
+  "weakness": [
+    "Phys",
+    "Wind"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.0,
+  "icon": "mostericon/Monster_3001010.png",
+  "figure": "monsterfigure/Monster_3001010.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

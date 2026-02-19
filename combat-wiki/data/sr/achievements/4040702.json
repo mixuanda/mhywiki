@@ -1,0 +1,18 @@
+{
+  "id": "4040702",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "相位提款机",
+  "description": "捕捉次元扑满 10.0 次",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

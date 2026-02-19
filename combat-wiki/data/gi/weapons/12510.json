@@ -1,0 +1,22 @@
+{
+  "id": "12510",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "赤角石溃杵",
+  "description": "依据过去的主人的说法，这是何等鬼怪精妖都能打跑的大杵「赤角石见石溃金涂金啮御狮子」。",
+  "rarity": 5,
+  "weaponType": 2,
+  "baseAtk": 541.829758,
+  "subStatType": "CD",
+  "subStatValue": 0.882048,
+  "materialRefs": [
+    "112046",
+    "112058",
+    "114032"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12510.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "110193",
+  "game": "sr",
+  "entityType": "material",
+  "name": "逆时一击",
+  "icon": "itemicon/110193.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

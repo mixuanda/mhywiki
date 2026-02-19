@@ -1,0 +1,25 @@
+{
+  "id": "61101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "翠翎恐蕈",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "jpt"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 恐蕈"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

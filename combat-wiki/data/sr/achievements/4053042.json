@@ -1,0 +1,18 @@
+{
+  "id": "4053042",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "既视感",
+  "description": "在梦境中邂逅熟悉的风景<br><color style='color:#8790ab;'>※没错，是垃圾桶！</color>",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

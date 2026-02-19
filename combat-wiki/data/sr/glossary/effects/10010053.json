@@ -1,0 +1,19 @@
+{
+  "id": "10010053",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "持续伤害易伤",
+  "description": "受到的持续伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010053,
+    "MDF": "MAvatar_Kafka_PassiveDotDamage_Rank01",
+    "Name": "持续伤害易伤",
+    "Desc": "受到的持续伤害提高<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

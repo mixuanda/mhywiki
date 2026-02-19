@@ -1,0 +1,15 @@
+{
+  "id": "81087",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "我们需要更多作物！",
+  "description": "在「贵本之道-『玄此玉田』」中收获40个采集物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "23"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

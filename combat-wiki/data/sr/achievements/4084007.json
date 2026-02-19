@@ -1,0 +1,18 @@
+{
+  "id": "4084007",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "动啊，为什么不动？",
+  "description": "神龛？什么神龛？<br><color style='color:#8790ab;'>※在翁法罗斯探索过程中，回溯残留有记忆的某个物件时，因超过能力限度而失败五次</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

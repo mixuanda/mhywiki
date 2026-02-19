@@ -1,0 +1,18 @@
+{
+  "id": "4052335",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "魔方人滚出仙舟",
+  "description": "完成魔方秘社的 15.0 个「枘凿六合」挑战",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

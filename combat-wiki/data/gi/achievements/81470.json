@@ -1,0 +1,15 @@
+{
+  "id": "81470",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "历玄冥以幽径",
+  "description": "再度回到锦落庭。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

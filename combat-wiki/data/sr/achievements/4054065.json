@@ -1,0 +1,18 @@
+{
+  "id": "4054065",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虚构集或永恒史",
+  "description": "那是何人写下的故事？<br><color style='color:#8790ab;'>※读完最初的7.0段故事后，你陷入凝思</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

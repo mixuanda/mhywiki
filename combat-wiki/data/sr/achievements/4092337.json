@@ -1,0 +1,18 @@
+{
+  "id": "4092337",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "心猿意马的你",
+  "description": "通关「模拟宇宙」时，携带祝福所来自的命途数量大于等于 6.0 ",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

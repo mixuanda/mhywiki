@@ -1,0 +1,52 @@
+{
+  "id": "13432",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "且住亭御咄",
+  "description": "过去曾有以行灯焰火为形于稻妻四处奔行的妖怪，这也是其曾经寄身的一处灯盏吧。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112046",
+    "112118",
+    "114036"
+  ],
+  "affix": {
+    "113432": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "施放元素战技时，提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 攻击力和 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>10%</color> 移动速度，持续10秒。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "施放元素战技时，提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 攻击力和 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>10%</color> 移动速度，持续10秒。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "施放元素战技时，提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 攻击力和10%移动速度，持续10秒。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "施放元素战技时，提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 攻击力和10%移动速度，持续10秒。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "施放元素战技时，提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 攻击力和10%移动速度，持续10秒。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13432.js"
+  }
+}

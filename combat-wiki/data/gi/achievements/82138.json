@@ -1,0 +1,15 @@
+{
+  "id": "82138",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "头盖骨胜负",
+  "description": "一次挑战中，通过攻击头部的核心，中断兆载永劫龙兽的能量洪流。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "34"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

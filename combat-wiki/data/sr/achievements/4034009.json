@@ -1,0 +1,18 @@
+{
+  "id": "4034009",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "活死人黎明",
+  "description": "回到翁法罗斯「开拓」的起点<br><color style='color:#8790ab;'>※回到列车坠毁的地方看看</color>",
+  "reward": 10,
+  "version": 3.0,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

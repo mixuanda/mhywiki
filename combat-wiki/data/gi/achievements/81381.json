@@ -1,0 +1,15 @@
+{
+  "id": "81381",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "出来吧神秘矿！",
+  "description": "集齐了七块神秘的黄绿色矿石。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

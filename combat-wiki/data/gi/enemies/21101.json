@@ -1,0 +1,25 @@
+{
+  "id": "21101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "大型碎石隙境原体",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Ovacua_Order_01"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 隙境原体"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

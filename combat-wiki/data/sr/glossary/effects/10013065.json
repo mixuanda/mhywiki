@@ -1,0 +1,19 @@
+{
+  "id": "10013065",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "夜想曲",
+  "description": "攻击力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013065,
+    "MDF": "MAvatar_Sparkle_Tree03",
+    "Name": "夜想曲",
+    "Desc": "攻击力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

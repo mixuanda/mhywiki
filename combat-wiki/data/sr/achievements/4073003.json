@@ -1,0 +1,18 @@
+{
+  "id": "4073003",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "有害垃圾",
+  "description": "战斗中1.0名我方角色被王下一桶击败",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

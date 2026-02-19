@@ -1,0 +1,10 @@
+{
+  "id": "110404",
+  "game": "sr",
+  "entityType": "material",
+  "name": "往日之影的雷冠",
+  "icon": "itemicon/110404.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

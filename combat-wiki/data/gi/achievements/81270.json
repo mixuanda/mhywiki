@@ -1,0 +1,15 @@
+{
+  "id": "81270",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "像赤王子民一样行走",
+  "description": "获得了通过许多门的许可。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

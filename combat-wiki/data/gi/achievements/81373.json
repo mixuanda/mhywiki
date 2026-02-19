@@ -1,0 +1,15 @@
+{
+  "id": "81373",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「深谷之剑」",
+  "description": "战胜地方传奇 · 深谷之剑。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10012135",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "见谯",
+  "description": "【见谯】的效果尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012135,
+    "MDF": "MAvatar_DanHengIL_00_Rank06CD",
+    "Name": "见谯",
+    "Desc": "【见谯】的效果尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

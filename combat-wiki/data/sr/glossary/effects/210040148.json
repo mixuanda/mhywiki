@@ -1,0 +1,17 @@
+{
+  "id": "210040148",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "坚防守备",
+  "description": "受到的伤害降低<color> <b>A</b> </color>，弱点被击破时解除。弱点被击破时行动额外延后，被击破后受到的伤害提高。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040148,
+    "MDF": "MCommon_SuperArmor_IF",
+    "Name": "坚防守备",
+    "Desc": "受到的伤害降低<color> <b>A</b> </color>，弱点被击破时解除。弱点被击破时行动额外延后，被击破后受到的伤害提高。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

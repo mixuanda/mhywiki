@@ -1,0 +1,18 @@
+{
+  "id": "4074209",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "无垢之身",
+  "description": "单场战斗中，黑潮蚀魔在施放【吞浊纳污】时，没有吸收到【侵蚀】",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

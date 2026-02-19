@@ -1,0 +1,18 @@
+{
+  "id": "4092338",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "孤狼舞台",
+  "description": "通关「模拟宇宙」时，携带祝福总数小于等于 6.0 （难度2及以上）",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

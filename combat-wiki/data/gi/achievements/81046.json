@@ -1,0 +1,15 @@
+{
+  "id": "81046",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "接近天空的地方…",
+  "description": "登上复原后的寒天之钉。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

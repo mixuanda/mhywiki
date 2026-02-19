@@ -1,0 +1,15 @@
+{
+  "id": "84117",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "家政高手",
+  "description": "在规定时间内完成大扫除。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

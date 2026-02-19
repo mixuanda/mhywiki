@@ -1,0 +1,15 @@
+{
+  "id": "84132",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "愿此刻永恒",
+  "description": "与云堇合影留念。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81177",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "雷鸟的系谱",
+  "description": "完成所有「雕像」的挑战。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

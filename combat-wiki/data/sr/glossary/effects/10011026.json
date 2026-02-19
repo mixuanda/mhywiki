@@ -1,0 +1,18 @@
+{
+  "id": "10011026",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "夜行",
+  "description": "被敌方目标攻击的概率降低。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011026,
+    "MDF": "MAvatar_Seele_00_SkillTree_AggroDown",
+    "Name": "夜行",
+    "Desc": "被敌方目标攻击的概率降低。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

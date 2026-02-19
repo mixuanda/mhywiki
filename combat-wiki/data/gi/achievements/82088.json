@@ -1,0 +1,15 @@
+{
+  "id": "82088",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "我们之中最坚强的灵魂",
+  "description": "击败所有形态的若陀龙王。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

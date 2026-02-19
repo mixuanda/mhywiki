@@ -1,0 +1,17 @@
+{
+  "id": "10012057",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "命留魂销",
+  "description": "暂时无法重回战场。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012057,
+    "MDF": "MAvatar_Ren_Rank06_CountDown",
+    "Name": "命留魂销",
+    "Desc": "暂时无法重回战场。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

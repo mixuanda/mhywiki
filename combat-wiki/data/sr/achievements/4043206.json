@@ -1,0 +1,18 @@
+{
+  "id": "4043206",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "速度加快，血糖升高",
+  "description": "在位于热砂海选会场的《速度与坚果》挑战中吃到所有的苏乐达道具",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

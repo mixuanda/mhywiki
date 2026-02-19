@@ -1,0 +1,18 @@
+{
+  "id": "4052706",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "超链接路人王",
+  "description": "在「以太战线•超链接对决」中击败所有对手",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

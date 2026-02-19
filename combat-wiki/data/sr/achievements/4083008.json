@@ -1,0 +1,18 @@
+{
+  "id": "4083008",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "一切真理须如货币般流通",
+  "description": "在支援助战中使用真理医生参与1.0场战斗",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

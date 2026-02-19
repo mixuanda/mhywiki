@@ -1,0 +1,17 @@
+[
+  {
+    "id": "archer",
+    "name": "Archer",
+    "path": "archer.json"
+  },
+  {
+    "id": "saber",
+    "name": "Saber",
+    "path": "saber.json"
+  },
+  {
+    "id": "unknown",
+    "name": "风堇",
+    "path": "unknown.json"
+  }
+]

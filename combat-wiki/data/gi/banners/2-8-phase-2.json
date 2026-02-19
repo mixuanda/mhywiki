@@ -1,0 +1,30 @@
+{
+  "id": "2-8-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "2.8",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Yoimiya",
+      "X": 2
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Yunjin",
+      "X": 3
+    },
+    {
+      "N": "Bennett",
+      "X": 6
+    },
+    {
+      "N": "Xinyan",
+      "X": 6
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4090301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "晚安，我的朋友",
+  "description": "「模拟宇宙」内，累计消灭 15.0 个敌人",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

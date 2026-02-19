@@ -1,0 +1,18 @@
+{
+  "id": "4034203",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "乌虐的黑夜，压罩不幸的凡人",
+  "description": "「死亡」曾藏身于巨龙与海浪的城邦<br><color style='color:#8790ab;'>※到达「龙骸古城」斯缇科西亚</color>",
+  "reward": 10,
+  "version": 3.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

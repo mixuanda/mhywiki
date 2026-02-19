@@ -1,0 +1,15 @@
+{
+  "id": "81227",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "森林的大乐章",
+  "description": "似乎具有成为「采歌者」的潜力…？",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

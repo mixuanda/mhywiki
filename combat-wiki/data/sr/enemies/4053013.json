@@ -1,0 +1,39 @@
+{
+  "id": "4053013",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "哀歌塞壬 · 无情无餍的深海妖",
+  "description": "传说中的海妖掠夺者，能以歌声勾引意志动荡的船员。迷狂者将纵身跃入洋面，成为深海的肴馔。",
+  "stats": {
+    "HP": 37.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 180.0,
+    "Stance": 18.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Elec"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4053010.png",
+  "figure": "monsterfigure/Monster_4053010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

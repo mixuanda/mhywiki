@@ -1,0 +1,18 @@
+{
+  "id": "4072019",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "骑士道",
+  "description": "不消灭召唤出的「银鬃铁卫」的情况下消灭杰帕德",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

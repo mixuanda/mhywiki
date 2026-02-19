@@ -1,0 +1,18 @@
+{
+  "id": "4054404",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "空谷有足音回响",
+  "description": "送别白厄昔日的笔友",
+  "reward": 5,
+  "version": 3.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

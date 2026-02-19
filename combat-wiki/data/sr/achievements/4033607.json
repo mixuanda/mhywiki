@@ -1,0 +1,18 @@
+{
+  "id": "4033607",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "没有「人」比我更懂睡蕉",
+  "description": "世界上有两种枪手，一种知道怎么开枪，一种知道怎么不开枪<br>※波提欧视角下，通过测验加入睡蕉社",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

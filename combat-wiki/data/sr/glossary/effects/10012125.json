@@ -1,0 +1,18 @@
+{
+  "id": "10012125",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "蚀变于娄",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012125,
+    "MDF": "MAvatar_Jingliu_Rank06",
+    "Name": "蚀变于娄",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

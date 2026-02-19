@@ -1,0 +1,18 @@
+{
+  "id": "100120512",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "吞忍百死",
+  "description": "得到的治疗效果提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100120512,
+    "MDF": "MAvatar_Advanced_Ren_SkillTree02",
+    "Name": "吞忍百死",
+    "Desc": "得到的治疗效果提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

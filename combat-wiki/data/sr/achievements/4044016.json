@@ -1,0 +1,18 @@
+{
+  "id": "4044016",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "烫手山芋",
+  "description": "念错祷言可以重念，但总要有个限度……<br><color style='color:#8790ab;'>※使用欧洛尼斯祷言让一个物件维持在回溯过程中的状态超过30.0秒</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

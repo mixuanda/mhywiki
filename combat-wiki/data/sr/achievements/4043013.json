@@ -1,0 +1,18 @@
+{
+  "id": "4043013",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "气球：匹诺康尼",
+  "description": "打破「白日梦」酒店-梦境中的特殊石头老板气球",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

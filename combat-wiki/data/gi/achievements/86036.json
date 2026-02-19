@@ -1,0 +1,15 @@
+{
+  "id": "86036",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "苇海霸者之证",
+  "description": "与其他玩家一同战胜阿佩普的绿洲守望者。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "44"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82155",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "神奇的固氮作用",
+  "description": "在一次无相之草挑战中，使三枚愈疗草芯同时处于活化状态。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

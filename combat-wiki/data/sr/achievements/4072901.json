@@ -1,0 +1,18 @@
+{
+  "id": "4072901",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "在黑暗深渊之中",
+  "description": "当碎星王虫施放「孕灾虫甲」后，使其进入弱点击破状态",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

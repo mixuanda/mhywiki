@@ -1,0 +1,15 @@
+{
+  "id": "70000304",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "转移",
+  "description": "将弱点属性转移给目标，弱点属性会在目标被消灭后返回，并造成额外韧性值削减。",
+  "content": {
+    "_id": 70000304,
+    "Name": "转移",
+    "Desc": "将弱点属性转移给目标，弱点属性会在目标被消灭后返回，并造成额外韧性值削减。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

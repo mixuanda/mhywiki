@@ -1,0 +1,15 @@
+{
+  "id": "81392",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "潜水钟与胖胖果",
+  "description": "完成了水下进阶训练。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

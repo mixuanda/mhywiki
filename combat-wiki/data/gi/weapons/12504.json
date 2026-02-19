@@ -1,0 +1,22 @@
+{
+  "id": "12504",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "无工之剑",
+  "description": "能靖祛妖魔奸佞，仿佛有神威的无锋大剑。",
+  "rarity": 5,
+  "weaponType": 2,
+  "baseAtk": 608.0745972,
+  "subStatType": "ATK",
+  "subStatValue": 0.49615200000000004,
+  "materialRefs": [
+    "112028",
+    "112037",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12504.js"
+  }
+}

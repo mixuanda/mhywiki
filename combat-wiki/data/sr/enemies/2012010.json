@@ -1,0 +1,39 @@
+{
+  "id": "2012010",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "入魔机巧 · 灯昼龙鱼",
+  "description": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
+  "stats": {
+    "HP": 1.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Phys",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2012010.png",
+  "figure": "monsterfigure/Monster_2012010.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

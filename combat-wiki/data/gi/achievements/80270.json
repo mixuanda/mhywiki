@@ -1,0 +1,15 @@
+{
+  "id": "80270",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "怪盗与名侦探",
+  "description": "集齐全套《怪盗与名侦探：虹彩胸针之谜》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "43"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

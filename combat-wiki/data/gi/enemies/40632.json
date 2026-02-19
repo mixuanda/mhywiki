@@ -1,0 +1,32 @@
+{
+  "id": "40632",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的机关 · 算力增幅器",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_MachinaIustitia_Pylon"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": {
+    "Name": "历经百战的机关 · 算力增幅器",
+    "Icon": "UI_MonsterIcon_MachinaIustitia_Pylon",
+    "DescList": [
+      "• 会展开「重力削减力场」使@跳跃能力#大幅提升，同时在地面展开极为猛烈的攻势",
+      "• 具有@ 20U 岩元素护甲#，使全部抗性提升 @200%# ，利用近战角色的下落攻击可以高效损伤"
+    ]
+  },
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "110431",
+  "game": "sr",
+  "entityType": "material",
+  "name": "侵略凝块",
+  "icon": "itemicon/110431.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

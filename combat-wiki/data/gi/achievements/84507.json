@@ -1,0 +1,15 @@
+{
+  "id": "84507",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "且听我一言。",
+  "description": "在「且听下回分解」中听完《海山履云记》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "12"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

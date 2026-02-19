@@ -1,0 +1,15 @@
+{
+  "id": "81524",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "永夜的酬礼",
+  "description": "进入夜魂加持状态并维持18秒。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

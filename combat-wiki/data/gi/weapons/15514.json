@@ -1,0 +1,61 @@
+{
+  "id": "15514",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "星鹫赤羽",
+  "description": "饰以赤色翎羽的古老长弓，花羽会世代传承的圣物之一。",
+  "rarity": 5,
+  "weaponType": 5,
+  "baseAtk": 608.0745972,
+  "subStatType": "CD",
+  "subStatValue": 0.661536,
+  "materialRefs": [
+    "112106",
+    "112118",
+    "114072"
+  ],
+  "affix": {
+    "115514": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "触发扩散反应后的12秒内，攻击力提高 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高 <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> ，元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        "2": {
+          "Affix": [
+            "触发扩散反应后的12秒内，攻击力提高 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高 <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> ，元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "触发扩散反应后的12秒内，攻击力提高 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高 <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> ，元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "触发扩散反应后的12秒内，攻击力提高 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高 <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> ，元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "触发扩散反应后的12秒内，攻击力提高 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高 <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> ，元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "触发扩散反应后的12秒内，攻击力提高 <color style='color:#99FFFFFF'>24%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>36%</color> / <color style='color:#99FFFFFF'>42%</color> / <color style='color:#99FFFFFF'>48%</color> 。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高 <color style='color:#99FFFFFF'>20%/48%</color> / <color style='color:#99FFFFFF'>25%/60%</color> / <color style='color:#99FFFFFF'>30%/72%</color> / <color style='color:#99FFFFFF'>35%/84%</color> / <color style='color:#99FFFFFF'>40%/96%</color> ，元素爆发造成的伤害提高 <color style='color:#99FFFFFF'>10%/24%</color> / <color style='color:#99FFFFFF'>12.5%/30%</color> / <color style='color:#99FFFFFF'>15%/36%</color> / <color style='color:#99FFFFFF'>17.5%/42%</color> / <color style='color:#99FFFFFF'>20%/48%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15514.js"
+  }
+}

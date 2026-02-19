@@ -1,0 +1,15 @@
+{
+  "id": "81124",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "框架外收获",
+  "description": "用「神居岛崩炮」轰开一处藏宝地。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

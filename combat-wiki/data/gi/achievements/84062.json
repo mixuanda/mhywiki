@@ -1,0 +1,15 @@
+{
+  "id": "84062",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "生命意志与痛苦深渊",
+  "description": "击败深渊使徒。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

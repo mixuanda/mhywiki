@@ -1,0 +1,18 @@
+{
+  "id": "4074101",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "消逝的光芒",
+  "description": "单场战斗中，通过消灭敌方目标消除3.0个【艾格勒印记】",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "82177",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "热腾腾！",
+  "description": "不断尝试冰冻浊水幻灵…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

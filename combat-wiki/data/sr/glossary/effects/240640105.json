@@ -1,0 +1,17 @@
+{
+  "id": "240640105",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "备刑",
+  "description": "下次行动时施放【罪血枭首】，被弱点击破后解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240640105,
+    "MDF": "MMonster_W4_Serpent_01_Charge02",
+    "Name": "备刑",
+    "Desc": "下次行动时施放【罪血枭首】，被弱点击破后解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

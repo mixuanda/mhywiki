@@ -1,0 +1,17 @@
+{
+  "id": "10013048",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "宾果！",
+  "description": "持有【坚垣筹码】的队友发动追加攻击后，砂金获得1点【盲注】，该效果还可以触发<color> <b>A</b> </color>次。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013048,
+    "MDF": "MAvatar_Aventurine_SkillTree03_Status",
+    "Name": "宾果！",
+    "Desc": "持有【坚垣筹码】的队友发动追加攻击后，砂金获得1点【盲注】，该效果还可以触发<color> <b>A</b> </color>次。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

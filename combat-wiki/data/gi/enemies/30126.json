@@ -1,0 +1,25 @@
+{
+  "id": "30126",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的愚人众先遣队 · 火铳游击兵",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fsp"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

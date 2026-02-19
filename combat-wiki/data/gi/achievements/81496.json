@@ -1,0 +1,15 @@
+{
+  "id": "81496",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "传说中的勇者传说",
+  "description": "证明自己与龙伙伴的羁绊，得到「盗火贤者」的护符。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

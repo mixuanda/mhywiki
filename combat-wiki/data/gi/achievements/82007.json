@@ -1,0 +1,15 @@
+{
+  "id": "82007",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "赫炎的达达乌帕",
+  "description": "点燃一扇木盾丘丘暴徒的木盾。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "8"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

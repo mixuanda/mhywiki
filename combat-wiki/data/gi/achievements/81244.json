@@ -1,0 +1,15 @@
+{
+  "id": "81244",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "请安全玩耍",
+  "description": "陪森林中的兰那罗游戏。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

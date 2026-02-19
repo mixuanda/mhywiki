@@ -1,0 +1,15 @@
+{
+  "id": "309",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "繁星竞技场",
+  "icon": "71022.png",
+  "setBonuses": [
+    "使装备者的暴击率提高 <b>8%</b> 。当装备者的当前暴击率大于等于 <b>70%</b> 时，普攻和战技造成的伤害提高 <b>20%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/309.js"
+  }
+}

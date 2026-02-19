@@ -1,0 +1,15 @@
+{
+  "id": "80090",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "遗怨的回音",
+  "description": "完成了「远吕羽氏遗事」系列任务。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "24"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

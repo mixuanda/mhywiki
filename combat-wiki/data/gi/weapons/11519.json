@@ -1,0 +1,47 @@
+{
+  "id": "11519",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "朏魄含光",
+  "description": "传说中隐于清泉的仙人用井月的流光铸成的宝剑，唯有在日夕昏明时才会显露真形。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 541.829758,
+  "subStatType": "CD",
+  "subStatValue": 0.882048,
+  "materialRefs": [
+    "112124",
+    "112136",
+    "114024"
+  ],
+  "affix": {
+    "111519": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "防御力提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。装备者施放元素战技后的5秒内，月结晶反应伤害提升 <color style='color:#99FFFFFF'>64%</color> / <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>96%</color> / <color style='color:#99FFFFFF'>112%</color> / <color style='color:#99FFFFFF'>128%</color> 。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "防御力提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。装备者施放元素战技后的5秒内，月结晶反应伤害提升 <color style='color:#99FFFFFF'>64%</color> / <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>96%</color> / <color style='color:#99FFFFFF'>112%</color> / <color style='color:#99FFFFFF'>128%</color> 。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "防御力提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。装备者施放元素战技后的5秒内，月结晶反应伤害提升 <color style='color:#99FFFFFF'>64%</color> / <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>96%</color> / <color style='color:#99FFFFFF'>112%</color> / <color style='color:#99FFFFFF'>128%</color> 。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "防御力提高 <color style='color:#99FFFFFF'>20%</color> / <color style='color:#99FFFFFF'>25%</color> / <color style='color:#99FFFFFF'>30%</color> / <color style='color:#99FFFFFF'>35%</color> / <color style='color:#99FFFFFF'>40%</color> 。装备者施放元素战技后的5秒内，月结晶反应伤害提升 <color style='color:#99FFFFFF'>64%</color> / <color style='color:#99FFFFFF'>80%</color> / <color style='color:#99FFFFFF'>96%</color> / <color style='color:#99FFFFFF'>112%</color> / <color style='color:#99FFFFFF'>128%</color> 。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11519.js"
+  }
+}

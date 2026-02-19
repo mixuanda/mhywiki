@@ -1,0 +1,15 @@
+{
+  "id": "61000022",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "命途强化",
+  "description": "满足骰子的被动效果要求时，根据所选的命途，提供不同效果的增益。",
+  "content": {
+    "_id": 61000022,
+    "Name": "命途强化",
+    "Desc": "满足骰子的被动效果要求时，根据所选的命途，提供不同效果的增益。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

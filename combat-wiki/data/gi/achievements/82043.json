@@ -1,0 +1,15 @@
+{
+  "id": "82043",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "摧枯拉朽",
+  "description": "造成超过50000的暴击伤害。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

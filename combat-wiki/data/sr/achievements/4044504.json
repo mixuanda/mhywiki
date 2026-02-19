@@ -1,0 +1,18 @@
+{
+  "id": "4044504",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "埃斯库罗斯之死",
+  "description": "法吉娜的祭司常说，要小心高空坠物…<br><color style='color:#8790ab;'>※在翁法罗斯探索过程中，被倒塌的吊灯天顶砸中</color>",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

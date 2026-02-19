@@ -1,0 +1,25 @@
+{
+  "id": "20701",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "黯色空壳 · 旗令",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "shsb"
+  ],
+  "figure": null,
+  "groups": [
+    "深渊 > 黑蛇众"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

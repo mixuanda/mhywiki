@@ -1,0 +1,22 @@
+{
+  "id": "11424",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "狼牙",
+  "description": "传说中，遥远过去的流浪骑士所使用的长剑。",
+  "rarity": 4,
+  "weaponType": 1,
+  "baseAtk": 509.605949,
+  "subStatType": "CR",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112007",
+    "112025",
+    "114004"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11424.js"
+  }
+}

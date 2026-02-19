@@ -1,0 +1,15 @@
+{
+  "id": "86012",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "一条名叫洛蒂娅的鱼",
+  "description": "与其他玩家一同战胜纯水精灵。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "13"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

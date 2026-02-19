@@ -1,0 +1,15 @@
+{
+  "id": "82256",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「铜锁」",
+  "description": "在「铜锁」累计提高过4种不同的元素抗性后，将其击败。",
+  "reward": 20,
+  "version": "5.2",
+  "group": {
+    "id": "56"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

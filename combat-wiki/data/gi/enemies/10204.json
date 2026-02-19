@@ -1,0 +1,25 @@
+{
+  "id": "10204",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "丘丘霜铠王",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "flc"
+  ],
+  "figure": null,
+  "groups": [
+    "丘丘部族 > 丘丘王"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

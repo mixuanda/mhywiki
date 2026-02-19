@@ -1,0 +1,15 @@
+{
+  "id": "220040142",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "诱狂",
+  "description": "受到首领幻影的强化，进入特殊攻击模式，被弱点击破后解除。",
+  "content": {
+    "_id": 220040142,
+    "Name": "诱狂",
+    "Desc": "受到首领幻影的强化，进入特殊攻击模式，被弱点击破后解除。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

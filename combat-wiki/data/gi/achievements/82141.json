@@ -1,0 +1,15 @@
+{
+  "id": "82141",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "黛西，黛西",
+  "description": "通过原激化、超激化或蔓激化反应命中半永恒统辖矩阵核心，破除其不可视状态。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "34"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

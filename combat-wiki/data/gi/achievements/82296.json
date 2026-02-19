@@ -1,0 +1,15 @@
+{
+  "id": "82296",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「深蓝」",
+  "description": "解开弈局中的所有谜题。",
+  "reward": 5,
+  "version": "5.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

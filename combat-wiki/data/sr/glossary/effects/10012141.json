@@ -1,0 +1,17 @@
+{
+  "id": "10012141",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "伺观中枢",
+  "description": "已累计溢出<color> <b>A</b> </color>层【恶报】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012141,
+    "MDF": "MAvatar_Xueyi_Passive_SkillTree03",
+    "Name": "伺观中枢",
+    "Desc": "已累计溢出<color> <b>A</b> </color>层【恶报】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

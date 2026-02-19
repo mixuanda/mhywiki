@@ -1,0 +1,15 @@
+{
+  "id": "81388",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "最凶！发条机关的八魔将",
+  "description": "获得了「不完美的」发条机关的遗产。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

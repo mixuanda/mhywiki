@@ -1,0 +1,15 @@
+{
+  "id": "80301",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "凌沉玉以径度",
+  "description": "解锁璃月区域中，沉玉谷所有传送锚点。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "47"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

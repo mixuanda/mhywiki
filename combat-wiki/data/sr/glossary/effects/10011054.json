@@ -1,0 +1,19 @@
+{
+  "id": "10011054",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "持续回复",
+  "description": "每回合开始时回复一定生命值。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011054,
+    "MDF": "MAvatar_Natasha_00_Rank02_HOT_HPByMaxHP",
+    "Name": "持续回复",
+    "Desc": "每回合开始时回复一定生命值。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

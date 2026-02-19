@@ -1,0 +1,18 @@
+{
+  "id": "280020801",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "保…保护你",
+  "description": "每层【保…保护你】可抵抗1次伤害，敌方全体共享【保…保护你】层数。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280020801,
+    "MDF": "MMonster_XP_Minion04_02_Cunhu_Buff",
+    "Name": "保…保护你",
+    "Desc": "每层【保…保护你】可抵抗1次伤害，敌方全体共享【保…保护你】层数。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

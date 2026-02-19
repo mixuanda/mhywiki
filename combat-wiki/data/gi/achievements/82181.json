@@ -1,0 +1,15 @@
+{
+  "id": "82181",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "月亮的距离",
+  "description": "在单个重力削减力场中，进行11次下落攻击，命中实验性场力发生装置。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "40"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

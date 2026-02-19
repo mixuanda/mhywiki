@@ -1,0 +1,39 @@
+{
+  "id": "1004031",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "布洛妮娅（完整）",
+  "description": "代码受到影响后的完整投影。参照本体为贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅（完整）会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
+  "stats": {
+    "HP": 6.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 143.0,
+    "Stance": 7.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Ice": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1004030.png",
+  "figure": "monsterfigure/Monster_1004030.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

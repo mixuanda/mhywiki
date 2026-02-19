@@ -1,0 +1,18 @@
+{
+  "id": "4023501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "伴我同行",
+  "description": "获得1.0个随宠",
+  "reward": 10,
+  "version": 2.5,
+  "series": {
+    "_id": 2,
+    "Name": "流光遗痕",
+    "Icon": "CollectAchievementIcon.png",
+    "Count": 14
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

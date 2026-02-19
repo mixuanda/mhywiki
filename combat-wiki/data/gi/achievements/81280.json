@@ -1,0 +1,15 @@
+{
+  "id": "81280",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "四地之王",
+  "description": "找到并破解沙漠中四处透明的遗迹的秘密。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

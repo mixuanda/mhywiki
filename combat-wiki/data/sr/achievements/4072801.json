@@ -1,0 +1,18 @@
+{
+  "id": "4072801",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "全体集合！解散——",
+  "description": "使用藿藿秘技「凶煞•劾压鬼物」，同时让 6.0 个以上目标逃跑",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

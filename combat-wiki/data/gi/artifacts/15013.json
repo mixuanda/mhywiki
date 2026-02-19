@@ -1,0 +1,20 @@
+{
+  "id": "15013",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "祭冰之人",
+  "icon": "UI_RelicIcon_15013",
+  "setBonuses": [
+    {
+      "Num": 1,
+      "Skill": "受到的冰元素附着效果的持续时间减少40%。"
+    }
+  ],
+  "parts": [
+    "祭冰礼冠"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

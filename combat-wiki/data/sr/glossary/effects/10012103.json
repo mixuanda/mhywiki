@@ -1,0 +1,18 @@
+{
+  "id": "10012103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "吞火",
+  "description": "受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012103,
+    "MDF": "MAvatar_Guinaifen_00_Oil_Sub",
+    "Name": "吞火",
+    "Desc": "受到的伤害提高<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

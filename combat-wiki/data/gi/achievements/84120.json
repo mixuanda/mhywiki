@@ -1,0 +1,15 @@
+{
+  "id": "84120",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "貉级忍者",
+  "description": "在敏捷度训练中获得早柚的最高评价。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

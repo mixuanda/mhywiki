@@ -1,0 +1,19 @@
+{
+  "id": "240530203",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "风眼巢",
+  "description": "免疫除持续伤害外的所有伤害，受到攻击后解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530203,
+    "MDF": "MWMonster_W4_Unicorn_01_BlockDamage",
+    "Name": "风眼巢",
+    "Desc": "免疫除持续伤害外的所有伤害，受到攻击后解除。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

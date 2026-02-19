@@ -1,0 +1,18 @@
+{
+  "id": "4080302",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不能满足",
+  "description": "有的时候太满足也不是好事…<br><color style='color:#8790ab;'>※使用 1.0 次「催吐剂」</color>",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

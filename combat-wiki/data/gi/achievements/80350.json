@@ -1,0 +1,15 @@
+{
+  "id": "80350",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "攀越炽焰的圣山 · 其二",
+  "description": "解锁纳塔区域中，镜璧山、翘枝崖、奥奇卡纳塔所有传送锚点。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "55"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "220340116",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "狼主威仪",
+  "description": "由于【玄爪狼卒】或【蚀月狼卒】在场，呼雷的速度提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340116,
+    "MDF": "MMonster_W2_LycanKing_00_RageStatusEnhanceSelf",
+    "Name": "狼主威仪",
+    "Desc": "由于【玄爪狼卒】或【蚀月狼卒】在场，呼雷的速度提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

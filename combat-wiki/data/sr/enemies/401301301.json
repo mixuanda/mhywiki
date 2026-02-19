@@ -1,0 +1,39 @@
+{
+  "id": "401301301",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "天谴先锋（错误）",
+  "description": "代码受到影响后的错误投影。参照本体为由「纷争」雕琢的泰坦眷属，流淌着尼卡多利的金血，能承载泰坦灵魂的强大造物。以巨剑抵挡黑潮的侵袭，亦会用巨剑带来战争的侵袭。<br>天谴先锋会献祭弱小的眷属，以此暴行换得泰坦的天罚。",
+  "stats": {
+    "HP": 185.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 132.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4013010.png",
+  "figure": "monsterfigure/Monster_4013010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

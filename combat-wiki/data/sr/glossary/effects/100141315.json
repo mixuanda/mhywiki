@@ -1,0 +1,18 @@
+{
+  "id": "100141315",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "听，沉眠中的呓语",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100141315,
+    "MDF": "MAvatar_Evernight_00_Rank02_Crit",
+    "Name": "听，沉眠中的呓语",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

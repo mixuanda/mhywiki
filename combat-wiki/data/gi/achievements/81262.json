@@ -1,0 +1,15 @@
+{
+  "id": "81262",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「我明白了！我明白了！」",
+  "description": "找到并解开须弥城内的一系列谜语。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

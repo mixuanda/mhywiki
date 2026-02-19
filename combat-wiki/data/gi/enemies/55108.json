@@ -1,0 +1,25 @@
+{
+  "id": "55108",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "绒翼龙武士 · 长空明焰",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Slingshot_Flamingo"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 绒翼龙武士"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

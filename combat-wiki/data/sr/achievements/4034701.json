@@ -1,0 +1,18 @@
+{
+  "id": "4034701",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "光线的终点",
+  "description": "看哪，战车所向，是曙光和胜利<br><color style='color:#8790ab;'>※目睹化身列车的开拓者穿行天际</color>",
+  "reward": 10,
+  "version": 3.7,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

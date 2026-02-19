@@ -1,0 +1,25 @@
+{
+  "id": "40301",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "遗迹龙兽 · 空巡",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "rd"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 龙形机关"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

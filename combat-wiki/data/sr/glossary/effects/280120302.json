@@ -1,0 +1,18 @@
+{
+  "id": "280120302",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "超负荷",
+  "description": "能量超出负荷，暂时无法施放攻击。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280120302,
+    "MDF": "MMonster_AML_Minion04_00_Overheat",
+    "Name": "超负荷",
+    "Desc": "能量超出负荷，暂时无法施放攻击。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

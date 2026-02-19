@@ -1,0 +1,15 @@
+{
+  "id": "81116",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "游医的奥德赛",
+  "description": "见证保本的结局。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84138",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "吾乃完美真探！",
+  "description": "分析动机和犯罪事实一次成功。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

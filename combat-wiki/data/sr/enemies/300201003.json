@@ -1,0 +1,39 @@
+{
+  "id": "300201003",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "柯柯娜的纯真",
+  "description": "纯真之心，曾相信这世界无论有多少苦难，结局终是美好的。",
+  "stats": {
+    "HP": 2.75,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_3002010.png",
+  "figure": "monsterfigure/Monster_3002010.png",
+  "camp": {
+    "id": "10",
+    "name": "惊梦剧团"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

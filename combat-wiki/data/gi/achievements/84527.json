@@ -1,0 +1,15 @@
+{
+  "id": "84527",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "这不是应急食品",
+  "description": "在「餐品订单」任务中吃掉了餐品…？",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "55172",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的鳍游龙武士 · 穿浪之梭",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

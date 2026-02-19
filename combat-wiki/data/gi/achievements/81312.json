@@ -1,0 +1,15 @@
+{
+  "id": "81312",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "帕维兹拉万 · 赫瓦拉",
+  "description": "让千壑沙地所有的元能尖碑重新运转。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "110183",
+  "game": "sr",
+  "entityType": "material",
+  "name": "月狂獠牙",
+  "icon": "itemicon/110183.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "60907",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "伸缩火蕈兽",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "spf"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 蕈兽"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

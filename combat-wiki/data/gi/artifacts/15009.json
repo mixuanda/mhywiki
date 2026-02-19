@@ -1,0 +1,20 @@
+{
+  "id": "15009",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "祭火之人",
+  "icon": "UI_RelicIcon_15009",
+  "setBonuses": [
+    {
+      "Num": 1,
+      "Skill": "受到的火元素附着效果的持续时间减少40%。"
+    }
+  ],
+  "parts": [
+    "祭火礼冠"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

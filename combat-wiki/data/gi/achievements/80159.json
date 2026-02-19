@@ -1,0 +1,15 @@
+{
+  "id": "80159",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "半途的探索…",
+  "description": "完成总务司的勘探委托。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "30"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

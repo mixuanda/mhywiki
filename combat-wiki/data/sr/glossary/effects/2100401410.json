@@ -1,0 +1,17 @@
+{
+  "id": "2100401410",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "战场梦魇",
+  "description": "每层使受到的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2100401410,
+    "MDF": "MMonster_W2_Cocolia_00_IF_Frenzy",
+    "Name": "战场梦魇",
+    "Desc": "每层使受到的伤害提高<color> <b>A</b> </color>。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

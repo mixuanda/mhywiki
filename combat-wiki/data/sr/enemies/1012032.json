@@ -1,0 +1,39 @@
+{
+  "id": "1012032",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "琥珀皇",
+  "description": "无敌，怎么说，无敌。",
+  "stats": {
+    "HP": 7.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 2.0
+  },
+  "weakness": [
+    "Elec",
+    "Wind",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_1012030.png",
+  "figure": "monsterfigure/Monster_1012030.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

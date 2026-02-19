@@ -1,0 +1,15 @@
+{
+  "id": "84131",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "曲终人未散",
+  "description": "完成「弦歌知雅意」，解锁全部结局。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

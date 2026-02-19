@@ -1,0 +1,18 @@
+{
+  "id": "280340124",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "庄家优势•二",
+  "description": "当前【点数】大于我方【点数】时，获得韧性保护。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340124,
+    "MDF": "MMonster_W3_Aventurine_00_IF_Defence_Protect",
+    "Name": "庄家优势•二",
+    "Desc": "当前【点数】大于我方【点数】时，获得韧性保护。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

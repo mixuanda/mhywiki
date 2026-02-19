@@ -1,0 +1,15 @@
+{
+  "id": "81176",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "猜想时间",
+  "description": "从比过去更遥远的过去，来到了今天…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

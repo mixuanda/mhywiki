@@ -1,0 +1,19 @@
+{
+  "id": "10014102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "裂伤",
+  "description": "一定回合内，每回合开始时受到物理属性伤害。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014102,
+    "MDF": "MAvatar_Harscyline_00_DOT_Tear",
+    "Name": "裂伤",
+    "Desc": "一定回合内，每回合开始时受到物理属性伤害。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

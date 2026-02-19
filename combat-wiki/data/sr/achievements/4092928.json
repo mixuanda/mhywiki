@@ -1,0 +1,18 @@
+{
+  "id": "4092928",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "转动命运",
+  "description": "在「模拟宇宙：黄金与机械」中，解锁全部 12.0 个自定义骰",
+  "reward": 5,
+  "version": 1.6,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

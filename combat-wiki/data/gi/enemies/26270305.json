@@ -1,0 +1,25 @@
+{
+  "id": "26270305",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "熔岩辉龙像 · 炽烈流焰",
+  "description": "能够自身持续产生热量，以维持活动状态的魔物。\n无法从纯粹的能量中诞生智慧，无知无觉，而徒具伟大种族形廓的失败品。\n即便曾与死物无异，紊乱地脉中至为暴戾的奔流，也将亡者的「憎恨」教给了它，在它出于本能的战斗中嵌入了至危的邪念…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_LavaTitan"
+  ],
+  "figure": null,
+  "groups": [
+    "幽境危战 > 5.7"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

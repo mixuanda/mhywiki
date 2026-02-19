@@ -1,0 +1,18 @@
+{
+  "id": "4052408",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "剑中魁首",
+  "description": "完成同行任务「霜刃一试」",
+  "reward": 5,
+  "version": 1.1,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

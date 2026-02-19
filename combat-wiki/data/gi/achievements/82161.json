@@ -1,0 +1,15 @@
+{
+  "id": "82161",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「拒绝的刺」",
+  "description": "通过火元素，烧毁无相之草在一次荆棘之环攻击中创造的所有荆棘。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "39"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

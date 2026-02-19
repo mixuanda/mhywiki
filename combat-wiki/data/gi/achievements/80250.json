@@ -1,0 +1,15 @@
+{
+  "id": "80250",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "朱英甘露",
+  "description": "将甘露池等级供奉至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "41"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

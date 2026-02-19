@@ -1,0 +1,10 @@
+{
+  "id": "110414",
+  "game": "sr",
+  "entityType": "material",
+  "name": "炼形者雷枝",
+  "icon": "itemicon/110414.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "13425",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "公义的酬报",
+  "description": "一柄锋利的长枪，仅在枪尖处留有点滴沾染鲜血的残痕。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 564.7837244,
+  "subStatType": "HP",
+  "subStatValue": 0.27564,
+  "materialRefs": [
+    "112085",
+    "112091",
+    "114060"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13425.js"
+  }
+}

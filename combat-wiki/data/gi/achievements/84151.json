@@ -1,0 +1,15 @@
+{
+  "id": "84151",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "嘘…听！",
+  "description": "倾听禁闭室里传来的言语声。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

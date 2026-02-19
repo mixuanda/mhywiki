@@ -1,0 +1,22 @@
+{
+  "id": "12511",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "苇海信标",
+  "description": "造型古旧的平头大剑，似乎曾是王器与某种仪式用的武器。",
+  "rarity": 5,
+  "weaponType": 2,
+  "baseAtk": 608.0745972,
+  "subStatType": "CR",
+  "subStatValue": 0.330768,
+  "materialRefs": [
+    "112067",
+    "112076",
+    "114048"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12511.js"
+  }
+}

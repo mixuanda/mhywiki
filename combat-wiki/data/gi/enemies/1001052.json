@@ -1,0 +1,21 @@
+{
+  "id": "1001052",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "熔岩辉龙像 · 锐火",
+  "description": "能够自身持续产生热量，以维持活动状态的魔物。<br>无法从纯粹的能量中诞生智慧，无知无觉，而徒具伟大种族形廓的失败品。<br>但过久沉浸在地脉谬误的雾霭中，深埋于失败品体内的力量，也将转化为原始而纯粹的愤怒…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_LavaTitan",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

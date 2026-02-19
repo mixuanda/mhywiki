@@ -1,0 +1,15 @@
+{
+  "id": "82180",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "坚冰的赌咒",
+  "description": "通过荒性的攻击，移除科培琉司演出高潮时的护罩。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

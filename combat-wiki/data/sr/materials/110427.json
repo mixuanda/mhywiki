@@ -1,0 +1,10 @@
+{
+  "id": "110427",
+  "game": "sr",
+  "entityType": "material",
+  "name": "一曲合弦的幻景",
+  "icon": "itemicon/110427.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

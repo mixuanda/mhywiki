@@ -1,0 +1,10 @@
+{
+  "id": "110421",
+  "game": "sr",
+  "entityType": "material",
+  "name": "星际和平工作证",
+  "icon": "itemicon/110421.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

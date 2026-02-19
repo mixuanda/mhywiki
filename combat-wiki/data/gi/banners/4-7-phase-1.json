@@ -1,0 +1,34 @@
+{
+  "id": "4-7-phase-1",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "4.7",
+  "phase": 1,
+  "featuredFiveStar": [
+    {
+      "N": "Clorinde",
+      "X": 1
+    },
+    {
+      "N": "Alhatham",
+      "X": 3
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Sethos",
+      "X": 1
+    },
+    {
+      "N": "Tohma",
+      "X": 7
+    },
+    {
+      "N": "Bennett",
+      "X": 11
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

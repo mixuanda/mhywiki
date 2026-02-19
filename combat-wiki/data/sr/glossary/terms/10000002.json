@@ -1,0 +1,15 @@
+{
+  "id": "10000002",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "行动延后",
+  "description": "使目标在下次行动前的等待间隔延长。",
+  "content": {
+    "_id": 10000002,
+    "Name": "行动延后",
+    "Desc": "使目标在下次行动前的等待间隔延长。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

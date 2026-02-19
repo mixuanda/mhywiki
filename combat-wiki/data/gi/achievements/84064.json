@@ -1,0 +1,15 @@
+{
+  "id": "84064",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "蹈刃不旋",
+  "description": "在「危途疑踪」中突破阻碍成功与魈会合。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

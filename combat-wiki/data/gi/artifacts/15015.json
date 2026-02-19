@@ -1,0 +1,28 @@
+{
+  "id": "15015",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "逆飞的流星",
+  "icon": "UI_RelicIcon_15015",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "护盾强效提高35%。"
+    },
+    {
+      "Num": 4,
+      "Skill": "处于护盾庇护下时，额外获得40%普通攻击和重击伤害加成。"
+    }
+  ],
+  "parts": [
+    "夏祭之花",
+    "夏祭终末",
+    "夏祭之刻",
+    "夏祭水玉",
+    "夏祭之面"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

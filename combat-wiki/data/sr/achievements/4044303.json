@@ -1,0 +1,18 @@
+{
+  "id": "4044303",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "虫鸣秘闻：西风苦旅",
+  "description": "捷足能否逃离厄运？<br><color style='color:#8790ab;'>※解开「沉沦暮城」奥赫玛的预言谜题</color>",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

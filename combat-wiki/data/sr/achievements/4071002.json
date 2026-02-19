@@ -1,0 +1,18 @@
+{
+  "id": "4071002",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "赴死者向你致敬",
+  "description": "任意角色在生命值小于1%的情况下消灭敌方单位",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

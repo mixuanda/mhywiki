@@ -1,0 +1,15 @@
+{
+  "id": "81154",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "是时候征服海祇岛了！",
+  "description": "解除雷神神龛处的封印。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "406301001",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "金血忆灵 · 翼蛇形",
+  "description": "流光忆庭的模因生命遭遇「毁灭」金血糅合而成的扭曲怪物。略有翼蛇雏形，足以装神弄鬼。<br>它那扭曲的理智在黑潮中彻底疯狂，那强烈的自我防御冲动，无形中染上了一层幻想色彩。",
+  "stats": {
+    "HP": 82.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 16.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Ice"
+  ],
+  "resistance": {
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4063010.png",
+  "figure": "monsterfigure/Monster_4063010.png",
+  "camp": {
+    "id": "18",
+    "name": "金血忆灵"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

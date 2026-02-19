@@ -1,0 +1,18 @@
+{
+  "id": "4052812",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "聚是一团火，散是满天星",
+  "description": "使用「降魔机巧鸟」收集了 24.0 个逸散岁阳",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

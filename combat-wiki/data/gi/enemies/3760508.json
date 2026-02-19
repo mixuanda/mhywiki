@@ -1,0 +1,26 @@
+{
+  "id": "3760508",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "深海龙蜥 · 啸霆",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": 0.3,
+    "Elec": 0.3
+  },
+  "weakness": [],
+  "icon": [
+    "cd"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

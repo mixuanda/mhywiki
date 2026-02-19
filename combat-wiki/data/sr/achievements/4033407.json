@@ -1,0 +1,18 @@
+{
+  "id": "4033407",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "狩猎的时间",
+  "description": "猎人与猎物的游戏尚未开始<br><color style='color:#8790ab;'>※将军们…行将出征</color>",
+  "reward": 10,
+  "version": 2.4,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

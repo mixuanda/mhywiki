@@ -1,0 +1,15 @@
+{
+  "id": "81217",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "黑暗却无法包容光…",
+  "description": "第一次使用「流明石」的「纯光绽放」来清除「淤泥涌口」的漆黑结晶物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

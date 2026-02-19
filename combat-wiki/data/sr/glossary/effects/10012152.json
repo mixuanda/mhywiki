@@ -1,0 +1,17 @@
+{
+  "id": "10012152",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "承负",
+  "description": "每当我方目标对持有【承负】的敌方目标施放2次普攻、战技、终结技后，恢复1个战技点。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012152,
+    "MDF": "WMAvatar_Hanya_BpZhanYin",
+    "Name": "承负",
+    "Desc": "每当我方目标对持有【承负】的敌方目标施放2次普攻、战技、终结技后，恢复1个战技点。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

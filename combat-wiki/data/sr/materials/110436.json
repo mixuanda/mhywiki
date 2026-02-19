@@ -1,0 +1,10 @@
+{
+  "id": "110436",
+  "game": "sr",
+  "entityType": "material",
+  "name": "暗帷月华",
+  "icon": "itemicon/110436.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4073211",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "神不在的工作日",
+  "description": "在「齐响诗班」神主日施放「翩翩起舞的」或「狂风骤雨的」之前，击破所有旧梦的回声",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

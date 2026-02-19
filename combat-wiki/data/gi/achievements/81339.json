@@ -1,0 +1,15 @@
+{
+  "id": "81339",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "丰饶之海",
+  "description": "花海中的所有花池都恢复了生机。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

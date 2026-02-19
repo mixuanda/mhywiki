@@ -1,0 +1,17 @@
+{
+  "id": "2801502011",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "锁定",
+  "description": "被<color>%CasterName</color>锁定为攻击目标。",
+  "effectType": "monster",
+  "content": {
+    "_id": 2801502011,
+    "MDF": "Monster_W2_Huanlong_00_IF_Sign03",
+    "Name": "锁定",
+    "Desc": "被<color>%CasterName</color>锁定为攻击目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4051108",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "贪婪心理学",
+  "description": "在任务「生存智慧」中拿到真正的宝藏",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

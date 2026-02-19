@@ -1,0 +1,18 @@
+{
+  "id": "4043205",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "新匹诺康尼梦",
+  "description": "开启 300.0 次匹诺康尼战利品",
+  "reward": 10,
+  "version": 2.2,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

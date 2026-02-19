@@ -1,0 +1,15 @@
+{
+  "id": "81436",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「雪奈茨芙娜的蝶安奈拉」",
+  "description": "战胜地方传奇 · 雪奈茨芙娜的蝶安奈拉。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

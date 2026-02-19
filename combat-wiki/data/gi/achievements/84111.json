@@ -1,0 +1,15 @@
+{
+  "id": "84111",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "女仆骑士不会受伤",
+  "description": "与诺艾尔一起听过《异国骑士璃月行记》。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

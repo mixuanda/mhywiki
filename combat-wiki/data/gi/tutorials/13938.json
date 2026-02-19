@@ -1,0 +1,27 @@
+{
+  "id": "13938",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13938",
+  "tags": [],
+  "content": {
+    "_id": 13938,
+    "N": "回忆之中的瓦雷莎",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_LanV6Parkour_Avatar_4_01",
+        "D": "在回忆中，瓦雷莎可通过<color style='color:#ec9d1f'>长按施放#元素战技进入夜魂加持状态。在该状态持续期间，瓦雷莎的<color style='color:#ec9d1f'>移动速度提升，并可利用地形差进行飞跃#。"
+      },
+      {
+        "I": "UI_Activity_LanV6Parkour_Avatar_4_02",
+        "D": "瓦雷莎<color style='color:#ec9d1f'>处于夜魂加持状态时，短按施放元素战技#能够使她<color style='color:#ec9d1f'>向前突进，击破「大詹灯」#。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4053061",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "战争之王",
+  "description": "将奥科萨娜绳之以法",
+  "reward": 5,
+  "version": 2.1,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

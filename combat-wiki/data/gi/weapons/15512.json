@@ -1,0 +1,22 @@
+{
+  "id": "15512",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "最初的大魔术",
+  "description": "过去的「大魔术师」曾经使用的表演道具，最终揭露的秘密是它其实也是不俗的武器。",
+  "rarity": 5,
+  "weaponType": 5,
+  "baseAtk": 608.0745972,
+  "subStatType": "CD",
+  "subStatValue": 0.661536,
+  "materialRefs": [
+    "112082",
+    "112088",
+    "114052"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15512.js"
+  }
+}

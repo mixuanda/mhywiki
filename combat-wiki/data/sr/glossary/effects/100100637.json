@@ -1,0 +1,18 @@
+{
+  "id": "100100637",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "虚数属性抗性降低",
+  "description": "虚数属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100637,
+    "MDF": "MAvatar_Advanced_Silwolf_00_Rank02_Imaginary",
+    "Name": "虚数属性抗性降低",
+    "Desc": "虚数属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

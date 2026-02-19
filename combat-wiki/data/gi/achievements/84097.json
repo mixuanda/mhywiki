@@ -1,0 +1,15 @@
+{
+  "id": "84097",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "行动派侦探出击",
+  "description": "作为林尼的「代理人」调查事件的真相。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

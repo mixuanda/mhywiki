@@ -1,0 +1,17 @@
+{
+  "id": "230030102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "炉灶加温",
+  "description": "已叠加<color> <b>A</b> </color>层【炉灶加温】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230030102,
+    "MDF": "MModifier_Monster_W3_Dinosaur_00_AttackUpRatio",
+    "Name": "炉灶加温",
+    "Desc": "已叠加<color> <b>A</b> </color>层【炉灶加温】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "240530103",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "醉意恍惚",
+  "description": "防御力降低<color> <b>A</b> </color>，全属性抗性降低<color> <b>B</b> </color>。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240530103,
+    "MDF": "MMonster_W4_Manta_00_DefenseDown",
+    "Name": "醉意恍惚",
+    "Desc": "防御力降低<color> <b>A</b> </color>，全属性抗性降低<color> <b>B</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

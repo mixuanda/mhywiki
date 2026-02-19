@@ -1,0 +1,15 @@
+{
+  "id": "80330",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "圣龛巡礼 · 万火燎灼之原 · 其一",
+  "description": "解除纳塔区域中，万火之瓯、坚岩隘谷、踞石山、涌流地所有地灵龛的封印。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054053",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "旅行家的虚荣",
+  "description": "猜猜谁是奥赫玛最爱大地兽的人？<br><color style='color:#8790ab;'>※拦下大地兽商队「阿尔戈」，并与伊阿宋完成一次对话</color>",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

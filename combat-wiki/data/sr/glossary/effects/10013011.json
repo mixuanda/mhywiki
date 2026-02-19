@@ -1,0 +1,18 @@
+{
+  "id": "10013011",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "酩酊",
+  "description": "受到的击破伤害提高<color> <b>A</b> </color>，并且每次受到我方角色攻击后，攻击者会回复<color> <b>B</b> </color>点生命值。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013011,
+    "MDF": "MWAvatar_Gallagher_00_Skill03_DeBuffModifier",
+    "Name": "酩酊",
+    "Desc": "受到的击破伤害提高<color> <b>A</b> </color>，并且每次受到我方角色攻击后，攻击者会回复<color> <b>B</b> </color>点生命值。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

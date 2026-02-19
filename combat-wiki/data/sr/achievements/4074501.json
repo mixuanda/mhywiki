@@ -1,0 +1,18 @@
+{
+  "id": "4074501",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "潮音五重奏",
+  "description": "海瑟音施放战技【泛音，暗流后齐鸣】累计击飞5.0个敌人",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

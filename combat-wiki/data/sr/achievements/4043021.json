@@ -1,0 +1,18 @@
+{
+  "id": "4043021",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "睡眠学习法",
+  "description": "收集 15.0 件来自匹诺康尼的阅读物",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

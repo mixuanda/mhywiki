@@ -1,0 +1,18 @@
+{
+  "id": "4034102",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "无形之神乃最显之物",
+  "description": "拾花为薪，理性的火种再度燎燃<br><color style='color:#8790ab;'>※与泰坦一同击退无名剑士</color>",
+  "reward": 10,
+  "version": 3.1,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

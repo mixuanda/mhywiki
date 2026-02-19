@@ -1,0 +1,23 @@
+{
+  "id": "21022",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "延长记号",
+  "rarity": 4,
+  "path": "Nihility",
+  "skillId": 21022,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 476.28,
+    "DEF": 330.75
+  },
+  "materialRefs": [
+    "110153",
+    "112003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21022.js"
+  }
+}

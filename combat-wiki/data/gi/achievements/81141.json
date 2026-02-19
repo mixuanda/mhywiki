@@ -1,0 +1,15 @@
+{
+  "id": "81141",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「这就是我的放生路线！」",
+  "description": "鱼儿在挣扎状态中逃脱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

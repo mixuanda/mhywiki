@@ -1,0 +1,22 @@
+{
+  "id": "12427",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "便携动力锯",
+  "description": "如今几乎绝迹的旧式动力锯，曾是深受工人信赖的切割工具。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "HP",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112085",
+    "112091",
+    "114060"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12427.js"
+  }
+}

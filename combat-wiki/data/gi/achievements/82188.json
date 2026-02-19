@@ -1,0 +1,15 @@
+{
+  "id": "82188",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "银河搭便车指南",
+  "description": "在一次挑战中，两次进入巨鲸之腹。",
+  "reward": 10,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

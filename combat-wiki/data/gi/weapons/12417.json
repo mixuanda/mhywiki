@@ -1,0 +1,22 @@
+{
+  "id": "12417",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "森林王器",
+  "description": "从兰那罗的故事中得到的武器。具有大剑的形制，能够粉碎森林的敌人。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 564.7837244,
+  "subStatType": "ER",
+  "subStatValue": 0.30626819800000005,
+  "materialRefs": [
+    "112067",
+    "112070",
+    "114040"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12417.js"
+  }
+}

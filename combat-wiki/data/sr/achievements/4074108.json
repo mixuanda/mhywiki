@@ -1,0 +1,18 @@
+{
+  "id": "4074108",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "饱和火力覆盖",
+  "description": "单场战斗中，使用我方角色缇宝累计触发 10 次天赋的追加攻击",
+  "reward": 5,
+  "version": 3.1,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

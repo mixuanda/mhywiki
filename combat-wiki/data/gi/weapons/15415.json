@@ -1,0 +1,22 @@
+{
+  "id": "15415",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "掠食者",
+  "description": "设计风格相当独特的弓，应该不属于这个世界。",
+  "rarity": 4,
+  "weaponType": 5,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112013",
+    "112052",
+    "114032"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/15415.js"
+  }
+}

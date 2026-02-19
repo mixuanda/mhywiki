@@ -1,0 +1,18 @@
+{
+  "id": "4033204",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "最后，我们从梦中醒来",
+  "description": "见证匹诺康尼的第一缕曙光<br><color style='color:#8790ab;'>※击败「哲学的胎儿」星期日</color>",
+  "reward": 20,
+  "version": 2.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

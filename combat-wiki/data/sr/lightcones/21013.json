@@ -1,0 +1,23 @@
+{
+  "id": "21013",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "别让世界静下来",
+  "rarity": 4,
+  "path": "Erudition",
+  "skillId": 21013,
+  "baseStats": {
+    "HP": 846.72,
+    "ATK": 476.28,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110133",
+    "112013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21013.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80309",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "翠陵的冒险家",
+  "description": "在沉玉谷完成<color style='color:#FF0000;'><b>24</b></color>个大世界限时挑战。",
+  "reward": 10,
+  "version": "4.4",
+  "group": {
+    "id": "47"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

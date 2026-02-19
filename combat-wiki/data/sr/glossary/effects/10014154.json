@@ -1,0 +1,19 @@
+{
+  "id": "10014154",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "10014154",
+  "description": null,
+  "effectType": "character",
+  "content": {
+    "_id": 10014154,
+    "MDF": "MAvatar_Cyrene_00_Skill02_Sub",
+    "Name": {},
+    "Desc": {},
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

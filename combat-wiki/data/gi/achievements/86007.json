@@ -1,0 +1,15 @@
+{
+  "id": "86007",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「你家风晶蝶还蛮大的」",
+  "description": "与其他玩家一同战胜无相之风。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "13"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

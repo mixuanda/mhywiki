@@ -1,0 +1,15 @@
+{
+  "id": "81205",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "又，又，又中大奖了！",
+  "description": "挖出了三次宝箱，通关老臭的挖宝游戏。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

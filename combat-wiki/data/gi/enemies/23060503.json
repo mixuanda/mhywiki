@@ -1,0 +1,28 @@
+{
+  "id": "23060503",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的霜役人 · 涉血芒锋",
+  "description": "愚人众当中精锐的特务。自幼就被选中，在长久的训练与无数次的汰换后，成为阵列中最优秀的士兵，有着出色的身手与不渝的忠诚心。\n遗憾的是，在凶险至极点的地脉乱象中，役人的理性已被战斗的欲望吞噬，只知重复猎杀的循环，对来访者倾泻纯粹的狂怒…",
+  "stats": {},
+  "resistance": {
+    "Ice": 0.7,
+    "Phys": -0.2
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuus_Escadron_Ice"
+  ],
+  "figure": null,
+  "groups": [
+    "幽境危战 > 6.1"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

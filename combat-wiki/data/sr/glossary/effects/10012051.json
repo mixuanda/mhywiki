@@ -1,0 +1,17 @@
+{
+  "id": "10012051",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "地狱变",
+  "description": "普攻【支离剑】强化为能造成扩散伤害的【无间剑树】。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012051,
+    "MDF": "MWAvatar_Ren_Attack_Transfer",
+    "Name": "地狱变",
+    "Desc": "普攻【支离剑】强化为能造成扩散伤害的【无间剑树】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

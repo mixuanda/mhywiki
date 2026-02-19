@@ -1,0 +1,25 @@
+{
+  "id": "62101",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "幼鳍游龙",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Natsaurus_Mosasaurus_Small"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 幼龙"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

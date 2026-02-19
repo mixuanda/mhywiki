@@ -1,0 +1,15 @@
+{
+  "id": "80255",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "如水澄湛",
+  "description": "将枫丹的七天神像供奉至满级。",
+  "reward": 20,
+  "version": "",
+  "group": {
+    "id": "42"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

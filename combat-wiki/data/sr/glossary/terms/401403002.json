@@ -1,0 +1,15 @@
+{
+  "id": "401403002",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "衰亡伤害",
+  "description": "造成无法被护盾抵消、不可分摊的固定伤害。",
+  "content": {
+    "_id": 401403002,
+    "Name": "衰亡伤害",
+    "Desc": "造成无法被护盾抵消、不可分摊的固定伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

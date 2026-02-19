@@ -1,0 +1,15 @@
+{
+  "id": "81563",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "叩问众火之心",
+  "description": "打开前往「圣山之心」的道路。",
+  "reward": 5,
+  "version": "5.5",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

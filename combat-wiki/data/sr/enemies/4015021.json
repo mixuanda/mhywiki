@@ -1,0 +1,39 @@
+{
+  "id": "4015021",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "晨昏之眼，雅辛忒丝",
+  "description": "以笑意缝补晨昏的半神，被黑潮裹挟后的样貌。即便火种的光彩已几近浑浊，但仍有余温——<br>医师未曾设想覆灭昔日同行的旧友，而誓言驱散心底的阴云。",
+  "stats": {
+    "HP": 130.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 172.0,
+    "Stance": 25.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Quantum"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_4015020.png",
+  "figure": "monsterfigure/Monster_4015020.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

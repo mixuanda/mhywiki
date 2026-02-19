@@ -1,0 +1,18 @@
+{
+  "id": "220340121",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "渴战",
+  "description": "造成的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340121,
+    "MDF": "MMonster_W2_LycanKing_00_RLBoss_AllDamageTypeAddedRatio",
+    "Name": "渴战",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>，该效果可叠加。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

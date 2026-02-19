@@ -1,0 +1,15 @@
+{
+  "id": "230030171",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "班味",
+  "description": "处于班味状态时，被攻击时不会切换状态。",
+  "content": {
+    "_id": 230030171,
+    "Name": "班味",
+    "Desc": "处于班味状态时，被攻击时不会切换状态。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

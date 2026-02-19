@@ -1,0 +1,17 @@
+{
+  "id": "280340102",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "观局勿语",
+  "description": "未参与赌局的角色会被施加【强烈震荡】状态，直至赌局结束，该效果无法被免疫或抵抗。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280340102,
+    "MDF": "Monster_W3_Aventurine_00_Skill04_NoGambling",
+    "Name": "观局勿语",
+    "Desc": "未参与赌局的角色会被施加【强烈震荡】状态，直至赌局结束，该效果无法被免疫或抵抗。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

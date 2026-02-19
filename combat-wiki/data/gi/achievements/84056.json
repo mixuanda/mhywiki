@@ -1,0 +1,15 @@
+{
+  "id": "84056",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "群玉临空",
+  "description": "完成群玉阁重建工作。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

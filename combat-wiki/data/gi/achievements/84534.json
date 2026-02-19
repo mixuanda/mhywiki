@@ -1,0 +1,15 @@
+{
+  "id": "84534",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "武士饭",
+  "description": "帮助龟井宗久搜集过全部两侧营地的食材。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

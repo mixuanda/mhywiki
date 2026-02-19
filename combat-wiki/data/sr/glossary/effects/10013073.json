@@ -1,0 +1,19 @@
+{
+  "id": "10013073",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "失坠，伪神的黄昏",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013073,
+    "MDF": "MAvatar_BlackSwan_00_DefenceDown",
+    "Name": "失坠，伪神的黄昏",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

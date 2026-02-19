@@ -1,0 +1,18 @@
+{
+  "id": "4072603",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "演武仪典：重剑试",
+  "description": "使用我方角色素裳对战彦卿时完成制胜一击",
+  "reward": 5,
+  "version": 1.3,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

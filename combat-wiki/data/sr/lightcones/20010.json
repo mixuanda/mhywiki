@@ -1,0 +1,23 @@
+{
+  "id": "20010",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "戍御",
+  "rarity": 3,
+  "path": "Preservation",
+  "skillId": 20010,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 264.6,
+    "DEF": 264.6
+  },
+  "materialRefs": [
+    "110143",
+    "111013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/20010.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80069",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "灿若惊雷",
+  "description": "掌握「雷」的元素力。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "22"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

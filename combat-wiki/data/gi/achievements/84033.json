@@ -1,0 +1,15 @@
+{
+  "id": "84033",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "我们终将重逢",
+  "description": "完成「我们终将重逢」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

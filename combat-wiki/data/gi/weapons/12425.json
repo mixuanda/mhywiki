@@ -1,0 +1,22 @@
+{
+  "id": "12425",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "浪影阔剑",
+  "description": "造型优美的枫丹旧海军的制式剑，专为将官与旗舰舰长量身打造。",
+  "rarity": 4,
+  "weaponType": 2,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112085",
+    "112091",
+    "114060"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12425.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "10012042",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "吾身光明",
+  "description": "【神君】强化攻击次数。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012042,
+    "MDF": "MAvatar_JingYuan_00_BattleEvent_UltraATKCount",
+    "Name": "吾身光明",
+    "Desc": "【神君】强化攻击次数。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

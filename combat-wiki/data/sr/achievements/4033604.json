@@ -1,0 +1,18 @@
+{
+  "id": "4033604",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "歌舞青春",
+  "description": "跟组品尝十二梦境菜式盒饭，上镜收集斯坦威游隼碎片<br>※成为谐乐学院的学生",
+  "reward": 10,
+  "version": 2.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

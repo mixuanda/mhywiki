@@ -1,0 +1,17 @@
+{
+  "id": "240330205",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "决斗",
+  "description": "速度提高<color> <b>A</b> </color>，受到来自决斗状态以外的目标的伤害时，伤害降低<color> <b>B</b> </color>。每次攻击后获得1层【士气】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240330205,
+    "MDF": "MMonster_W4_Claymore_01_Skill02_DeadLock_Target_Servant",
+    "Name": "决斗",
+    "Desc": "速度提高<color> <b>A</b> </color>，受到来自决斗状态以外的目标的伤害时，伤害降低<color> <b>B</b> </color>。每次攻击后获得1层【士气】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80451",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "夜馈寻迹 · 月华濯沐之岛 · 其一",
+  "description": "解除挪德卡莱区域中，伦波岛、希汐岛、帕哈岛所有月灵盈藏之地的封印。",
+  "reward": 10,
+  "version": "6.0",
+  "group": {
+    "id": "63"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

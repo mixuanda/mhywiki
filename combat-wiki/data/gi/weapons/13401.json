@@ -1,0 +1,22 @@
+{
+  "id": "13401",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "匣里灭辰",
+  "description": "金龙缠绕的长枪，轻快锐利无比。大抵真能轻易屠龙。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "EM",
+  "subStatValue": 220.512,
+  "materialRefs": [
+    "112010",
+    "112028",
+    "114020"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13401.js"
+  }
+}

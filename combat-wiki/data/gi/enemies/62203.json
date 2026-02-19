@@ -1,0 +1,25 @@
+{
+  "id": "62203",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "贪食匿叶龙山王",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Natsaurus_Hookwalker_Primo"
+  ],
+  "figure": null,
+  "groups": [
+    "异种魔兽 > 王龙"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

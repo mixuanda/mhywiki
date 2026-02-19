@@ -1,0 +1,15 @@
+{
+  "id": "86057",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "又斩了无趣的…",
+  "description": "与其他玩家一同战胜深邃摹结株。",
+  "reward": 10,
+  "version": "6.0",
+  "group": {
+    "id": "64"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

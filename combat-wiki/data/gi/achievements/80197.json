@@ -1,0 +1,15 @@
+{
+  "id": "80197",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "色彩缤纷的答复",
+  "description": "在获胜的牌局中，我方一共造成<color style='color:#FF0000;'><b>30</b></color>次元素反应。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "37"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

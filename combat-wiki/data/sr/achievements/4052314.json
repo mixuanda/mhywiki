@@ -1,0 +1,18 @@
+{
+  "id": "4052314",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不干不净，吃了没病",
+  "description": "在与歌德大饭店的掌柜歌蒂的对话中取得炒饭的食谱",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

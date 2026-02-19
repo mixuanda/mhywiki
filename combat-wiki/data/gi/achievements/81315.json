@@ -1,0 +1,15 @@
+{
+  "id": "81315",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "从灰暗群山间升起",
+  "description": "护送米希尔走完「净罪的巡礼路」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

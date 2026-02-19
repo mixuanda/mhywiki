@@ -1,0 +1,18 @@
+{
+  "id": "4053011",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "精神分析学入门",
+  "description": "合成「选择背叛的刹那」、「一瞬间的幸福」、「弥留之际」、「热烈的气氛」、「疑虑的阴云」、「片刻自由」中的任意一个消耗品",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

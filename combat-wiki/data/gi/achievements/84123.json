@@ -1,0 +1,15 @@
+{
+  "id": "84123",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "洒下甘露三千担",
+  "description": "与北斗共同参加了轻策庄的宴会。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

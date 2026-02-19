@@ -1,0 +1,22 @@
+{
+  "id": "13419",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "风信之锋",
+  "description": "导示长风的标鹄。风的牧歌并不总是轻柔如初…",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 509.605949,
+  "subStatType": "ATK",
+  "subStatValue": 0.41346,
+  "materialRefs": [
+    "112004",
+    "112019",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13419.js"
+  }
+}

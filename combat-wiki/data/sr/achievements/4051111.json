@@ -1,0 +1,18 @@
+{
+  "id": "4051111",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "趁生命气息逗留",
+  "description": "在任务「难得有情•其二」中选择格式化小机器人",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

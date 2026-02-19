@@ -1,0 +1,23 @@
+{
+  "id": "3700701",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "裂鸣的雷音权现",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "tm"
+  ],
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

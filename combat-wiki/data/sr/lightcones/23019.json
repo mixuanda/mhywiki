@@ -1,0 +1,23 @@
+{
+  "id": "23019",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "镜中故我",
+  "rarity": 5,
+  "path": "Harmony",
+  "skillId": 23019,
+  "baseStats": {
+    "HP": 1058.4,
+    "ATK": 529.2,
+    "DEF": 529.2
+  },
+  "materialRefs": [
+    "110163",
+    "113003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/23019.js"
+  }
+}

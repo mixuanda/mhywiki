@@ -1,0 +1,15 @@
+{
+  "id": "84537",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "喂——有人吗？",
+  "description": "在离岛中发现一处秘密通道。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

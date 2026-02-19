@@ -1,0 +1,15 @@
+{
+  "id": "86023",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "基本上都是水",
+  "description": "与其他玩家一同战胜无相之水。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "33"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

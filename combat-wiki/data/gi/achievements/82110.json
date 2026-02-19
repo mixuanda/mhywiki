@@ -1,0 +1,15 @@
+{
+  "id": "82110",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "A Kill without Water",
+  "description": "不击败任何「水滴」的情况下（无相之水恢复时除外），击败无相之水。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

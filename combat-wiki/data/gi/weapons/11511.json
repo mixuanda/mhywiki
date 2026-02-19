@@ -1,0 +1,22 @@
+{
+  "id": "11511",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "圣显之钥",
+  "description": "黑曜石塑造的一对的权杖中的一件。在传说中，隐藏在沙海尽头的乐园门扉是由这柄密钥开启的。",
+  "rarity": 5,
+  "weaponType": 1,
+  "baseAtk": 541.829758,
+  "subStatType": "HP",
+  "subStatValue": 0.661536,
+  "materialRefs": [
+    "112067",
+    "112073",
+    "114040"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/11511.js"
+  }
+}

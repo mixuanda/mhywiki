@@ -1,0 +1,57 @@
+{
+  "id": "12513",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "山王长牙",
+  "description": "由纯然的绿松石锻造而成的巨剑，因其远超一般兵刃的重量而被冠以「山王」康加玛托之名。",
+  "rarity": 5,
+  "weaponType": 2,
+  "baseAtk": 740.5801544000001,
+  "subStatType": "CR",
+  "subStatValue": 0.110256,
+  "materialRefs": [
+    "112106",
+    "112112",
+    "114068"
+  ],
+  "affix": {
+    "112513": {
+      "Ver": {
+        "1": {
+          "Affix": [
+            "元素战技中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：战技伤害和爆发伤害提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，持续6秒，至多叠加6层，每层持续时间独立计算。"
+          ]
+        },
+        "2": {
+          "Affix": [
+            "元素战技命中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：元素战技伤害和元素爆发伤害提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，持续6秒，至多叠加6层，每层持续时间独立计算。"
+          ]
+        },
+        "3": {
+          "Affix": [
+            "元素战技命中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：元素战技伤害和元素爆发伤害提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，持续6秒，至多叠加6层，每层持续时间独立计算。"
+          ]
+        },
+        "4": {
+          "Affix": [
+            "元素战技命中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：元素战技伤害和元素爆发伤害提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，持续6秒，至多叠加6层，每层持续时间独立计算。"
+          ]
+        },
+        "5": {
+          "Affix": [
+            "元素战技命中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：元素战技伤害和元素爆发伤害提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，持续6秒，至多叠加6层，每层持续时间独立计算。"
+          ]
+        },
+        "L": {
+          "Affix": [
+            "元素战技命中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：元素战技伤害和元素爆发伤害提升 <color style='color:#99FFFFFF'>10%</color> / <color style='color:#99FFFFFF'>12.5%</color> / <color style='color:#99FFFFFF'>15%</color> / <color style='color:#99FFFFFF'>17.5%</color> / <color style='color:#99FFFFFF'>20%</color> ，持续6秒，至多叠加6层，每层持续时间独立计算。"
+          ]
+        }
+      }
+    }
+  },
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12513.js"
+  }
+}

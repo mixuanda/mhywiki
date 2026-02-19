@@ -1,0 +1,15 @@
+{
+  "id": "81530",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "冰上轻驰",
+  "description": "完成全部的「烟谜主」勇士挑战并获得最高等级的评价。",
+  "reward": 5,
+  "version": "5.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

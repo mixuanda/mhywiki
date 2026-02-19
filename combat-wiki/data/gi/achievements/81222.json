@@ -1,0 +1,15 @@
+{
+  "id": "81222",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "照亮黑暗",
+  "description": "送出些许光明。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

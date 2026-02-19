@@ -1,0 +1,18 @@
+{
+  "id": "10012257",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "肇素未来，晦明兴灭",
+  "description": "弱点击破效率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012257,
+    "MDF": "MAvatar_Fugue_00_Rank06",
+    "Name": "肇素未来，晦明兴灭",
+    "Desc": "弱点击破效率提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

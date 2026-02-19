@@ -1,0 +1,10 @@
+{
+  "id": "110406",
+  "game": "sr",
+  "entityType": "material",
+  "name": "虚幻铸铁",
+  "icon": "itemicon/110406.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

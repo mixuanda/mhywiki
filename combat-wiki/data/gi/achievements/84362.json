@@ -1,0 +1,15 @@
+{
+  "id": "84362",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无月之夜",
+  "description": "那是罪人们尚未犯下大罪之时…",
+  "reward": 5,
+  "version": "6.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

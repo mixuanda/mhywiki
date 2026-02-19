@@ -1,0 +1,15 @@
+{
+  "id": "82179",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "吾王崩御，吾王万岁！",
+  "description": "中断铁甲熔火帝皇的「烈焰加冕」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

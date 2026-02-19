@@ -1,0 +1,18 @@
+{
+  "id": "4090207",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "黑暗中跳舞的心脏叫月亮",
+  "description": "「模拟宇宙」战斗内，至少使 3.0 名敌人同时处于触电、灼烧、裂伤、风化4种负面状态",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 9,
+    "Name": "果壳中的宇宙",
+    "Icon": "RougeAchievementIcon.png",
+    "Count": 153
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "70000212",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "集中",
+  "description": "此类型的武器会对精英及首领目标造成额外伤害。",
+  "content": {
+    "_id": 70000212,
+    "Name": "集中",
+    "Desc": "此类型的武器会对精英及首领目标造成额外伤害。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10011021",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "加速",
+  "description": "速度提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011021,
+    "MDF": "MAvatar_Seele_00_BPSkill_SpeedUp",
+    "Name": "加速",
+    "Desc": "速度提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

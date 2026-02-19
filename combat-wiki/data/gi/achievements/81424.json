@@ -1,0 +1,15 @@
+{
+  "id": "81424",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "为了众人的愿望",
+  "description": "获得虹彩蔷薇的承诺。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

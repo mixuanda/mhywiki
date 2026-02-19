@@ -1,0 +1,22 @@
+{
+  "id": "14402",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "流浪乐章",
+  "description": "记载着歌谱的厚重记事簿。尽管遭受了虫蛀和风化，残留的手迹仍透露出力量。",
+  "rarity": 4,
+  "weaponType": 3,
+  "baseAtk": 509.605949,
+  "subStatType": "CD",
+  "subStatValue": 0.55128,
+  "materialRefs": [
+    "112007",
+    "112022",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14402.js"
+  }
+}

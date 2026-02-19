@@ -1,0 +1,18 @@
+{
+  "id": "4044316",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "芝麻，开门",
+  "description": "解开谜题，获得「云端遗堡」晨昏之眼中存储区块的隐藏战利品",
+  "reward": 5,
+  "version": 3.3,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

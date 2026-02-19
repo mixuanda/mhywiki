@@ -1,0 +1,27 @@
+{
+  "id": "13952",
+  "game": "gi",
+  "entityType": "tutorial",
+  "name": "13952",
+  "tags": [],
+  "content": {
+    "_id": 13952,
+    "N": "准备阶段",
+    "S": "玩法教学",
+    "T": [
+      {
+        "I": "UI_Activity_MonsterChess2_Prepare_01",
+        "D": "战斗开始前，可以确认对方出战的阵容，从而调整我方阵容，合理选择出战顺序和阵列战旗。<br><color style='color:#FFCC33'>阵列战旗#会对我方<color style='color:#FFCC33'>同队伍内#的交战单位生效。"
+      },
+      {
+        "I": "UI_Activity_MonsterChess2_Prepare_02",
+        "D": "可以通过执行退换单位操作，退回暂时派不上用场的单位，换取机会抽选新的单位。<br>每退换一个1/2/3阶交战单位，分别可以获得1/2/4点增援点数，<color style='color:#FFCC33'>消耗3点增援点数，可以获得1次抽选新单位的机会#。"
+      }
+    ],
+    "Y": 3,
+    "V": "6.3"
+  },
+  "source": {
+    "file": "gi/CH/tut_1.js"
+  }
+}

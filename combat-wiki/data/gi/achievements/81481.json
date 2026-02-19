@@ -1,0 +1,15 @@
+{
+  "id": "81481",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「请转告王城的公民…」",
+  "description": "「我们长眠于此，至死恪守誓言…」",
+  "reward": 5,
+  "version": "4.6",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

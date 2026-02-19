@@ -1,0 +1,21 @@
+{
+  "id": "1004041",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "霜夜巡天灵主 · 常形",
+  "description": "傲然巡行于霜夜的奇异生灵，能自如驱使如今早已被高天之主驯化的古老力量。但在地脉失真的记忆中，它那绚烂羽翼的轻振，已不再牵动悠远的回响，反而混入了躁戾的低音…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_HerraFrost01",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

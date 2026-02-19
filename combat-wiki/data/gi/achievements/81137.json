@@ -1,0 +1,15 @@
+{
+  "id": "81137",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「叫我以实玛利。」",
+  "description": "在其他玩家的世界中完成一次钓鱼。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

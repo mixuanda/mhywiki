@@ -1,0 +1,25 @@
+{
+  "id": "40211",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "恒常机关阵列",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "pma"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 拟生机关"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

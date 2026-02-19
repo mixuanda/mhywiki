@@ -1,0 +1,18 @@
+{
+  "id": "10013071",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "奥迹",
+  "description": "每回合开始时受到风属性伤害。处于【奥迹】状态时，也会被视为陷入了风化状态。该状态最多叠加<color> <b>A</b> </color>层。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013071,
+    "MDF": "MAvatar_BlackSwan_00_DOT",
+    "Name": "奥迹",
+    "Desc": "每回合开始时受到风属性伤害。处于【奥迹】状态时，也会被视为陷入了风化状态。该状态最多叠加<color> <b>A</b> </color>层。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

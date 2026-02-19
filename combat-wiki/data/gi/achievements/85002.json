@@ -1,0 +1,15 @@
+{
+  "id": "85002",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "卧龙藏螭",
+  "description": "了解关于「螭」的故事。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

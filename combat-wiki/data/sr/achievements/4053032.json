@@ -1,0 +1,18 @@
+{
+  "id": "4053032",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "四海牌友",
+  "description": "认识所有种类的贱贱广告牌",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

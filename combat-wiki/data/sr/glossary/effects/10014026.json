@@ -1,0 +1,18 @@
+{
+  "id": "10014026",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "间隙织线",
+  "description": "受到阿格莱雅攻击后，额外受到等同于阿格莱雅<color> <b>A</b> </color>攻击力的雷属性附加伤害。衣匠会优先以此目标作为攻击目标。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014026,
+    "MDF": "MAvatar_Aglaea_00_GoldenSword_Mark",
+    "Name": "间隙织线",
+    "Desc": "受到阿格莱雅攻击后，额外受到等同于阿格莱雅<color> <b>A</b> </color>攻击力的雷属性附加伤害。衣匠会优先以此目标作为攻击目标。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

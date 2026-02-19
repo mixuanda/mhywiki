@@ -1,0 +1,18 @@
+{
+  "id": "4052720",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "未来的第一步",
+  "description": "关心贝洛伯格的发展动态<br><color style='color:#8790ab;'>※购买《矿工每周报第 226 期》</color>",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

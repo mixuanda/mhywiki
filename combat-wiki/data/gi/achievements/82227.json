@@ -1,0 +1,15 @@
+{
+  "id": "82227",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「海浪中的莎孚」",
+  "description": "在不触发「海浪中的莎孚」的碎冰打击的情况下，将其击败。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "54"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

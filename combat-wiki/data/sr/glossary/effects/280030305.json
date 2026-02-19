@@ -1,0 +1,19 @@
+{
+  "id": "280030305",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "dev_禁令失败",
+  "description": "dev_每层使仇恨提升<color> <b>B</b> </color>，最多叠加<color> <b>C</b> </color>层",
+  "effectType": "monster",
+  "content": {
+    "_id": 280030305,
+    "MDF": "Monster_XP_Elite02_00_Edict_Failure",
+    "Name": "dev_禁令失败",
+    "Desc": "dev_每层使仇恨提升<color> <b>B</b> </color>，最多叠加<color> <b>C</b> </color>层",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

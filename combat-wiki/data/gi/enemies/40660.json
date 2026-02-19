@@ -1,0 +1,25 @@
+{
+  "id": "40660",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "歼灭特化型机关 · 芒",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_MachinaIustitia_Bradamante"
+  ],
+  "figure": null,
+  "groups": [
+    "自律机关 > 大机关 · 芒"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

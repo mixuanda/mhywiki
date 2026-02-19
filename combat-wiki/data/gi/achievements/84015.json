@@ -1,0 +1,15 @@
+{
+  "id": "84015",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「勇敢的冒险者啊…」",
+  "description": "不被摩拉束缚手脚，委托他人完成工作。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

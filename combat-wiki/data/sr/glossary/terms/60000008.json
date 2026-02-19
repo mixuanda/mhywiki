@@ -1,0 +1,15 @@
+{
+  "id": "60000008",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "空乏",
+  "description": "每层使韧性恢复量降低 <b>10%</b> 。该状态最多叠加5层。",
+  "content": {
+    "_id": 60000008,
+    "Name": "空乏",
+    "Desc": "每层使韧性恢复量降低 <b>10%</b> 。该状态最多叠加5层。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

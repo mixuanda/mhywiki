@@ -1,0 +1,18 @@
+{
+  "id": "4034805",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "记忆是梦的开场白",
+  "description": "一个人就能独自上演死亡，而美好需要回应<br><color style='color:#8790ab;'>※履行与流萤的约定</color>",
+  "reward": 10,
+  "version": 3.8,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

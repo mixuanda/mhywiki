@@ -1,0 +1,15 @@
+{
+  "id": "84317",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "只有我消失的村落",
+  "description": "调查「只存在于记忆里的人」。",
+  "reward": 5,
+  "version": "4.7",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

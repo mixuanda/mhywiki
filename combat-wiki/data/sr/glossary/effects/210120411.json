@@ -1,0 +1,17 @@
+{
+  "id": "210120411",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "过载时限",
+  "description": "辅助机械臂单元进入过载倒计时，倒计时结束时施放【过载警告】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210120411,
+    "MDF": "Monster_W1_SvarogPart_00_RL_CountDown",
+    "Name": "过载时限",
+    "Desc": "辅助机械臂单元进入过载倒计时，倒计时结束时施放【过载警告】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

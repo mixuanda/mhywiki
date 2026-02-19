@@ -1,0 +1,15 @@
+{
+  "id": "84333",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "胜者重燃",
+  "description": "终于，纳塔再一次迎来了胜利。",
+  "reward": 5,
+  "version": "5.1",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

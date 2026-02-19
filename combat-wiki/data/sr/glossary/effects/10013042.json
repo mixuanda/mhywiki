@@ -1,0 +1,17 @@
+{
+  "id": "10013042",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "枪口以右",
+  "description": "天赋的抵抗控制类负面状态的效果尚且无法触发。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013042,
+    "MDF": "MAvatar_Aventurine_00_ResistCtrlCD",
+    "Name": "枪口以右",
+    "Desc": "天赋的抵抗控制类负面状态的效果尚且无法触发。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "307",
+  "game": "sr",
+  "entityType": "relic",
+  "name": "盗贼公国塔利亚",
+  "icon": "71018.png",
+  "setBonuses": [
+    "使装备者的击破特攻提高 <b>16%</b> 。当装备者的速度大于等于 <b>145</b> 时，击破特攻额外提高 <b>20%</b> 。"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Relic/307.js"
+  }
+}

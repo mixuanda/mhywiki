@@ -1,0 +1,39 @@
+{
+  "id": "202303014",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "莳花者",
+  "description": "坚信自己是植物的一名选手，必杀技是制造眼花缭乱的植物攻击。",
+  "stats": {
+    "HP": 240.0,
+    "ATK": 7.2,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 14.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Elec"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Wind": 0.4,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2023030.png",
+  "figure": "monsterfigure/Monster_2023030.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

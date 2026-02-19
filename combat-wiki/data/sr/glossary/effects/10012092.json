@@ -1,0 +1,19 @@
+{
+  "id": "10012092",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "快雨燕相逐",
+  "description": "暴击率提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012092,
+    "MDF": "MAvatar_Yanqing_00_Skill03_Buff",
+    "Name": "快雨燕相逐",
+    "Desc": "暴击率提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

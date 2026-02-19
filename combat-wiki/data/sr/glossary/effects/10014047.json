@@ -1,0 +1,17 @@
+{
+  "id": "10014047",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "诛天焚骨的王座",
+  "description": "下一次【弑神登神】会优先攻击该目标。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014047,
+    "MDF": "MAvatar_Mydeimos_00_UltraTarget",
+    "Name": "诛天焚骨的王座",
+    "Desc": "下一次【弑神登神】会优先攻击该目标。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

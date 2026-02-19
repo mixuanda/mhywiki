@@ -1,0 +1,18 @@
+{
+  "id": "4060203",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "天外魔花（三）",
+  "description": "击败 1000.0 次拟造花萼",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 6,
+    "Name": "不屈者的荣光",
+    "Icon": "ChallengeAchievementIcon.png",
+    "Count": 12
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "230240137",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "瑰丽之勋",
+  "description": "在下次行动或所有召唤物被消灭前不可选中，下一行动时施放【不可抵挡的命运】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 230240137,
+    "MDF": "MMonster_W2_Argenti_IF_EX02_UltraState",
+    "Name": "瑰丽之勋",
+    "Desc": "在下次行动或所有召唤物被消灭前不可选中，下一行动时施放【不可抵挡的命运】。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

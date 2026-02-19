@@ -1,0 +1,18 @@
+{
+  "id": "100100631",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "火属性抗性降低",
+  "description": "火属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100631,
+    "MDF": "MAvatar_Advanced_Silwolf_00_Rank02_Fire",
+    "Name": "火属性抗性降低",
+    "Desc": "火属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

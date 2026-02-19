@@ -1,0 +1,15 @@
+{
+  "id": "81161",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "乡愁的另一头",
+  "description": "为太田太郎在清籁岛上拍摄四张画片。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

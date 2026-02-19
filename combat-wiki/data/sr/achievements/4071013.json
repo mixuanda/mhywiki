@@ -1,0 +1,18 @@
+{
+  "id": "4071013",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "不打无准备之仗",
+  "description": "任意角色回合开始时，同时拥有大于等于 5.0 种增益效果",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

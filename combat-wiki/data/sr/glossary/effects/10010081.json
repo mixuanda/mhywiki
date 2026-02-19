@@ -1,0 +1,18 @@
+{
+  "id": "10010081",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "至痛至怒",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10010081,
+    "MDF": "MAvatar_Arlan_00_Passive_DamageUp",
+    "Name": "至痛至怒",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4082704",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "过程大于结果",
+  "description": "从流云渡的茂贞手中购买 1.0 个逾期未取的贵重邮包",
+  "reward": 5,
+  "version": 1.4,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

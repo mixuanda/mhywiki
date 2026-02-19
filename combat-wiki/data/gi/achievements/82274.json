@@ -1,0 +1,15 @@
+{
+  "id": "82274",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「火榴果可不只是好看而已！」",
+  "description": "利用火榴果的爆炸击败贪食匿叶龙山王。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "59"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "220240101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "蕉覆",
+  "description": "防御力提高，韧性无法被削减。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220240101,
+    "MDF": "MMonster_W2_Xuanlu_00_Skill07_NoWeakness",
+    "Name": "蕉覆",
+    "Desc": "防御力提高，韧性无法被削减。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

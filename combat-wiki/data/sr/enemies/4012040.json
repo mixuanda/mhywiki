@@ -1,0 +1,39 @@
+{
+  "id": "4012040",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "天谴歌队",
+  "description": "由「纷争」雕琢的泰坦眷属，流淌着尼卡多利的金血。天谴之矛下的歌者，唱诵着赞美战士与疯王的诗句，以神咒呼唤尼卡多利的赐福。",
+  "stats": {
+    "HP": 2.6,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Phys",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Fire": 0.2,
+    "Elec": 0.2,
+    "Wind": 0.2,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_4012040.png",
+  "figure": "monsterfigure/Monster_4012040.png",
+  "camp": {
+    "id": "12",
+    "name": "泰坦眷属"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81468",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "时仿佛以遥见",
+  "description": "畴昔梦以登天。",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

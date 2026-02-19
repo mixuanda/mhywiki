@@ -1,0 +1,15 @@
+{
+  "id": "81180",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "茂知之壳",
+  "description": "解锁「茂知之壳」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

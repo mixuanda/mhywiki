@@ -1,0 +1,18 @@
+{
+  "id": "240120402",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "战歌",
+  "description": "使自身以外的敌方单位的【战甲】的层数上限提高，自身【战甲】被破坏时解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240120402,
+    "MDF": "MModifier_Monster_AML_Minion03_01_Halo",
+    "Name": "战歌",
+    "Desc": "使自身以外的敌方单位的【战甲】的层数上限提高，自身【战甲】被破坏时解除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

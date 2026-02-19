@@ -1,0 +1,18 @@
+{
+  "id": "4033201",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "最后的大亨",
+  "description": "觐见「钟表匠」<br><color style='color:#8790ab;'>※与匹诺康尼的第一位无名客相会</color>",
+  "reward": 10,
+  "version": 2.2,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

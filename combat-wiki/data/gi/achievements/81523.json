@@ -1,0 +1,15 @@
+{
+  "id": "81523",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "只能听见夜风",
+  "description": "5秒内，通过具有夜魂性质的攻击击败4名敌人。",
+  "reward": 5,
+  "version": "5.0",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

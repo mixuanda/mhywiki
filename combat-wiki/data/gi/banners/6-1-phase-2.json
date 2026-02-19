@@ -1,0 +1,34 @@
+{
+  "id": "6-1-phase-2",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "6.1",
+  "phase": 2,
+  "featuredFiveStar": [
+    {
+      "N": "Arlecchino",
+      "X": 3
+    },
+    {
+      "N": "Zhongli",
+      "X": 7
+    }
+  ],
+  "featuredFourStar": [
+    {
+      "N": "Lanyan",
+      "X": 2
+    },
+    {
+      "N": "Yunjin",
+      "X": 7
+    },
+    {
+      "N": "Rosaria",
+      "X": 11
+    }
+  ],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

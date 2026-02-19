@@ -1,0 +1,10 @@
+{
+  "id": "110123",
+  "game": "sr",
+  "entityType": "material",
+  "name": "逐星之矢",
+  "icon": "itemicon/110123.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

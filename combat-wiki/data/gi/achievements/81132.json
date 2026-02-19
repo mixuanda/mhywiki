@@ -1,0 +1,15 @@
+{
+  "id": "81132",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「恭喜这位，喜提鱼缸」",
+  "description": "首次钓获观赏鱼。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "25"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

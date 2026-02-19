@@ -1,0 +1,18 @@
+{
+  "id": "210040223",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "全体护盾",
+  "description": "能够抵消敌方全体受到伤害的护盾。护盾耗尽或效果消失前我方目标的攻击不会对敌方持有护盾的目标的生命值造成削减。",
+  "effectType": "monster",
+  "content": {
+    "_id": 210040223,
+    "MDF": "MAvatar_Gepard_00_RL_ShieldIcon",
+    "Name": "全体护盾",
+    "Desc": "能够抵消敌方全体受到伤害的护盾。护盾耗尽或效果消失前我方目标的攻击不会对敌方持有护盾的目标的生命值造成削减。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "100206401",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "公司组长幻象",
+  "description": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
+  "stats": {
+    "HP": 45.0,
+    "ATK": 6.0,
+    "DEF": 1.0,
+    "SPD": 100.0,
+    "Stance": 4.0
+  },
+  "weakness": [
+    "Elec",
+    "Quantum"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Ice": 0.2,
+    "Wind": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_1002013.png",
+  "figure": "monsterfigure/Monster_1002013.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

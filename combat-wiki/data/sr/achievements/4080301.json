@@ -1,0 +1,18 @@
+{
+  "id": "4080301",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "第欧根尼理想国",
+  "description": "探索贝洛伯格的名片吧！<br><color style='color:#8790ab;'>※垃圾桶里每个有用的道具都落入你的囊中！</color>",
+  "reward": 5,
+  "version": 1.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

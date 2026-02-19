@@ -1,0 +1,15 @@
+{
+  "id": "81098",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "本朝手鞠戏小传",
+  "description": "其他玩家参加了你所设置的「手鞠游戏」。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

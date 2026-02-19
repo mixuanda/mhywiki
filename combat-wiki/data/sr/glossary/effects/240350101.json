@@ -1,0 +1,18 @@
+{
+  "id": "240350101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "行动锁定",
+  "description": "该目标行动值不会因任意目标回合结束而改变。该目标受到行动提前效果或恢复能量可以降低【解锁值】，当【解锁值】被清空时，该状态解除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240350101,
+    "MDF": "MModifier_W4_IronTombCore_00_TimeLock",
+    "Name": "行动锁定",
+    "Desc": "该目标行动值不会因任意目标回合结束而改变。该目标受到行动提前效果或恢复能量可以降低【解锁值】，当【解锁值】被清空时，该状态解除。",
+    "Type": 2
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

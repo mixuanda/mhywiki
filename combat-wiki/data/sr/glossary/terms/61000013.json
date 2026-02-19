@@ -1,0 +1,15 @@
+{
+  "id": "61000013",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "精英",
+  "description": "精英区域，在这个区域中战胜精英敌人有机会获得1个1-3星祝福。",
+  "content": {
+    "_id": 61000013,
+    "Name": "精英",
+    "Desc": "精英区域，在这个区域中战胜精英敌人有机会获得1个1-3星祝福。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

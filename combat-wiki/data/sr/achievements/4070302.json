@@ -1,0 +1,18 @@
+{
+  "id": "4070302",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "寸劲•开天",
+  "description": "造成大于等于 20000.0 点单次伤害",
+  "reward": 10,
+  "version": 1.0,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

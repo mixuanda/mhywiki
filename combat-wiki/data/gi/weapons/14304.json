@@ -1,0 +1,22 @@
+{
+  "id": "14304",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "翡玉法球",
+  "description": "由璃月北郊绝云间出产的硬玉雕琢而成的法器。小巧轻盈，经久耐用，江湖人称「翡玉丸」。",
+  "rarity": 3,
+  "weaponType": 3,
+  "baseAtk": 448.2215814,
+  "subStatType": "EM",
+  "subStatValue": 93.7176,
+  "materialRefs": [
+    "112031",
+    "112037",
+    "114016"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/14304.js"
+  }
+}

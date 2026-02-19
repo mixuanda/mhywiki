@@ -1,0 +1,41 @@
+{
+  "id": "5-3-phase-4",
+  "game": "gi",
+  "entityType": "banner",
+  "version": "5.3",
+  "phase": 4,
+  "featuredFiveStar": [
+    {
+      "N": "Qiqi",
+      "X": 1
+    },
+    {
+      "N": "Keqing",
+      "X": 2
+    },
+    {
+      "N": "Shenhe",
+      "X": 3
+    },
+    {
+      "N": "Baizhuer",
+      "X": 4
+    },
+    {
+      "N": "Ganyu",
+      "X": 5
+    },
+    {
+      "N": "Xiao",
+      "X": 6
+    },
+    {
+      "N": "Tartaglia",
+      "X": 6
+    }
+  ],
+  "featuredFourStar": [],
+  "source": {
+    "file": "gi/banner.js"
+  }
+}

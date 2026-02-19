@@ -1,0 +1,17 @@
+{
+  "id": "10013157",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "三乘九的微笑",
+  "description": "首次施放战技时，为指定敌方单体添加与终结技相同的物理弱点，持续<color> <b>A</b> </color>回合。",
+  "effectType": "character",
+  "content": {
+    "_id": 10013157,
+    "MDF": "MAvatar_Boothill_00_MazeSkill_Skill02",
+    "Name": "三乘九的微笑",
+    "Desc": "首次施放战技时，为指定敌方单体添加与终结技相同的物理弱点，持续<color> <b>A</b> </color>回合。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

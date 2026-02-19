@@ -1,0 +1,15 @@
+{
+  "id": "84142",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "机关术：从入门到…？",
+  "description": "猜对解开七层「堆栈塔」所需的最少步数。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "17"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

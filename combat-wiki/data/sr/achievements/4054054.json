@@ -1,0 +1,18 @@
+{
+  "id": "4054054",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "背上的事诗",
+  "description": "拦下大地兽背上的吟游诗人，与他聊聊",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

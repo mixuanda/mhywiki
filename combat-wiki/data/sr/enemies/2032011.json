@@ -1,0 +1,39 @@
+{
+  "id": "2032011",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "玄爪狼卒",
+  "description": "来自玄爪猎群的步离人士兵，擅长在无声息中猎杀目标。",
+  "stats": {
+    "HP": 4.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 7.0
+  },
+  "weakness": [
+    "Fire",
+    "Wind",
+    "Quantum",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.4,
+    "Ice": 0.4,
+    "Elec": 0.4
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2032010.png",
+  "figure": "monsterfigure/Monster_2032010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

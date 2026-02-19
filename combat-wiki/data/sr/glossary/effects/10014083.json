@@ -1,0 +1,19 @@
+{
+  "id": "10014083",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "此身为炬",
+  "description": "暴击伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014083,
+    "MDF": "MAvatar_Phainon_00_Passive_Property",
+    "Name": "此身为炬",
+    "Desc": "暴击伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

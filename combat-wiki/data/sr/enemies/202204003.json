@@ -1,0 +1,39 @@
+{
+  "id": "202204003",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "丰饶灵兽 · 娄金",
+  "description": "金缕错饰的猎犬，行动优雅迅疾。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。娄金即为伴随军阵行进的战兽之一。",
+  "stats": {
+    "HP": 1.6,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 118.0,
+    "Stance": 3.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Wind"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Quantum": 0.2,
+    "Imaginary": 0.2
+  },
+  "statusResist": 0.1,
+  "icon": "mostericon/Monster_2022040.png",
+  "figure": "monsterfigure/Monster_2022040.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

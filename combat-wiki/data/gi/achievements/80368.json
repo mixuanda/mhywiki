@@ -1,0 +1,15 @@
+{
+  "id": "80368",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "温泉诞生之日",
+  "description": "集齐全套《玛阿威与幻写灵》。",
+  "reward": 5,
+  "version": "5.3",
+  "group": {
+    "id": "57"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

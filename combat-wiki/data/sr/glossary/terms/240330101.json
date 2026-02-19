@@ -1,0 +1,15 @@
+{
+  "id": "240330101",
+  "game": "sr",
+  "entityType": "glossaryTerm",
+  "name": "厄堕",
+  "description": "下一次行动会施放【浑流奔涌】。",
+  "content": {
+    "_id": 240330101,
+    "Name": "厄堕",
+    "Desc": "下一次行动会施放【浑流奔涌】。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

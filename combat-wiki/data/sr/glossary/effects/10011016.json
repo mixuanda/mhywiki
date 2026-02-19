@@ -1,0 +1,19 @@
+{
+  "id": "10011016",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "阵地",
+  "description": "防御力提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10011016,
+    "MDF": "Bronya_Tree02_DefenceUp",
+    "Name": "阵地",
+    "Desc": "防御力提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

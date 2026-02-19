@@ -1,0 +1,28 @@
+{
+  "id": "30604",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "雪奈茨芙娜的蝶安奈拉",
+  "description": null,
+  "stats": {},
+  "resistance": {
+    "Phys": -0.2,
+    "Wind": 0.5
+  },
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_Fatuus_Escadron_Wind"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 4.2"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

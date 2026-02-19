@@ -1,0 +1,19 @@
+{
+  "id": "10014156",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "献予「生死」之诗",
+  "description": "遐蝶的新蕊可以溢出至<color> <b>A</b> </color>，召唤死龙时会消耗所有溢出【新蕊】，基于消耗的溢出值，使本次召唤的死龙触发天赋【灼掠幽墟的晦翼】的技能效果时造成的伤害倍率提高。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014156,
+    "MDF": "MServant_CyreneServant_00_AmazingBuff_Castorice",
+    "Name": "献予「生死」之诗",
+    "Desc": "遐蝶的新蕊可以溢出至<color> <b>A</b> </color>，召唤死龙时会消耗所有溢出【新蕊】，基于消耗的溢出值，使本次召唤的死龙触发天赋【灼掠幽墟的晦翼】的技能效果时造成的伤害倍率提高。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

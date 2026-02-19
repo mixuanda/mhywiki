@@ -1,0 +1,18 @@
+{
+  "id": "4073604",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "宛如厉鬼的步伐",
+  "description": "使用乱破秘技「忍步•血义理」，在「涂鸦」的滑行状态下没有撞到任何障碍物",
+  "reward": 5,
+  "version": 2.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

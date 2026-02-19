@@ -1,0 +1,15 @@
+{
+  "id": "81286",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "在风中飘荡",
+  "description": "击碎在沙漠中飘飞的风滚草。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

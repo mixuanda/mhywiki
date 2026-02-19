@@ -1,0 +1,19 @@
+{
+  "id": "220221101",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "嗔恚",
+  "description": "攻击改为施放【锯恶•斩】。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220221101,
+    "MDF": "MMonster_W2_Valkyrie01_01_SkillP01_ComboAttack",
+    "Name": "嗔恚",
+    "Desc": "攻击改为施放【锯恶•斩】。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

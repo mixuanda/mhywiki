@@ -1,0 +1,18 @@
+{
+  "id": "4073210",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "赌命大赛",
+  "description": "战斗中，我方角色波提欧在一回合内累计获得3.0层【优势口袋】",
+  "reward": 5,
+  "version": 2.2,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

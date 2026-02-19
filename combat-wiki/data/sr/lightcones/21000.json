@@ -1,0 +1,23 @@
+{
+  "id": "21000",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "一场术后对话",
+  "rarity": 4,
+  "path": "Abundance",
+  "skillId": 21000,
+  "baseStats": {
+    "HP": 1058.4,
+    "ATK": 423.36,
+    "DEF": 330.75
+  },
+  "materialRefs": [
+    "110173",
+    "111003"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21000.js"
+  }
+}

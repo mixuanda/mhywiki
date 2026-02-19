@@ -1,0 +1,18 @@
+{
+  "id": "4054228",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "豹歉，你也想起舞吗？",
+  "description": "在「豹豹碰碰大作战」中，一次撞飞对手的两只小海豹",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

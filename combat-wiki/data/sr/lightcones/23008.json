@@ -1,0 +1,23 @@
+{
+  "id": "23008",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "棺的回响",
+  "rarity": 5,
+  "path": "Abundance",
+  "skillId": 23008,
+  "baseStats": {
+    "HP": 1164.24,
+    "ATK": 582.12,
+    "DEF": 396.9
+  },
+  "materialRefs": [
+    "110173",
+    "113013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/23008.js"
+  }
+}

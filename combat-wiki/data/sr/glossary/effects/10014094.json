@@ -1,0 +1,18 @@
+{
+  "id": "10014094",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "暴风停歇",
+  "description": "生命上限提高<color> <b>A</b> </color>，治疗量提高<color> <b>B</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014094,
+    "MDF": "MAvatar_Hyacine_00_PointB3_Effect",
+    "Name": "暴风停歇",
+    "Desc": "生命上限提高<color> <b>A</b> </color>，治疗量提高<color> <b>B</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

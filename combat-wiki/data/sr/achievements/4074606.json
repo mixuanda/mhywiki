@@ -1,0 +1,18 @@
+{
+  "id": "4074606",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "因信称义",
+  "description": "被【指名祸首】选中的我方角色在承受【金血忆灵•裁定忘却之形】的【罪血枭首】攻击后，当前生命值等于生命上限",
+  "reward": 5,
+  "version": 3.6,
+  "series": {
+    "_id": 7,
+    "Name": "战意奔涌",
+    "Icon": "BattleAchievementIcon.png",
+    "Count": 280
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

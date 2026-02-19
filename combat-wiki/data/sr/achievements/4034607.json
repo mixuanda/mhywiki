@@ -1,0 +1,18 @@
+{
+  "id": "4034607",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "记忆碎片",
+  "description": "相机记忆卡已经存满的元凶……<br><color style='color:#8790ab;'>※昔涟找到了真正的三月七</color>",
+  "reward": 10,
+  "version": 3.6,
+  "series": {
+    "_id": 3,
+    "Name": "通往群星的轨道",
+    "Icon": "MainLineAchievementIcon.png",
+    "Count": 137
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

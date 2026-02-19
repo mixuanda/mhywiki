@@ -1,0 +1,18 @@
+{
+  "id": "4054511",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "没有免费的午餐",
+  "description": "在「黄金迷境大饭店」中，最高单日经营额达到40000.0",
+  "reward": 5,
+  "version": 3.5,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

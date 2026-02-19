@@ -1,0 +1,18 @@
+{
+  "id": "4042802",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "泥人哥连出世记",
+  "description": "在绥园，累计获得 9.0 次「寻径指津」奖励",
+  "reward": 5,
+  "version": 1.5,
+  "series": {
+    "_id": 4,
+    "Name": "众秘探奇",
+    "Icon": "ExploreAchievementIcon.png",
+    "Count": 250
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

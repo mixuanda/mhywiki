@@ -1,0 +1,15 @@
+{
+  "id": "80343",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "不是所有宝藏都是金和银",
+  "description": "未能寻找到「治疗一切的秘药」。",
+  "reward": 10,
+  "version": "5.0",
+  "group": {
+    "id": "51"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

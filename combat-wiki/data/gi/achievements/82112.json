@@ -1,0 +1,15 @@
+{
+  "id": "82112",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无法传达的恋波",
+  "description": "不曾被探针的侦测锁定的情况下，击败雷音权现。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

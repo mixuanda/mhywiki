@@ -1,0 +1,15 @@
+{
+  "id": "80457",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "奉予虚无的信仰",
+  "description": "集齐全套《终北祷歌集》。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "65"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

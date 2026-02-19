@@ -1,0 +1,17 @@
+{
+  "id": "10012086",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "损失生命值累计",
+  "description": "我方全体累计已损失<color> <b>A</b> </color>点生命值。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012086,
+    "MDF": "MAvatar_FuXuan_00_Rank06",
+    "Name": "损失生命值累计",
+    "Desc": "我方全体累计已损失<color> <b>A</b> </color>点生命值。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

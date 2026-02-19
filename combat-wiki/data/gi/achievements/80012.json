@@ -1,0 +1,15 @@
+{
+  "id": "80012",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "星级大厨",
+  "description": "20个料理食谱达到熟练。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "2"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

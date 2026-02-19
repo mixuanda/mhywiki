@@ -1,0 +1,19 @@
+{
+  "id": "10012232",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "防御降低",
+  "description": "防御力降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012232,
+    "MDF": "MAvatar_Moze_00_Rank01Debuff",
+    "Name": "防御降低",
+    "Desc": "防御力降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

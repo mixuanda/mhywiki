@@ -1,0 +1,15 @@
+{
+  "id": "81414",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "饱和水力攻击",
+  "description": "从猛烈的舰炮攻击中取得宝物。",
+  "reward": 5,
+  "version": "4.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

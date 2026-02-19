@@ -1,0 +1,25 @@
+{
+  "id": "30121",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的愚人众先遣队 · 冰铳重卫士",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "fsc2"
+  ],
+  "figure": null,
+  "groups": [
+    "历经百战"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81162",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "它和它…",
+  "description": "…连连看？",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

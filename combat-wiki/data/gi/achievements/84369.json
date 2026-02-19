@@ -1,0 +1,15 @@
+{
+  "id": "84369",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "散于晨雾的月芒",
+  "description": "完成「散于晨雾的月芒」。",
+  "reward": 10,
+  "version": "6.2",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

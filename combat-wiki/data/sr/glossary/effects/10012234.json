@@ -1,0 +1,19 @@
+{
+  "id": "10012234",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "胁翼匿迹",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012234,
+    "MDF": "MAvatar_Moze_00_MazeSkill_DamageUpModifier",
+    "Name": "胁翼匿迹",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

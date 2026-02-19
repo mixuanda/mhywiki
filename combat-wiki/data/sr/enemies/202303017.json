@@ -1,0 +1,39 @@
+{
+  "id": "202303017",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "承露天人",
+  "description": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
+  "stats": {
+    "HP": 20.0,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 120.0,
+    "Stance": 14.0
+  },
+  "weakness": [
+    "Ice",
+    "Elec",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Phys": 0.2,
+    "Fire": 0.2,
+    "Wind": 0.4,
+    "Quantum": 0.2
+  },
+  "statusResist": 0.2,
+  "icon": "mostericon/Monster_2023030.png",
+  "figure": "monsterfigure/Monster_2023030.png",
+  "camp": {
+    "id": "2",
+    "name": "仙舟「罗浮」"
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

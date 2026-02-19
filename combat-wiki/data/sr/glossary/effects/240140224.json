@@ -1,0 +1,18 @@
+{
+  "id": "240140224",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "免疫控制",
+  "description": "免疫控制类负面状态。",
+  "effectType": "monster",
+  "content": {
+    "_id": 240140224,
+    "MDF": "Monster_W4_Nikadory_00_Brave_Immune",
+    "Name": "免疫控制",
+    "Desc": "免疫控制类负面状态。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

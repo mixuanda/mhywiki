@@ -1,0 +1,15 @@
+{
+  "id": "81113",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "无灵魂处的灵魂",
+  "description": "找到鹫津的遗物。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

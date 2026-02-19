@@ -1,0 +1,10 @@
+{
+  "id": "110203",
+  "game": "sr",
+  "entityType": "material",
+  "name": "精致色稿",
+  "icon": "itemicon/110203.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

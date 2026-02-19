@@ -1,0 +1,15 @@
+{
+  "id": "84573",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "同流者",
+  "description": "见证某件与水文和光影有关的故事…",
+  "reward": 5,
+  "version": "4.4",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "4054223",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "人上之人",
+  "description": "在言谈之间更深入了解黎明云崖<br><color style='color:#8790ab;'>※与黎明云崖所有公民对话</color>",
+  "reward": 5,
+  "version": 3.2,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

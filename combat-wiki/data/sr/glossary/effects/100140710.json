@@ -1,0 +1,18 @@
+{
+  "id": "100140710",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "待流年奔涌破茧",
+  "description": "造成伤害时，量子属性抗性穿透提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100140710,
+    "MDF": "MAvatar_Castorice_00_Rank06_QuantumPenetrate",
+    "Name": "待流年奔涌破茧",
+    "Desc": "造成伤害时，量子属性抗性穿透提高<color> <b>A</b> </color>。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

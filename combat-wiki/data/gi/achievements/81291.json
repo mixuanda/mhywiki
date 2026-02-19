@@ -1,0 +1,15 @@
+{
+  "id": "81291",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「假若她们能知幽玄…」",
+  "description": "利露帕尔自行解脱了与你的契约，选择面对自己漆黑深远的命运…",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

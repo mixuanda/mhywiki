@@ -1,0 +1,18 @@
+{
+  "id": "12304",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "石英大剑",
+  "description": "古朴厚重的大剑，由坚固的黑色石英雕琢打磨而成，上面有着鎏金的花纹，尽显优雅庄严。",
+  "rarity": 3,
+  "weaponType": 2,
+  "baseAtk": 401.2935898,
+  "subStatType": "EM",
+  "subStatValue": 140.5764,
+  "materialRefs": [],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/12304.js"
+  }
+}

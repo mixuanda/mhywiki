@@ -1,0 +1,15 @@
+{
+  "id": "82020",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "「老实点！」",
+  "description": "达成5次：持续冻结一名敌人超过10秒。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "6"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

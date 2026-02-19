@@ -1,0 +1,25 @@
+{
+  "id": "50701",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "盗宝团 · 粉碎者",
+  "description": null,
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "thcr1"
+  ],
+  "figure": null,
+  "groups": [
+    "其他人类势力 > 盗宝团胖子"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

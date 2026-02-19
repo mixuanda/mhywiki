@@ -1,0 +1,39 @@
+{
+  "id": "302401301",
+  "game": "sr",
+  "entityType": "enemy",
+  "name": "芒寒色正的银骑士",
+  "description": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉美名。",
+  "stats": {
+    "HP": 62.5,
+    "ATK": 18.0,
+    "DEF": 1.0,
+    "SPD": 105.0,
+    "Stance": 27.0
+  },
+  "weakness": [
+    "Phys",
+    "Fire",
+    "Ice",
+    "Imaginary"
+  ],
+  "resistance": {
+    "Elec": 0.6,
+    "Wind": 0.4,
+    "Quantum": 0.4
+  },
+  "statusResist": 0.3,
+  "icon": "mostericon/Monster_3024010.png",
+  "figure": "monsterfigure/Monster_3024010.png",
+  "camp": {
+    "id": "0",
+    "name": null
+  },
+  "analysis": null,
+  "source": {
+    "files": [
+      "data/CH/Monster_1.js",
+      "data/CH/Monster_2.js"
+    ]
+  }
+}

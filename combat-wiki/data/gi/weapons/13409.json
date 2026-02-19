@@ -1,0 +1,22 @@
+{
+  "id": "13409",
+  "game": "gi",
+  "entityType": "weapon",
+  "name": "龙脊长枪",
+  "description": "利用龙之牙制成的长枪。有着奇异的温暖触感。",
+  "rarity": 4,
+  "weaponType": 4,
+  "baseAtk": 454.36315250000007,
+  "subStatType": "Phys",
+  "subStatValue": 0.689711002,
+  "materialRefs": [
+    "112028",
+    "112034",
+    "114008"
+  ],
+  "affix": {},
+  "source": {
+    "listFile": "gi/CH/avatar.js",
+    "detailFile": "gi/CH/Weapon/13409.js"
+  }
+}

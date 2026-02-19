@@ -1,0 +1,17 @@
+{
+  "id": "280150126",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "增幅",
+  "description": "技能得到强化。当前强化等级为2级。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150126,
+    "MDF": "MMonster_AML_Boss_00_Part2_IF_Enhancement_DisplayLV2",
+    "Name": "增幅",
+    "Desc": "技能得到强化。当前强化等级为2级。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

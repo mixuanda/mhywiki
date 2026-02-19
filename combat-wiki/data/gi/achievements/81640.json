@@ -1,0 +1,15 @@
+{
+  "id": "81640",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "悠游浮跃",
+  "description": "感受到了棉韧花的柔软与弹性。",
+  "reward": 5,
+  "version": "6.3",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

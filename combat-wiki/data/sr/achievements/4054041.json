@@ -1,0 +1,18 @@
+{
+  "id": "4054041",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "瓶中花月",
+  "description": "向巴克斯购买秘酿，并触发所有迷醉事件",
+  "reward": 5,
+  "version": 3.0,
+  "series": {
+    "_id": 5,
+    "Name": "与你同行的回忆",
+    "Icon": "ReputationAchievementIcon.png",
+    "Count": 603
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

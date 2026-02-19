@@ -1,0 +1,15 @@
+{
+  "id": "84533",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "饮食问题",
+  "description": "帮助芭尔瓦涅校对全部食谱。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

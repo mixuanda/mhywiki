@@ -1,0 +1,23 @@
+{
+  "id": "21039",
+  "game": "sr",
+  "entityType": "lightcone",
+  "name": "织造命运之线",
+  "rarity": 4,
+  "path": "Preservation",
+  "skillId": 21039,
+  "baseStats": {
+    "HP": 952.56,
+    "ATK": 370.44,
+    "DEF": 463.05
+  },
+  "materialRefs": [
+    "110143",
+    "114013"
+  ],
+  "detail": {},
+  "source": {
+    "listFile": "data/CH/Avatar.js",
+    "detailFile": "data/CH/Weapon/21039.js"
+  }
+}

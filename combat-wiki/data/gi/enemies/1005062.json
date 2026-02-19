@@ -1,0 +1,21 @@
+{
+  "id": "1005062",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "历经百战的暝视龙 · 霜雪苛念",
+  "description": "能够利用生长出的覆羽进行腾跃，亦是唯一一种掌握了进入「灵觉」状态技巧的龙。<br>它观测到一切苦楚和悲痛，尽被地脉的扭曲追忆吞噬，化作极寒的霜雪风暴，带来无尽的混乱…",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": "UI_Img_LeyLineChallenge_Natsaurus_Shamansaurus_Normal",
+  "figure": null,
+  "groups": [],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

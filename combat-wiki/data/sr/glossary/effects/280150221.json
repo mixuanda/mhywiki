@@ -1,0 +1,17 @@
+{
+  "id": "280150221",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "毁灭增益",
+  "description": "击破特攻提高<color> <b>A</b> </color>，无法再获取【丰饶玄莲】提供的增益。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150221,
+    "MDF": "Monster_W2_Huanlong_00_IF_BlackBuff",
+    "Name": "毁灭增益",
+    "Desc": "击破特攻提高<color> <b>A</b> </color>，无法再获取【丰饶玄莲】提供的增益。"
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

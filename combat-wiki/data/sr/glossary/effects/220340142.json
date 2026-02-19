@@ -1,0 +1,18 @@
+{
+  "id": "220340142",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "晓月盛怒",
+  "description": "进入【噬月】状态，免疫来自我方目标造成的行动延后效果，此状态下呼雷将会获得【怒意】，并会施放【贪狼逐驰，血色临照】。此状态在被击破时将被移除。",
+  "effectType": "monster",
+  "content": {
+    "_id": 220340142,
+    "MDF": "MMonster_W2_LycanKing_00_IF_RageStatusPhase2",
+    "Name": "晓月盛怒",
+    "Desc": "进入【噬月】状态，免疫来自我方目标造成的行动延后效果，此状态下呼雷将会获得【怒意】，并会施放【贪狼逐驰，血色临照】。此状态在被击破时将被移除。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

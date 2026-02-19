@@ -1,0 +1,18 @@
+{
+  "id": "4083004",
+  "game": "sr",
+  "entityType": "achievement",
+  "name": "彭罗斯三角",
+  "description": "通过调整视角拼凑出筑梦边境的「彭罗斯三角」",
+  "reward": 5,
+  "version": 2.0,
+  "series": {
+    "_id": 8,
+    "Name": "瞬息欢愉",
+    "Icon": "TrackAchievementIcon.png",
+    "Count": 90
+  },
+  "source": {
+    "file": "data/CH/Achievement.js"
+  }
+}

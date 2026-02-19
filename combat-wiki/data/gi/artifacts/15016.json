@@ -1,0 +1,28 @@
+{
+  "id": "15016",
+  "game": "gi",
+  "entityType": "artifact",
+  "name": "沉沦之心",
+  "icon": "UI_RelicIcon_15016",
+  "setBonuses": [
+    {
+      "Num": 2,
+      "Skill": "获得15%水元素伤害加成。"
+    },
+    {
+      "Num": 4,
+      "Skill": "施放元素战技后的15秒内，普通攻击与重击造成的伤害提高30%。"
+    }
+  ],
+  "parts": [
+    "饰金胸花",
+    "追忆之风",
+    "坚铜罗盘",
+    "沉波之盏",
+    "酒渍船帽"
+  ],
+  "extra": [],
+  "source": {
+    "listFile": "gi/CH/avatar.js"
+  }
+}

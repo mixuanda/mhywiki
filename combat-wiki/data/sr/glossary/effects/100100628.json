@@ -1,0 +1,19 @@
+{
+  "id": "100100628",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "额外雷弱点",
+  "description": "被添加的额外雷弱点，雷属性抗性降低<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 100100628,
+    "MDF": "MAvatar_Advanced_Silwolf_00_BPSkill_WeakType_Thunder",
+    "Name": "额外雷弱点",
+    "Desc": "被添加的额外雷弱点，雷属性抗性降低<color> <b>A</b> </color>。",
+    "Type": 2,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

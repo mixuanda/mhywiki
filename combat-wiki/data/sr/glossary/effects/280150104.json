@@ -1,0 +1,18 @@
+{
+  "id": "280150104",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "升变",
+  "description": "韧性完全恢复，弱点发生变化。",
+  "effectType": "monster",
+  "content": {
+    "_id": 280150104,
+    "MDF": "MMonster_WMonster_W0_Boss_00_Part2_Skill07",
+    "Name": "升变",
+    "Desc": "韧性完全恢复，弱点发生变化。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

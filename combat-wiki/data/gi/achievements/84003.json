@@ -1,0 +1,15 @@
+{
+  "id": "84003",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "巨龙与自由之歌",
+  "description": "完成「巨龙与自由之歌」。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

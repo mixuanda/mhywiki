@@ -1,0 +1,25 @@
+{
+  "id": "616260",
+  "game": "gi",
+  "entityType": "enemy",
+  "name": "「蟹沙皇」",
+  "description": "为古老的月光侵染了神智，一度陷入了谵妄与狂乱的蟹之主。然而正打算耀武扬威的时候被闯入宫殿的窃贼狠狠教训了一顿，如今又再度变得温顺了。话虽如此，众蟹的君王依然渴望着与强者的切磋，渴望击败值得它全力以赴的对手。",
+  "stats": {},
+  "resistance": {},
+  "weakness": [],
+  "icon": [
+    "UI_MonsterIcon_HermitCrab_Mature_Elite"
+  ],
+  "figure": null,
+  "groups": [
+    "地方传奇 > 6.0"
+  ],
+  "analysis": null,
+  "source": {
+    "files": [
+      "gi/CH/computer.js",
+      "gi/CH/database.js",
+      "gi/CH/bosschallenge.js"
+    ]
+  }
+}

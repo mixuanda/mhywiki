@@ -1,0 +1,19 @@
+{
+  "id": "10012202",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "雷狩",
+  "description": "造成的伤害提高<color> <b>A</b> </color>。",
+  "effectType": "character",
+  "content": {
+    "_id": 10012202,
+    "MDF": "MAvatar_Feixiao_00_DamageProperty",
+    "Name": "雷狩",
+    "Desc": "造成的伤害提高<color> <b>A</b> </color>。",
+    "Type": 1,
+    "CD": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

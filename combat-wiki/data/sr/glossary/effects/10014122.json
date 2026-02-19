@@ -1,0 +1,18 @@
+{
+  "id": "10014122",
+  "game": "sr",
+  "entityType": "glossaryEffect",
+  "name": "爵位",
+  "description": "攻击力提高<color> <b>A</b> </color>点，造成的战技伤害的暴击伤害提高<color> <b>B</b> </color>、全属性抗性穿透提高<color> <b>C</b> </color>。施放攻击后刻律德菈额外造成1次附加伤害，剩余可触发次数为<color> <b>D</b> </color>。对敌方目标施放战技时触发奇袭。",
+  "effectType": "character",
+  "content": {
+    "_id": 10014122,
+    "MDF": "MAvatar_Cerydra_00_Skill02_Target_Lv2",
+    "Name": "爵位",
+    "Desc": "攻击力提高<color> <b>A</b> </color>点，造成的战技伤害的暴击伤害提高<color> <b>B</b> </color>、全属性抗性穿透提高<color> <b>C</b> </color>。施放攻击后刻律德菈额外造成1次附加伤害，剩余可触发次数为<color> <b>D</b> </color>。对敌方目标施放战技时触发奇袭。",
+    "Type": 1
+  },
+  "source": {
+    "file": "data/CH/EMS.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84528",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "瞳孔中的伪装者",
+  "description": "帮助珊瑚和龙二破获案件。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

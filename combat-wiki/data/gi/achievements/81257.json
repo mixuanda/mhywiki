@@ -1,0 +1,15 @@
+{
+  "id": "81257",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "…都汇进了激流",
+  "description": "用留影机记录下法留纳法宝启动的瞬间。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

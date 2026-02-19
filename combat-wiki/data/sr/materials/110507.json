@@ -1,0 +1,10 @@
+{
+  "id": "110507",
+  "game": "sr",
+  "entityType": "material",
+  "name": "阳雷的遥想",
+  "icon": "itemicon/110507.png",
+  "source": {
+    "file": "data/CH/Avatar.js"
+  }
+}

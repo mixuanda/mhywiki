@@ -1,0 +1,15 @@
+{
+  "id": "81333",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "历七盘而蹝蹑",
+  "description": "完成所有「奇鼓跳跳菇」的挑战。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

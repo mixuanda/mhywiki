@@ -1,0 +1,15 @@
+{
+  "id": "85000",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "除了时间，什么也没丢",
+  "description": "解开两座日晷的秘密。",
+  "reward": 5,
+  "version": "",
+  "group": {
+    "id": "0"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}

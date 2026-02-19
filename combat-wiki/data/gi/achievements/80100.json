@@ -1,0 +1,15 @@
+{
+  "id": "80100",
+  "game": "gi",
+  "entityType": "achievement",
+  "name": "鸣草丛中的捕手 · 其二",
+  "description": "在稻妻的海祇岛与清籁岛追上8个雷灵。",
+  "reward": 10,
+  "version": "",
+  "group": {
+    "id": "26"
+  },
+  "source": {
+    "file": "gi/CH/ach.js"
+  }
+}
