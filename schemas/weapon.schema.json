@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Weapon",
+  "type": "object",
+  "required": ["id", "game", "entityType", "name"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "game": { "const": "gi" },
+    "entityType": { "const": "weapon" },
+    "name": { "type": "string", "minLength": 1 },
+    "rarity": { "type": ["number", "null"] },
+    "materialRefs": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "additionalProperties": true
+}

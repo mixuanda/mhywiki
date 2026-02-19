@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stage",
+  "type": "object",
+  "required": ["id", "game", "entityType", "waves"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "game": { "const": "sr" },
+    "entityType": { "const": "stage" },
+    "level": { "type": ["number", "null"] },
+    "enemyGroup": { "type": ["number", "string", "null"] },
+    "waves": { "type": "array" }
+  },
+  "additionalProperties": true
+}

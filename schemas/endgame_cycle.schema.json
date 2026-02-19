@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Endgame Cycle",
+  "type": "object",
+  "required": ["id", "game", "entityType", "mode"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "game": { "enum": ["gi", "sr"] },
+    "entityType": { "const": "endgameCycle" },
+    "mode": {
+      "enum": [
+        "abyss",
+        "theater",
+        "youjing",
+        "moc",
+        "purefiction",
+        "apocalypticshadow",
+        "yixiangzhongcai",
+        "divergentuniverse"
+      ]
+    },
+    "name": { "type": ["string", "null"] },
+    "content": { "type": ["object", "array", "null"] }
+  },
+  "additionalProperties": true
+}

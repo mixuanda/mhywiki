@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Relic Set",
+  "type": "object",
+  "required": ["id", "game", "entityType", "name"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "game": { "const": "sr" },
+    "entityType": { "const": "relic" },
+    "name": { "type": "string", "minLength": 1 },
+    "setBonuses": { "type": "array" }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Artifact Set",
+  "type": "object",
+  "required": ["id", "game", "entityType", "name"],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "game": { "const": "gi" },
+    "entityType": { "const": "artifact" },
+    "name": { "type": "string", "minLength": 1 },
+    "setBonuses": { "type": "array" },
+    "parts": { "type": "array" }
+  },
+  "additionalProperties": true
+}
