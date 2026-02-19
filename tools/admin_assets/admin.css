@@ -1,0 +1,108 @@
+.admin-wrap {
+  max-width: 1080px;
+  margin: 20px auto;
+  padding: 12px;
+  color: #f3f4f6;
+}
+
+body {
+  background: linear-gradient(140deg, #111827 0%, #1f2937 60%, #0f172a 100%);
+  font-family: "Segoe UI", "Microsoft YaHei", sans-serif;
+}
+
+h1 {
+  margin: 0 0 16px 0;
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 14px;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+label {
+  font-weight: 600;
+}
+
+input,
+select,
+textarea {
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 6px;
+  padding: 8px 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+textarea {
+  resize: vertical;
+}
+
+button {
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  background: #2563eb;
+  color: #fff;
+  border-radius: 6px;
+  padding: 8px 12px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  filter: brightness(1.08);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.status {
+  min-height: 18px;
+  margin: 8px 0 0 0;
+}
+
+.json {
+  white-space: pre-wrap;
+  background: rgba(0, 0, 0, 0.45);
+  border-radius: 8px;
+  padding: 10px;
+  max-height: 440px;
+  overflow: auto;
+}
+
+.hint {
+  opacity: 0.9;
+}
+
+@media (max-width: 720px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

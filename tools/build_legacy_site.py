@@ -2,8 +2,9 @@
 from __future__ import annotations
 
 import argparse
-import subprocess
+import re
 import shutil
+import subprocess
 from pathlib import Path
 
 
@@ -41,7 +42,7 @@ SR_PAGE_DIRS = [
     "linecount",
 ]
 
-GI_CH_FILES = [
+GI_LOCALE_FILES = [
     "avatar.js",
     "computer.js",
     "database.js",
@@ -52,9 +53,9 @@ GI_CH_FILES = [
     "tut_1.js",
     "tut_2.js",
 ]
-GI_CH_DIRS = ["Avatar", "Weapon", "Relic"]
+GI_LOCALE_DIRS = ["Avatar", "Weapon", "Relic"]
 
-SR_CH_FILES = [
+SR_LOCALE_FILES = [
     "Avatar.js",
     "Monster_1.js",
     "Monster_2.js",
@@ -71,15 +72,21 @@ SR_CH_FILES = [
     "LineCount.js",
     "EMS.js",
 ]
-SR_CH_DIRS = ["Avatar", "Weapon", "Relic"]
+SR_LOCALE_DIRS = ["Avatar", "Weapon", "Relic"]
 
 ROOT_COPY_DIRS = ["plugins", "stylesheets", "javascripts", "fonts", "index", "about", "yhb", "Char"]
 ROOT_COPY_FILES = ["favicon.ico"]
-
 ROOT_DATA_FILES = ["banner.js", "Stage.js", "New.js", "LevelCurves.js", "LevelCurvesSimple.js"]
 GI_ROOT_FILES = ["avatar.js", "banner.js"]
+LOCAL_ASSET_DIRS = ["images", "homdgcat-res", "EnemyChart", "SREnemyChart"]
+ADMIN_ASSETS_DIR = Path(__file__).resolve().parent / "admin_assets"
+ADMIN_ASSET_PATHS = [
+    ("index.html", Path("admin/index.html")),
+    ("admin.css", Path("stylesheets/admin.css")),
+    ("admin.js", Path("javascripts/admin.js")),
+]
 
-ASSET_PREFIX_REWRITES = {
+REMOTE_ASSET_REWRITES = {
     "/images/": "https://homdgcat.wiki/images/",
     "/homdgcat-res/": "https://homdgcat.wiki/homdgcat-res/",
     "/EnemyChart/": "https://homdgcat.wiki/EnemyChart/",
@@ -93,6 +100,7 @@ COMBAT_PATCH_JS = r"""(function () {
     "/index",
     "/about",
     "/yhb",
+    "/admin",
     "/gi/monster",
     "/gi/boss",
     "/gi/char",
@@ -120,14 +128,14 @@ COMBAT_PATCH_JS = r"""(function () {
     "/sr/change",
     "/sr/future",
     "/sr/formulae",
-    "/sr/linecount",
+    "/sr/linecount"
   ];
 
   const BLOCKED_EXACT = new Set([
     "/yunli",
     "/sr/yunli2",
     "/sr/yunli4",
-    "/sr/yunli5",
+    "/sr/yunli5"
   ]);
 
   function normalizePath(pathname) {
@@ -180,44 +188,30 @@ COMBAT_PATCH_JS = r"""(function () {
       markBlockedLink(anchor);
       const maybeCard = anchor.closest(".hover-shadow, .panel, .panelw, .new_block, .new_section, .menu_CTRL section");
       const navLike = anchor.closest(".menu_GI, .menu_SR, .menu_GI_2, .menu_SR_2, .d1, .d2, .home_select");
-      if (maybeCard && navLike) {
-        maybeCard.remove();
-      }
+      if (maybeCard && navLike) maybeCard.remove();
     }
   }
 
-  document.addEventListener(
-    "click",
-    function (event) {
-      const anchor = event.target && event.target.closest ? event.target.closest("a[href]") : null;
-      if (!anchor || !isLocalHref(anchor.href)) return;
-      const url = new URL(anchor.href, window.location.origin);
-      const path = normalizePath(url.pathname);
-      if (path === "/home") {
-        event.preventDefault();
-        window.location.href = "/index";
-        return;
-      }
-      if (isAllowed(path)) return;
+  document.addEventListener("click", function (event) {
+    const anchor = event.target && event.target.closest ? event.target.closest("a[href]") : null;
+    if (!anchor || !isLocalHref(anchor.href)) return;
+    const url = new URL(anchor.href, window.location.origin);
+    const path = normalizePath(url.pathname);
+    if (path === "/home") {
       event.preventDefault();
-      event.stopPropagation();
-    },
-    true
-  );
-
-  function hideTranslateUi() {
-    document.querySelectorAll("._translate_, h3 .lang, .lang").forEach((n) => {
-      n.style.display = "none";
-    });
-  }
+      window.location.href = "/index";
+      return;
+    }
+    if (isAllowed(path)) return;
+    event.preventDefault();
+    event.stopPropagation();
+  }, true);
 
   const observer = new MutationObserver(function () {
     sanitizeAnchors();
-    hideTranslateUi();
   });
   observer.observe(document.documentElement, { subtree: true, childList: true });
   sanitizeAnchors();
-  hideTranslateUi();
 })();
 """
 
@@ -233,41 +227,6 @@ def _copy_tree(src: Path, dst: Path) -> None:
     shutil.copytree(src, dst, ignore=shutil.ignore_patterns(".DS_Store"))
 
 
-def _rewrite_text_file(path: Path) -> None:
-    text = path.read_text(encoding="utf-8", errors="ignore")
-
-    text = text.replace('id="LANG" value=""', 'id="LANG" value="CH"')
-    text = text.replace("id='LANG' value=''", "id='LANG' value='CH'")
-    text = text.replace('id="IMGPRE" value="/"', 'id="IMGPRE" value="https://homdgcat.wiki/"')
-    text = text.replace("id='IMGPRE' value='/'", "id='IMGPRE' value='https://homdgcat.wiki/'")
-
-    if path.suffix == ".html":
-        marker = '<script src="/javascripts/combat_patch.js" type="text/javascript"></script>'
-        if marker not in text and "</html>" in text:
-            text = text.replace("</html>", f"{marker}</html>")
-
-    for before, after in ASSET_PREFIX_REWRITES.items():
-        text = text.replace(before, after)
-
-    # Fix known upstream typo: SR banner entries should route to SR characters.
-    if path.name == "banner_sr.js":
-        text = text.replace("/gi/char/", "/sr/char/")
-
-    path.write_text(text, encoding="utf-8")
-
-
-def _rewrite_all_text(root: Path) -> None:
-    for path in root.rglob("*"):
-        if not path.is_file():
-            continue
-        if path.suffix.lower() not in {".html", ".js", ".css"}:
-            continue
-        _rewrite_text_file(path)
-
-    for junk in root.rglob(".DS_Store"):
-        junk.unlink(missing_ok=True)
-
-
 def _require(path: Path) -> None:
     if not path.exists():
         raise FileNotFoundError(f"Required path missing: {path}")
@@ -279,13 +238,115 @@ def _clean_output(path: Path) -> None:
     try:
         shutil.rmtree(path)
     except OSError:
-        # OneDrive/iCloud synced folders on macOS can intermittently cause ENOTEMPTY during rmtree.
         subprocess.run(["rm", "-rf", str(path)], check=True)
         if path.exists():
             shutil.rmtree(path)
 
 
-def build(site_root: Path, out_root: Path, clean: bool) -> None:
+def _sanitize_cloudflare_artifacts(text: str) -> str:
+    text = re.sub(
+        r"<script[^>]+/cdn-cgi/scripts/[^>]*></script>",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(
+        r'\btype="[0-9a-f]{8,}-text/javascript"',
+        'type="text/javascript"',
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(
+        r"\btype='[0-9a-f]{8,}-text/javascript'",
+        "type='text/javascript'",
+        text,
+        flags=re.IGNORECASE,
+    )
+    return text
+
+
+def _rewrite_text_file(
+    path: Path,
+    *,
+    force_lang: str | None,
+    remote_assets: bool,
+) -> None:
+    text = path.read_text(encoding="utf-8", errors="ignore")
+    text = _sanitize_cloudflare_artifacts(text)
+
+    if force_lang:
+        text = text.replace('id="LANG" value=""', f'id="LANG" value="{force_lang}"')
+        text = text.replace("id='LANG' value=''", f"id='LANG' value='{force_lang}'")
+
+    if remote_assets:
+        text = text.replace('id="IMGPRE" value="/"', 'id="IMGPRE" value="https://homdgcat.wiki/"')
+        text = text.replace("id='IMGPRE' value='/'", "id='IMGPRE' value='https://homdgcat.wiki/'")
+        for before, after in REMOTE_ASSET_REWRITES.items():
+            text = text.replace(before, after)
+
+    if path.suffix.lower() == ".html" and not str(path.as_posix()).endswith("/admin/index.html"):
+        marker = '<script src="/javascripts/combat_patch.js" type="text/javascript"></script>'
+        if marker not in text and "</html>" in text:
+            text = text.replace("</html>", f"{marker}</html>")
+
+    # Fix known upstream typo: SR banner entries should route to SR characters.
+    if path.name == "banner_sr.js":
+        text = text.replace("/gi/char/", "/sr/char/")
+
+    path.write_text(text, encoding="utf-8")
+
+
+def _rewrite_all_text(root: Path, *, force_lang: str | None, remote_assets: bool) -> None:
+    for path in root.rglob("*"):
+        if not path.is_file():
+            continue
+        if path.suffix.lower() not in {".html", ".js", ".css"}:
+            continue
+        _rewrite_text_file(path, force_lang=force_lang, remote_assets=remote_assets)
+
+    for junk in root.rglob(".DS_Store"):
+        junk.unlink(missing_ok=True)
+
+
+def _copy_locale_data(site_root: Path, out_root: Path, locale: str) -> None:
+    locale = locale.upper().strip()
+    if not locale:
+        return
+
+    gi_locale_root = site_root / "gi" / locale
+    sr_locale_root = site_root / "data" / locale
+    _require(gi_locale_root)
+    _require(sr_locale_root)
+
+    gi_out_locale = out_root / "gi" / locale
+    sr_out_locale = out_root / "data" / locale
+    gi_out_locale.mkdir(parents=True, exist_ok=True)
+    sr_out_locale.mkdir(parents=True, exist_ok=True)
+
+    for file_name in GI_LOCALE_FILES:
+        _require(gi_locale_root / file_name)
+        _copy_file(gi_locale_root / file_name, gi_out_locale / file_name)
+    for dir_name in GI_LOCALE_DIRS:
+        _require(gi_locale_root / dir_name)
+        _copy_tree(gi_locale_root / dir_name, gi_out_locale / dir_name)
+
+    for file_name in SR_LOCALE_FILES:
+        _require(sr_locale_root / file_name)
+        _copy_file(sr_locale_root / file_name, sr_out_locale / file_name)
+    for dir_name in SR_LOCALE_DIRS:
+        _require(sr_locale_root / dir_name)
+        _copy_tree(sr_locale_root / dir_name, sr_out_locale / dir_name)
+
+
+def build(
+    *,
+    site_root: Path,
+    out_root: Path,
+    clean: bool,
+    locales: list[str],
+    asset_mode: str,
+    force_lang: str | None,
+) -> None:
     if clean and out_root.exists():
         _clean_output(out_root)
     out_root.mkdir(parents=True, exist_ok=True)
@@ -306,7 +367,6 @@ def build(site_root: Path, out_root: Path, clean: bool) -> None:
         encoding="utf-8",
     )
 
-    # GI pages and root assets.
     for name in GI_PAGE_DIRS:
         _require(site_root / "gi" / name)
         _copy_tree(site_root / "gi" / name, out_root / "gi" / name)
@@ -314,50 +374,66 @@ def build(site_root: Path, out_root: Path, clean: bool) -> None:
         _require(site_root / "gi" / file_name)
         _copy_file(site_root / "gi" / file_name, out_root / "gi" / file_name)
 
-    # SR pages.
     for name in SR_PAGE_DIRS:
         _require(site_root / "sr" / name)
         _copy_tree(site_root / "sr" / name, out_root / "sr" / name)
 
-    # Root data files used by SR pages.
     for file_name in ROOT_DATA_FILES:
         _require(site_root / "data" / file_name)
         _copy_file(site_root / "data" / file_name, out_root / "data" / file_name)
 
-    # GI CH data subset.
-    (out_root / "gi" / "CH").mkdir(parents=True, exist_ok=True)
-    for file_name in GI_CH_FILES:
-        _require(site_root / "gi" / "CH" / file_name)
-        _copy_file(site_root / "gi" / "CH" / file_name, out_root / "gi" / "CH" / file_name)
-    for dir_name in GI_CH_DIRS:
-        _require(site_root / "gi" / "CH" / dir_name)
-        _copy_tree(site_root / "gi" / "CH" / dir_name, out_root / "gi" / "CH" / dir_name)
+    for locale in locales:
+        _copy_locale_data(site_root, out_root, locale)
 
-    # SR CH data subset.
-    (out_root / "data" / "CH").mkdir(parents=True, exist_ok=True)
-    for file_name in SR_CH_FILES:
-        _require(site_root / "data" / "CH" / file_name)
-        _copy_file(site_root / "data" / "CH" / file_name, out_root / "data" / "CH" / file_name)
-    for dir_name in SR_CH_DIRS:
-        _require(site_root / "data" / "CH" / dir_name)
-        _copy_tree(site_root / "data" / "CH" / dir_name, out_root / "data" / "CH" / dir_name)
+    if asset_mode == "local":
+        for name in LOCAL_ASSET_DIRS:
+            src = site_root / name
+            if src.exists():
+                _copy_tree(src, out_root / name)
 
-    # Combat navigation patch.
+    if ADMIN_ASSETS_DIR.exists():
+        for src_name, out_rel in ADMIN_ASSET_PATHS:
+            src = ADMIN_ASSETS_DIR / src_name
+            if src.exists():
+                _copy_file(src, out_root / out_rel)
+
     patch_file = out_root / "javascripts" / "combat_patch.js"
     patch_file.write_text(COMBAT_PATCH_JS + "\n", encoding="utf-8")
 
-    _rewrite_all_text(out_root)
+    _rewrite_all_text(
+        out_root,
+        force_lang=force_lang,
+        remote_assets=(asset_mode == "remote"),
+    )
+
+
+def _parse_locales(raw: str) -> list[str]:
+    values = [x.strip().upper() for x in raw.split(",") if x.strip()]
+    if not values:
+        raise ValueError("At least one locale is required.")
+    return values
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Build a combat-only legacy-style static site from local raw site/")
     parser.add_argument("--site", required=True, help="Path to local raw site directory")
-    parser.add_argument(
-        "--out",
-        default="web",
-        help="Output path for generated static site (default: web)",
-    )
+    parser.add_argument("--out", default="web", help="Output path for generated static site (default: web)")
     parser.add_argument("--clean", action="store_true", help="Clean output directory first")
+    parser.add_argument(
+        "--locales",
+        default="CH,EN",
+        help="Comma-separated locales to copy for GI/SR runtime data (default: CH,EN)",
+    )
+    parser.add_argument(
+        "--asset-mode",
+        choices=["remote", "local"],
+        default="remote",
+        help="remote: keep repo light and rewrite heavy assets to homdgcat.wiki; local: copy local assets into web/",
+    )
+    parser.add_argument(
+        "--force-lang",
+        help="Force hidden LANG value in html (example: CH). Leave unset to preserve original behavior.",
+    )
     args = parser.parse_args()
 
     site_root = Path(args.site).resolve()
@@ -365,8 +441,18 @@ def main() -> None:
     if not site_root.is_dir():
         raise NotADirectoryError(f"site directory not found: {site_root}")
 
-    build(site_root, out_root, args.clean)
+    locales = _parse_locales(args.locales)
+    build(
+        site_root=site_root,
+        out_root=out_root,
+        clean=args.clean,
+        locales=locales,
+        asset_mode=args.asset_mode,
+        force_lang=args.force_lang,
+    )
     print(f"[legacy-build] done: {out_root}")
+    print(f"[legacy-build] locales: {', '.join(locales)}")
+    print(f"[legacy-build] asset-mode: {args.asset_mode}")
 
 
 if __name__ == "__main__":
