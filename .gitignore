@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Raw mirror is local-only input for extraction and must never be committed
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/.turbo/
+
+# Generated data indexes are committed intentionally; temporary outputs are not
+*.log
+.tmp/
