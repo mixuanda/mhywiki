@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import subprocess
 import shutil
 from pathlib import Path
 
@@ -272,9 +273,21 @@ def _require(path: Path) -> None:
         raise FileNotFoundError(f"Required path missing: {path}")
 
 
+def _clean_output(path: Path) -> None:
+    if not path.exists():
+        return
+    try:
+        shutil.rmtree(path)
+    except OSError:
+        # OneDrive/iCloud synced folders on macOS can intermittently cause ENOTEMPTY during rmtree.
+        subprocess.run(["rm", "-rf", str(path)], check=True)
+        if path.exists():
+            shutil.rmtree(path)
+
+
 def build(site_root: Path, out_root: Path, clean: bool) -> None:
     if clean and out_root.exists():
-        shutil.rmtree(out_root)
+        _clean_output(out_root)
     out_root.mkdir(parents=True, exist_ok=True)
 
     for name in ROOT_COPY_DIRS:
@@ -341,8 +354,8 @@ def main() -> None:
     parser.add_argument("--site", required=True, help="Path to local raw site directory")
     parser.add_argument(
         "--out",
-        default="web/legacy-site",
-        help="Output path for generated static site (default: web/legacy-site)",
+        default="web",
+        help="Output path for generated static site (default: web)",
     )
     parser.add_argument("--clean", action="store_true", help="Clean output directory first")
     args = parser.parse_args()

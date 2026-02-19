@@ -9,7 +9,7 @@ This branch keeps a combat-only subset of the original HomDGCat content while pr
 
 ## What Is Included
 
-- Legacy-style static site: `web/legacy-site/`
+- Legacy-style static site: `web/` (this is the main site root)
 - Normalized split data + tooling:
   - `combat-wiki/data/`
   - `tools/extract_from_site.py`
@@ -23,13 +23,13 @@ This keeps the original visual/page format while removing non-combat section rou
 ### Build from local raw `site/`
 
 ```bash
-python3 tools/build_legacy_site.py --site ./site --out ./web/legacy-site --clean
+python3 tools/build_legacy_site.py --site ./site --out ./web --clean
 ```
 
 ### Run locally on macOS
 
 ```bash
-cd web/legacy-site
+cd web
 python3 -m http.server 3000
 ```
 
@@ -39,6 +39,7 @@ Notes:
 - The generated site is CH-only by default.
 - Image/static heavy assets are loaded from `https://homdgcat.wiki/` to keep repo size small.
 - Yunli score routes are blocked and hidden in combat-only mode.
+- Important: serve `web/` as the web root. Do not serve repo root then open `/web`, or absolute paths will break.
 
 ## Normalized Data Pipeline
 
