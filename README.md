@@ -30,7 +30,8 @@ web/
 The extractor reads a local `site/` folder. Keep it outside git tracking.
 
 Recommended source (release zip/7z):
-- https://github.com/NewbieXvwu/HomDGCat/releases
+- This repository's `raw-backup` release asset (zip of `site/`)
+- Or upstream source mirror releases: https://github.com/NewbieXvwu/HomDGCat/releases
 
 Place extracted folder as:
 
