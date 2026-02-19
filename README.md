@@ -72,7 +72,7 @@ python main.py serve --port 3000
 
 Open `http://localhost:9000` in your browser to browse the full site.
 
-### Full-Site Visual CMS (CH+EN)
+### Simple Directory CMS (Characters/Weapons/Relics, CH+EN)
 
 ```bash
 # Recommended: start site + CMS together
@@ -81,10 +81,10 @@ Open `http://localhost:9000` in your browser to browse the full site.
 
 - Admin: `http://localhost:9000/__admin`
 - Preview: `http://localhost:9000/index/`
-- Three-pane workflow: source tree / record list / editor
-- Two edit modes: field editor + raw JSON editor
+- Fixed directory scope: Characters / Weapons / Relics only
+- Direct targeting by game (GI/HSR) and locale (CH/EN)
 - Auto backups at `easy_updates/entity_backups/`
-- Supports rollback, diff preview, and cross-source search
+- Supports rollback and quick search (ID/name)
 
 ### TextMap Sharding (Recommended)
 

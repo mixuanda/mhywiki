@@ -2,7 +2,10 @@
 __pycache__/
 *.pyc
 
-site/
+# Keep raw site data tracked in Git (required for backup repo sync).
 easy_updates/backups/
 easy_updates/entity_backups/
+easy_updates/local_backend.log
+easy_updates/local_backend.pid
+easy_updates/local_backend.port
 releases/

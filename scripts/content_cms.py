@@ -18,6 +18,7 @@ import textmap_shards
 ROOT_DIR = Path(__file__).resolve().parent.parent
 SITE_DIR = ROOT_DIR / "site"
 BACKUP_ROOT = ROOT_DIR / "easy_updates" / "entity_backups"
+MAX_INLINE_RAW_JSON_BYTES = 600_000
 
 SCAN_ROOTS = [
     SITE_DIR / "gi" / "CH",
@@ -152,6 +153,43 @@ process.stdout.write(JSON.stringify({ var_names: uniqueNames, values }));
     return [str(x) for x in var_names], values
 
 
+def _parse_auto_generated_js_vars(file_path: Path) -> tuple[list[str], dict[str, Any]]:
+    text = file_path.read_text(encoding="utf-8", errors="ignore")
+    if _looks_like_html(text):
+        raise ValueError("File looks like HTML, not js-var.")
+
+    # Fast path for mirror data files generated as:
+    # // Auto Generated
+    # var NAME = {...}
+    if "// Auto Generated" not in text[:120]:
+        raise ValueError("Not an auto-generated js-var file.")
+
+    matches = list(
+        re.finditer(
+            r"^\s*var\s+([A-Za-z_$][A-Za-z0-9_$]*)\s*=\s*",
+            text,
+            flags=re.MULTILINE,
+        )
+    )
+    if not matches:
+        raise ValueError("No var assignments found.")
+
+    values: dict[str, Any] = {}
+    order: list[str] = []
+
+    for idx, m in enumerate(matches):
+        name = m.group(1)
+        start = m.end()
+        end = matches[idx + 1].start() if idx + 1 < len(matches) else len(text)
+        blob = text[start:end].strip()
+        if blob.endswith(";"):
+            blob = blob[:-1].rstrip()
+        values[name] = json.loads(blob)
+        order.append(name)
+
+    return order, values
+
+
 @dataclass
 class SourceMeta:
     id: str
@@ -263,6 +301,19 @@ class UniversalCMSRepository:
         self, source_id: str, q: str = "", page: int = 1, page_size: int = 50
     ) -> dict[str, Any]:
         source = self.get_source(source_id)
+        if (
+            not source.editable
+            and source.format == "js-var"
+            and source.readonly_reason
+        ):
+            return {
+                "source": self._source_to_dict(source),
+                "records": [],
+                "total": 0,
+                "page": max(1, page),
+                "page_size": max(1, min(page_size, 200)),
+                "readonly_reason": source.readonly_reason,
+            }
         parsed = self._parse_source(source)
         root = parsed.root_data
 
@@ -354,12 +405,31 @@ class UniversalCMSRepository:
         parsed = self._parse_source(source)
         record = self._resolve_record(parsed.root_data, record_id)
         fields = self._build_fields(record["value"])
+        full_raw = json.dumps(record["value"], ensure_ascii=False, indent=2)
+        raw_size = len(full_raw.encode("utf-8"))
+        raw_omitted = raw_size > MAX_INLINE_RAW_JSON_BYTES
+        if raw_omitted:
+            raw_payload = json.dumps(
+                {
+                    "_warning": (
+                        "Raw JSON omitted due to size. Use smaller records or field mode."
+                    ),
+                    "_raw_size_bytes": raw_size,
+                    "_preview_summary": self._summary_from_obj(record["value"]),
+                },
+                ensure_ascii=False,
+                indent=2,
+            )
+        else:
+            raw_payload = full_raw
         return {
             "source": self._source_to_dict(source),
             "record_id": record["record_id"],
             "title": record["title"],
             "fields": fields,
-            "raw_json": json.dumps(record["value"], ensure_ascii=False, indent=2),
+            "raw_json": raw_payload,
+            "raw_omitted": raw_omitted,
+            "raw_size_bytes": raw_size,
         }
 
     def preview_record_diff(
@@ -582,7 +652,12 @@ class UniversalCMSRepository:
             self._source_mtime_cache[source.id] = mtime_ns
             return ParsedSource(meta=source, root_data=text, js_var_order=None)
 
-        var_order, values = _run_node_eval_js_vars(source.file_path)
+        # Prefer Python parser for speed and to avoid hard dependency on node.
+        # Fallback to node vm parser for non-standard files.
+        try:
+            var_order, values = _parse_auto_generated_js_vars(source.file_path)
+        except Exception:
+            var_order, values = _run_node_eval_js_vars(source.file_path)
         if len(var_order) == 1:
             root = values.get(var_order[0])
         else:

@@ -72,7 +72,7 @@ python main.py serve --port 3000
 
 浏览器访问 `http://localhost:9000` 即可浏览完整站点。
 
-### 全站可视化内容后台（CH+EN）
+### 简易目录可视化后台（角色/武器/圣遗物，CH+EN）
 
 ```bash
 # 推荐：启动网站 + 后台
@@ -81,10 +81,10 @@ python main.py serve --port 3000
 
 - 后台地址：`http://localhost:9000/__admin`
 - 预览地址：`http://localhost:9000/index/`
-- 支持三栏内容管理：数据源目录 / 记录列表 / 编辑器
-- 支持两种编辑模式：字段模式 + 原始 JSON 模式
+- 左侧目录固定为：角色 / 武器 / 圣遗物
+- 支持按游戏（原神/星铁）和语言（CH/EN）直接定位条目
 - 保存自动备份：`easy_updates/entity_backups/`
-- 支持回滚、预览 diff、跨数据源搜索
+- 支持回滚与快速搜索（ID/名称）
 
 ### TextMap 分片（推荐）
 

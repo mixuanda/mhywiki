@@ -1,0 +1,14 @@
+# Large raw data files. Use Git LFS when available.
+site/TextMap/GI.json filter=lfs diff=lfs merge=lfs -text
+site/TextMap/SR.json filter=lfs diff=lfs merge=lfs -text
+
+# Binary asset data under site/.
+site/**/*.png filter=lfs diff=lfs merge=lfs -text
+site/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+site/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+site/**/*.webp filter=lfs diff=lfs merge=lfs -text
+site/**/*.gif filter=lfs diff=lfs merge=lfs -text
+site/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+site/**/*.wav filter=lfs diff=lfs merge=lfs -text
+site/**/*.ogg filter=lfs diff=lfs merge=lfs -text
+site/**/*.mp3 filter=lfs diff=lfs merge=lfs -text

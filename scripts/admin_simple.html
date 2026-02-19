@@ -1,0 +1,910 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HomDGCat 简易内容后台</title>
+  <style>
+    :root {
+      --bg: #f4eee2;
+      --panel: #fffaf0;
+      --line: #dccfb8;
+      --text: #20262c;
+      --muted: #5d6872;
+      --accent: #b5642f;
+      --accent2: #2f708b;
+      --danger: #ad3a34;
+      --ok: #2f7d33;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--text);
+      background:
+        radial-gradient(1200px 500px at 0% -20%, #f6d7b8 0%, transparent 55%),
+        radial-gradient(1200px 500px at 100% -20%, #cae3ea 0%, transparent 56%),
+        var(--bg);
+      font-family: "Avenir Next", "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+    .wrap {
+      max-width: 1480px;
+      margin: 20px auto;
+      padding: 0 12px;
+    }
+    .head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 30px;
+      letter-spacing: .2px;
+    }
+    .sub {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+    .btns {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+    button, .btn {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #fff;
+      color: var(--text);
+      padding: 8px 12px;
+      font-size: 13px;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    button:disabled {
+      opacity: .45;
+      cursor: not-allowed;
+    }
+    .pri {
+      border: 0;
+      color: #fff;
+      background: linear-gradient(135deg, var(--accent), #cb7643);
+    }
+    .sec {
+      border: 0;
+      color: #fff;
+      background: linear-gradient(135deg, var(--accent2), #468eaa);
+    }
+    .danger {
+      border: 0;
+      color: #fff;
+      background: linear-gradient(135deg, #8d2525, var(--danger));
+    }
+    .layout {
+      display: grid;
+      grid-template-columns: 300px 420px 1fr;
+      gap: 10px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .bar {
+      padding: 10px;
+      border-bottom: 1px solid var(--line);
+      background: #fff5e4;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .bar b {
+      font-size: 14px;
+    }
+    .pane {
+      padding: 8px;
+      max-height: 66vh;
+      overflow: auto;
+    }
+    .group {
+      margin-bottom: 8px;
+      border: 1px solid #eadfcf;
+      border-radius: 9px;
+      overflow: hidden;
+      background: #fff;
+    }
+    .group h4 {
+      margin: 0;
+      padding: 7px 8px;
+      background: #fff8ea;
+      border-bottom: 1px solid #ede2d3;
+      font-size: 12px;
+      color: #4a5561;
+    }
+    .dir-item, .item {
+      border-bottom: 1px solid #efe5d6;
+      padding: 8px;
+      cursor: pointer;
+    }
+    .dir-item:last-child, .item:last-child { border-bottom: 0; }
+    .dir-item:hover, .item:hover { background: #fff3dc; }
+    .dir-item.active, .item.active {
+      background: #ffe7c3;
+      border-left: 4px solid var(--accent);
+      padding-left: 4px;
+    }
+    .name {
+      font-size: 13px;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+    .meta {
+      margin-top: 3px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.4;
+    }
+    .hint {
+      color: var(--muted);
+      font-size: 12px;
+      padding: 8px;
+      line-height: 1.45;
+    }
+    .f {
+      margin-bottom: 10px;
+    }
+    .f label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: 600;
+      font-size: 12px;
+    }
+    input[type="text"], textarea {
+      width: 100%;
+      border: 1px solid #d1c3ad;
+      border-radius: 8px;
+      background: #fff;
+      font: inherit;
+      padding: 8px;
+    }
+    textarea {
+      min-height: 100px;
+      resize: vertical;
+    }
+    .editor {
+      padding: 10px;
+      max-height: calc(66vh - 56px);
+      overflow: auto;
+    }
+    .editor-actions {
+      border-top: 1px solid var(--line);
+      background: #fff;
+      padding: 9px 10px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .status {
+      margin-top: 10px;
+      border: 1px solid #dacdb8;
+      border-radius: 10px;
+      background: #fff;
+      padding: 8px 10px;
+      font-size: 12px;
+      color: #4f5a65;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    pre#log {
+      margin: 10px 0 0;
+      background: #12161a;
+      color: #e8eef2;
+      border-radius: 10px;
+      border: 1px solid #2b333c;
+      min-height: 150px;
+      max-height: 28vh;
+      overflow: auto;
+      padding: 10px;
+      font-size: 12px;
+      line-height: 1.5;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    }
+    .ok { color: var(--ok); }
+    .bad { color: var(--danger); }
+
+    .section-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+    .section-tab {
+      border: 1px solid #d8c8b0;
+      background: #fff;
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    .section-tab.active {
+      background: #ffe7c3;
+      border-color: #d3924a;
+      color: #6c3b10;
+      font-weight: 700;
+    }
+    .record-layout {
+      display: grid;
+      grid-template-columns: 260px 1fr;
+      gap: 10px;
+      min-height: 320px;
+    }
+    .record-list {
+      border: 1px solid #e0d3bf;
+      border-radius: 10px;
+      overflow: auto;
+      max-height: 54vh;
+      background: #fff;
+    }
+    .record-item {
+      padding: 8px;
+      border-bottom: 1px solid #efe5d6;
+      cursor: pointer;
+    }
+    .record-item:last-child { border-bottom: 0; }
+    .record-item:hover { background: #fff3dc; }
+    .record-item.active {
+      background: #ffe7c3;
+      border-left: 4px solid #d0863d;
+      padding-left: 4px;
+    }
+    .record-editor {
+      border: 1px solid #e0d3bf;
+      border-radius: 10px;
+      background: #fff;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      min-height: 320px;
+    }
+    .record-meta {
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.4;
+      border-bottom: 1px dashed #e8dcc8;
+      padding-bottom: 6px;
+    }
+    .record-editor textarea {
+      flex: 1;
+      min-height: 240px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 12px;
+      line-height: 1.45;
+      white-space: pre;
+    }
+    .warn {
+      margin: 0 0 8px;
+      padding: 8px;
+      border-radius: 8px;
+      border: 1px solid #f0cb80;
+      background: #fff5de;
+      color: #754e17;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    @media (max-width: 1200px) {
+      .layout { grid-template-columns: 1fr; }
+      .pane { max-height: 45vh; }
+      .editor { max-height: calc(55vh - 56px); }
+      .record-layout { grid-template-columns: 1fr; }
+      .record-list { max-height: 24vh; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="head">
+      <div>
+        <h1>HomDGCat 简易目录后台</h1>
+        <p class="sub">角色支持网页同款目录（基本信息/技能/被动命座或行迹星魂/养成计算/改动汇总/妮可少女的研究/故事/语音），并支持区块新增和删除。<br>武器与圣遗物保持简化表单编辑。</p>
+      </div>
+      <div class="btns">
+        <a class="btn sec" href="/index/" target="_blank" rel="noopener">打开网站预览</a>
+        <button id="btnReload">刷新数据</button>
+        <button class="danger" id="btnUndo">回滚最近一次保存</button>
+      </div>
+    </div>
+
+    <div class="layout">
+      <section class="card">
+        <div class="bar"><b>目录</b></div>
+        <div class="pane" id="dirPane"></div>
+      </section>
+
+      <section class="card">
+        <div class="bar">
+          <b id="itemsTitle">条目列表</b>
+          <input id="search" type="text" placeholder="搜索 ID / 名称 / 简介" />
+        </div>
+        <div class="pane" id="itemsPane"></div>
+      </section>
+
+      <section class="card">
+        <div class="bar">
+          <b id="editorTitle">编辑器</b>
+        </div>
+        <div class="editor" id="editorPane">
+          <div class="hint">请先从左侧目录选择分类，再从中间选择具体条目。</div>
+        </div>
+        <div class="editor-actions">
+          <button class="pri" id="btnSave">保存当前内容</button>
+          <button id="btnAdd">新增</button>
+          <button class="danger" id="btnDelete">删除</button>
+        </div>
+      </section>
+    </div>
+
+    <div class="status" id="status"></div>
+    <pre id="log">后台已启动，等待操作...</pre>
+  </div>
+
+  <script>
+    const DIRS = [
+      {game: 'sr', locale: 'CH', kind: 'character', label: '星铁 / CH / 角色'},
+      {game: 'sr', locale: 'CH', kind: 'weapon', label: '星铁 / CH / 武器'},
+      {game: 'sr', locale: 'CH', kind: 'relic', label: '星铁 / CH / 圣遗物'},
+      {game: 'gi', locale: 'CH', kind: 'character', label: '原神 / CH / 角色'},
+      {game: 'gi', locale: 'CH', kind: 'weapon', label: '原神 / CH / 武器'},
+      {game: 'gi', locale: 'CH', kind: 'relic', label: '原神 / CH / 圣遗物'},
+      {game: 'sr', locale: 'EN', kind: 'character', label: 'HSR / EN / Characters'},
+      {game: 'sr', locale: 'EN', kind: 'weapon', label: 'HSR / EN / Weapons'},
+      {game: 'sr', locale: 'EN', kind: 'relic', label: 'HSR / EN / Relics'},
+      {game: 'gi', locale: 'EN', kind: 'character', label: 'GI / EN / Characters'},
+      {game: 'gi', locale: 'EN', kind: 'weapon', label: 'GI / EN / Weapons'},
+      {game: 'gi', locale: 'EN', kind: 'relic', label: 'GI / EN / Artifacts'},
+    ];
+
+    const state = {
+      selectedDir: DIRS[0],
+      items: [],
+      selectedId: '',
+      query: '',
+      currentItem: null,
+      selectedSectionId: '',
+      selectedRecordId: ''
+    };
+
+    const els = {
+      dirPane: document.getElementById('dirPane'),
+      itemsPane: document.getElementById('itemsPane'),
+      itemsTitle: document.getElementById('itemsTitle'),
+      search: document.getElementById('search'),
+      editorPane: document.getElementById('editorPane'),
+      editorTitle: document.getElementById('editorTitle'),
+      status: document.getElementById('status'),
+      log: document.getElementById('log'),
+      btnSave: document.getElementById('btnSave'),
+      btnAdd: document.getElementById('btnAdd'),
+      btnDelete: document.getElementById('btnDelete'),
+      btnUndo: document.getElementById('btnUndo'),
+      btnReload: document.getElementById('btnReload')
+    };
+
+    function esc(s) {
+      return String(s || '')
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;');
+    }
+
+    function setLog(text, cls) {
+      els.log.className = cls || '';
+      els.log.textContent = text || '';
+      els.log.scrollTop = els.log.scrollHeight;
+    }
+
+    async function api(url, opt = {}) {
+      const res = await fetch(url, {
+        headers: {'Content-Type': 'application/json'},
+        ...opt
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) throw new Error(data.error || `HTTP ${res.status}`);
+      return data;
+    }
+
+    function dirKey(d) {
+      return `${d.game}|${d.locale}|${d.kind}`;
+    }
+
+    function isCharacterMode() {
+      return state.selectedDir.kind === 'character' && state.currentItem && state.currentItem.mode === 'character_sections';
+    }
+
+    function currentSections() {
+      return (state.currentItem && state.currentItem.sections) ? state.currentItem.sections : [];
+    }
+
+    function currentSection() {
+      const sections = currentSections();
+      return sections.find(s => s.id === state.selectedSectionId) || null;
+    }
+
+    function currentRecord() {
+      const section = currentSection();
+      if (!section) return null;
+      return (section.records || []).find(r => r.id === state.selectedRecordId) || null;
+    }
+
+    function ensureCharacterSelections() {
+      if (!isCharacterMode()) {
+        state.selectedSectionId = '';
+        state.selectedRecordId = '';
+        return;
+      }
+      const sections = currentSections();
+      if (!sections.length) {
+        state.selectedSectionId = '';
+        state.selectedRecordId = '';
+        return;
+      }
+      const hasSec = sections.some(s => s.id === state.selectedSectionId);
+      if (!hasSec) {
+        state.selectedSectionId = sections[0].id;
+      }
+      const sec = currentSection();
+      const records = (sec && sec.records) ? sec.records : [];
+      const hasRecord = records.some(r => r.id === state.selectedRecordId);
+      if (!hasRecord) {
+        state.selectedRecordId = records.length ? records[0].id : '';
+      }
+    }
+
+    function updateActionButtons() {
+      const charMode = isCharacterMode();
+      const rec = currentRecord();
+      els.btnSave.textContent = charMode ? '保存当前区块' : '保存当前内容';
+      els.btnAdd.style.display = charMode ? '' : 'none';
+      els.btnDelete.style.display = charMode ? '' : 'none';
+      els.btnAdd.disabled = !(charMode && rec && rec.supports_add);
+      els.btnDelete.disabled = !(charMode && rec && rec.supports_delete);
+    }
+
+    function renderDirs() {
+      const groups = {
+        '星铁 / Honkai: Star Rail': DIRS.filter(x => x.game === 'sr'),
+        '原神 / Genshin Impact': DIRS.filter(x => x.game === 'gi'),
+      };
+      els.dirPane.innerHTML = '';
+      for (const [gname, rows] of Object.entries(groups)) {
+        const wrap = document.createElement('div');
+        wrap.className = 'group';
+        wrap.innerHTML = `<h4>${esc(gname)}</h4>`;
+        rows.forEach((d) => {
+          const div = document.createElement('div');
+          const active = dirKey(d) === dirKey(state.selectedDir);
+          div.className = 'dir-item' + (active ? ' active' : '');
+          div.innerHTML = `<div class="name">${esc(d.label)}</div>`;
+          div.addEventListener('click', async () => {
+            state.selectedDir = d;
+            state.selectedId = '';
+            state.currentItem = null;
+            state.selectedSectionId = '';
+            state.selectedRecordId = '';
+            renderDirs();
+            await loadItems();
+          });
+          wrap.appendChild(div);
+        });
+        els.dirPane.appendChild(wrap);
+      }
+    }
+
+    function renderItems() {
+      const d = state.selectedDir;
+      els.itemsTitle.textContent = `条目列表 (${d.label})`;
+      els.itemsPane.innerHTML = '';
+      if (!state.items.length) {
+        els.itemsPane.innerHTML = '<div class="hint">没有匹配条目。</div>';
+        return;
+      }
+      state.items.forEach((row) => {
+        const div = document.createElement('div');
+        div.className = 'item' + (row.id === state.selectedId ? ' active' : '');
+        div.innerHTML = `
+          <div class="name">${esc(row.name)} <span style="color:#69737d">#${esc(row.id)}</span></div>
+          <div class="meta">${esc(row.summary || '')}</div>
+        `;
+        div.addEventListener('click', async () => {
+          state.selectedId = row.id;
+          state.selectedSectionId = '';
+          state.selectedRecordId = '';
+          renderItems();
+          await loadItem();
+        });
+        els.itemsPane.appendChild(div);
+      });
+    }
+
+    function renderCharacterEditor() {
+      ensureCharacterSelections();
+      const item = state.currentItem;
+      const sections = currentSections();
+      const section = currentSection();
+      const record = currentRecord();
+      const warnings = Array.isArray(item.warnings) ? item.warnings : [];
+
+      const warnHtml = warnings.length
+        ? `<div class="warn">${warnings.map(w => esc(w)).join('<br>')}</div>`
+        : '';
+
+      const tabsHtml = sections.map((s) => {
+        const active = s.id === state.selectedSectionId;
+        const count = (s.records || []).length;
+        return `<button class="section-tab${active ? ' active' : ''}" data-sec="${esc(s.id)}">${esc(s.label)} (${count})</button>`;
+      }).join('');
+
+      const records = section ? (section.records || []) : [];
+      const listHtml = records.length
+        ? records.map((r) => {
+            const active = r.id === state.selectedRecordId;
+            return `
+              <div class="record-item${active ? ' active' : ''}" data-rec="${esc(r.id)}">
+                <div class="name">${esc(r.title)}</div>
+                <div class="meta">${esc(r.summary || '')}</div>
+              </div>
+            `;
+          }).join('')
+        : '<div class="hint">该目录暂时没有可编辑区块。</div>';
+
+      const editorHtml = record
+        ? `
+          <div class="record-meta">
+            <div><b>类型:</b> ${esc(record.kind || '')}</div>
+            <div><b>位置:</b> ${esc(record.path_text || '')}</div>
+            <div><b>说明:</b> ${esc(record.summary || '')}</div>
+          </div>
+          <textarea id="recordJson" spellcheck="false">${esc(record.json || '')}</textarea>
+        `
+        : '<div class="hint">请先选择一个区块。</div>';
+
+      els.editorTitle.textContent = `${item.title || '角色'} (#${item.id || ''})`;
+      els.editorPane.innerHTML = `
+        ${warnHtml}
+        <div class="section-tabs">${tabsHtml || '<div class="hint">没有可用目录。</div>'}</div>
+        <div class="record-layout">
+          <div class="record-list">${listHtml}</div>
+          <div class="record-editor">${editorHtml}</div>
+        </div>
+      `;
+
+      els.editorPane.querySelectorAll('.section-tab[data-sec]').forEach((el) => {
+        el.addEventListener('click', () => {
+          state.selectedSectionId = el.getAttribute('data-sec') || '';
+          state.selectedRecordId = '';
+          renderEditor();
+        });
+      });
+
+      els.editorPane.querySelectorAll('.record-item[data-rec]').forEach((el) => {
+        el.addEventListener('click', () => {
+          state.selectedRecordId = el.getAttribute('data-rec') || '';
+          renderEditor();
+        });
+      });
+    }
+
+    function renderSimpleEditor() {
+      if (!state.currentItem) {
+        els.editorTitle.textContent = '编辑器';
+        els.editorPane.innerHTML = '<div class="hint">请选择具体条目。</div>';
+        return;
+      }
+      const item = state.currentItem;
+      els.editorTitle.textContent = `${item.title || '条目'} (#${item.id || ''})`;
+      const html = (item.fields || []).map((f) => {
+        const id = `f_${f.key}`;
+        const label = `<label for="${esc(id)}">${esc(f.label || f.key)}</label>`;
+        if (f.type === 'textarea') {
+          return `<div class="f">${label}<textarea id="${esc(id)}" data-key="${esc(f.key)}">${esc(f.value || '')}</textarea></div>`;
+        }
+        return `<div class="f">${label}<input id="${esc(id)}" data-key="${esc(f.key)}" type="text" value="${esc(f.value || '')}" /></div>`;
+      }).join('');
+      els.editorPane.innerHTML = html || '<div class="hint">该条目暂无可编辑字段。</div>';
+    }
+
+    function renderEditor() {
+      if (isCharacterMode()) {
+        renderCharacterEditor();
+      } else {
+        renderSimpleEditor();
+      }
+      updateActionButtons();
+    }
+
+    function collectFields() {
+      const out = {};
+      els.editorPane.querySelectorAll('[data-key]').forEach((el) => {
+        out[el.getAttribute('data-key')] = el.value;
+      });
+      return out;
+    }
+
+    async function loadStatus() {
+      const data = await api('/__admin/api/status');
+      const b = data.backups || {};
+      const c = data.simple_counts || {};
+      const sr = c.sr || {};
+      const gi = c.gi || {};
+      els.status.innerHTML = `
+        <span>站点目录: ${esc(data.site_dir)}</span>
+        <span>备份数: ${esc(String(b.count || 0))}</span>
+        <span>最近备份: ${esc(b.latest || '-')}</span>
+        <span>SR 角色/武器/遗器(CH): ${esc(String(sr.character?.CH || 0))}/${esc(String(sr.weapon?.CH || 0))}/${esc(String(sr.relic?.CH || 0))}</span>
+        <span>GI 角色/武器/圣遗物(CH): ${esc(String(gi.character?.CH || 0))}/${esc(String(gi.weapon?.CH || 0))}/${esc(String(gi.relic?.CH || 0))}</span>
+      `;
+    }
+
+    async function loadItems() {
+      const d = state.selectedDir;
+      const q = encodeURIComponent(state.query);
+      const url = `/__admin/api/catalog?game=${d.game}&locale=${d.locale}&kind=${d.kind}&q=${q}`;
+      const data = await api(url);
+      state.items = data.items || [];
+      if (!state.selectedId || !state.items.find(x => x.id === state.selectedId)) {
+        state.selectedId = state.items.length ? state.items[0].id : '';
+      }
+      renderItems();
+      await loadItem();
+    }
+
+    async function loadItem() {
+      if (!state.selectedId) {
+        state.currentItem = null;
+        renderEditor();
+        return;
+      }
+      const d = state.selectedDir;
+      const id = encodeURIComponent(state.selectedId);
+      const data = await api(`/__admin/api/item?game=${d.game}&locale=${d.locale}&kind=${d.kind}&id=${id}`);
+      state.currentItem = data.item || null;
+      renderEditor();
+    }
+
+    async function saveCurrentSimple() {
+      const d = state.selectedDir;
+      if (!state.selectedId) {
+        setLog('没有可保存的条目。', 'bad');
+        return;
+      }
+      const body = {
+        game: d.game,
+        locale: d.locale,
+        kind: d.kind,
+        id: state.selectedId,
+        fields: collectFields()
+      };
+      const data = await api('/__admin/api/item', {
+        method: 'POST',
+        body: JSON.stringify(body)
+      });
+      setLog(data.message || '保存成功。', 'ok');
+      await loadStatus();
+      await loadItems();
+    }
+
+    async function saveCurrentRecord() {
+      const d = state.selectedDir;
+      const rec = currentRecord();
+      const ta = document.getElementById('recordJson');
+      if (!rec || !ta) {
+        setLog('当前区块不可保存。', 'bad');
+        return;
+      }
+      let payload;
+      try {
+        payload = JSON.parse(ta.value);
+      } catch (e) {
+        throw new Error('JSON 格式错误，请先修正后再保存');
+      }
+      const data = await api('/__admin/api/item/record/save', {
+        method: 'POST',
+        body: JSON.stringify({
+          game: d.game,
+          locale: d.locale,
+          id: state.selectedId,
+          record_ref: rec.ref,
+          value: payload
+        })
+      });
+      setLog(data.message || '区块保存成功。', 'ok');
+      await loadStatus();
+      await loadItem();
+    }
+
+    async function addCurrentRecordEntry() {
+      const d = state.selectedDir;
+      const rec = currentRecord();
+      if (!rec || !rec.supports_add) {
+        setLog('当前区块不支持新增。', 'bad');
+        return;
+      }
+
+      if (rec.kind === 'array') {
+        const raw = window.prompt('请输入要新增的 JSON 项（例如 {} 或 "文本"）：', '{}');
+        if (raw === null) return;
+        let value;
+        try {
+          value = JSON.parse(raw);
+        } catch (e) {
+          throw new Error('新增项 JSON 格式错误');
+        }
+        const idxRaw = window.prompt('可选：插入位置（留空=追加到末尾）', '');
+        const body = {
+          game: d.game,
+          locale: d.locale,
+          id: state.selectedId,
+          record_ref: rec.ref,
+          mode: 'array',
+          value
+        };
+        if (idxRaw !== null && idxRaw.trim() !== '') {
+          const idx = Number.parseInt(idxRaw.trim(), 10);
+          if (Number.isNaN(idx)) throw new Error('插入位置必须是数字');
+          body.index = idx;
+        }
+        const data = await api('/__admin/api/item/record/add', {
+          method: 'POST',
+          body: JSON.stringify(body)
+        });
+        setLog(data.message || '新增成功。', 'ok');
+      } else if (rec.kind === 'object') {
+        const key = window.prompt('请输入新增键名：', 'new_key');
+        if (key === null) return;
+        if (!key.trim()) throw new Error('键名不能为空');
+        const raw = window.prompt('请输入该键的 JSON 值（例如 {} / [] / "文本" / 123）：', '""');
+        if (raw === null) return;
+        let value;
+        try {
+          value = JSON.parse(raw);
+        } catch (e) {
+          throw new Error('对象值 JSON 格式错误');
+        }
+        const data = await api('/__admin/api/item/record/add', {
+          method: 'POST',
+          body: JSON.stringify({
+            game: d.game,
+            locale: d.locale,
+            id: state.selectedId,
+            record_ref: rec.ref,
+            mode: 'object',
+            key: key.trim(),
+            value
+          })
+        });
+        setLog(data.message || '新增成功。', 'ok');
+      } else {
+        throw new Error('当前区块不支持新增');
+      }
+
+      await loadStatus();
+      await loadItem();
+    }
+
+    async function deleteCurrentRecordEntry() {
+      const d = state.selectedDir;
+      const rec = currentRecord();
+      if (!rec || !rec.supports_delete) {
+        setLog('当前区块不支持删除。', 'bad');
+        return;
+      }
+
+      if (rec.kind === 'array') {
+        const idxRaw = window.prompt('请输入要删除的数组下标（从 0 开始）：', '0');
+        if (idxRaw === null) return;
+        const idx = Number.parseInt(idxRaw.trim(), 10);
+        if (Number.isNaN(idx)) throw new Error('数组下标必须是数字');
+        const data = await api('/__admin/api/item/record/delete', {
+          method: 'POST',
+          body: JSON.stringify({
+            game: d.game,
+            locale: d.locale,
+            id: state.selectedId,
+            record_ref: rec.ref,
+            mode: 'array',
+            index: idx
+          })
+        });
+        setLog(data.message || '删除成功。', 'ok');
+      } else if (rec.kind === 'object') {
+        const key = window.prompt('请输入要删除的对象键名：', '');
+        if (key === null) return;
+        if (!key.trim()) throw new Error('键名不能为空');
+        const data = await api('/__admin/api/item/record/delete', {
+          method: 'POST',
+          body: JSON.stringify({
+            game: d.game,
+            locale: d.locale,
+            id: state.selectedId,
+            record_ref: rec.ref,
+            mode: 'object',
+            key: key.trim()
+          })
+        });
+        setLog(data.message || '删除成功。', 'ok');
+      } else {
+        throw new Error('当前区块不支持删除');
+      }
+
+      await loadStatus();
+      await loadItem();
+    }
+
+    async function saveCurrent() {
+      if (isCharacterMode()) {
+        await saveCurrentRecord();
+      } else {
+        await saveCurrentSimple();
+      }
+    }
+
+    async function undoLast() {
+      const data = await api('/__admin/api/undo', {method: 'POST', body: '{}'});
+      setLog(data.message || '已回滚。', data.code === 0 ? 'ok' : 'bad');
+      await loadStatus();
+      await loadItems();
+    }
+
+    async function reloadAll() {
+      await api('/__admin/api/reload', {method: 'POST', body: '{}'});
+      setLog('数据已刷新。', 'ok');
+      await loadStatus();
+      await loadItems();
+    }
+
+    let timer = null;
+    els.search.addEventListener('input', () => {
+      clearTimeout(timer);
+      timer = setTimeout(async () => {
+        state.query = els.search.value.trim();
+        await loadItems();
+      }, 220);
+    });
+
+    els.btnSave.addEventListener('click', async () => {
+      try { await saveCurrent(); } catch (e) { setLog(`保存失败: ${e.message}`, 'bad'); }
+    });
+    els.btnAdd.addEventListener('click', async () => {
+      try { await addCurrentRecordEntry(); } catch (e) { setLog(`新增失败: ${e.message}`, 'bad'); }
+    });
+    els.btnDelete.addEventListener('click', async () => {
+      try { await deleteCurrentRecordEntry(); } catch (e) { setLog(`删除失败: ${e.message}`, 'bad'); }
+    });
+    els.btnUndo.addEventListener('click', async () => {
+      try { await undoLast(); } catch (e) { setLog(`回滚失败: ${e.message}`, 'bad'); }
+    });
+    els.btnReload.addEventListener('click', async () => {
+      try { await reloadAll(); } catch (e) { setLog(`刷新失败: ${e.message}`, 'bad'); }
+    });
+
+    (async function boot() {
+      try {
+        renderDirs();
+        await loadStatus();
+        await loadItems();
+      } catch (e) {
+        setLog(`初始化失败: ${e.message}`, 'bad');
+      }
+    })();
+  </script>
+</body>
+</html>
