@@ -4,6 +4,251 @@
     sr: ["character", "lightcone", "relic", "enemy", "banner"]
   };
 
+  var I18N_DICT = {
+    en: {
+      heroTitle: "Combat Wiki Admin",
+      heroSubtitle: "Edit and create GI / SR combat entities with canonical JSON + legacy sync.",
+      langLabel: "Language",
+      sessionSignedIn: "Signed in",
+      sessionSignedOut: "Signed out",
+      loginTitle: "Sign In",
+      loginPasswordLabel: "Admin Password",
+      loginPasswordPlaceholder: "Enter password and press Enter",
+      loginBtn: "Login",
+      navigatorTitle: "Entity Navigator",
+      editorTitle: "Editor",
+      gameLabel: "Game",
+      kindLabel: "Entity Type",
+      gameGi: "Genshin Impact",
+      gameSr: "Honkai: Star Rail",
+      kindCharacter: "Character",
+      kindWeapon: "Weapon (GI)",
+      kindArtifact: "Artifact (GI)",
+      kindEnemy: "Enemy",
+      kindBanner: "Banner",
+      kindLightcone: "Light Cone (SR)",
+      kindRelic: "Relic (SR)",
+      entityIdLabel: "Entity ID",
+      entityIdPlaceholder: "e.g. 115, 1209, Keqing",
+      entityNameLabel: "Display Name",
+      entityNamePlaceholder: "Optional for new entity",
+      entitySearchLabel: "Search IDs / names",
+      entitySearchPlaceholder: "Type to filter current index",
+      refreshListBtn: "Refresh List",
+      loadBtn: "Load Existing",
+      newBtn: "New Template",
+      noIndexLoaded: "No index loaded.",
+      tabWizard: "New Entity Wizard",
+      tabHuman: "Human Categories",
+      tabDraft: "Draft Input",
+      tabJson: "JSON Editor",
+      tabPreview: "Preview",
+      wizardHint: "Create new entities with a guided form, then generate canonical JSON.",
+      wizardStep1: "Step 1: Select game + type on the left and set Entity ID.",
+      wizardStep2: "Step 2: Fill basic combat fields below.",
+      wizardStep3: "Step 3: Click \"Generate JSON From Wizard\", then save.",
+      wizardTemplateBtn: "Load Wizard Template",
+      wizardLoadJsonBtn: "Load Wizard From JSON",
+      wizardGenerateBtn: "Generate JSON From Wizard",
+      humanHint: "Edit old JSON as grouped fields. Use \"Apply Categories To JSON\" before saving JSON.",
+      loadHumanBtn: "Load From JSON",
+      applyHumanBtn: "Apply Categories To JSON",
+      humanCharacterBlocksLegend: "Character Combat Blocks",
+      humanCharacterBlocksHint: "Character fields are split into separate JSON blocks for skills, talents, constellations/traces and combat mechanics.",
+      humanAdvancedLegend: "Advanced Blocks (JSON)",
+      humanCombatLabel: "Combat JSON (non-character blocks)",
+      humanGiAttackConfigLabel: "GI: Normal/Charged/Plunge Skills (`_AvatarAttackConfig_`)",
+      humanGiSkillPConfigLabel: "GI: Talents + Constellations (`_AvatarSkillPConfig_`)",
+      humanGiDataConfigLabel: "GI: Combat Mechanics (`_AvatarDataConfig_`)",
+      humanGiMatsLabel: "GI: Level-Up Materials (`_AvatarMats_`)",
+      humanGiCostumeConfigLabel: "GI: Costume/Avatar Config (`_AvatarCostumeConfig_`)",
+      humanGiAcsCacheLabel: "GI: Extra Cache (`acs_cache_`)",
+      humanSrAvatarSkillLabel: "SR: Skill Definitions (`_avatarskill_`)",
+      humanSrSkillTreeLabel: "SR: Trace Tree (`_avatarskilltree_`)",
+      humanSrRankLabel: "SR: Eidolon Rank (`_avatarrank_`)",
+      humanSrMtcLabel: "SR: Combat Metadata (`_mtc_`)",
+      humanSrAdiffLabel: "SR: Additional Diff (`_adiff_`)",
+      humanSrNotesLabel: "SR: Notes (`_notes_`)",
+      draftTextLabel: "Human-readable source text",
+      jsonLabel: "Canonical entity JSON",
+      formatJsonBtn: "Format JSON",
+      validateJsonBtn: "Validate JSON",
+      parseDraftBtn: "Parse Draft",
+      saveDraftBtn: "Save Draft + Sync",
+      saveJsonBtn: "Save JSON + Sync",
+      logoutBtn: "Logout",
+      githubTitle: "GitHub PR (Optional)",
+      ghRepoLabel: "Repo (owner/name)",
+      ghBaseLabel: "Base branch",
+      ghTokenLabel: "GitHub Token",
+      ghTitleLabel: "PR Title",
+      ghBodyLabel: "PR Body",
+      ghPathsLabel: "Changed file paths (one per line)",
+      ghPrBtn: "Create PR from Local Files",
+      wizardHintCharacterGi: "Character wizard: fill element / weapon type / talents / base-max stats and material refs.",
+      wizardHintCharacterSr: "Character wizard: fill path / element / traces / base stats and material refs.",
+      wizardHintWeapon: "Weapon wizard (GI): use base ATK, sub stat type/value, and material refs.",
+      wizardHintLightcone: "Light Cone wizard (SR): use path, skill ID, base stats, and materials.",
+      wizardHintRelic: "Artifact/Relic wizard: fill name/version and put set effects in Extra Fields JSON.",
+      wizardHintEnemy: "Enemy wizard: use stats/resistance/weakness and optional analysis/detail blocks.",
+      wizardHintBanner: "Banner wizard: set version + phase and featured five/four star JSON arrays.",
+      wizardHintDefault: "Fill applicable fields and generate JSON.",
+      errorApiNotRunning: "Admin API is not running. Start `npm run dev:admin` and open http://127.0.0.1:8899/admin/",
+      errorApiNonJson: "Admin API returned non-JSON response (HTTP {code}).",
+      errorEntityJsonRequired: "Entity JSON is required.",
+      errorEntityJsonParse: "Entity JSON parse failed.",
+      errorEntityJsonObject: "Entity JSON must be an object.",
+      errorIdRequired: "ID is required.",
+      errorEntityIdRequired: "Entity ID is required.",
+      errorDraftEmpty: "Draft text is empty.",
+      errorPasswordRequired: "Password is required.",
+      errorJsonNoId: "JSON has no id.",
+      errorJsonNeedId: "ID is required in Entity ID or JSON id.",
+      errorRepoTokenTitlePaths: "repo/token/title/paths are required.",
+      errorGithubRequired: "repo/token/title/paths are required.",
+      statusLoadedEntity: "Loaded entity {id}.",
+      statusCreatedTemplate: "New wizard template created. Fill fields and generate JSON.",
+      statusDraftParsed: "Draft parsed successfully.",
+      statusDraftSaved: "Saved draft and synced legacy web.",
+      statusJsonSaved: "Saved JSON and synced legacy web.",
+      statusJsonFormatted: "JSON formatted.",
+      statusJsonValid: "JSON is valid for save.",
+      statusHumanLoaded: "Loaded category editor from JSON.",
+      statusHumanApplied: "Applied category edits to JSON.",
+      statusWizardLoaded: "Wizard template loaded for {game} {kind}.",
+      statusWizardFromJson: "Loaded wizard fields from JSON.",
+      statusWizardGenerated: "Generated JSON from wizard.",
+      statusLoginOk: "Login successful.",
+      statusLoggedOut: "Logged out.",
+      statusPrCreated: "PR created: {url}",
+      listShownTotal: "{shown} shown / {total} total",
+      listNoEntities: "No entities found.",
+      listNoId: "(no-id)",
+      listNoName: "(no-name)"
+    },
+    zh: {
+      heroTitle: "战斗向 Wiki 管理后台",
+      heroSubtitle: "用于编辑与新建 GI / SR 战斗实体，生成规范 JSON 并同步旧版页面。",
+      langLabel: "语言",
+      sessionSignedIn: "已登录",
+      sessionSignedOut: "未登录",
+      loginTitle: "登录",
+      loginPasswordLabel: "管理员密码",
+      loginPasswordPlaceholder: "输入密码后回车或点击登录",
+      loginBtn: "登录",
+      navigatorTitle: "实体导航",
+      editorTitle: "编辑器",
+      gameLabel: "游戏",
+      kindLabel: "实体类型",
+      gameGi: "原神",
+      gameSr: "崩坏：星穹铁道",
+      kindCharacter: "角色",
+      kindWeapon: "武器（GI）",
+      kindArtifact: "圣遗物（GI）",
+      kindEnemy: "敌人",
+      kindBanner: "卡池",
+      kindLightcone: "光锥（SR）",
+      kindRelic: "遗器（SR）",
+      entityIdLabel: "实体 ID",
+      entityIdPlaceholder: "例如：115、1209、Keqing",
+      entityNameLabel: "显示名称",
+      entityNamePlaceholder: "新建实体可选填写",
+      entitySearchLabel: "搜索 ID / 名称",
+      entitySearchPlaceholder: "输入关键字过滤当前索引",
+      refreshListBtn: "刷新列表",
+      loadBtn: "加载已有",
+      newBtn: "新建模板",
+      noIndexLoaded: "尚未加载索引。",
+      tabWizard: "新建向导",
+      tabHuman: "人工分类编辑",
+      tabDraft: "草稿输入",
+      tabJson: "JSON 编辑",
+      tabPreview: "预览",
+      wizardHint: "使用引导表单创建实体，再生成规范 JSON。",
+      wizardStep1: "步骤 1：先在左侧选择游戏和类型，并设置实体 ID。",
+      wizardStep2: "步骤 2：填写下方基础战斗字段。",
+      wizardStep3: "步骤 3：点击“由向导生成 JSON”，再保存。",
+      wizardTemplateBtn: "加载向导模板",
+      wizardLoadJsonBtn: "从 JSON 回填向导",
+      wizardGenerateBtn: "由向导生成 JSON",
+      humanHint: "将旧 JSON 按分类字段编辑。保存前先执行“应用分类到 JSON”。",
+      loadHumanBtn: "从 JSON 载入",
+      applyHumanBtn: "应用分类到 JSON",
+      humanCharacterBlocksLegend: "角色战斗分块",
+      humanCharacterBlocksHint: "角色字段已拆成可读 JSON 分块：技能、天赋、命座/行迹与机制信息。",
+      humanAdvancedLegend: "高级分块（JSON）",
+      humanCombatLabel: "战斗 JSON（非角色分块）",
+      humanGiAttackConfigLabel: "GI：普攻/重击/下落技能（`_AvatarAttackConfig_`）",
+      humanGiSkillPConfigLabel: "GI：天赋 + 命座（`_AvatarSkillPConfig_`）",
+      humanGiDataConfigLabel: "GI：战斗机制（`_AvatarDataConfig_`）",
+      humanGiMatsLabel: "GI：角色培养材料（`_AvatarMats_`）",
+      humanGiCostumeConfigLabel: "GI：时装/角色配置（`_AvatarCostumeConfig_`）",
+      humanGiAcsCacheLabel: "GI：额外缓存（`acs_cache_`）",
+      humanSrAvatarSkillLabel: "SR：技能定义（`_avatarskill_`）",
+      humanSrSkillTreeLabel: "SR：行迹树（`_avatarskilltree_`）",
+      humanSrRankLabel: "SR：星魂（`_avatarrank_`）",
+      humanSrMtcLabel: "SR：战斗元信息（`_mtc_`）",
+      humanSrAdiffLabel: "SR：附加差异（`_adiff_`）",
+      humanSrNotesLabel: "SR：备注（`_notes_`）",
+      draftTextLabel: "可读草稿文本",
+      jsonLabel: "规范实体 JSON",
+      formatJsonBtn: "格式化 JSON",
+      validateJsonBtn: "校验 JSON",
+      parseDraftBtn: "解析草稿",
+      saveDraftBtn: "保存草稿并同步",
+      saveJsonBtn: "保存 JSON 并同步",
+      logoutBtn: "退出登录",
+      githubTitle: "GitHub PR（可选）",
+      ghRepoLabel: "仓库（owner/name）",
+      ghBaseLabel: "目标分支",
+      ghTokenLabel: "GitHub Token",
+      ghTitleLabel: "PR 标题",
+      ghBodyLabel: "PR 描述",
+      ghPathsLabel: "变更文件路径（每行一个）",
+      ghPrBtn: "从本地文件创建 PR",
+      wizardHintCharacterGi: "角色向导：填写元素/武器类型/天赋命座/基础-满级属性和材料。",
+      wizardHintCharacterSr: "角色向导：填写命途/属性/行迹/基础属性和材料。",
+      wizardHintWeapon: "武器向导（GI）：填写基础攻击、副词条类型/数值和材料。",
+      wizardHintLightcone: "光锥向导（SR）：填写命途、技能 ID、基础属性和材料。",
+      wizardHintRelic: "圣遗物/遗器向导：填写名称版本，并在“额外字段 JSON”写套装效果。",
+      wizardHintEnemy: "敌人向导：填写属性/抗性/弱点，可选 analysis/detail 分块。",
+      wizardHintBanner: "卡池向导：填写版本与期数，以及五星/四星角色数组。",
+      wizardHintDefault: "填写适用字段后生成 JSON。",
+      errorApiNotRunning: "管理 API 未运行。请执行 `npm run dev:admin` 并打开 http://127.0.0.1:8899/admin/",
+      errorApiNonJson: "管理 API 返回了非 JSON 响应（HTTP {code}）。",
+      errorEntityJsonRequired: "必须提供实体 JSON。",
+      errorEntityJsonParse: "实体 JSON 解析失败。",
+      errorEntityJsonObject: "实体 JSON 必须是对象。",
+      errorIdRequired: "必须填写 ID。",
+      errorEntityIdRequired: "必须填写实体 ID。",
+      errorDraftEmpty: "草稿为空。",
+      errorPasswordRequired: "必须输入密码。",
+      errorJsonNoId: "JSON 中没有 id。",
+      errorJsonNeedId: "需要在实体 ID 或 JSON id 中提供 ID。",
+      errorRepoTokenTitlePaths: "repo/token/title/paths 为必填。",
+      errorGithubRequired: "repo/token/title/paths 为必填。",
+      statusLoadedEntity: "已加载实体 {id}。",
+      statusCreatedTemplate: "已创建新向导模板，请填写字段并生成 JSON。",
+      statusDraftParsed: "草稿解析成功。",
+      statusDraftSaved: "草稿已保存并同步到旧版网页。",
+      statusJsonSaved: "JSON 已保存并同步到旧版网页。",
+      statusJsonFormatted: "JSON 已格式化。",
+      statusJsonValid: "JSON 可用于保存。",
+      statusHumanLoaded: "已从 JSON 载入分类编辑器。",
+      statusHumanApplied: "已将分类编辑应用到 JSON。",
+      statusWizardLoaded: "已加载向导模板：{game} {kind}。",
+      statusWizardFromJson: "已从 JSON 回填向导字段。",
+      statusWizardGenerated: "已由向导生成 JSON。",
+      statusLoginOk: "登录成功。",
+      statusLoggedOut: "已退出登录。",
+      statusPrCreated: "PR 已创建：{url}",
+      listShownTotal: "显示 {shown} / 共 {total}",
+      listNoEntities: "未找到实体。",
+      listNoId: "（无 ID）",
+      listNoName: "（无名称）"
+    }
+  };
+
   var HUMAN_KNOWN_TOP_LEVEL_KEYS = {
     id: true,
     game: true,
@@ -40,12 +285,21 @@
     skillId: true
   };
 
+  function preferredLang() {
+    var saved = localStorage.getItem("admin_lang");
+    if (saved === "en" || saved === "zh") return saved;
+    var browserLang = String((navigator.language || navigator.userLanguage || "")).toLowerCase();
+    if (browserLang.indexOf("zh") === 0) return "zh";
+    return "en";
+  }
+
   var state = {
     token: localStorage.getItem("admin_token") || "",
     listRows: [],
     activeListId: "",
     searchTimer: 0,
-    currentTab: "tab-human"
+    currentTab: "tab-human",
+    lang: preferredLang()
   };
 
   var dom = {
@@ -56,6 +310,7 @@
     githubCard: document.getElementById("github-card"),
     ghStatus: document.getElementById("gh-status"),
     sessionBadge: document.getElementById("session-badge"),
+    langSelect: document.getElementById("admin-lang"),
     previewJson: document.getElementById("preview-json"),
 
     game: document.getElementById("game"),
@@ -111,6 +366,19 @@
     humanFeaturedFive: document.getElementById("human-featured-five"),
     humanFeaturedFour: document.getElementById("human-featured-four"),
     humanOtherJson: document.getElementById("human-other-json"),
+    humanCharacterBlocks: document.getElementById("human-character-blocks"),
+    humanGiAttackConfig: document.getElementById("human-gi-attack-config"),
+    humanGiSkillPConfig: document.getElementById("human-gi-skillp-config"),
+    humanGiDataConfig: document.getElementById("human-gi-data-config"),
+    humanGiMats: document.getElementById("human-gi-mats"),
+    humanGiCostumeConfig: document.getElementById("human-gi-costume-config"),
+    humanGiAcsCache: document.getElementById("human-gi-acs-cache"),
+    humanSrAvatarSkill: document.getElementById("human-sr-avatarskill"),
+    humanSrSkillTree: document.getElementById("human-sr-skilltree"),
+    humanSrRank: document.getElementById("human-sr-rank"),
+    humanSrMtc: document.getElementById("human-sr-mtc"),
+    humanSrAdiff: document.getElementById("human-sr-adiff"),
+    humanSrNotes: document.getElementById("human-sr-notes"),
 
     wizardId: document.getElementById("wizard-id"),
     wizardName: document.getElementById("wizard-name"),
@@ -202,6 +470,18 @@
     "human-source",
     "human-featured-five",
     "human-featured-four",
+    "human-gi-attack-config",
+    "human-gi-skillp-config",
+    "human-gi-data-config",
+    "human-gi-mats",
+    "human-gi-costume-config",
+    "human-gi-acs-cache",
+    "human-sr-avatarskill",
+    "human-sr-skilltree",
+    "human-sr-rank",
+    "human-sr-mtc",
+    "human-sr-adiff",
+    "human-sr-notes",
     "human-other-json",
     "wizard-name",
     "wizard-title",
@@ -233,6 +513,146 @@
     "wizard-extra-json"
   ];
 
+  function tr(key, params) {
+    var dict = I18N_DICT[state.lang] || I18N_DICT.en;
+    var fallback = I18N_DICT.en || {};
+    var text = dict[key];
+    if (text === undefined || text === null) text = fallback[key];
+    if (text === undefined || text === null) text = key;
+    if (!params) return String(text);
+    return String(text).replace(/\{([a-zA-Z0-9_]+)\}/g, function (_all, token) {
+      if (params[token] === undefined || params[token] === null) return "";
+      return String(params[token]);
+    });
+  }
+
+  function selectOne(selector) {
+    return document.querySelector(selector);
+  }
+
+  function setText(selector, key, params) {
+    var node = selectOne(selector);
+    if (!node) return;
+    node.textContent = tr(key, params);
+  }
+
+  function setPlaceholder(id, key, params) {
+    var node = document.getElementById(id);
+    if (!node) return;
+    node.setAttribute("placeholder", tr(key, params));
+  }
+
+  function setLabel(forId, key, params) {
+    var node = selectOne('label[for="' + forId + '"]');
+    if (!node) return;
+    node.textContent = tr(key, params);
+  }
+
+  function setSelectOption(selectId, optionValue, key) {
+    var select = document.getElementById(selectId);
+    if (!select) return;
+    for (var i = 0; i < select.options.length; i += 1) {
+      var opt = select.options[i];
+      if (opt.value === optionValue) {
+        opt.textContent = tr(key);
+        return;
+      }
+    }
+  }
+
+  function applyI18nUI() {
+    setText("#hero-title", "heroTitle");
+    setText("#hero-subtitle", "heroSubtitle");
+    setText("#lang-label", "langLabel");
+    setText("#login-title", "loginTitle");
+    setText("#navigator-title", "navigatorTitle");
+    setText("#editor-title", "editorTitle");
+    setText("#wizard-hint", "wizardHint");
+    setText("#wizard-step-1", "wizardStep1");
+    setText("#wizard-step-2", "wizardStep2");
+    setText("#wizard-step-3", "wizardStep3");
+    setText("#human-hint", "humanHint");
+    setText("#human-character-blocks-legend", "humanCharacterBlocksLegend");
+    setText("#human-character-blocks-hint", "humanCharacterBlocksHint");
+    setText("#human-advanced-legend", "humanAdvancedLegend");
+
+    setText("#tab-wizard", "tabWizard");
+    setText("#tab-human", "tabHuman");
+    setText("#tab-draft", "tabDraft");
+    setText("#tab-json", "tabJson");
+    setText("#tab-preview", "tabPreview");
+
+    setText("#login-btn", "loginBtn");
+    setText("#refresh-list-btn", "refreshListBtn");
+    setText("#load-btn", "loadBtn");
+    setText("#new-btn", "newBtn");
+    setText("#wizard-template-btn", "wizardTemplateBtn");
+    setText("#wizard-load-json-btn", "wizardLoadJsonBtn");
+    setText("#wizard-generate-btn", "wizardGenerateBtn");
+    setText("#load-human-btn", "loadHumanBtn");
+    setText("#apply-human-btn", "applyHumanBtn");
+    setText("#format-json-btn", "formatJsonBtn");
+    setText("#validate-json-btn", "validateJsonBtn");
+    setText("#preview-btn", "parseDraftBtn");
+    setText("#save-btn", "saveDraftBtn");
+    setText("#save-json-btn", "saveJsonBtn");
+    setText("#logout-btn", "logoutBtn");
+    setText("#gh-pr-btn", "ghPrBtn");
+    setText("#entity-list-meta", "noIndexLoaded");
+
+    setLabel("admin-password", "loginPasswordLabel");
+    setLabel("game", "gameLabel");
+    setLabel("kind", "kindLabel");
+    setLabel("entity-id", "entityIdLabel");
+    setLabel("entity-name", "entityNameLabel");
+    setLabel("entity-search", "entitySearchLabel");
+    setLabel("entity-text", "draftTextLabel");
+    setLabel("entity-json", "jsonLabel");
+    setLabel("human-combat", "humanCombatLabel");
+    setLabel("human-gi-attack-config", "humanGiAttackConfigLabel");
+    setLabel("human-gi-skillp-config", "humanGiSkillPConfigLabel");
+    setLabel("human-gi-data-config", "humanGiDataConfigLabel");
+    setLabel("human-gi-mats", "humanGiMatsLabel");
+    setLabel("human-gi-costume-config", "humanGiCostumeConfigLabel");
+    setLabel("human-gi-acs-cache", "humanGiAcsCacheLabel");
+    setLabel("human-sr-avatarskill", "humanSrAvatarSkillLabel");
+    setLabel("human-sr-skilltree", "humanSrSkillTreeLabel");
+    setLabel("human-sr-rank", "humanSrRankLabel");
+    setLabel("human-sr-mtc", "humanSrMtcLabel");
+    setLabel("human-sr-adiff", "humanSrAdiffLabel");
+    setLabel("human-sr-notes", "humanSrNotesLabel");
+    setLabel("gh-repo", "ghRepoLabel");
+    setLabel("gh-base", "ghBaseLabel");
+    setLabel("gh-token", "ghTokenLabel");
+    setLabel("gh-title", "ghTitleLabel");
+    setLabel("gh-body", "ghBodyLabel");
+    setLabel("gh-paths", "ghPathsLabel");
+
+    setPlaceholder("admin-password", "loginPasswordPlaceholder");
+    setPlaceholder("entity-id", "entityIdPlaceholder");
+    setPlaceholder("entity-name", "entityNamePlaceholder");
+    setPlaceholder("entity-search", "entitySearchPlaceholder");
+
+    setSelectOption("game", "gi", "gameGi");
+    setSelectOption("game", "sr", "gameSr");
+    setSelectOption("kind", "character", "kindCharacter");
+    setSelectOption("kind", "weapon", "kindWeapon");
+    setSelectOption("kind", "artifact", "kindArtifact");
+    setSelectOption("kind", "enemy", "kindEnemy");
+    setSelectOption("kind", "banner", "kindBanner");
+    setSelectOption("kind", "lightcone", "kindLightcone");
+    setSelectOption("kind", "relic", "kindRelic");
+
+    setText("#github-card summary h2", "githubTitle");
+    setSessionBadge(!!state.token);
+    if (state.listRows && state.listRows.length) {
+      updateListMeta(state.listRows.length, state.listRows.length);
+    } else {
+      setText("#entity-list-meta", "noIndexLoaded");
+    }
+    updateWizardKindHint();
+  }
+
   function setStatus(node, text, isError) {
     if (!node) return;
     node.textContent = text || "";
@@ -247,7 +667,7 @@
     dom.sessionBadge.classList.remove("badge-online");
     dom.sessionBadge.classList.remove("badge-offline");
     dom.sessionBadge.classList.add(loggedIn ? "badge-online" : "badge-offline");
-    dom.sessionBadge.textContent = loggedIn ? "Signed in" : "Signed out";
+    dom.sessionBadge.textContent = loggedIn ? tr("sessionSignedIn") : tr("sessionSignedOut");
   }
 
   function setAuthState(loggedIn) {
@@ -286,9 +706,9 @@
     }
     if (!data) {
       if (res.status === 404 || res.status === 405 || res.status === 501) {
-        throw new Error("Admin API is not running. Start `npm run dev:admin` and open http://127.0.0.1:8899/admin/");
+        throw new Error(tr("errorApiNotRunning"));
       }
-      throw new Error("Admin API returned non-JSON response (HTTP " + String(res.status) + ").");
+      throw new Error(tr("errorApiNonJson", { code: String(res.status) }));
     }
     if (!res.ok || data.ok === false) {
       throw new Error(data.error || ("Request failed: " + String(res.status)));
@@ -334,20 +754,187 @@
   function wizardKindHint(game, kind) {
     if (kind === "character") {
       return game === "gi"
-        ? "Character wizard: fill element / weapon type / talents / base-max stats and material refs."
-        : "Character wizard: fill path / element / traces / base stats and material refs.";
+        ? tr("wizardHintCharacterGi")
+        : tr("wizardHintCharacterSr");
     }
-    if (kind === "weapon") return "Weapon wizard (GI): use base ATK, sub stat type/value, and material refs.";
-    if (kind === "lightcone") return "Light Cone wizard (SR): use path, skill ID, base stats, and materials.";
-    if (kind === "artifact" || kind === "relic") return "Artifact/Relic wizard: fill name/version and put set effects in Extra Fields JSON.";
-    if (kind === "enemy") return "Enemy wizard: use stats/resistance/weakness and optional analysis/detail blocks.";
-    if (kind === "banner") return "Banner wizard: set version + phase and featured five/four star JSON arrays.";
-    return "Fill applicable fields and generate JSON.";
+    if (kind === "weapon") return tr("wizardHintWeapon");
+    if (kind === "lightcone") return tr("wizardHintLightcone");
+    if (kind === "artifact" || kind === "relic") return tr("wizardHintRelic");
+    if (kind === "enemy") return tr("wizardHintEnemy");
+    if (kind === "banner") return tr("wizardHintBanner");
+    return tr("wizardHintDefault");
   }
 
   function updateWizardKindHint() {
     if (!dom.wizardKindHint) return;
     dom.wizardKindHint.textContent = wizardKindHint(currentGame(), currentKind());
+  }
+
+  function isPlainObject(value) {
+    return !!value && typeof value === "object" && !Array.isArray(value);
+  }
+
+  function isEmptyPlainObject(value) {
+    return isPlainObject(value) && Object.keys(value).length === 0;
+  }
+
+  function deepClone(value) {
+    return JSON.parse(JSON.stringify(value));
+  }
+
+  function setModeNodesVisible(selector, visible) {
+    var nodes = Array.prototype.slice.call(document.querySelectorAll(selector));
+    for (var i = 0; i < nodes.length; i += 1) {
+      var node = nodes[i];
+      node.classList.toggle("mode-hidden", !visible);
+      var fields = Array.prototype.slice.call(node.querySelectorAll("input, textarea, select, button"));
+      for (var j = 0; j < fields.length; j += 1) {
+        fields[j].disabled = !visible;
+      }
+    }
+  }
+
+  function clearHumanCharacterBlockFields() {
+    var fields = [
+      dom.humanGiAttackConfig,
+      dom.humanGiSkillPConfig,
+      dom.humanGiDataConfig,
+      dom.humanGiMats,
+      dom.humanGiCostumeConfig,
+      dom.humanGiAcsCache,
+      dom.humanSrAvatarSkill,
+      dom.humanSrSkillTree,
+      dom.humanSrRank,
+      dom.humanSrMtc,
+      dom.humanSrAdiff,
+      dom.humanSrNotes
+    ];
+    for (var i = 0; i < fields.length; i += 1) {
+      if (fields[i]) fields[i].value = "";
+    }
+  }
+
+  function updateHumanCharacterBlocksVisibility() {
+    var isCharacter = currentKind() === "character";
+    var game = currentGame();
+    if (dom.humanCharacterBlocks) {
+      dom.humanCharacterBlocks.classList.toggle("mode-hidden", !isCharacter);
+    }
+    setModeNodesVisible(".gi-character-only", isCharacter && game === "gi");
+    setModeNodesVisible(".sr-character-only", isCharacter && game === "sr");
+    if (!isCharacter) {
+      clearHumanCharacterBlockFields();
+    }
+  }
+
+  function setTextAreaJson(node, value) {
+    if (!node) return;
+    node.value = value === undefined ? "" : toPrettyJson(value);
+  }
+
+  function sanitizeOtherCombatBlocks(value) {
+    if (value === undefined) return undefined;
+    if (isEmptyPlainObject(value)) return undefined;
+    return value;
+  }
+
+  function assignParsedBlock(target, key, rawText, label) {
+    var parsed = parseOptionalJson(rawText, label);
+    if (parsed !== undefined) {
+      target[key] = parsed;
+    }
+  }
+
+  function extractCharacterBlocksFromCombat(combatInput, game) {
+    if (!isPlainObject(combatInput)) {
+      clearHumanCharacterBlockFields();
+      return undefined;
+    }
+    var combat = deepClone(combatInput);
+
+    if (game === "gi") {
+      var detail1 = isPlainObject(combat.detail_1) ? combat.detail_1 : {};
+      var detail2 = isPlainObject(combat.detail_2) ? combat.detail_2 : {};
+      setTextAreaJson(dom.humanGiAttackConfig, detail1._AvatarAttackConfig_);
+      setTextAreaJson(dom.humanGiSkillPConfig, detail1._AvatarSkillPConfig_);
+      setTextAreaJson(dom.humanGiDataConfig, detail1._AvatarDataConfig_);
+      setTextAreaJson(dom.humanGiMats, detail1._AvatarMats_);
+      setTextAreaJson(dom.humanGiCostumeConfig, detail2._AvatarCostumeConfig_);
+      setTextAreaJson(dom.humanGiAcsCache, detail2.acs_cache_);
+
+      delete detail1._AvatarAttackConfig_;
+      delete detail1._AvatarSkillPConfig_;
+      delete detail1._AvatarDataConfig_;
+      delete detail1._AvatarMats_;
+      delete detail2._AvatarCostumeConfig_;
+      delete detail2.acs_cache_;
+
+      if (isEmptyPlainObject(detail1)) {
+        delete combat.detail_1;
+      } else {
+        combat.detail_1 = detail1;
+      }
+      if (isEmptyPlainObject(detail2)) {
+        delete combat.detail_2;
+      } else {
+        combat.detail_2 = detail2;
+      }
+      return sanitizeOtherCombatBlocks(combat);
+    }
+
+    if (game === "sr") {
+      setTextAreaJson(dom.humanSrAvatarSkill, combat._avatarskill_);
+      setTextAreaJson(dom.humanSrSkillTree, combat._avatarskilltree_);
+      setTextAreaJson(dom.humanSrRank, combat._avatarrank_);
+      setTextAreaJson(dom.humanSrMtc, combat._mtc_);
+      setTextAreaJson(dom.humanSrAdiff, combat._adiff_);
+      setTextAreaJson(dom.humanSrNotes, combat._notes_);
+
+      delete combat._avatarskill_;
+      delete combat._avatarskilltree_;
+      delete combat._avatarrank_;
+      delete combat._mtc_;
+      delete combat._adiff_;
+      delete combat._notes_;
+
+      return sanitizeOtherCombatBlocks(combat);
+    }
+
+    clearHumanCharacterBlockFields();
+    return sanitizeOtherCombatBlocks(combat);
+  }
+
+  function buildCharacterCombatBlocks() {
+    if (currentKind() !== "character") return undefined;
+
+    if (currentGame() === "gi") {
+      var detail1 = {};
+      var detail2 = {};
+      assignParsedBlock(detail1, "_AvatarAttackConfig_", dom.humanGiAttackConfig.value, "GI _AvatarAttackConfig_");
+      assignParsedBlock(detail1, "_AvatarSkillPConfig_", dom.humanGiSkillPConfig.value, "GI _AvatarSkillPConfig_");
+      assignParsedBlock(detail1, "_AvatarDataConfig_", dom.humanGiDataConfig.value, "GI _AvatarDataConfig_");
+      assignParsedBlock(detail1, "_AvatarMats_", dom.humanGiMats.value, "GI _AvatarMats_");
+      assignParsedBlock(detail2, "_AvatarCostumeConfig_", dom.humanGiCostumeConfig.value, "GI _AvatarCostumeConfig_");
+      assignParsedBlock(detail2, "acs_cache_", dom.humanGiAcsCache.value, "GI acs_cache_");
+
+      var outGi = {};
+      if (!isEmptyPlainObject(detail1)) outGi.detail_1 = detail1;
+      if (!isEmptyPlainObject(detail2)) outGi.detail_2 = detail2;
+      return sanitizeOtherCombatBlocks(outGi);
+    }
+
+    if (currentGame() === "sr") {
+      var outSr = {};
+      assignParsedBlock(outSr, "_avatarskill_", dom.humanSrAvatarSkill.value, "SR _avatarskill_");
+      assignParsedBlock(outSr, "_avatarskilltree_", dom.humanSrSkillTree.value, "SR _avatarskilltree_");
+      assignParsedBlock(outSr, "_avatarrank_", dom.humanSrRank.value, "SR _avatarrank_");
+      assignParsedBlock(outSr, "_mtc_", dom.humanSrMtc.value, "SR _mtc_");
+      assignParsedBlock(outSr, "_adiff_", dom.humanSrAdiff.value, "SR _adiff_");
+      assignParsedBlock(outSr, "_notes_", dom.humanSrNotes.value, "SR _notes_");
+      return sanitizeOtherCombatBlocks(outSr);
+    }
+
+    return undefined;
   }
 
   function updateUrlState() {
@@ -564,16 +1151,16 @@
   function parseJsonEditor() {
     var raw = dom.entityJson.value.trim();
     if (!raw) {
-      throw new Error("Entity JSON is required.");
+      throw new Error(tr("errorEntityJsonRequired"));
     }
     var entity = null;
     try {
       entity = JSON.parse(raw);
     } catch (_err) {
-      throw new Error("Entity JSON parse failed.");
+      throw new Error(tr("errorEntityJsonParse"));
     }
     if (!entity || typeof entity !== "object" || Array.isArray(entity)) {
-      throw new Error("Entity JSON must be an object.");
+      throw new Error(tr("errorEntityJsonObject"));
     }
     return entity;
   }
@@ -730,7 +1317,12 @@
     dom.humanNotes.value = Array.isArray(manual.notes) ? manual.notes.join("\n") : "";
     dom.humanRawText.value = typeof payload.rawText === "string" ? payload.rawText : "";
 
-    dom.humanCombat.value = payload.combat !== undefined ? toPrettyJson(payload.combat) : "";
+    var combatForOther = payload.combat;
+    clearHumanCharacterBlockFields();
+    if (currentKind() === "character") {
+      combatForOther = extractCharacterBlocksFromCombat(payload.combat, currentGame());
+    }
+    dom.humanCombat.value = combatForOther !== undefined ? toPrettyJson(combatForOther) : "";
     dom.humanAnalysis.value = payload.analysis !== undefined ? toPrettyJson(payload.analysis) : "";
     dom.humanDetail.value = payload.detail !== undefined ? toPrettyJson(payload.detail) : "";
     dom.humanSource.value = payload.source !== undefined ? toPrettyJson(payload.source) : "";
@@ -739,6 +1331,7 @@
 
     var other = extractUnknownTopLevel(payload);
     dom.humanOtherJson.value = Object.keys(other).length ? JSON.stringify(other, null, 2) : "";
+    updateHumanCharacterBlocksVisibility();
   }
 
   function populateWizardFromEntity(entity) {
@@ -789,7 +1382,7 @@
 
     var id = dom.entityId.value.trim() || dom.wizardId.value.trim() || (entity.id ? String(entity.id).trim() : "");
     if (!id) {
-      throw new Error("ID is required.");
+      throw new Error(tr("errorIdRequired"));
     }
     entity.id = id;
     entity.game = currentGame();
@@ -876,7 +1469,7 @@
 
     var id = dom.entityId.value.trim() || dom.humanId.value.trim() || (entity.id ? String(entity.id).trim() : "");
     if (!id) {
-      throw new Error("ID is required.");
+      throw new Error(tr("errorIdRequired"));
     }
     entity.id = id;
     entity.game = currentGame();
@@ -973,14 +1566,32 @@
 
     assignOptionalText(entity, "rawText", dom.humanRawText.value);
 
-    var combatJson = parseOptionalJson(dom.humanCombat.value, "Combat JSON");
+    var combatJson = parseOptionalJson(dom.humanCombat.value, "Combat JSON", "object");
+    var characterCombatJson = buildCharacterCombatBlocks();
     var analysisJson = parseOptionalJson(dom.humanAnalysis.value, "Analysis JSON");
     var detailJson = parseOptionalJson(dom.humanDetail.value, "Detail JSON");
     var sourceJson = parseOptionalJson(dom.humanSource.value, "Source JSON", "object");
     var featuredFiveJson = parseOptionalJson(dom.humanFeaturedFive.value, "Featured Five Star", "array");
     var featuredFourJson = parseOptionalJson(dom.humanFeaturedFour.value, "Featured Four Star", "array");
 
-    if (combatJson !== undefined) entity.combat = combatJson; else delete entity.combat;
+    var mergedCombat = undefined;
+    if (combatJson !== undefined) {
+      mergedCombat = deepClone(combatJson);
+    }
+    if (characterCombatJson !== undefined) {
+      if (mergedCombat === undefined) mergedCombat = {};
+      var characterKeys = Object.keys(characterCombatJson);
+      for (var ck = 0; ck < characterKeys.length; ck += 1) {
+        var combatKey = characterKeys[ck];
+        mergedCombat[combatKey] = characterCombatJson[combatKey];
+      }
+    }
+
+    if (mergedCombat !== undefined && !isEmptyPlainObject(mergedCombat)) {
+      entity.combat = mergedCombat;
+    } else {
+      delete entity.combat;
+    }
     if (analysisJson !== undefined) entity.analysis = analysisJson; else delete entity.analysis;
     if (detailJson !== undefined) entity.detail = detailJson; else delete entity.detail;
     if (sourceJson !== undefined) entity.source = sourceJson; else delete entity.source;
@@ -1054,7 +1665,7 @@
     if (!rows || !rows.length) {
       var empty = document.createElement("li");
       empty.className = "entity-item";
-      empty.textContent = "No entities found.";
+      empty.textContent = tr("listNoEntities");
       dom.entityList.appendChild(empty);
       return;
     }
@@ -1074,10 +1685,10 @@
 
       var left = document.createElement("span");
       left.className = "entity-item-id";
-      left.textContent = id || "(no-id)";
+      left.textContent = id || tr("listNoId");
       var right = document.createElement("span");
       right.className = "entity-item-name";
-      right.textContent = name || "(no-name)";
+      right.textContent = name || tr("listNoName");
 
       li.appendChild(left);
       li.appendChild(right);
@@ -1093,7 +1704,10 @@
   }
 
   function updateListMeta(count, total) {
-    dom.entityListMeta.textContent = String(count) + " shown / " + String(total) + " total";
+    dom.entityListMeta.textContent = tr("listShownTotal", {
+      shown: String(count),
+      total: String(total)
+    });
   }
 
   async function refreshEntityList() {
@@ -1123,12 +1737,12 @@
       var game = currentGame();
       var kind = currentKind();
       var entityId = dom.entityId.value.trim();
-      if (!entityId) throw new Error("Entity ID is required.");
+      if (!entityId) throw new Error(tr("errorEntityIdRequired"));
       var path = "/api/entity/" + encodeURIComponent(game) + "/" + encodeURIComponent(kind) + "/" + encodeURIComponent(entityId);
       var res = await apiGet(path);
       fillFormFromEntity(res.entity || {});
       openTab("tab-human");
-      setStatus(dom.editorStatus, "Loaded entity " + entityId + ".", false);
+      setStatus(dom.editorStatus, tr("statusLoadedEntity", { id: entityId }), false);
       persistDraft();
     } catch (err) {
       setStatus(dom.editorStatus, String(err.message || err), true);
@@ -1147,14 +1761,14 @@
     populateHumanFromEntity(template);
     populateWizardFromEntity(template);
     openTab("tab-wizard");
-    setStatus(dom.editorStatus, "New wizard template created. Fill fields and generate JSON.", false);
+    setStatus(dom.editorStatus, tr("statusCreatedTemplate"), false);
     persistDraft();
   }
 
   async function previewDraft() {
     try {
       var input = readEditorInput();
-      if (!input.text) throw new Error("Draft text is empty.");
+      if (!input.text) throw new Error(tr("errorDraftEmpty"));
       var res = await apiPost("/api/ingest", {
         game: input.game,
         kind: input.kind,
@@ -1168,7 +1782,7 @@
       }
       dom.previewJson.textContent = JSON.stringify(res.result || {}, null, 2);
       openTab("tab-preview");
-      setStatus(dom.editorStatus, "Draft parsed successfully.", false);
+      setStatus(dom.editorStatus, tr("statusDraftParsed"), false);
       persistDraft();
     } catch (err) {
       setStatus(dom.editorStatus, String(err.message || err), true);
@@ -1178,7 +1792,7 @@
   async function saveDraftAndSync() {
     try {
       var input = readEditorInput();
-      if (!input.text) throw new Error("Draft text is empty.");
+      if (!input.text) throw new Error(tr("errorDraftEmpty"));
       var res = await apiPost("/api/ingest", {
         game: input.game,
         kind: input.kind,
@@ -1193,7 +1807,7 @@
       }
       dom.previewJson.textContent = JSON.stringify(res.result || {}, null, 2);
       setChangedPaths((res.result && res.result.changedFiles) || []);
-      setStatus(dom.editorStatus, "Saved draft and synced legacy web.", false);
+      setStatus(dom.editorStatus, tr("statusDraftSaved"), false);
       await refreshEntityList();
       persistDraft();
     } catch (err) {
@@ -1208,7 +1822,7 @@
       var kind = currentKind();
       var inputId = dom.entityId.value.trim() || "";
       var requestId = inputId || (entity.id ? String(entity.id).trim() : "");
-      if (!requestId) throw new Error("ID is required in Entity ID or JSON id.");
+      if (!requestId) throw new Error(tr("errorJsonNeedId"));
 
       var res = await apiPost("/api/entity/upsert", {
         game: game,
@@ -1229,7 +1843,7 @@
       setChangedPaths(res.changedFiles || []);
       dom.previewJson.textContent = JSON.stringify(res, null, 2);
       openTab("tab-preview");
-      setStatus(dom.editorStatus, "Saved JSON and synced legacy web.", false);
+      setStatus(dom.editorStatus, tr("statusJsonSaved"), false);
       await refreshEntityList();
       persistDraft();
     } catch (err) {
@@ -1243,7 +1857,7 @@
       dom.entityJson.value = JSON.stringify(entity, null, 2);
       populateHumanFromEntity(entity);
       populateWizardFromEntity(entity);
-      setStatus(dom.editorStatus, "JSON formatted.", false);
+      setStatus(dom.editorStatus, tr("statusJsonFormatted"), false);
       persistDraft();
     } catch (err) {
       setStatus(dom.editorStatus, String(err.message || err), true);
@@ -1254,8 +1868,8 @@
     try {
       var entity = parseJsonEditor();
       var id = dom.entityId.value.trim() || (entity.id ? String(entity.id).trim() : "");
-      if (!id) throw new Error("JSON has no id.");
-      setStatus(dom.editorStatus, "JSON is valid for save.", false);
+      if (!id) throw new Error(tr("errorJsonNoId"));
+      setStatus(dom.editorStatus, tr("statusJsonValid"), false);
     } catch (err) {
       setStatus(dom.editorStatus, String(err.message || err), true);
     }
@@ -1266,7 +1880,7 @@
       var entity = parseJsonEditor();
       populateHumanFromEntity(entity);
       populateWizardFromEntity(entity);
-      setStatus(dom.editorStatus, "Loaded category editor from JSON.", false);
+      setStatus(dom.editorStatus, tr("statusHumanLoaded"), false);
       persistDraft();
     } catch (err) {
       setStatus(dom.editorStatus, String(err.message || err), true);
@@ -1289,7 +1903,7 @@
       dom.entityJson.value = JSON.stringify(merged, null, 2);
       dom.previewJson.textContent = JSON.stringify(merged, null, 2);
       populateWizardFromEntity(merged);
-      setStatus(dom.editorStatus, "Applied category edits to JSON.", false);
+      setStatus(dom.editorStatus, tr("statusHumanApplied"), false);
       persistDraft();
       updateUrlState();
     } catch (err) {
@@ -1302,7 +1916,13 @@
       var template = buildWizardTemplateEntity();
       fillFormFromEntity(template);
       openTab("tab-wizard");
-      setStatus(dom.editorStatus, "Wizard template loaded for " + currentGame().toUpperCase() + " " + currentKind() + ".", false);
+      var gameLabel = dom.game.options[dom.game.selectedIndex]
+        ? dom.game.options[dom.game.selectedIndex].textContent
+        : currentGame().toUpperCase();
+      var kindLabel = dom.kind.options[dom.kind.selectedIndex]
+        ? dom.kind.options[dom.kind.selectedIndex].textContent
+        : currentKind();
+      setStatus(dom.editorStatus, tr("statusWizardLoaded", { game: gameLabel, kind: kindLabel }), false);
       persistDraft();
     } catch (err) {
       setStatus(dom.editorStatus, String(err.message || err), true);
@@ -1313,7 +1933,7 @@
     try {
       var entity = parseJsonEditor();
       populateWizardFromEntity(entity);
-      setStatus(dom.editorStatus, "Loaded wizard fields from JSON.", false);
+      setStatus(dom.editorStatus, tr("statusWizardFromJson"), false);
       persistDraft();
     } catch (err) {
       setStatus(dom.editorStatus, String(err.message || err), true);
@@ -1336,7 +1956,7 @@
       dom.entityJson.value = JSON.stringify(merged, null, 2);
       dom.previewJson.textContent = JSON.stringify(merged, null, 2);
       populateHumanFromEntity(merged);
-      setStatus(dom.editorStatus, "Generated JSON from wizard.", false);
+      setStatus(dom.editorStatus, tr("statusWizardGenerated"), false);
       persistDraft();
       updateUrlState();
     } catch (err) {
@@ -1357,7 +1977,7 @@
         return !!x;
       });
       if (!repo || !tokenInput || !title || !paths.length) {
-        throw new Error("repo/token/title/paths are required.");
+        throw new Error(tr("errorGithubRequired"));
       }
       var res = await apiPost("/api/github/pr-from-local", {
         repo: repo,
@@ -1367,7 +1987,11 @@
         base: base,
         paths: paths
       });
-      setStatus(dom.ghStatus, "PR created: " + (res.pullRequestUrl || ("#" + String(res.pullRequestNumber || ""))), false);
+      setStatus(
+        dom.ghStatus,
+        tr("statusPrCreated", { url: res.pullRequestUrl || ("#" + String(res.pullRequestNumber || "")) }),
+        false
+      );
     } catch (err) {
       setStatus(dom.ghStatus, String(err.message || err), true);
     }
@@ -1460,12 +2084,12 @@
   async function doLogin() {
     try {
       var password = dom.adminPassword.value;
-      if (!password) throw new Error("Password is required.");
+      if (!password) throw new Error(tr("errorPasswordRequired"));
       var res = await apiPost("/api/login", { password: password });
       state.token = res.token || "";
       localStorage.setItem("admin_token", state.token);
       setAuthState(true);
-      setStatus(dom.loginStatus, "Login successful.", false);
+      setStatus(dom.loginStatus, tr("statusLoginOk"), false);
       dom.adminPassword.value = "";
       await refreshEntityList();
     } catch (err) {
@@ -1484,7 +2108,7 @@
     setAuthState(false);
     setStatus(dom.editorStatus, "", false);
     setStatus(dom.ghStatus, "", false);
-    setStatus(dom.loginStatus, "Logged out.", false);
+    setStatus(dom.loginStatus, tr("statusLoggedOut"), false);
   }
 
   async function probeSession() {
@@ -1543,10 +2167,20 @@
     dom.wizardGenerateBtn.addEventListener("click", generateJsonFromWizard);
     dom.ghPrBtn.addEventListener("click", createPrFromLocalFiles);
     dom.entitySearch.addEventListener("input", onSearchInput);
+    if (dom.langSelect) {
+      dom.langSelect.addEventListener("change", function () {
+        var next = String(dom.langSelect.value || "en");
+        if (next !== "en" && next !== "zh") return;
+        state.lang = next;
+        localStorage.setItem("admin_lang", state.lang);
+        applyI18nUI();
+      });
+    }
 
     dom.game.addEventListener("change", function () {
       syncKindOptions();
       updateWizardKindHint();
+      updateHumanCharacterBlocksVisibility();
       refreshEntityList();
       updateUrlState();
       persistDraft();
@@ -1554,6 +2188,7 @@
 
     dom.kind.addEventListener("change", function () {
       updateWizardKindHint();
+      updateHumanCharacterBlocksVisibility();
       refreshEntityList();
       updateUrlState();
       persistDraft();
@@ -1602,6 +2237,9 @@
 
   function init() {
     syncKindOptions();
+    if (dom.langSelect) {
+      dom.langSelect.value = state.lang;
+    }
     updateWizardKindHint();
     restoreDraft();
     applyUrlState();
@@ -1632,6 +2270,8 @@
       populateWizardFromEntity(baseEntity);
     }
 
+    updateHumanCharacterBlocksVisibility();
+    applyI18nUI();
     updateUrlState();
     probeSession();
   }

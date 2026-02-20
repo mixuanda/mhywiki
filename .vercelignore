@@ -22,11 +22,31 @@
 !combat-wiki/data/
 !combat-wiki/data/**
 
-# Admin web assets.
+# Web runtime assets (combat-only site + admin).
 !web/
+!web/index.html
+!web/index/
+!web/index/**
+!web/home/
+!web/home/**
 !web/admin/
 !web/admin/**
+!web/plugins/
+!web/plugins/**
 !web/javascripts/
-!web/javascripts/admin.js
+!web/javascripts/**
 !web/stylesheets/
-!web/stylesheets/admin.css
+!web/stylesheets/**
+!web/data/
+!web/data/**
+!web/fonts/
+!web/fonts/**
+!web/Char/
+!web/Char/**
+!web/gi/
+!web/gi/**
+!web/sr/
+!web/sr/**
+!web/yhb/
+!web/yhb/**
+!web/favicon.ico

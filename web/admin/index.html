@@ -10,16 +10,23 @@
   <main class="admin-shell">
     <header class="hero">
       <div>
-        <h1>Combat Wiki Admin</h1>
-        <p class="subtitle">Edit and create GI / SR combat entities with canonical JSON + legacy sync.</p>
+        <h1 id="hero-title">Combat Wiki Admin</h1>
+        <p id="hero-subtitle" class="subtitle">Edit and create GI / SR combat entities with canonical JSON + legacy sync.</p>
       </div>
-      <div class="session">
+      <div class="session session-controls">
+        <div class="row compact-row lang-row">
+          <label for="admin-lang" id="lang-label">Language</label>
+          <select id="admin-lang" class="lang-select">
+            <option value="en">English</option>
+            <option value="zh">简体中文</option>
+          </select>
+        </div>
         <span id="session-badge" class="badge badge-offline">Signed out</span>
       </div>
     </header>
 
     <section class="card auth-card" id="login-card">
-      <h2>Sign In</h2>
+      <h2 id="login-title">Sign In</h2>
       <div class="row">
         <label for="admin-password">Admin Password</label>
         <input id="admin-password" type="password" placeholder="Enter password and press Enter" autocomplete="current-password">
@@ -32,7 +39,7 @@
 
     <section id="workspace" class="workspace hidden" aria-hidden="true">
       <aside class="card side-panel">
-        <h2>Entity Navigator</h2>
+        <h2 id="navigator-title">Entity Navigator</h2>
         <div class="grid grid-two">
           <div class="row">
             <label for="game">Game</label>
@@ -79,7 +86,7 @@
       </aside>
 
       <section class="card editor-panel" id="editor-card">
-        <h2>Editor</h2>
+        <h2 id="editor-title">Editor</h2>
         <div class="tabbar" role="tablist" aria-label="Editor Modes">
           <button id="tab-wizard" type="button" class="tab" role="tab" aria-selected="false" aria-controls="panel-wizard" tabindex="-1" data-panel="panel-wizard">New Entity Wizard</button>
           <button id="tab-human" type="button" class="tab active" role="tab" aria-selected="true" aria-controls="panel-human" tabindex="0" data-panel="panel-human">Human Categories</button>
@@ -89,11 +96,11 @@
         </div>
 
         <section id="panel-wizard" class="tabpanel" role="tabpanel" aria-labelledby="tab-wizard" hidden>
-          <p class="hint">Create new entities with a guided form, then generate canonical JSON.</p>
+          <p id="wizard-hint" class="hint">Create new entities with a guided form, then generate canonical JSON.</p>
           <ol class="wizard-steps">
-            <li>Step 1: Select game + type on the left and set Entity ID.</li>
-            <li>Step 2: Fill basic combat fields below.</li>
-            <li>Step 3: Click "Generate JSON From Wizard", then save.</li>
+            <li id="wizard-step-1">Step 1: Select game + type on the left and set Entity ID.</li>
+            <li id="wizard-step-2">Step 2: Fill basic combat fields below.</li>
+            <li id="wizard-step-3">Step 3: Click "Generate JSON From Wizard", then save.</li>
           </ol>
           <div class="actions compact">
             <button id="wizard-template-btn" type="button">Load Wizard Template</button>
@@ -238,7 +245,7 @@
         </section>
 
         <section id="panel-human" class="tabpanel active" role="tabpanel" aria-labelledby="tab-human">
-          <p class="hint">Edit old JSON as grouped fields. Use \"Apply Categories To JSON\" before saving JSON.</p>
+          <p id="human-hint" class="hint">Edit old JSON as grouped fields. Use \"Apply Categories To JSON\" before saving JSON.</p>
           <div class="actions compact">
             <button id="load-human-btn" type="button">Load From JSON</button>
             <button id="apply-human-btn" type="button">Apply Categories To JSON</button>
@@ -358,11 +365,67 @@
             </div>
           </fieldset>
 
+          <fieldset id="human-character-blocks" class="group">
+            <legend id="human-character-blocks-legend">Character Combat Blocks</legend>
+            <p id="human-character-blocks-hint" class="hint">Character fields are split into separate JSON blocks for skills, talents, constellations/traces and combat mechanics.</p>
+            <div class="grid grid-two">
+              <div class="row character-only gi-character-only">
+                <label for="human-gi-attack-config">GI: Normal/Charged/Plunge Skills (`_AvatarAttackConfig_`)</label>
+                <textarea id="human-gi-attack-config" rows="8" placeholder='{"Keqing": {...}}'></textarea>
+              </div>
+              <div class="row character-only gi-character-only">
+                <label for="human-gi-skillp-config">GI: Talents + Constellations (`_AvatarSkillPConfig_`)</label>
+                <textarea id="human-gi-skillp-config" rows="8" placeholder='{"Keqing": {...}}'></textarea>
+              </div>
+              <div class="row character-only gi-character-only">
+                <label for="human-gi-data-config">GI: Combat Mechanics (`_AvatarDataConfig_`)</label>
+                <textarea id="human-gi-data-config" rows="8" placeholder='{"Keqing": {...}}'></textarea>
+              </div>
+              <div class="row character-only gi-character-only">
+                <label for="human-gi-mats">GI: Level-Up Materials (`_AvatarMats_`)</label>
+                <textarea id="human-gi-mats" rows="8" placeholder='{"Keqing": {...}}'></textarea>
+              </div>
+              <div class="row character-only gi-character-only">
+                <label for="human-gi-costume-config">GI: Costume/Avatar Config (`_AvatarCostumeConfig_`)</label>
+                <textarea id="human-gi-costume-config" rows="8" placeholder='{"Keqing": {...}}'></textarea>
+              </div>
+              <div class="row character-only gi-character-only">
+                <label for="human-gi-acs-cache">GI: Extra Cache (`acs_cache_`)</label>
+                <textarea id="human-gi-acs-cache" rows="8" placeholder='{"Keqing": {...}}'></textarea>
+              </div>
+
+              <div class="row character-only sr-character-only">
+                <label for="human-sr-avatarskill">SR: Skill Definitions (`_avatarskill_`)</label>
+                <textarea id="human-sr-avatarskill" rows="8" placeholder='{"100101": {...}}'></textarea>
+              </div>
+              <div class="row character-only sr-character-only">
+                <label for="human-sr-skilltree">SR: Trace Tree (`_avatarskilltree_`)</label>
+                <textarea id="human-sr-skilltree" rows="8" placeholder='{"1001001": {...}}'></textarea>
+              </div>
+              <div class="row character-only sr-character-only">
+                <label for="human-sr-rank">SR: Eidolon Rank (`_avatarrank_`)</label>
+                <textarea id="human-sr-rank" rows="8" placeholder='{"1001": {...}}'></textarea>
+              </div>
+              <div class="row character-only sr-character-only">
+                <label for="human-sr-mtc">SR: Combat Metadata (`_mtc_`)</label>
+                <textarea id="human-sr-mtc" rows="8" placeholder='{"1001": {...}}'></textarea>
+              </div>
+              <div class="row character-only sr-character-only">
+                <label for="human-sr-adiff">SR: Additional Diff (`_adiff_`)</label>
+                <textarea id="human-sr-adiff" rows="8" placeholder='{"traceDiff": {...}}'></textarea>
+              </div>
+              <div class="row character-only sr-character-only">
+                <label for="human-sr-notes">SR: Notes (`_notes_`)</label>
+                <textarea id="human-sr-notes" rows="8" placeholder='{"notes": [...]}'></textarea>
+              </div>
+            </div>
+          </fieldset>
+
           <fieldset class="group">
-            <legend>Advanced Blocks (JSON)</legend>
+            <legend id="human-advanced-legend">Advanced Blocks (JSON)</legend>
             <div class="grid grid-two">
               <div class="row">
-                <label for="human-combat">Combat JSON</label>
+                <label for="human-combat">Combat JSON (non-character blocks)</label>
                 <textarea id="human-combat" rows="8" placeholder='{"_avatarskill_": {...}}'></textarea>
               </div>
               <div class="row">
