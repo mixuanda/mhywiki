@@ -87,7 +87,7 @@ $(function () {
           }, {
             div: [{
               div: {
-                img: 'https://homdgcat.wiki/images/emote/Yunli/1.png'
+                img: '/images/emote/Yunli/1.png'
               },
               class: 'perf_img'
             }, {
@@ -522,7 +522,7 @@ $(function () {
             }
           }, {
             div: {
-              img: 'https://homdgcat.wiki/images/' + guide_data.Icon,
+              img: '/images/' + guide_data.Icon,
               class: 'bossguide_img'
             },
             class: 'bossguide_img_w'
@@ -809,7 +809,7 @@ $(function () {
     $('.emote_').each(function () {
       var this_emote = keq_emotes[Math.floor(Math.random() * keq_emotes.length)];
       $(this).empty().render({
-        img: "https://homdgcat.wiki/images/emote/Yunli/".concat(this_emote, ".png")
+        img: "/images/emote/Yunli/".concat(this_emote, ".png")
       });
     });
   }

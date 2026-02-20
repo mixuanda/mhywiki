@@ -906,7 +906,7 @@ $(function () {
           }
         }, {
           div: {
-            img: "https://homdgcat.wiki/images/maze/[[Image]].png"
+            img: "/images/maze/[[Image]].png"
           },
           class: 'tarot_img'
         }, {

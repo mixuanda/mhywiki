@@ -916,7 +916,7 @@ $(function () {
       a: '/sr/monster/' + smid,
       t: [{
         div: {
-          img: 'https://homdgcat.wiki/images/' + sm_mon.Figure,
+          img: '/images/' + sm_mon.Figure,
           class: 'summon_icon'
         },
         style: {
@@ -963,7 +963,7 @@ $(function () {
       var summon_elem_contents = [];
       sm_mon.Weak.forEach(function (k) {
         summon_elem_contents.push({
-          img: 'https://homdgcat.wiki/images/Element/' + k + '.png',
+          img: '/images/Element/' + k + '.png',
           class: 'statpageicon_small',
           style: {
             margin: '0'
@@ -1453,7 +1453,7 @@ $(function () {
     $('.keq_emote_div').each(function () {
       var this_emote = keq_emotes[Math.floor(Math.random() * keq_emotes.length)];
       $(this).empty().render({
-        img: "https://homdgcat.wiki/images/emote/Yunli/".concat(this_emote, ".png")
+        img: "/images/emote/Yunli/".concat(this_emote, ".png")
       });
     });
   }

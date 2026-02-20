@@ -107,29 +107,29 @@ $(function () {
         }, {
           div: [{
             div: [{
-              img: 'https://homdgcat.wiki/images/emote/Yunli/1.png'
+              img: '/images/emote/Yunli/1.png'
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Yunli/2.png'
+              img: '/images/emote/Yunli/2.png'
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Yunli/3.png',
+              img: '/images/emote/Yunli/3.png',
               when: window.innerWidth >= 600
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Keqing/1.png'
+              img: '/images/emote/Keqing/1.png'
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Keqing/2.png',
+              img: '/images/emote/Keqing/2.png',
               when: window.innerWidth >= 600
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Keqing/3.png',
+              img: '/images/emote/Keqing/3.png',
               when: window.innerWidth >= 600
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Keqing/6.png'
+              img: '/images/emote/Keqing/6.png'
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Keqing/18.png'
+              img: '/images/emote/Keqing/18.png'
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Keqing/19.png',
+              img: '/images/emote/Keqing/19.png',
               when: window.innerWidth >= 600
             }, {
-              img: 'https://homdgcat.wiki/images/emote/Keqing/20.png',
+              img: '/images/emote/Keqing/20.png',
               when: window.innerWidth >= 600
             }],
             class: 'emotes'
@@ -165,10 +165,10 @@ $(function () {
             }
           }, {
             div: [{
-              img: 'https://homdgcat.wiki/homdgcat-res/UI/Alipay.png',
+              img: '/homdgcat-res/UI/Alipay.png',
               class: 'Alipay'
             }, {
-              img: 'https://homdgcat.wiki/homdgcat-res/UI/Wechat_2.png',
+              img: '/homdgcat-res/UI/Wechat_2.png',
               class: 'Wechat'
             }],
             class: 'pay'
@@ -256,13 +256,13 @@ $(function () {
   });
   console.log("FINISH");
   $('body').on('click', '.Alipay', function () {
-    download('https://homdgcat.wiki/homdgcat-res/UI/Alipay.png', '支付宝 Alipay');
+    download('/homdgcat-res/UI/Alipay.png', '支付宝 Alipay');
   });
   $('body').on('click', '.Wechat', function () {
-    download('https://homdgcat.wiki/homdgcat-res/UI/Wechat_2.png', '微信 Wechat');
+    download('/homdgcat-res/UI/Wechat_2.png', '微信 Wechat');
   });
   $('body').on('click', '.Paypal', function () {
-    download('https://homdgcat.wiki/homdgcat-res/UI/Paypal.png', 'Paypal');
+    download('/homdgcat-res/UI/Paypal.png', 'Paypal');
   });
   function download(link, name) {
     $('.temp').remove();

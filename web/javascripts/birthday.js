@@ -56,7 +56,7 @@ $(function () {
     $('.blessing_card_area').render({
       div: [{
         div: {
-          img: "https://homdgcat.wiki/homdgcat-res/Avatar/".concat(dat.Icon, ".png"),
+          img: "/homdgcat-res/Avatar/".concat(dat.Icon, ".png"),
           class: 'icon_5'
         },
         class: 'img_wrap'

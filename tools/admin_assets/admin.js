@@ -20,17 +20,51 @@
     return h;
   }
 
-  async function api(path, body) {
-    const res = await fetch(path, {
-      method: "POST",
-      headers: headers(),
-      body: JSON.stringify(body || {}),
-    });
-    const data = await res.json().catch(() => ({ ok: false, error: "Invalid JSON response" }));
+  async function requestJson(path, options) {
+    const method = (options && options.method) || "POST";
+    const body = options ? options.body : undefined;
+    const reqHeaders = headers();
+    if (method === "GET") {
+      delete reqHeaders["Content-Type"];
+    }
+    const fetchOptions = {
+      method: method,
+      headers: reqHeaders,
+    };
+    if (body !== undefined && method !== "GET") {
+      fetchOptions.body = JSON.stringify(body || {});
+    }
+    const res = await fetch(path, fetchOptions);
+
+    const raw = await res.text();
+    let data = null;
+    try {
+      data = JSON.parse(raw);
+    } catch (_err) {
+      data = null;
+    }
+
+    if (!data) {
+      if (res.status === 404 || res.status === 405 || res.status === 501) {
+        throw new Error(
+          "Admin API is not running. Start `npm run dev:admin` and open http://127.0.0.1:8899/admin/"
+        );
+      }
+      throw new Error("Admin API returned non-JSON response (HTTP " + res.status + ").");
+    }
+
     if (!res.ok || !data.ok) {
       throw new Error(data.error || ("Request failed: " + res.status));
     }
     return data;
+  }
+
+  async function api(path, body) {
+    return requestJson(path, { method: "POST", body: body });
+  }
+
+  async function apiGet(path) {
+    return requestJson(path, { method: "GET" });
   }
 
   function readEditorInput() {
@@ -56,6 +90,23 @@
       name: document.getElementById("entity-name").value.trim() || null,
       text: composed,
     };
+  }
+
+  function setChangedPaths(paths) {
+    document.getElementById("gh-paths").value = (paths || []).join("\n");
+  }
+
+  function clearDraft() {
+    document.getElementById("entity-id").value = "";
+    document.getElementById("entity-name").value = "";
+    document.getElementById("entity-text").value = "";
+    document.getElementById("skills-text").value = "";
+    document.getElementById("materials-text").value = "";
+    document.getElementById("talents-text").value = "";
+    document.getElementById("notes-text").value = "";
+    document.getElementById("entity-json").value = "";
+    previewJson.textContent = "";
+    setChangedPaths([]);
   }
 
   async function doLogin() {
@@ -93,6 +144,9 @@
       const input = readEditorInput();
       if (!input.text) throw new Error("Text input is required.");
       const res = await api("/api/ingest", { ...input, apply: false });
+      if (res.result && res.result.payload) {
+        document.getElementById("entity-json").value = JSON.stringify(res.result.payload, null, 2);
+      }
       previewJson.textContent = JSON.stringify(res.result, null, 2);
       setStatus(editorStatus, "Draft parsed successfully.", false);
     } catch (err) {
@@ -105,10 +159,73 @@
       const input = readEditorInput();
       if (!input.text) throw new Error("Text input is required.");
       const res = await api("/api/ingest", { ...input, apply: true });
+      if (res.result && res.result.payload) {
+        document.getElementById("entity-json").value = JSON.stringify(res.result.payload, null, 2);
+      }
       previewJson.textContent = JSON.stringify(res.result, null, 2);
-      const changed = (res.result.changedFiles || []).join("\n");
-      document.getElementById("gh-paths").value = changed;
+      if (res.result && res.result.payload && res.result.payload.id) {
+        document.getElementById("entity-id").value = String(res.result.payload.id);
+      }
+      setChangedPaths((res.result && res.result.changedFiles) || []);
       setStatus(editorStatus, "Saved canonical data and synced legacy files.", false);
+    } catch (err) {
+      setStatus(editorStatus, String(err.message || err), true);
+    }
+  }
+
+  async function loadExisting() {
+    try {
+      const game = document.getElementById("game").value;
+      const kind = document.getElementById("kind").value;
+      const entityId = document.getElementById("entity-id").value.trim();
+      if (!entityId) throw new Error("Entity ID is required.");
+      const res = await apiGet(
+        "/api/entity/" + encodeURIComponent(game) + "/" + encodeURIComponent(kind) + "/" + encodeURIComponent(entityId)
+      );
+      const entity = res.entity || {};
+      document.getElementById("entity-name").value = entity.name || entity.title || "";
+      document.getElementById("entity-json").value = JSON.stringify(entity, null, 2);
+
+      const manual = entity.manualSections || {};
+      if (Array.isArray(manual.skills)) document.getElementById("skills-text").value = manual.skills.join("\n");
+      if (Array.isArray(manual.talents)) document.getElementById("talents-text").value = manual.talents.join("\n");
+      if (Array.isArray(manual.notes)) document.getElementById("notes-text").value = manual.notes.join("\n");
+      if (Array.isArray(entity.materialRefs)) document.getElementById("materials-text").value = entity.materialRefs.join("\n");
+      if (typeof entity.rawText === "string") document.getElementById("entity-text").value = entity.rawText;
+
+      previewJson.textContent = JSON.stringify(entity, null, 2);
+      setStatus(editorStatus, "Loaded existing entity.", false);
+    } catch (err) {
+      setStatus(editorStatus, String(err.message || err), true);
+    }
+  }
+
+  async function saveJsonAndSync() {
+    try {
+      const game = document.getElementById("game").value;
+      const kind = document.getElementById("kind").value;
+      const inputId = document.getElementById("entity-id").value.trim();
+      const rawJson = document.getElementById("entity-json").value.trim();
+      if (!rawJson) throw new Error("Entity JSON is required.");
+      let entity = null;
+      try {
+        entity = JSON.parse(rawJson);
+      } catch (_err) {
+        throw new Error("Entity JSON parse failed.");
+      }
+      const res = await api("/api/entity/upsert", {
+        game: game,
+        kind: kind,
+        id: inputId || null,
+        entity: entity,
+        sync: true,
+      });
+      setChangedPaths(res.changedFiles || []);
+      previewJson.textContent = JSON.stringify(res, null, 2);
+      if (entity && entity.id) {
+        document.getElementById("entity-id").value = String(entity.id);
+      }
+      setStatus(editorStatus, "Saved JSON and synced legacy web.", false);
     } catch (err) {
       setStatus(editorStatus, String(err.message || err), true);
     }
@@ -165,8 +282,11 @@
 
   document.getElementById("login-btn").addEventListener("click", doLogin);
   document.getElementById("logout-btn").addEventListener("click", doLogout);
+  document.getElementById("load-btn").addEventListener("click", loadExisting);
+  document.getElementById("new-btn").addEventListener("click", clearDraft);
   document.getElementById("preview-btn").addEventListener("click", preview);
   document.getElementById("save-btn").addEventListener("click", saveAndSync);
+  document.getElementById("save-json-btn").addEventListener("click", saveJsonAndSync);
   document.getElementById("gh-pr-btn").addEventListener("click", createPrFromLocalFiles);
 
   probeSession();

@@ -9,8 +9,8 @@ var show_yhb = cur_time_0 >= keqing_birthday;
 
 var txt = {
   "game_img": {
-    "CH": '<img src="https://homdgcat.wiki/images/emote/Yunli/1.png" class="game_img"> <b>',
-    "EN": '<img src="https://homdgcat.wiki/images/emote/Yunli/1.png" class="game_img_2"> <b>'
+    "CH": '<img src="/images/emote/Yunli/1.png" class="game_img"> <b>',
+    "EN": '<img src="/images/emote/Yunli/1.png" class="game_img_2"> <b>'
   },
   "TIT": {
     "CH": "妮可少女 玉衡杯数据库",
@@ -22,8 +22,8 @@ var txt = {
     "RU": "HomDGCat Wiki - Genshin Impact & Honkai Star Rail Wiki By HomDGCat 妮可少女"
   },
   "Title": {
-    "CH": "<img src='https://homdgcat.wiki/homdgcat-res/UI/_logo_2.png' class='logo_img_yhb'>",
-    "EN": "<img src='https://homdgcat.wiki/homdgcat-res/UI/_logo_3.png' class='logo_img_yhb'>",
+    "CH": "<img src='/homdgcat-res/UI/_logo_2.png' class='logo_img_yhb'>",
+    "EN": "<img src='/homdgcat-res/UI/_logo_3.png' class='logo_img_yhb'>",
     "RU": "HomDGCat Wiki"
   },
   "Affix": {
@@ -1400,7 +1400,7 @@ if (Date.now() > Date.parse('2026-01-05T18:00:00+08:00')) {
 } else {
   $('h3').render({
     div: {
-      img: 'https://homdgcat.wiki/homdgcat-res/UI/69551bacfa9bb3fbe7cc7194-min.png',
+      img: '/homdgcat-res/UI/69551bacfa9bb3fbe7cc7194-min.png',
       class: 'newyear_img'
     },
     class: 'newyear_wrap'

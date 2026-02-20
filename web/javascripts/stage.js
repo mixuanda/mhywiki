@@ -161,7 +161,7 @@ $(function () {
       monsters.push({
         span: [{
           div: [{
-            img: 'https://homdgcat.wiki/images/' + me.Figure,
+            img: '/images/' + me.Figure,
             class: 'monicon hasimg',
             event: {
               load: function (d) {

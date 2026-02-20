@@ -218,7 +218,7 @@ $(function () {
             }, {
               div: [{
                 div: {
-                  img: 'https://homdgcat.wiki/images/emote/Keqing/6.png'
+                  img: '/images/emote/Keqing/6.png'
                 },
                 class: 'perf_img'
               }, {
@@ -413,7 +413,7 @@ $(function () {
           }
         }, {
           div: {
-            img: 'https://homdgcat.wiki/images/emote/Keqing/1.png'
+            img: '/images/emote/Keqing/1.png'
           },
           class: 'yunli b2 b2_minus'
         }, {
@@ -477,7 +477,7 @@ $(function () {
           }
         }, {
           div: {
-            img: 'https://homdgcat.wiki/images/emote/Keqing/1.png'
+            img: '/images/emote/Keqing/1.png'
           },
           class: 'yunli b1 b1_minus'
         }, {
@@ -503,10 +503,10 @@ $(function () {
       var show_icon = '';
       var icon_class = '';
       if (t.Icon.includes('LeyLineChallenge')) {
-        show_icon = 'https://homdgcat.wiki/images/LeyLineChallenge/' + t.Icon + '.png';
+        show_icon = '/images/LeyLineChallenge/' + t.Icon + '.png';
         icon_class = 'mon_head_big';
       } else {
-        show_icon = 'https://homdgcat.wiki/homdgcat-res/monster/' + t.Icon + '.png';
+        show_icon = '/homdgcat-res/monster/' + t.Icon + '.png';
         icon_class = 'mon_head';
       }
       var link_1 = '/gi/monster/' + (t.ID ? t.ID + '?level=105&mul=' + (t.HPMult ? t.HPMult : 1) : '');
@@ -520,7 +520,7 @@ $(function () {
                 error: function (o) {
                   $(o.sender).hide();
                   $(o.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -565,7 +565,7 @@ $(function () {
                 span: pic(t.Advantage),
                 class: 'vt_text'
               }, {
-                img: "https://homdgcat.wiki/homdgcat-res/UI/check.png",
+                img: "/homdgcat-res/UI/check.png",
                 class: 'elem',
                 style: {
                   'margin-left': '7px'
@@ -580,7 +580,7 @@ $(function () {
                 span: pic(t.Disadvantage),
                 class: 'vt_text'
               }, {
-                img: "https://homdgcat.wiki/homdgcat-res/UI/close.png",
+                img: "/homdgcat-res/UI/close.png",
                 class: 'elem',
                 style: {
                   'margin-left': '7px'
@@ -646,12 +646,12 @@ $(function () {
         template: [{
           div: {
             div: {
-              img: 'https://homdgcat.wiki/homdgcat-res/monster/' + t.Icon + '.png',
+              img: '/homdgcat-res/monster/' + t.Icon + '.png',
               event: {
                 error: function (o) {
                   $(o.sender).hide();
                   $(o.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -719,7 +719,7 @@ $(function () {
         }
       }, {
         div: {
-          img: 'https://homdgcat.wiki/images/emote/Keqing/1.png'
+          img: '/images/emote/Keqing/1.png'
         },
         class: 'yunli b2 b2_minus'
       }, {
@@ -819,7 +819,7 @@ $(function () {
     while (s.includes('{')) {
       var start = s.indexOf('{');
       var end = s.indexOf('}');
-      s = s.replace(s.substring(start, end + 1), "<img src='https://homdgcat.wiki/homdgcat-res/UI/".concat(s.substring(start + 1, end), ".png' class='elem'>"));
+      s = s.replace(s.substring(start, end + 1), "<img src='/homdgcat-res/UI/".concat(s.substring(start + 1, end), ".png' class='elem'>"));
     }
     return s;
   }
@@ -828,7 +828,7 @@ $(function () {
     $('.emote_').each(function () {
       var this_emote = keq_emotes[Math.floor(Math.random() * keq_emotes.length)];
       $(this).empty().render({
-        img: "https://homdgcat.wiki/images/emote/Keqing/".concat(this_emote, ".png")
+        img: "/images/emote/Keqing/".concat(this_emote, ".png")
       });
     });
   }

@@ -53,6 +53,10 @@
           <input id="entity-name" type="text" placeholder="Display name">
         </div>
       </div>
+      <div class="actions">
+        <button id="load-btn">Load Existing</button>
+        <button id="new-btn">New Draft</button>
+      </div>
       <div class="row">
         <label for="entity-text">Human-readable text input</label>
         <textarea id="entity-text" rows="14" placeholder="Paste plain text here. You can mix Chinese/English labels like Name/ID/Skills/Materials/etc."></textarea>
@@ -78,7 +82,12 @@
       <div class="actions">
         <button id="preview-btn">Parse Draft</button>
         <button id="save-btn">Save + Sync Legacy Web</button>
+        <button id="save-json-btn">Save JSON + Sync</button>
         <button id="logout-btn">Logout</button>
+      </div>
+      <div class="row">
+        <label for="entity-json">Entity JSON (editable)</label>
+        <textarea id="entity-json" rows="16" placeholder='{"id":"1001","name":"..."}'></textarea>
       </div>
       <p id="editor-status" class="status"></p>
       <pre id="preview-json" class="json"></pre>

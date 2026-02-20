@@ -89,9 +89,10 @@
       }
       if (isAllowed(path)) continue;
       markBlockedLink(anchor);
-      const maybeCard = anchor.closest(".hover-shadow, .panel, .panelw, .new_block, .new_section, .menu_CTRL section");
-      const navLike = anchor.closest(".menu_GI, .menu_SR, .menu_GI_2, .menu_SR_2, .d1, .d2, .home_select");
-      if (maybeCard && navLike) maybeCard.remove();
+      const maybeCard = anchor.closest(".hover-shadow, .panel, .panelw, .new_block, .new_section, .menu_CTRL section, .dir");
+      if (maybeCard) {
+        maybeCard.remove();
+      }
     }
   }
 

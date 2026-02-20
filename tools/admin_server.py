@@ -17,18 +17,61 @@ from typing import Any
 from flask import Flask, abort, jsonify, request, send_from_directory
 
 from ingest_human_text import ingest_entity
-from legacy_sync import GI_ENTITY_DIRS, SR_ENTITY_DIRS, sync_entity
-from normalize import read_json
+from legacy_sync import GI_ENTITY_DIRS, SR_ENTITY_DIRS, sync_entity, write_canonical_entity
+from normalize import read_json, write_json
 
 
 def _entity_file(data_root: Path, game: str, kind: str, entity_id: str) -> Path:
     if game == "gi":
+        if kind not in GI_ENTITY_DIRS:
+            raise ValueError(f"Unsupported GI entity kind: {kind}")
         rel = GI_ENTITY_DIRS[kind]
     elif game == "sr":
+        if kind not in SR_ENTITY_DIRS:
+            raise ValueError(f"Unsupported SR entity kind: {kind}")
         rel = SR_ENTITY_DIRS[kind]
     else:
         raise ValueError(f"Unsupported game: {game}")
     return data_root / rel / f"{entity_id}.json"
+
+
+def _entity_dir(data_root: Path, game: str, kind: str) -> Path:
+    if game == "gi":
+        if kind not in GI_ENTITY_DIRS:
+            raise ValueError(f"Unsupported GI entity kind: {kind}")
+        rel = GI_ENTITY_DIRS[kind]
+    elif game == "sr":
+        if kind not in SR_ENTITY_DIRS:
+            raise ValueError(f"Unsupported SR entity kind: {kind}")
+        rel = SR_ENTITY_DIRS[kind]
+    else:
+        raise ValueError(f"Unsupported game: {game}")
+    return data_root / rel
+
+
+def _rebuild_index(data_root: Path, game: str, kind: str) -> Path:
+    directory = _entity_dir(data_root, game, kind)
+    rows: list[dict[str, Any]] = []
+    for file_path in sorted(directory.glob("*.json")):
+        if file_path.name == "index.json":
+            continue
+        try:
+            payload = read_json(file_path)
+        except Exception:  # noqa: BLE001
+            continue
+        if isinstance(payload, dict):
+            rows.append(
+                {
+                    "id": payload.get("id", file_path.stem),
+                    "name": payload.get("name") or payload.get("title") or file_path.stem,
+                    "path": file_path.name,
+                }
+            )
+        else:
+            rows.append({"id": file_path.stem, "name": file_path.stem, "path": file_path.name})
+    index_path = directory / "index.json"
+    write_json(index_path, rows)
+    return index_path
 
 
 def _json_response(payload: dict[str, Any], status: int = 200):
@@ -196,6 +239,62 @@ def create_app(*, project_root: Path, web_root: Path, data_root: Path, admin_pas
         except Exception as exc:  # noqa: BLE001
             return _json_response({"ok": False, "error": str(exc)}, 500)
         return _json_response({"ok": True, "path": str(path), "entity": data})
+
+    @app.route("/api/entity/upsert", methods=["POST"])
+    @_auth_required
+    def api_upsert_entity():
+        payload = request.get_json(silent=True) or {}
+        game = str(payload.get("game", "")).strip()
+        kind = str(payload.get("kind", "")).strip()
+        raw_id = str(payload.get("id", "")).strip()
+        entity = payload.get("entity")
+        apply_sync = bool(payload.get("sync", True))
+        if not game or not kind:
+            return _json_response({"ok": False, "error": "game/kind are required"}, 400)
+        if not isinstance(entity, dict):
+            return _json_response({"ok": False, "error": "entity object is required"}, 400)
+
+        entity_id = raw_id or str(entity.get("id", "")).strip()
+        if not entity_id:
+            return _json_response({"ok": False, "error": "id is required (payload.id or entity.id)"}, 400)
+
+        try:
+            to_write = dict(entity)
+            to_write["id"] = entity_id
+            to_write.setdefault("game", game)
+            canonical_path = write_canonical_entity(
+                data_root=data_root,
+                game=game,
+                kind=kind,
+                entity_id=entity_id,
+                payload=to_write,
+            )
+            index_path = _rebuild_index(data_root, game, kind)
+
+            changed_files: list[str] = [str(canonical_path), str(index_path)]
+            notes: list[str] = []
+            if apply_sync:
+                sync_result = sync_entity(
+                    data_root=data_root,
+                    web_root=web_root,
+                    game=game,
+                    kind=kind,
+                    entity_id=entity_id,
+                )
+                changed_files.extend(str(p) for p in sync_result.changed_files)
+                notes.extend(sync_result.notes)
+
+            return _json_response(
+                {
+                    "ok": True,
+                    "canonicalPath": str(canonical_path),
+                    "indexPath": str(index_path),
+                    "changedFiles": changed_files,
+                    "notes": notes,
+                }
+            )
+        except Exception as exc:  # noqa: BLE001
+            return _json_response({"ok": False, "error": str(exc)}, 400)
 
     @app.route("/api/github/pr-from-local", methods=["POST"])
     @_auth_required

@@ -170,7 +170,7 @@ $(function () {
                 t: {
                     div: [
                         {
-                            img: 'https://homdgcat.wiki/homdgcat-res/Avatar/' + _icons[v.N] + '.png',
+                            img: '/homdgcat-res/Avatar/' + _icons[v.N] + '.png',
                         },
                         {
                             span: v.X.toString(),
@@ -219,7 +219,7 @@ $(function () {
                 t: {
                     div: [
                         {
-                            img: 'https://homdgcat.wiki/homdgcat-res/Avatar/' + _icons[selected] + '.png',
+                            img: '/homdgcat-res/Avatar/' + _icons[selected] + '.png',
                         }
                     ],
                     class: 'icon icon_5'

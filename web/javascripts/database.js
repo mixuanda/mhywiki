@@ -1107,7 +1107,7 @@ $(function () {
             }
           }, {
             div: {
-              img: 'https://homdgcat.wiki/homdgcat-res/monster/' + _bossguide[g].Icon + '.png',
+              img: '/homdgcat-res/monster/' + _bossguide[g].Icon + '.png',
               class: 'monster_left_img'
             },
             style: {
@@ -1152,7 +1152,7 @@ $(function () {
     var id = $(this).attr('data-id');
     var sk = $(this).attr('data-sk');
     if (sk) {
-      window.open("https://homdgcat.wiki/EnemyChart/".concat(sk, ".png"), '_blank');
+      window.open("/EnemyChart/".concat(sk, ".png"), '_blank');
     }
     document.getElementById("guide_".concat(id)).scrollIntoView({
       behavior: "smooth",
@@ -1612,7 +1612,7 @@ $(function () {
     $('.emote_').each(function () {
       var this_emote = keq_emotes[Math.floor(Math.random() * keq_emotes.length)];
       $(this).empty().render({
-        img: "https://homdgcat.wiki/images/emote/Keqing/".concat(this_emote, ".png")
+        img: "/images/emote/Keqing/".concat(this_emote, ".png")
       });
     });
   }

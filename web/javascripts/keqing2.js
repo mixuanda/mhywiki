@@ -555,7 +555,7 @@ $(function () {
       div: [{
         a: window.innerWidth > 500 ? "//www.bilibili.com/video/".concat(item.bv) : "//player.bilibili.com/player.html?bvid=".concat(item.bv),
         t: {
-          img: "https://homdgcat.wiki/images/cover/".concat(item.cover),
+          img: "/images/cover/".concat(item.cover),
           class: 'item_img'
         },
         class: 'item_left',

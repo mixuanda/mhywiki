@@ -8,10 +8,10 @@ $(function () {
   $('h3 .tlsub').html(computer_.MiscText.Translate_.replaceAll("'>", "".concat(window.location.hash, "'>")));
   $('h3 .tlsub').hide();
   $('h3 .links').render([{
-    img: 'https://homdgcat.wiki/images/menu.png',
+    img: '/images/menu.png',
     class: '_menu_'
   }, {
-    img: 'https://homdgcat.wiki/images/translate.png',
+    img: '/images/translate.png',
     class: '_translate_'
   }]);
   if (!avid && window.location.hash) avid = window.location.hash.replace('#_', '');
@@ -29,14 +29,14 @@ $(function () {
       div: {
         div: [{
           div: [{
-            img: 'https://homdgcat.wiki/images/Misc/Back.png',
+            img: '/images/Misc/Back.png',
             style: {
               width: '40px',
               height: '40px'
             },
             class: 'switch_1'
           }, {
-            img: 'https://homdgcat.wiki/images/Misc/Switch.png',
+            img: '/images/Misc/Switch.png',
             style: {
               width: '40px',
               height: '40px'
@@ -48,13 +48,13 @@ $(function () {
           div: {
             div: [{
               div: {
-                img: 'https://homdgcat.wiki/images/ChapterIcon/' + _chapter_info.Pic + '.png'
+                img: '/images/ChapterIcon/' + _chapter_info.Pic + '.png'
               },
               when: _chapter_info.Pic != "",
               class: 'weapon_left'
             }, {
               div: {
-                img: 'https://homdgcat.wiki/images/ChapterIcon/' + _chapter_info.Icon + '.png'
+                img: '/images/ChapterIcon/' + _chapter_info.Icon + '.png'
               },
               when: _chapter_info.Pic == "" && _chapter_info.Icon != "",
               class: 'weapon_left'
@@ -101,7 +101,7 @@ $(function () {
                       if (len > 25 && t.Count < 5 && !(isFinite(t.ID) && parseInt(t.ID) >= 1000 && parseInt(t.ID) <= 2000)) return;
                       $(k.container).render({
                         span: function (k) {
-                          return '<color style=\'color:#df903b\'>' + t.Name.toString().replaceAll('_0', "<img class='sps' src='https://homdgcat.wiki/images/Misc/Traveler".concat(mf.toString(), ".png'>")).replaceAll('_1005', "<img class='sps' src='https://homdgcat.wiki/images/Misc/Paimon.png'>") + '</color> ' + t.Count;
+                          return '<color style=\'color:#df903b\'>' + t.Name.toString().replaceAll('_0', "<img class='sps' src='/images/Misc/Traveler".concat(mf.toString(), ".png'>")).replaceAll('_1005', "<img class='sps' src='/images/Misc/Paimon.png'>") + '</color> ' + t.Count;
                         },
                         class: 'tag_span'
                       });
@@ -152,7 +152,7 @@ $(function () {
           class: 'event-desc'
         }, {
           div: {
-            img: 'https://homdgcat.wiki/images/GCG_UI/JUMP.png',
+            img: '/images/GCG_UI/JUMP.png',
             style: {
               'width': '20px',
               'height': '20px'
@@ -209,13 +209,13 @@ $(function () {
               div: [{
                 div: [{
                   p: [{
-                    img: 'https://homdgcat.wiki/images/Misc/Star.png',
+                    img: '/images/Misc/Star.png',
                     class: 'sps_3'
                   }, m.Step],
                   when: m.Step != undefined && m.Step.length
                 }, {
                   p: [{
-                    img: 'https://homdgcat.wiki/images/Misc/Star.png',
+                    img: '/images/Misc/Star.png',
                     class: 'sps_3'
                   }, m.Tips],
                   when: m.Tips != undefined && m.Tips.length
@@ -235,11 +235,11 @@ $(function () {
                         _talks[i].forEach(function (j) {
                           if (j.N) {
                             $(k.container).render({
-                              p: '<b>' + j.N.toString().replaceAll('_0', "<img class='sps_4' src='https://homdgcat.wiki/images/Misc/Traveler".concat(mf.toString(), ".png'>")).replaceAll('_1005', "<img class='sps_4' src='https://homdgcat.wiki/images/Misc/Paimon.png'>") + '</b><br>' + process(j.T).replaceAll('{NICKNAME}', "<img class='sps_4' src='https://homdgcat.wiki/images/Misc/Traveler".concat(mf.toString(), ".png'>")).replaceAll("#", "").replaceAll("\\n", "<br>")
+                              p: '<b>' + j.N.toString().replaceAll('_0', "<img class='sps_4' src='/images/Misc/Traveler".concat(mf.toString(), ".png'>")).replaceAll('_1005', "<img class='sps_4' src='/images/Misc/Paimon.png'>") + '</b><br>' + process(j.T).replaceAll('{NICKNAME}', "<img class='sps_4' src='/images/Misc/Traveler".concat(mf.toString(), ".png'>")).replaceAll("#", "").replaceAll("\\n", "<br>")
                             });
                           } else {
                             $(k.container).render({
-                              p: process(j.T).replaceAll('{NICKNAME}', "<img class='sps_4' src='https://homdgcat.wiki/images/Misc/Traveler".concat(mf.toString(), ".png'>")).replaceAll("#", "").replaceAll("\\n", "<br>"),
+                              p: process(j.T).replaceAll('{NICKNAME}', "<img class='sps_4' src='/images/Misc/Traveler".concat(mf.toString(), ".png'>")).replaceAll("#", "").replaceAll("\\n", "<br>"),
                               style: {
                                 color: '#FFD780'
                                 //'font-weight': 'bold'

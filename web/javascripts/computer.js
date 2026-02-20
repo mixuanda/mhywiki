@@ -284,7 +284,7 @@ $(function () {
                     tr: [{
                       td: [{
                         img: function (f) {
-                          return "https://homdgcat.wiki/homdgcat-res/UI/".concat(f.data, ".png").replaceAll('Phys', 'Physical');
+                          return "/homdgcat-res/UI/".concat(f.data, ".png").replaceAll('Phys', 'Physical');
                         },
                         datapath: '_id',
                         class: 'resicon'
@@ -596,13 +596,13 @@ $(function () {
             for (const pic of data.Csx) {
               $(p.sender).render({
                 div: {
-                  img: "https://homdgcat.wiki/EnemyChart/".concat(pic, ".png"),
+                  img: "/EnemyChart/".concat(pic, ".png"),
                   style: {
                     width: '100%'
                   },
                   event: {
                     click: function (o) {
-                      window.open("https://homdgcat.wiki/EnemyChart/".concat(pic, ".png"), '_blank');
+                      window.open("/EnemyChart/".concat(pic, ".png"), '_blank');
                     }
                   }
                 },

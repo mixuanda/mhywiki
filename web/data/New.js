@@ -7,7 +7,7 @@ NEW_GI = [{
   },
   "Rarity": 5,
   "Link": "/gi/char/Columbina",
-  "Icon": "https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Columbina.png",
+  "Icon": "/homdgcat-res/Avatar/UI_AvatarIcon_Columbina.png",
   "Elem": "Water",
   "Type": "Skill_A_Catalyst_MD"
 }, {
@@ -19,7 +19,7 @@ NEW_GI = [{
   },
   "Rarity": 5,
   "Link": "/gi/char/Zibai",
-  "Icon": "https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Zibai.png",
+  "Icon": "/homdgcat-res/Avatar/UI_AvatarIcon_Zibai.png",
   "Elem": "Rock",
   "Type": "Skill_A_01"
 }, {
@@ -31,8 +31,8 @@ NEW_GI = [{
   },
   "Rarity": 5,
   "Link": "/gi/char/15043",
-  "Icon": "https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15043_4.png",
-  "Type": "https://homdgcat.wiki/images/GCG_UI/3004"
+  "Icon": "/homdgcat-res/Relic/UI_RelicIcon_15043_4.png",
+  "Type": "../../images/GCG_UI/3004"
 }, {
   "Name": {
     "CH": "风起之日",
@@ -42,8 +42,8 @@ NEW_GI = [{
   },
   "Rarity": 5,
   "Link": "/gi/char/15044",
-  "Icon": "https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15044_4.png",
-  "Type": "https://homdgcat.wiki/images/GCG_UI/3004"
+  "Icon": "/homdgcat-res/Relic/UI_RelicIcon_15044_4.png",
+  "Type": "../../images/GCG_UI/3004"
 }, {
   "Name": {
     "CH": "朏魄含光",
@@ -53,7 +53,7 @@ NEW_GI = [{
   },
   "Rarity": 5,
   "Link": "/gi/char/11519",
-  "Icon": "https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_SilverwareSaw.png",
+  "Icon": "/homdgcat-res/Weapon/UI_EquipIcon_Sword_SilverwareSaw.png",
   "Type": "Skill_A_01"
 }, {
   "Name": {
@@ -64,7 +64,7 @@ NEW_GI = [{
   },
   "Rarity": 5,
   "Link": "/gi/char/14522",
-  "Icon": "https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Brisingamen.png",
+  "Icon": "/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Brisingamen.png",
   "Type": "Skill_A_Catalyst_MD"
 }, {
   "Name": {
@@ -75,7 +75,7 @@ NEW_GI = [{
   },
   "Rarity": 4,
   "Link": "/gi/char/Illuga",
-  "Icon": "https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Illuga.png",
+  "Icon": "/homdgcat-res/Avatar/UI_AvatarIcon_Illuga.png",
   "Elem": "Rock",
   "Type": "Skill_A_03"
 }]; //GI
@@ -89,7 +89,7 @@ NEW_SR = [{
   },
   "Rarity": 5,
   "Link": "/sr/char/1321",
-  "Icon": "https://homdgcat.wiki/images/avataricon/avatar/1321.png",
+  "Icon": "/images/avataricon/avatar/1321.png",
   "Elem": "Fire",
   "Type": "Nihility"
 }, {
@@ -101,7 +101,7 @@ NEW_SR = [{
   },
   "Rarity": 5,
   "Link": "/sr/char/23050",
-  "Icon": "https://homdgcat.wiki/images/lightconemediumicon/23050.png",
+  "Icon": "/images/lightconemediumicon/23050.png",
   "Type": "Nihility"
 }]; //SR
 

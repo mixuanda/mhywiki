@@ -44,7 +44,7 @@ $(function () {
           chars.push({
             a: "/gi/char/".concat(u),
             t: {
-              img: "https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_".concat(u, ".png"),
+              img: "/homdgcat-res/Avatar/UI_AvatarIcon_".concat(u, ".png"),
               style: {
                 width: '100%'
               }
@@ -116,7 +116,7 @@ $(function () {
           a: '/gi/3boss/' + t.Ver,
           t: [{
             div: {
-              img: "https://homdgcat.wiki/homdgcat-res/monster/".concat(Keqing_MonData[s.ID].Icon, ".png"),
+              img: "/homdgcat-res/monster/".concat(Keqing_MonData[s.ID].Icon, ".png"),
               class: 'boss_img'
             },
             class: 'boss_img_wrap'

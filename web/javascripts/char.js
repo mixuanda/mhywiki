@@ -166,7 +166,7 @@ $(function () {
       if ($(this).hasClass('no_char')) return;
       $(this).render({
         div: [{
-          img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png'
+          img: '/homdgcat-res/UI/birthday-cake2.png'
         }],
         class: 'anni anni_mark',
         style: {
@@ -178,7 +178,7 @@ $(function () {
   function render_anni_2() {
     if (this_avatar._id != 1221 && this_avatar._id != 12210) return;
     $('.head_left').each(function () {
-      var rand_list = ['https://homdgcat.wiki/images/emote/Yunli/1.png', 'https://homdgcat.wiki/images/emote/Yunli/2.png', 'https://homdgcat.wiki/images/emote/Yunli/3.png'];
+      var rand_list = ['/images/emote/Yunli/1.png', '/images/emote/Yunli/2.png', '/images/emote/Yunli/3.png'];
       var rand = rand_list[Math.floor(Math.random() * rand_list.length)];
       $(this).attr('src', rand);
     });
@@ -252,7 +252,7 @@ $(function () {
         div: [{
           div: [{
             div: {
-              img: 'https://homdgcat.wiki/images/emote/Yunli/1.png'
+              img: '/images/emote/Yunli/1.png'
             },
             class: 'cntd_emote'
           }, {
@@ -263,7 +263,7 @@ $(function () {
             class: 'c_a_w'
           }, {
             div: {
-              img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png'
+              img: '/homdgcat-res/UI/birthday-cake2.png'
             },
             class: 'cntd_emote_small',
             when: anniversary
@@ -1359,7 +1359,7 @@ $(function () {
     while (unused_emotes.includes(emote)) {
       emote = Math.ceil(Math.random() * emote_num);
     }
-    this.src = 'https://homdgcat.wiki/images/emote/Yunli/' + emote + '.png';
+    this.src = '/images/emote/Yunli/' + emote + '.png';
   });
   function renderHN() {
     switch_title(txt.HNotes[lang]);
@@ -1431,7 +1431,7 @@ $(function () {
         var summon_elem_contents = [];
         sm_mon.Weak.forEach(function (k) {
           summon_elem_contents.push({
-            img: 'https://homdgcat.wiki/images/Element/' + k + '.png',
+            img: '/images/Element/' + k + '.png',
             class: 'statpageicon_small',
             style: {
               margin: '0'
@@ -1447,7 +1447,7 @@ $(function () {
           a: '/sr/monster/' + smid,
           t: [{
             div: {
-              img: 'https://homdgcat.wiki/images/' + sm_mon.Figure,
+              img: '/images/' + sm_mon.Figure,
               class: 'summon_icon'
             },
             style: {
@@ -1520,7 +1520,7 @@ $(function () {
             }
           }, {
             div: {
-              img: 'https://homdgcat.wiki/images/' + t.Icon
+              img: '/images/' + t.Icon
             },
             class: 'boss_icon',
             style: {
@@ -1653,49 +1653,49 @@ $(function () {
       }, {
         section: [{
           schedule: {
-            img: 'https://homdgcat.wiki/images/Element/Phys.png'
+            img: '/images/Element/Phys.png'
           },
           a: {
             'data-id': 'Phys'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Element/Quantum.png'
+            img: '/images/Element/Quantum.png'
           },
           a: {
             'data-id': 'Quantum'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Element/Imaginary.png'
+            img: '/images/Element/Imaginary.png'
           },
           a: {
             'data-id': 'Imaginary'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Element/Ice.png'
+            img: '/images/Element/Ice.png'
           },
           a: {
             'data-id': 'Ice'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Element/Wind.png'
+            img: '/images/Element/Wind.png'
           },
           a: {
             'data-id': 'Wind'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Element/Fire.png'
+            img: '/images/Element/Fire.png'
           },
           a: {
             'data-id': 'Fire'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Element/Elec.png'
+            img: '/images/Element/Elec.png'
           },
           a: {
             'data-id': 'Elec'
@@ -1705,7 +1705,7 @@ $(function () {
       }, {
         section: [{
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Destruction.png'
+            img: '/images/Paths/Destruction.png'
           },
           a: {
             'data-id': 'Destruction'
@@ -1713,7 +1713,7 @@ $(function () {
           class: global_var_type.Destruction ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Harmony.png'
+            img: '/images/Paths/Harmony.png'
           },
           a: {
             'data-id': 'Harmony'
@@ -1721,7 +1721,7 @@ $(function () {
           class: global_var_type.Harmony ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Remembrance.png'
+            img: '/images/Paths/Remembrance.png'
           },
           a: {
             'data-id': 'Remembrance'
@@ -1729,7 +1729,7 @@ $(function () {
           class: global_var_type.Remembrance ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Erudition.png'
+            img: '/images/Paths/Erudition.png'
           },
           a: {
             'data-id': 'Erudition'
@@ -1737,7 +1737,7 @@ $(function () {
           class: global_var_type.Erudition ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Hunt.png'
+            img: '/images/Paths/Hunt.png'
           },
           a: {
             'data-id': 'Hunt'
@@ -1745,7 +1745,7 @@ $(function () {
           class: global_var_type.Hunt ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Preservation.png'
+            img: '/images/Paths/Preservation.png'
           },
           a: {
             'data-id': 'Preservation'
@@ -1753,7 +1753,7 @@ $(function () {
           class: global_var_type.Preservation ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Abundance.png'
+            img: '/images/Paths/Abundance.png'
           },
           a: {
             'data-id': 'Abundance'
@@ -1761,7 +1761,7 @@ $(function () {
           class: global_var_type.Abundance ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Nihility.png'
+            img: '/images/Paths/Nihility.png'
           },
           a: {
             'data-id': 'Nihility'
@@ -1804,7 +1804,7 @@ $(function () {
             },
             when: window.innerWidth > 500 && !April_1st
           }, {
-            img: 'https://homdgcat.wiki/images/avatarshopicon/April1stOthers.png',
+            img: '/images/avatarshopicon/April1stOthers.png',
             class: 'avatar-head',
             event: {
               error: function (d) {
@@ -1831,7 +1831,7 @@ $(function () {
             when: window.innerWidth <= 500 && !April_1st
           }, {
             div: {
-              img: 'https://homdgcat.wiki/images/avataricon/April1stOthers.png'
+              img: '/images/avataricon/April1stOthers.png'
             },
             class: 'avatar-head-slim',
             event: {
@@ -1940,7 +1940,7 @@ $(function () {
             when: t.Stats
           }, {
             div: [{
-              img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png'
+              img: '/homdgcat-res/UI/birthday-cake2.png'
             }, {
               p: '',
               class: 'anni_p anni_p_1'
@@ -2003,7 +2003,7 @@ $(function () {
       }, {
         section: [{
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Destruction.png'
+            img: '/images/Paths/Destruction.png'
           },
           a: {
             'data-id': 'Destruction'
@@ -2011,7 +2011,7 @@ $(function () {
           class: global_var_type.Destruction ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Harmony.png'
+            img: '/images/Paths/Harmony.png'
           },
           a: {
             'data-id': 'Harmony'
@@ -2019,7 +2019,7 @@ $(function () {
           class: global_var_type.Harmony ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Remembrance.png'
+            img: '/images/Paths/Remembrance.png'
           },
           a: {
             'data-id': 'Remembrance'
@@ -2027,7 +2027,7 @@ $(function () {
           class: global_var_type.Remembrance ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Erudition.png'
+            img: '/images/Paths/Erudition.png'
           },
           a: {
             'data-id': 'Erudition'
@@ -2035,7 +2035,7 @@ $(function () {
           class: global_var_type.Erudition ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Hunt.png'
+            img: '/images/Paths/Hunt.png'
           },
           a: {
             'data-id': 'Hunt'
@@ -2043,7 +2043,7 @@ $(function () {
           class: global_var_type.Hunt ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Preservation.png'
+            img: '/images/Paths/Preservation.png'
           },
           a: {
             'data-id': 'Preservation'
@@ -2051,7 +2051,7 @@ $(function () {
           class: global_var_type.Preservation ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Abundance.png'
+            img: '/images/Paths/Abundance.png'
           },
           a: {
             'data-id': 'Abundance'
@@ -2059,7 +2059,7 @@ $(function () {
           class: global_var_type.Abundance ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/images/Paths/Nihility.png'
+            img: '/images/Paths/Nihility.png'
           },
           a: {
             'data-id': 'Nihility'
@@ -2774,7 +2774,7 @@ $(function () {
               }
             }, {
               div: {
-                img: 'https://homdgcat.wiki/images/' + this_avatar.Servant.Icon,
+                img: '/images/' + this_avatar.Servant.Icon,
                 a: {
                   loading: lazy
                 },
@@ -3308,7 +3308,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).parent().siblings('.rank_down').removeClass('rank_down').addClass('rank_none');
                   $(d.sender).parent().remove();
-                  //$(d.sender).parent().render({ img: 'https://homdgcat.wiki/images/rank/_dependencies/textures/999/999_Rank_' + (i + 1) + '.png', style: { width: '100%' } })
+                  //$(d.sender).parent().render({ img: '/images/rank/_dependencies/textures/999/999_Rank_' + (i + 1) + '.png', style: { width: '100%' } })
                   //$(d.sender).remove()
                 }
               },
@@ -3584,7 +3584,7 @@ $(function () {
                   error: function (d) {
                     $(d.sender).hide();
                     $(d.sender).parent().render({
-                      img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                      img: '/images/itemicon/Icon_Testmaterial01.png',
                       a: {
                         loading: lazy
                       }
@@ -3612,7 +3612,7 @@ $(function () {
                   error: function (d) {
                     $(d.sender).hide();
                     $(d.sender).parent().render({
-                      img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                      img: '/images/itemicon/Icon_Testmaterial01.png',
                       a: {
                         loading: lazy
                       }
@@ -3640,7 +3640,7 @@ $(function () {
                   error: function (d) {
                     $(d.sender).hide();
                     $(d.sender).parent().render({
-                      img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                      img: '/images/itemicon/Icon_Testmaterial01.png',
                       a: {
                         loading: lazy
                       }
@@ -3671,7 +3671,7 @@ $(function () {
                   error: function (d) {
                     $(d.sender).hide();
                     $(d.sender).parent().render({
-                      img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                      img: '/images/itemicon/Icon_Testmaterial01.png',
                       a: {
                         loading: lazy
                       }
@@ -3706,7 +3706,7 @@ $(function () {
                   error: function (d) {
                     $(d.sender).hide();
                     $(d.sender).parent().render({
-                      img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                      img: '/images/itemicon/Icon_Testmaterial01.png',
                       a: {
                         loading: lazy
                       }
@@ -3734,7 +3734,7 @@ $(function () {
                   error: function (d) {
                     $(d.sender).hide();
                     $(d.sender).parent().render({
-                      img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                      img: '/images/itemicon/Icon_Testmaterial01.png',
                       a: {
                         loading: lazy
                       }
@@ -3762,7 +3762,7 @@ $(function () {
                   error: function (d) {
                     $(d.sender).hide();
                     $(d.sender).parent().render({
-                      img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                      img: '/images/itemicon/Icon_Testmaterial01.png',
                       a: {
                         loading: lazy
                       }
@@ -3793,7 +3793,7 @@ $(function () {
                   error: function (d) {
                     $(d.sender).hide();
                     $(d.sender).parent().render({
-                      img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                      img: '/images/itemicon/Icon_Testmaterial01.png',
                       a: {
                         loading: lazy
                       }
@@ -4163,12 +4163,12 @@ $(function () {
         this_mat_stuff.push({
           a: '/sr/item/' + mat_data.ID,
           t: [{
-            img: "https://homdgcat.wiki/images/itemicon/" + mat_data.ID + '.png',
+            img: "/images/itemicon/" + mat_data.ID + '.png',
             event: {
               error: function (d) {
                 $(d.sender).hide();
                 $(d.sender).parent().render({
-                  img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                  img: '/images/itemicon/Icon_Testmaterial01.png',
                   a: {
                     loading: lazy
                   }
@@ -4236,12 +4236,12 @@ $(function () {
             class: 'pic_dl'
           }, {
             div: {
-              img: 'https://homdgcat.wiki/images/' + this_avatar.Icon.toLowerCase() + '.png',
+              img: '/images/' + this_avatar.Icon.toLowerCase() + '.png',
               event: {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/images/' + this_avatar.Icon.replaceAll('avatarshopicon', 'avataricon').toLowerCase() + '.png',
+                    img: '/images/' + this_avatar.Icon.replaceAll('avatarshopicon', 'avataricon').toLowerCase() + '.png',
                     a: {
                       loading: lazy
                     }
@@ -4394,7 +4394,7 @@ $(function () {
         a: '/sr/item/' + d,
         t: [{
           div: {
-            img: 'https://homdgcat.wiki/images/' + _item[d].Icon
+            img: '/images/' + _item[d].Icon
           },
           class: 'mtc_result_item_icon'
         }, {
@@ -4593,7 +4593,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                        img: '/images/itemicon/Icon_Testmaterial01.png',
                         a: {
                           loading: lazy
                         }
@@ -4625,7 +4625,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                        img: '/images/itemicon/Icon_Testmaterial01.png',
                         a: {
                           loading: lazy
                         }
@@ -4660,7 +4660,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                        img: '/images/itemicon/Icon_Testmaterial01.png',
                         a: {
                           loading: lazy
                         }
@@ -4692,7 +4692,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                        img: '/images/itemicon/Icon_Testmaterial01.png',
                         a: {
                           loading: lazy
                         }
@@ -4724,7 +4724,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/images/itemicon/Icon_Testmaterial01.png',
+                        img: '/images/itemicon/Icon_Testmaterial01.png',
                         a: {
                           loading: lazy
                         }
@@ -5417,7 +5417,7 @@ $(function () {
     $('.keq_emote_div').each(function () {
       var this_emote = keq_emotes[Math.floor(Math.random() * keq_emotes.length)];
       $(this).empty().render({
-        img: "https://homdgcat.wiki/images/emote/Yunli/".concat(this_emote, ".png")
+        img: "/images/emote/Yunli/".concat(this_emote, ".png")
       });
     });
   }

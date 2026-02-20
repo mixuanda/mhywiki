@@ -39,12 +39,12 @@ body {
 }
 
 .bg {
-    background: #29105a url('https://homdgcat.wiki/images/bg.jpg') no-repeat center center;
+    background: #29105a url('/images/bg.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .bg_2, .bg_3 {
-    background: url('https://homdgcat.wiki/images/bg.jpg');
+    background: url('../images/bg.jpg');
     background-repeat: repeat-y;
     height: auto;
 }
@@ -207,7 +207,7 @@ logo .audio_contral img {
     width: 40px;
     height: 40px;
     vertical-align: middle;
-    cursor: url(https://homdgcat.wiki/images/cursor1.ico), pointer;
+    cursor: url(/images/cursor1.ico), pointer;
 }
 
 .nav-small {
@@ -225,12 +225,12 @@ nav a {
     padding: 0 20px;
     color: #fff;
     line-height: 60px;
-    cursor: url(https://homdgcat.wiki/images/cursor1.ico), pointer;
+    cursor: url(/images/cursor1.ico), pointer;
 }
 
 nav a:hover,
 nav a.active {
-    background: url(https://homdgcat.wiki/images/ray_icon.png) no-repeat center center;
+    background: url(/images/ray_icon.png) no-repeat center center;
     background-size: contain;
     color: #d493ff;
     text-shadow: 0 0 10px #487097, 0 0 20px #164d9c, 0 0 40px #a4d3fe;
@@ -282,7 +282,7 @@ nav .nav_more span {
 .nav-small {
     display: none;
     position: relative;
-    cursor: url(https://homdgcat.wiki/images/cursor1.ico), pointer;
+    cursor: url(/images/cursor1.ico), pointer;
 }
 
 .nav-con {
@@ -309,7 +309,7 @@ nav .nav_more span {
     width: 20px;
     height: 20px;
     margin-right: 10px;
-    background: url(https://homdgcat.wiki/images/ray_icon_white.png) no-repeat center center;
+    background: url(/images/ray_icon_white.png) no-repeat center center;
     background-size: cover;
     vertical-align: middle;
 
@@ -322,7 +322,7 @@ nav .nav_more span {
 
 .nav-con a:hover i,
 .nav-con a.active i {
-    background-image: url(https://homdgcat.wiki/images/ray_icon.png);
+    background-image: url(/images/ray_icon.png);
 }
 
 .translate {
@@ -385,7 +385,7 @@ pager page-item {
     color: #fff;
     background: #3d5ea3;
     border: 1px solid #3d5ea3;
-    cursor: url(https://homdgcat.wiki/images/cursor1.ico), pointer;
+    cursor: url(/images/cursor1.ico), pointer;
 }
 
 pager .disabled {

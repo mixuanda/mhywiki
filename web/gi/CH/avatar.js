@@ -13610,7 +13610,7 @@ var _hidden = [
         "Date": "2025/12/06",
         "Ver": "6.3v1",
         "Pics": [
-            "https://homdgcat.wiki/homdgcat-res/monster/UI_MonsterIcon_Dotorre_Moon"
+            "../homdgcat-res/monster/UI_MonsterIcon_Dotorre_Moon"
         ],
         "Notes": [
             {
@@ -13647,7 +13647,7 @@ var _hidden = [
         "Date": "2025/12/04",
         "Ver": "6.3v1",
         "OriginalPics": [
-            "https://homdgcat.wiki/homdgcat-res/UI/LC_63v2_{lang}"
+            "../homdgcat-res/UI/LC_63v2_{lang}"
         ],
         "Notes": []
     },
@@ -13822,7 +13822,7 @@ var _hidden = [
         "Date": "2025/08/12",
         "Ver": "6.0v3",
         "OriginalPics": [
-            "https://homdgcat.wiki/homdgcat-res/UI/LBv3_2_{lang}"
+            "../homdgcat-res/UI/LBv3_2_{lang}"
         ],
         "Notes": []
     },
@@ -13879,7 +13879,7 @@ var _hidden = [
         "Date": "2025/06/30",
         "Ver": "5.8v3",
         "OriginalPics": [
-            "https://homdgcat.wiki/homdgcat-res/UI/LC_V3_{lang}"
+            "../homdgcat-res/UI/LC_V3_{lang}"
         ],
         "Notes": [
             {

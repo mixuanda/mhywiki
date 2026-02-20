@@ -270,7 +270,7 @@ $(function () {
         div: [{
           div: [{
             div: {
-              img: 'https://homdgcat.wiki/images/emote/Keqing/1.png'
+              img: '/images/emote/Keqing/1.png'
             },
             class: 'cntd_emote'
           }, {
@@ -281,7 +281,7 @@ $(function () {
             class: 'c_a_w'
           }, {
             div: {
-              img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png'
+              img: '/homdgcat-res/UI/birthday-cake2.png'
             },
             class: 'cntd_emote_small',
             when: anniversary
@@ -485,7 +485,7 @@ $(function () {
         }, {
           section: [{
             schedule: {
-              img: 'https://homdgcat.wiki/images/GCG_UI/3103.png',
+              img: '/images/GCG_UI/3103.png',
               a: {
                 loading: lazy
               }
@@ -503,7 +503,7 @@ $(function () {
             class: 'active'
           }, {
             schedule: {
-              img: 'https://homdgcat.wiki/images/maze/UI_RoleCombat_Medal_5.png',
+              img: '/images/maze/UI_RoleCombat_Medal_5.png',
               a: {
                 loading: lazy
               },
@@ -528,7 +528,7 @@ $(function () {
             }
           }, {
             schedule: {
-              img: 'https://homdgcat.wiki/images/GCG_UI/Equip.png',
+              img: '/images/GCG_UI/Equip.png',
               a: {
                 loading: lazy
               }
@@ -542,7 +542,7 @@ $(function () {
             }
           }, {
             schedule: {
-              img: 'https://homdgcat.wiki/images/GCG_UI/3004.png',
+              img: '/images/GCG_UI/3004.png',
               a: {
                 loading: lazy
               }
@@ -656,49 +656,49 @@ $(function () {
       }, {
         section: [{
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/UI/Fire.png'
+            img: '/homdgcat-res/UI/Fire.png'
           },
           a: {
             'data-id': 'Fire'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/UI/Water.png'
+            img: '/homdgcat-res/UI/Water.png'
           },
           a: {
             'data-id': 'Water'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/UI/Elec.png'
+            img: '/homdgcat-res/UI/Elec.png'
           },
           a: {
             'data-id': 'Elec'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/UI/Ice.png'
+            img: '/homdgcat-res/UI/Ice.png'
           },
           a: {
             'data-id': 'Ice'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/UI/Grass.png'
+            img: '/homdgcat-res/UI/Grass.png'
           },
           a: {
             'data-id': 'Grass'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/UI/Wind.png'
+            img: '/homdgcat-res/UI/Wind.png'
           },
           a: {
             'data-id': 'Wind'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/UI/Rock.png'
+            img: '/homdgcat-res/UI/Rock.png'
           },
           a: {
             'data-id': 'Rock'
@@ -708,35 +708,35 @@ $(function () {
       }, {
         section: [{
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_01.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_01.png'
           },
           a: {
             'data-id': 'Sword'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_04.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_04.png'
           },
           a: {
             'data-id': 'Claymore'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_Catalyst_MD.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_Catalyst_MD.png'
           },
           a: {
             'data-id': 'Catalyst'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_03.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_03.png'
           },
           a: {
             'data-id': 'Pole'
           }
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_02.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_02.png'
           },
           a: {
             'data-id': 'Bow'
@@ -767,7 +767,7 @@ $(function () {
             },
             when: !April_1st
           }, {
-            img: 'https://homdgcat.wiki/homdgcat-res/Avatar/April1stOthers.png',
+            img: '/homdgcat-res/Avatar/April1stOthers.png',
             class: 'avatar-head',
             event: {
               error: function (d) {
@@ -831,7 +831,7 @@ $(function () {
               }
             }, {
               img: function (p) {
-                if (!p.data.Weapon) return 'https://homdgcat.wiki/images/GCG_UI/3004.png';
+                if (!p.data.Weapon) return '/images/GCG_UI/3004.png';
                 avname = computer_.AvatarWeaponConfig[p.data.Weapon].EN;
                 switch (avname) {
                   case 'Sword':
@@ -908,7 +908,7 @@ $(function () {
             }
           }, {
             div: [{
-              img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png'
+              img: '/homdgcat-res/UI/birthday-cake2.png'
             }, {
               p: '',
               class: 'anni_p anni_p_1'
@@ -1278,7 +1278,7 @@ $(function () {
             class: 'as'
           }, {
             div: {
-              img: 'https://homdgcat.wiki/homdgcat-res/Avatar/' + p.Gacha + '.png',
+              img: '/homdgcat-res/Avatar/' + p.Gacha + '.png',
               class: p.GachaBig ? 'figure_big dissolve' : 'figure dissolve',
               when: p.Gacha && p.Gacha.length,
               event: {
@@ -1304,7 +1304,7 @@ $(function () {
           }, {
             div: [{
               div: [{
-                img: 'https://homdgcat.wiki/homdgcat-res/Abyss/_HP.png',
+                img: '/homdgcat-res/Abyss/_HP.png',
                 a: {
                   loading: lazy
                 }
@@ -1314,7 +1314,7 @@ $(function () {
               class: 'addprop'
             }, {
               div: [{
-                img: 'https://homdgcat.wiki/homdgcat-res/Abyss/_ATK.png',
+                img: '/homdgcat-res/Abyss/_ATK.png',
                 a: {
                   loading: lazy
                 }
@@ -1324,7 +1324,7 @@ $(function () {
               class: 'addprop'
             }, {
               div: [{
-                img: 'https://homdgcat.wiki/homdgcat-res/Abyss/_DEF.png',
+                img: '/homdgcat-res/Abyss/_DEF.png',
                 a: {
                   loading: lazy
                 }
@@ -1365,13 +1365,13 @@ $(function () {
         var outs = {
           a: '/gi/item/' + item_data.ID + '?lang=' + lang3,
           t: [{
-            img: "https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_".concat(item_data.ID, ".png"),
+            img: "/homdgcat-res/Mat/UI_ItemIcon_".concat(item_data.ID, ".png"),
             class: 'img_2',
             event: {
               error: function (d) {
                 $(d.sender).hide();
                 $(d.sender).parent().render({
-                  img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                  img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                   a: {
                     loading: lazy
                   }
@@ -1655,7 +1655,7 @@ $(function () {
         a: '/gi/item/' + d,
         t: [{
           div: {
-            img: 'https://homdgcat.wiki/homdgcat-res/Mat/' + _MaterialConfig[d] + '.png'
+            img: '/homdgcat-res/Mat/' + _MaterialConfig[d] + '.png'
           },
           class: 'mtc_result_item_icon'
         }, {
@@ -1748,7 +1748,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -1778,7 +1778,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -1808,7 +1808,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -1841,7 +1841,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -1878,7 +1878,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -1907,7 +1907,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -1936,7 +1936,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -1974,7 +1974,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -2011,7 +2011,7 @@ $(function () {
                     error: function (d) {
                       $(d.sender).hide();
                       $(d.sender).parent().render({
-                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                         a: {
                           loading: lazy
                         }
@@ -2213,11 +2213,11 @@ $(function () {
           }, {
             div: [{
               p: [{
-                img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png',
+                img: '/homdgcat-res/UI/birthday-cake2.png',
                 when: anniversary && this_avatar._id == 42,
                 class: 'name_cake'
               }, this_avatar.Name, {
-                img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png',
+                img: '/homdgcat-res/UI/birthday-cake2.png',
                 when: anniversary && this_avatar._id == 42,
                 class: 'name_cake'
               }],
@@ -2308,11 +2308,11 @@ $(function () {
             div: [{
               div: {
                 p: [{
-                  img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png',
+                  img: '/homdgcat-res/UI/birthday-cake2.png',
                   when: anniversary && this_avatar._id == 42,
                   class: 'name_cake'
                 }, this_avatar.Name + (lang == "CH" ? " · " : " - ") + this_avatar.Title.replace("<br>", " / "), {
-                  img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png',
+                  img: '/homdgcat-res/UI/birthday-cake2.png',
                   when: anniversary && this_avatar._id == 42,
                   class: 'name_cake'
                 }],
@@ -2596,7 +2596,7 @@ $(function () {
                             error: function (d) {
                               $(d.sender).hide();
                               $(d.sender).parent().render({
-                                img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                                img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                                 a: {
                                   loading: lazy
                                 }
@@ -2618,7 +2618,7 @@ $(function () {
                                     error: function (d) {
                                       $(d.sender).hide();
                                       $(d.sender).parent().render({
-                                        img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                                        img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                                         a: {
                                           loading: lazy
                                         }
@@ -2691,7 +2691,7 @@ $(function () {
                             error: function (d) {
                               $(d.sender).hide();
                               $(d.sender).parent().render({
-                                img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                                img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                                 a: {
                                   loading: lazy
                                 }
@@ -2859,11 +2859,11 @@ $(function () {
               div: [{
                 div: [{
                   p: [{
-                    img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png',
+                    img: '/homdgcat-res/UI/birthday-cake2.png',
                     when: anniversary && this_avatar._id == 42,
                     class: 'name_cake'
                   }, this_avatar.Name, {
-                    img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png',
+                    img: '/homdgcat-res/UI/birthday-cake2.png',
                     when: anniversary && this_avatar._id == 42,
                     class: 'name_cake'
                   }],
@@ -3019,7 +3019,7 @@ $(function () {
             div: [{
               div: [{
                 img: function (k) {
-                  if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                  if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                   return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png';
                 },
                 class: 'head_left',
@@ -3034,7 +3034,7 @@ $(function () {
                 }
               }, {
                 img: function (k) {
-                  if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                  if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                   return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon2 + '.png';
                 },
                 class: 'head_left',
@@ -3049,7 +3049,7 @@ $(function () {
                 }
               }, {
                 img: function (k) {
-                  if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                  if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                   return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon3 + '.png';
                 },
                 class: 'head_left',
@@ -3203,7 +3203,7 @@ $(function () {
           div: [{
             div: [{
               img: function (k) {
-                if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                 return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png';
               },
               class: 'head_left',
@@ -3218,7 +3218,7 @@ $(function () {
               }
             }, {
               img: function (k) {
-                if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                 return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon2 + '.png';
               },
               class: 'head_left',
@@ -3233,7 +3233,7 @@ $(function () {
               }
             }, {
               img: function (k) {
-                if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                 return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon3 + '.png';
               },
               class: 'head_left',
@@ -3276,7 +3276,7 @@ $(function () {
           div: [{
             div: [{
               img: function (k) {
-                if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                 return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png';
               },
               class: 'head_left',
@@ -3291,7 +3291,7 @@ $(function () {
               }
             }, {
               img: function (k) {
-                if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                 return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon2 + '.png';
               },
               class: 'head_left',
@@ -3306,7 +3306,7 @@ $(function () {
               }
             }, {
               img: function (k) {
-                if (anniversary && this_avatar._id == 42) return 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png';
+                if (anniversary && this_avatar._id == 42) return '/homdgcat-res/UI/birthday-cake2.png';
                 return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon3 + '.png';
               },
               class: 'head_left',
@@ -3397,11 +3397,11 @@ $(function () {
               }, {
                 div: [{
                   p: [{
-                    img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png',
+                    img: '/homdgcat-res/UI/birthday-cake2.png',
                     when: anniversary && this_avatar._id == 42,
                     class: 'name_cake'
                   }, this_avatar.Name, {
-                    img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png',
+                    img: '/homdgcat-res/UI/birthday-cake2.png',
                     when: anniversary && this_avatar._id == 42,
                     class: 'name_cake'
                   }],
@@ -4162,7 +4162,7 @@ $(function () {
                       },
                       event: {
                         click: function (l) {
-                          window.open('https://homdgcat.wiki/images/' + f.replace("{lang}", lang) + '.png', '_blank');
+                          window.open('/images/' + f.replace("{lang}", lang) + '.png', '_blank');
                         }
                       }
                     },
@@ -4221,7 +4221,7 @@ $(function () {
           var show_pics = []
           u.TutIcon.forEach(function (h) {
               show_pics.push({
-                  img: 'https://homdgcat.wiki/images/Tutorial/' + h + '.png'
+                  img: '/images/Tutorial/' + h + '.png'
               })
           })
           show_content.push({
@@ -4257,7 +4257,7 @@ $(function () {
             div: {
               a: '/gi/monster/' + u._id,
               t: {
-                img: 'https://homdgcat.wiki/homdgcat-res/monster/' + u.Icon + '.png'
+                img: '/homdgcat-res/monster/' + u.Icon + '.png'
               },
               class: 'hover-shadow',
               attr: {
@@ -4398,7 +4398,7 @@ $(function () {
     while (unused_emotes.includes(emote)) {
       emote = Math.ceil(Math.random() * emote_num);
     }
-    this.src = 'https://homdgcat.wiki/images/emote/Keqing/' + emote + '.png';
+    this.src = '/images/emote/Keqing/' + emote + '.png';
   });
   function renderCL(v) {
     switch_title(computer_.MiscText.Changelog[lang2]);
@@ -4738,7 +4738,7 @@ $(function () {
           });
           if (!_AvatarDataConfig[u].OtherDataList.length) {
             ret_1.push({
-              img: 'https://homdgcat.wiki/images/emote/Keqing/1.png',
+              img: '/images/emote/Keqing/1.png',
               style: {
                 width: '80px',
                 'margin-bottom': '-10px',
@@ -5091,7 +5091,7 @@ $(function () {
       }, {
         section: [{
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_01.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_01.png'
           },
           a: {
             'data-id': 1
@@ -5099,7 +5099,7 @@ $(function () {
           class: global_var_weapon_type == 1 ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_04.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_04.png'
           },
           a: {
             'data-id': 2
@@ -5107,7 +5107,7 @@ $(function () {
           class: global_var_weapon_type == 2 ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_Catalyst_MD.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_Catalyst_MD.png'
           },
           a: {
             'data-id': 3
@@ -5115,7 +5115,7 @@ $(function () {
           class: global_var_weapon_type == 3 ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_03.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_03.png'
           },
           a: {
             'data-id': 4
@@ -5123,7 +5123,7 @@ $(function () {
           class: global_var_weapon_type == 4 ? 'active' : ''
         }, {
           schedule: {
-            img: 'https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_02.png'
+            img: '/homdgcat-res/AvatarSkill/Skill_A_02.png'
           },
           a: {
             'data-id': 5
@@ -5453,7 +5453,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5485,7 +5485,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5517,7 +5517,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5549,7 +5549,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5591,7 +5591,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5630,7 +5630,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5669,7 +5669,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5711,7 +5711,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5750,7 +5750,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -5789,7 +5789,7 @@ $(function () {
                 error: function (d) {
                   $(d.sender).hide();
                   $(d.sender).parent().render({
-                    img: 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png',
+                    img: '/homdgcat-res/Mat/UI_ItemIcon_120864.png',
                     a: {
                       loading: lazy
                     }
@@ -6431,7 +6431,7 @@ $(function () {
     $('.keq_emote_div').each(function () {
       var this_emote = keq_emotes[Math.floor(Math.random() * keq_emotes.length)];
       $(this).empty().render({
-        img: "https://homdgcat.wiki/images/emote/Keqing/".concat(this_emote, ".png")
+        img: "/images/emote/Keqing/".concat(this_emote, ".png")
       });
     });
   }

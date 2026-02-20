@@ -10,7 +10,8 @@
   "scripts": {
     "dev": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python -m http.server 8787 --directory web; else python3 -m http.server 8787 --directory web; fi'",
     "dev:admin": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python tools/admin_server.py --project-root . --web ./web --data ./combat-wiki/data --port 8899; else python3 tools/admin_server.py --project-root . --web ./web --data ./combat-wiki/data --port 8899; fi'",
-    "build:web": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python tools/build_legacy_site.py --site ./site --out ./web --clean --locales CH,EN --asset-mode remote --force-lang CH; else python3 tools/build_legacy_site.py --site ./site --out ./web --clean --locales CH,EN --asset-mode remote --force-lang CH; fi'",
+    "build:web": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python tools/build_legacy_site.py --site ./site --out ./web --clean --locales CH,EN --asset-mode auto --force-lang CH; else python3 tools/build_legacy_site.py --site ./site --out ./web --clean --locales CH,EN --asset-mode auto --force-lang CH; fi'",
+    "build:web:remote": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python tools/build_legacy_site.py --site ./site --out ./web --clean --locales CH,EN --asset-mode remote --force-lang CH; else python3 tools/build_legacy_site.py --site ./site --out ./web --clean --locales CH,EN --asset-mode remote --force-lang CH; fi'",
     "verify:web": "sh -c 'if [ -x .venv/bin/python ]; then .venv/bin/python tools/verify_web.py --web ./web; else python3 tools/verify_web.py --web ./web; fi'"
   }
 }

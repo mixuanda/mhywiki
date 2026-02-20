@@ -244,7 +244,7 @@ $(function () {
         }, {
           div: function (k) {
             for (const [d, n] of Object.entries(_reward[k.data])) {
-              var img = 'https://homdgcat.wiki/homdgcat-res/' + _material[d] + '.png';
+              var img = '/homdgcat-res/' + _material[d] + '.png';
               $(k.container).render({
                 div: [{
                   img: img,
@@ -254,7 +254,7 @@ $(function () {
                   },
                   event: {
                     error: function (d) {
-                      $(d.sender).prop('src', 'https://homdgcat.wiki/homdgcat-res/Mat/UI_ItemIcon_120864.png');
+                      $(d.sender).prop('src', '/homdgcat-res/Mat/UI_ItemIcon_120864.png');
                     }
                   }
                 }, {

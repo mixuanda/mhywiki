@@ -296,7 +296,7 @@ $(function () {
                     template: {
                         div: [
                             {
-                                img: 'https://homdgcat.wiki/images/' + t.Icon,
+                                img: '/images/' + t.Icon,
                                 class: 'icon_small'
                             },
                             {

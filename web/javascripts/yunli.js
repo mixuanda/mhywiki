@@ -380,7 +380,7 @@ $(function () {
       boss.forEach(function (t) {
         images.push({
           div: [{
-            img: 'https://homdgcat.wiki/images/' + t.Icon,
+            img: '/images/' + t.Icon,
             class: 'boss_img'
           }, {
             p: t.HP.toString(),
@@ -396,7 +396,7 @@ $(function () {
     } else {
       boss.forEach(function (t) {
         images.push({
-          img: 'https://homdgcat.wiki/images/' + t,
+          img: '/images/' + t,
           class: 'boss_img'
         });
       });
@@ -404,7 +404,7 @@ $(function () {
     var elements = [];
     elems.forEach(function (t) {
       elements.push({
-        img: 'https://homdgcat.wiki/images/Element/' + t + '.png',
+        img: '/images/Element/' + t + '.png',
         class: 'elem'
       });
     });
@@ -426,7 +426,7 @@ $(function () {
         chars.push({
           a: "/sr/char/".concat(u),
           t: {
-            img: "https://homdgcat.wiki/images/avataricon/avatar/".concat(u, ".png"),
+            img: "/images/avataricon/avatar/".concat(u, ".png"),
             style: {
               width: '100%'
             }

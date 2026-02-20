@@ -246,7 +246,7 @@ $(function () {
       $('#A').render({
         template: {
           div: [{
-            img: 'https://homdgcat.wiki/images/RogueBuff/' + t.Img,
+            img: '/images/RogueBuff/' + t.Img,
             class: 'icon'
           }, {
             p: t.Titan,
@@ -372,7 +372,7 @@ $(function () {
             if (!t.Icon) return;
             $(k.container).render({
               schedule: {
-                img: "https://homdgcat.wiki/images/Paths/" + t.Icon
+                img: "/images/Paths/" + t.Icon
               },
               event: {
                 click: function (d) {
@@ -602,7 +602,7 @@ $(function () {
         template: {
           div: [{
             div: {
-              img: 'https://homdgcat.wiki/images/RogueBuff/' + t.Img
+              img: '/images/RogueBuff/' + t.Img
             },
             class: 'titan_img'
           }, {

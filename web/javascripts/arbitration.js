@@ -100,7 +100,7 @@ $(function () {
             }, {
               div: [{
                 div: {
-                  img: 'https://homdgcat.wiki/images/emote/Yunli/1.png'
+                  img: '/images/emote/Yunli/1.png'
                 },
                 class: 'perf_img'
               }, {
@@ -325,7 +325,7 @@ $(function () {
         t.Reward.forEach(function (s) {
           reward_items.push({
             div: [{
-              img: "https://homdgcat.wiki/images/itemicon/".concat(s.Icon, ".png"),
+              img: "/images/itemicon/".concat(s.Icon, ".png"),
               class: 'reward_img'
             }, {
               p: s.Count.toString(),
@@ -513,7 +513,7 @@ $(function () {
       monsters.push({
         span: [{
           div: [{
-            img: 'https://homdgcat.wiki/images/' + me["2"],
+            img: '/images/' + me["2"],
             class: "".concat(monicon, " hasimg"),
             event: {
               load: function (d) {
@@ -690,7 +690,7 @@ $(function () {
             }
           }, {
             div: {
-              img: 'https://homdgcat.wiki/images/' + guide_data.Icon,
+              img: '/images/' + guide_data.Icon,
               class: 'bossguide_img'
             },
             class: 'bossguide_img_w'
@@ -841,7 +841,7 @@ $(function () {
     $('.emote_').each(function () {
       var this_emote = keq_emotes[Math.floor(Math.random() * keq_emotes.length)];
       $(this).empty().render({
-        img: "https://homdgcat.wiki/images/emote/Yunli/".concat(this_emote, ".png")
+        img: "/images/emote/Yunli/".concat(this_emote, ".png")
       });
     });
   }

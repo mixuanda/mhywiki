@@ -21,10 +21,11 @@ python3 tools/build_legacy_site.py \
   --out ./web \
   --clean \
   --locales CH,EN \
-  --asset-mode remote
+  --asset-mode auto
 ```
 
 Notes:
+- `--asset-mode auto`: if local `site/images` etc exist, use local assets first (recommended for local dev).
 - `--asset-mode remote`: rewrites heavy assets to `https://homdgcat.wiki/` to keep repo light.
 - `--asset-mode local`: copies `images/`, `homdgcat-res/`, `EnemyChart/`, `SREnemyChart/` into `web/`.
 - Serve `web/` as document root (do not serve repo root then visit `/web`).
@@ -93,6 +94,7 @@ Open: `http://localhost:8787`
 
 Important:
 - `npm run dev` serves `web/` as the web root.
+- Run `npm run build:web` first so UTF-8/meta and asset links are regenerated.
 - Do not serve repo root then open `/web/index/`; that causes missing JS/CSS and a blank/purple shell.
 
 ## Run Local Admin Web + API

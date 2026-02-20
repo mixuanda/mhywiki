@@ -186,9 +186,10 @@ COMBAT_PATCH_JS = r"""(function () {
       }
       if (isAllowed(path)) continue;
       markBlockedLink(anchor);
-      const maybeCard = anchor.closest(".hover-shadow, .panel, .panelw, .new_block, .new_section, .menu_CTRL section");
-      const navLike = anchor.closest(".menu_GI, .menu_SR, .menu_GI_2, .menu_SR_2, .d1, .d2, .home_select");
-      if (maybeCard && navLike) maybeCard.remove();
+      const maybeCard = anchor.closest(".hover-shadow, .panel, .panelw, .new_block, .new_section, .menu_CTRL section, .dir");
+      if (maybeCard) {
+        maybeCard.remove();
+      }
     }
   }
 
@@ -270,9 +271,19 @@ def _rewrite_text_file(
     *,
     force_lang: str | None,
     remote_assets: bool,
+    localize_remote_abs_assets: bool,
 ) -> None:
     text = path.read_text(encoding="utf-8", errors="ignore")
     text = _sanitize_cloudflare_artifacts(text)
+
+    if path.suffix.lower() == ".html" and "<meta charset" not in text.lower():
+        text, _ = re.subn(
+            r"<head(\s*)>",
+            r'<head\1><meta charset="utf-8">',
+            text,
+            count=1,
+            flags=re.IGNORECASE,
+        )
 
     if force_lang:
         text = text.replace('id="LANG" value=""', f'id="LANG" value="{force_lang}"')
@@ -300,6 +311,10 @@ def _rewrite_text_file(
             )
         for prefix in REMOTE_ASSET_PREFIXES:
             text = text.replace(f"..https://homdgcat.wiki/{prefix}/", f"../{prefix}/")
+    elif localize_remote_abs_assets:
+        for prefix in REMOTE_ASSET_PREFIXES:
+            text = text.replace(f"https://homdgcat.wiki/{prefix}/", f"/{prefix}/")
+            text = text.replace(f"http://homdgcat.wiki/{prefix}/", f"/{prefix}/")
 
     if path.suffix.lower() == ".html" and not str(path.as_posix()).endswith("/admin/index.html"):
         marker = '<script src="/javascripts/combat_patch.js" type="text/javascript"></script>'
@@ -313,13 +328,24 @@ def _rewrite_text_file(
     path.write_text(text, encoding="utf-8")
 
 
-def _rewrite_all_text(root: Path, *, force_lang: str | None, remote_assets: bool) -> None:
+def _rewrite_all_text(
+    root: Path,
+    *,
+    force_lang: str | None,
+    remote_assets: bool,
+    localize_remote_abs_assets: bool,
+) -> None:
     for path in root.rglob("*"):
         if not path.is_file():
             continue
         if path.suffix.lower() not in {".html", ".js", ".css"}:
             continue
-        _rewrite_text_file(path, force_lang=force_lang, remote_assets=remote_assets)
+        _rewrite_text_file(
+            path,
+            force_lang=force_lang,
+            remote_assets=remote_assets,
+            localize_remote_abs_assets=localize_remote_abs_assets,
+        )
 
     for junk in root.rglob(".DS_Store"):
         junk.unlink(missing_ok=True)
@@ -364,6 +390,8 @@ def build(
     asset_mode: str,
     force_lang: str | None,
 ) -> None:
+    resolved_asset_mode = _resolve_asset_mode(site_root=site_root, asset_mode=asset_mode)
+
     if clean and out_root.exists():
         _clean_output(out_root)
     out_root.mkdir(parents=True, exist_ok=True)
@@ -402,7 +430,7 @@ def build(
     for locale in locales:
         _copy_locale_data(site_root, out_root, locale)
 
-    if asset_mode == "local":
+    if resolved_asset_mode == "local":
         for name in LOCAL_ASSET_DIRS:
             src = site_root / name
             if src.exists():
@@ -420,9 +448,12 @@ def build(
     _rewrite_all_text(
         out_root,
         force_lang=force_lang,
-        remote_assets=(asset_mode == "remote"),
+        remote_assets=(resolved_asset_mode == "remote"),
+        localize_remote_abs_assets=(resolved_asset_mode == "local"),
     )
     _transpile_js_compat(out_root)
+
+    print(f"[legacy-build] resolved-asset-mode: {resolved_asset_mode}")
 
 
 def _transpile_js_compat(out_root: Path) -> None:
@@ -446,6 +477,15 @@ def _transpile_js_compat(out_root: Path) -> None:
         print(f"[legacy-build] warning: JS compatibility transpile failed: {stderr or 'unknown error'}")
 
 
+def _resolve_asset_mode(*, site_root: Path, asset_mode: str) -> str:
+    if asset_mode in {"local", "remote"}:
+        return asset_mode
+    if asset_mode != "auto":
+        raise ValueError(f"Unknown asset mode: {asset_mode}")
+    local_ready = all((site_root / name).exists() for name in LOCAL_ASSET_DIRS)
+    return "local" if local_ready else "remote"
+
+
 def _parse_locales(raw: str) -> list[str]:
     values = [x.strip().upper() for x in raw.split(",") if x.strip()]
     if not values:
@@ -465,9 +505,9 @@ def main() -> None:
     )
     parser.add_argument(
         "--asset-mode",
-        choices=["remote", "local"],
-        default="remote",
-        help="remote: keep repo light and rewrite heavy assets to homdgcat.wiki; local: copy local assets into web/",
+        choices=["auto", "remote", "local"],
+        default="auto",
+        help="auto: prefer local assets if available, else remote; remote: rewrite heavy assets to homdgcat.wiki; local: copy local assets into web/",
     )
     parser.add_argument(
         "--force-lang",

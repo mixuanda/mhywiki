@@ -110,7 +110,7 @@ $(function () {
             role_avatar.push({
               a: "/gi/char/".concat(role_data.avatar),
               t: [{
-                img: "https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_".concat(role_data.avatar, ".png")
+                img: "/homdgcat-res/Avatar/UI_AvatarIcon_".concat(role_data.avatar, ".png")
               }, {
                 span: role_data.avatar_num.toString(),
                 class: 'ref'
@@ -123,7 +123,7 @@ $(function () {
             role_weapon.push({
               a: "/gi/char/".concat(role_data.weapon),
               t: [{
-                img: "https://homdgcat.wiki/homdgcat-res/Weapon/".concat(weapon_data[role_data.weapon], ".png")
+                img: "/homdgcat-res/Weapon/".concat(weapon_data[role_data.weapon], ".png")
               }, {
                 span: role_data.weapon_num.toString(),
                 class: 'ref'

@@ -276,7 +276,7 @@ $(function () {
       div: [{
         div: [{
           div: {
-            img: 'https://homdgcat.wiki/images/emote/Keqing/1.png'
+            img: '/images/emote/Keqing/1.png'
           },
           class: 'cntd_emote'
         }, {
@@ -287,7 +287,7 @@ $(function () {
           class: 'c_a_w'
         }, {
           div: {
-            img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png'
+            img: '/homdgcat-res/UI/birthday-cake2.png'
           },
           class: 'cntd_emote_small',
           when: anniversary
@@ -296,7 +296,7 @@ $(function () {
       }, {
         div: [{
           div: {
-            img: 'https://homdgcat.wiki/images/emote/Yunli/1.png'
+            img: '/images/emote/Yunli/1.png'
           },
           class: 'cntd_emote'
         }, {
@@ -591,7 +591,7 @@ $(function () {
             },
             when: !April_1st
           }, {
-            img: 'https://homdgcat.wiki/homdgcat-res/Avatar/April1stOthers.png',
+            img: '/homdgcat-res/Avatar/April1stOthers.png',
             a: {
               loading: lazy
             },
@@ -600,7 +600,7 @@ $(function () {
           class: 'new_image_wrapper_1'
         }, {
           div: [{
-            img: "https://homdgcat.wiki/homdgcat-res/UI/[[Elem]].png",
+            img: "/homdgcat-res/UI/[[Elem]].png",
             class: 'attr_img_1',
             a: {
               loading: lazy
@@ -609,7 +609,7 @@ $(function () {
               return p.data.Elem && p.data.Elem.length && p.data.Elem != 'None';
             }
           }, {
-            img: "https://homdgcat.wiki/homdgcat-res/AvatarSkill/[[Type]].png",
+            img: "/homdgcat-res/AvatarSkill/[[Type]].png",
             class: 'attr_img_1',
             a: {
               loading: lazy
@@ -618,7 +618,7 @@ $(function () {
               return p.data.Type.length;
             }
           }, {
-            img: 'https://homdgcat.wiki/images/GCG_UI/3004.png',
+            img: '/images/GCG_UI/3004.png',
             class: 'attr_img_1',
             a: {
               loading: lazy
@@ -655,7 +655,7 @@ $(function () {
             },
             when: !April_1st
           }, {
-            img: 'https://homdgcat.wiki/images/avataricon/April1stOthers.png',
+            img: '/images/avataricon/April1stOthers.png',
             a: {
               loading: lazy
             },
@@ -664,14 +664,14 @@ $(function () {
           class: 'new_image_wrapper_2'
         }, {
           div: [{
-            img: "https://homdgcat.wiki/images/Element/[[Elem]].png",
+            img: "/images/Element/[[Elem]].png",
             class: 'attr_img_2',
             a: {
               loading: lazy
             },
             when: 'Elem'
           }, {
-            img: "https://homdgcat.wiki/images/Paths/[[Type]].png",
+            img: "/images/Paths/[[Type]].png",
             class: 'attr_img_2',
             a: {
               loading: lazy
@@ -717,7 +717,7 @@ $(function () {
             class: 'age_sub_2 table_gi_2'
           }, {
             div: {
-              img: 'https://homdgcat.wiki/homdgcat-res/UI/birthday-cake2.png'
+              img: '/homdgcat-res/UI/birthday-cake2.png'
             },
             class: 'cntd_emote_small',
             when: anniversary
@@ -761,8 +761,8 @@ $(function () {
   });
 
   // Used to be -41 (18:00 on Monday); now it's 127 (18:00 on the next Monday)
-  start_fntd(GI_Stamp, GI_Times, '.table_gi', [7, 127, -279], 1600135200000, 'https://homdgcat.wiki/images/emote/Keqing/1.png', lang == 'CH' ? '刻晴' : 'Keqing');
-  start_fntd(SR_Stamp, SR_Times, '.table_sr', [-25, -359, -279.5], 1722394800000, 'https://homdgcat.wiki/images/emote/Yunli/1.png', lang == 'CH' ? '云璃' : 'Yunli');
+  start_fntd(GI_Stamp, GI_Times, '.table_gi', [7, 127, -279], 1600135200000, '/images/emote/Keqing/1.png', lang == 'CH' ? '刻晴' : 'Keqing');
+  start_fntd(SR_Stamp, SR_Times, '.table_sr', [-25, -359, -279.5], 1722394800000, '/images/emote/Yunli/1.png', lang == 'CH' ? '云璃' : 'Yunli');
   start_cntd();
   if (GAME == 'GI') renderGI();
   if (GAME == 'SR') renderSR();
