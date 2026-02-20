@@ -85,6 +85,7 @@ python tools/verify_web.py --web ./web
 ## Run Local Web (Static)
 
 ```bash
+npm install
 npm run dev
 ```
 

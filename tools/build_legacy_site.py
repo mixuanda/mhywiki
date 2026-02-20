@@ -422,6 +422,28 @@ def build(
         force_lang=force_lang,
         remote_assets=(asset_mode == "remote"),
     )
+    _transpile_js_compat(out_root)
+
+
+def _transpile_js_compat(out_root: Path) -> None:
+    script = Path(__file__).resolve().parent / "transpile_js_compat.mjs"
+    if not script.exists():
+        return
+    try:
+        result = subprocess.run(
+            ["node", str(script), "--web", str(out_root)],
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+    except FileNotFoundError:
+        print("[legacy-build] warning: node not found; skipped JS compatibility transpile.")
+        return
+    if result.stdout.strip():
+        print(result.stdout.strip())
+    if result.returncode != 0:
+        stderr = (result.stderr or "").strip()
+        print(f"[legacy-build] warning: JS compatibility transpile failed: {stderr or 'unknown error'}")
 
 
 def _parse_locales(raw: str) -> list[str]:
