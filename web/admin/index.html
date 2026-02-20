@@ -9,123 +9,482 @@
   <link rel="stylesheet" href="/stylesheets/admin.css">
 </head>
 <body>
-  <div class="admin-wrap">
-    <h1>Combat Wiki Admin</h1>
-
-    <section class="card" id="login-card">
-      <h2>Login</h2>
-      <div class="row">
-        <label for="admin-password">Password</label>
-        <input id="admin-password" type="password" placeholder="Enter admin password">
+  <main class="admin-shell">
+    <header class="hero">
+      <div>
+        <h1>Combat Wiki Admin</h1>
+        <p class="subtitle">Edit and create GI / SR combat entities with canonical JSON + legacy sync.</p>
       </div>
-      <button id="login-btn">Login</button>
-      <p id="login-status" class="status"></p>
+      <div class="session">
+        <span id="session-badge" class="badge badge-offline">Signed out</span>
+      </div>
+    </header>
+
+    <section class="card auth-card" id="login-card">
+      <h2>Sign In</h2>
+      <div class="row">
+        <label for="admin-password">Admin Password</label>
+        <input id="admin-password" type="password" placeholder="Enter password and press Enter" autocomplete="current-password">
+      </div>
+      <div class="actions">
+        <button id="login-btn" type="button">Login</button>
+      </div>
+      <p id="login-status" class="status" role="status" aria-live="polite"></p>
     </section>
 
-    <section class="card hidden" id="editor-card">
-      <h2>Create / Update Entity</h2>
-      <div class="grid">
-        <div class="row">
-          <label for="game">Game</label>
-          <select id="game">
-            <option value="gi">Genshin Impact</option>
-            <option value="sr">Honkai: Star Rail</option>
-          </select>
+    <section id="workspace" class="workspace hidden" aria-hidden="true">
+      <aside class="card side-panel">
+        <h2>Entity Navigator</h2>
+        <div class="grid grid-two">
+          <div class="row">
+            <label for="game">Game</label>
+            <select id="game">
+              <option value="gi">Genshin Impact</option>
+              <option value="sr">Honkai: Star Rail</option>
+            </select>
+          </div>
+          <div class="row">
+            <label for="kind">Entity Type</label>
+            <select id="kind">
+              <option value="character">Character</option>
+              <option value="weapon">Weapon (GI)</option>
+              <option value="artifact">Artifact (GI)</option>
+              <option value="enemy">Enemy</option>
+              <option value="banner">Banner</option>
+              <option value="lightcone">Light Cone (SR)</option>
+              <option value="relic">Relic (SR)</option>
+            </select>
+          </div>
         </div>
-        <div class="row">
-          <label for="kind">Entity Type</label>
-          <select id="kind">
-            <option value="character">Character</option>
-            <option value="weapon">Weapon (GI)</option>
-            <option value="artifact">Artifact (GI)</option>
-            <option value="enemy">Enemy</option>
-            <option value="banner">Banner</option>
-            <option value="lightcone">Light Cone (SR)</option>
-            <option value="relic">Relic (SR)</option>
-          </select>
-        </div>
+
         <div class="row">
           <label for="entity-id">Entity ID</label>
-          <input id="entity-id" type="text" placeholder="e.g. 1001 / Keqing">
+          <input id="entity-id" type="text" placeholder="e.g. 115, 1209, Keqing">
         </div>
         <div class="row">
-          <label for="entity-name">Name</label>
-          <input id="entity-name" type="text" placeholder="Display name">
-        </div>
-      </div>
-      <div class="actions">
-        <button id="load-btn">Load Existing</button>
-        <button id="new-btn">New Draft</button>
-      </div>
-      <div class="row">
-        <label for="entity-text">Human-readable text input</label>
-        <textarea id="entity-text" rows="14" placeholder="Paste plain text here. You can mix Chinese/English labels like Name/ID/Skills/Materials/etc."></textarea>
-      </div>
-      <div class="grid">
-        <div class="row">
-          <label for="skills-text">Skills / Skill Notes (one per line)</label>
-          <textarea id="skills-text" rows="6" placeholder="Normal Attack: ...&#10;E Skill: ...&#10;Q Skill: ..."></textarea>
+          <label for="entity-name">Display Name</label>
+          <input id="entity-name" type="text" placeholder="Optional for new entity">
         </div>
         <div class="row">
-          <label for="materials-text">Materials / Upgrade Costs</label>
-          <textarea id="materials-text" rows="6" placeholder="104312&#10;113002&#10;Common drops ..."></textarea>
+          <label for="entity-search">Search IDs / names</label>
+          <input id="entity-search" type="text" placeholder="Type to filter current index">
         </div>
-        <div class="row">
-          <label for="talents-text">Talents / Constellation / Eidolons / Traces</label>
-          <textarea id="talents-text" rows="6" placeholder="Talent 1 ...&#10;Constellation 1 ..."></textarea>
+        <div class="actions compact">
+          <button id="refresh-list-btn" type="button">Refresh List</button>
+          <button id="load-btn" type="button">Load Existing</button>
+          <button id="new-btn" type="button">New Template</button>
         </div>
-        <div class="row">
-          <label for="notes-text">Extra Notes</label>
-          <textarea id="notes-text" rows="6" placeholder="Any extra detail to preserve"></textarea>
+        <p id="entity-list-meta" class="hint">No index loaded.</p>
+        <div class="entity-list-wrap" role="region" aria-label="Entity list">
+          <ul id="entity-list" class="entity-list"></ul>
         </div>
-      </div>
-      <div class="actions">
-        <button id="preview-btn">Parse Draft</button>
-        <button id="save-btn">Save + Sync Legacy Web</button>
-        <button id="save-json-btn">Save JSON + Sync</button>
-        <button id="logout-btn">Logout</button>
-      </div>
-      <div class="row">
-        <label for="entity-json">Entity JSON (editable)</label>
-        <textarea id="entity-json" rows="16" placeholder='{"id":"1001","name":"..."}'></textarea>
-      </div>
-      <p id="editor-status" class="status"></p>
-      <pre id="preview-json" class="json"></pre>
+      </aside>
+
+      <section class="card editor-panel" id="editor-card">
+        <h2>Editor</h2>
+        <div class="tabbar" role="tablist" aria-label="Editor Modes">
+          <button id="tab-wizard" type="button" class="tab" role="tab" aria-selected="false" aria-controls="panel-wizard" tabindex="-1" data-panel="panel-wizard">New Entity Wizard</button>
+          <button id="tab-human" type="button" class="tab active" role="tab" aria-selected="true" aria-controls="panel-human" tabindex="0" data-panel="panel-human">Human Categories</button>
+          <button id="tab-draft" type="button" class="tab" role="tab" aria-selected="false" aria-controls="panel-draft" tabindex="-1" data-panel="panel-draft">Draft Input</button>
+          <button id="tab-json" type="button" class="tab" role="tab" aria-selected="false" aria-controls="panel-json" tabindex="-1" data-panel="panel-json">JSON Editor</button>
+          <button id="tab-preview" type="button" class="tab" role="tab" aria-selected="false" aria-controls="panel-preview" tabindex="-1" data-panel="panel-preview">Preview</button>
+        </div>
+
+        <section id="panel-wizard" class="tabpanel" role="tabpanel" aria-labelledby="tab-wizard" hidden>
+          <p class="hint">Create new entities with a guided form, then generate canonical JSON.</p>
+          <ol class="wizard-steps">
+            <li>Step 1: Select game + type on the left and set Entity ID.</li>
+            <li>Step 2: Fill basic combat fields below.</li>
+            <li>Step 3: Click "Generate JSON From Wizard", then save.</li>
+          </ol>
+          <div class="actions compact">
+            <button id="wizard-template-btn" type="button">Load Wizard Template</button>
+            <button id="wizard-load-json-btn" type="button">Load Wizard From JSON</button>
+            <button id="wizard-generate-btn" type="button">Generate JSON From Wizard</button>
+          </div>
+
+          <fieldset class="group">
+            <legend>Step 1. Identity</legend>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="wizard-id">ID</label>
+                <input id="wizard-id" type="text" readonly>
+              </div>
+              <div class="row">
+                <label for="wizard-name">Name</label>
+                <input id="wizard-name" type="text" placeholder="Display name">
+              </div>
+              <div class="row">
+                <label for="wizard-title">Title</label>
+                <input id="wizard-title" type="text" placeholder="Optional title">
+              </div>
+              <div class="row">
+                <label for="wizard-description">Description</label>
+                <textarea id="wizard-description" rows="3" placeholder="Short description"></textarea>
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="group">
+            <legend>Step 2. Core Combat Profile</legend>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="wizard-version">Version</label>
+                <input id="wizard-version" type="text" placeholder="e.g. 5.7, 3.8 Live">
+              </div>
+              <div class="row">
+                <label for="wizard-rarity">Rarity</label>
+                <input id="wizard-rarity" type="number" min="1" max="6" step="1" placeholder="4 / 5">
+              </div>
+              <div class="row">
+                <label for="wizard-element">Element</label>
+                <input id="wizard-element" type="text" placeholder="Pyro / Wind / Elec">
+              </div>
+              <div class="row">
+                <label for="wizard-path">Path (SR)</label>
+                <input id="wizard-path" type="text" placeholder="Erudition / Destruction">
+              </div>
+              <div class="row">
+                <label for="wizard-weaponType">Weapon Type (GI)</label>
+                <input id="wizard-weaponType" type="text" placeholder="Sword / Catalyst / 1">
+              </div>
+              <div class="row">
+                <label for="wizard-nation">Nation</label>
+                <input id="wizard-nation" type="text" placeholder="Inazuma / Fontaine">
+              </div>
+              <div class="row">
+                <label for="wizard-affiliation">Affiliation</label>
+                <input id="wizard-affiliation" type="text" placeholder="Organization / region">
+              </div>
+              <div class="row">
+                <label for="wizard-phase">Banner Phase</label>
+                <input id="wizard-phase" type="number" min="1" max="8" step="1" placeholder="1 / 2">
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="group">
+            <legend>Step 3. Type Details</legend>
+            <p id="wizard-kind-hint" class="wizard-kind-hint"></p>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="wizard-base-atk">Base ATK (Weapon/Light Cone)</label>
+                <input id="wizard-base-atk" type="number" step="any" placeholder="454.36">
+              </div>
+              <div class="row">
+                <label for="wizard-substat-type">Sub Stat Type</label>
+                <input id="wizard-substat-type" type="text" placeholder="ER / CRITRate / ...">
+              </div>
+              <div class="row">
+                <label for="wizard-substat-value">Sub Stat Value</label>
+                <input id="wizard-substat-value" type="number" step="any" placeholder="0.6125">
+              </div>
+              <div class="row">
+                <label for="wizard-skill-id">Skill ID (SR Light Cone)</label>
+                <input id="wizard-skill-id" type="number" step="1" placeholder="23014">
+              </div>
+              <div class="row">
+                <label for="wizard-material-refs">Material Refs (one per line)</label>
+                <textarea id="wizard-material-refs" rows="6" placeholder="101206&#10;113060"></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-weakness">Weakness (one per line)</label>
+                <textarea id="wizard-weakness" rows="6" placeholder="Fire&#10;Wind"></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-base-stats">Base Stats (key: value)</label>
+                <textarea id="wizard-base-stats" rows="6" placeholder="HP: 12736&#10;ATK: 215"></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-max-stats">Max Stats (key: value)</label>
+                <textarea id="wizard-max-stats" rows="6" placeholder="HP: 13641&#10;ATK: 264"></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-stats">Enemy Stats (key: value)</label>
+                <textarea id="wizard-stats" rows="6" placeholder="HP: 82.5&#10;SPD: 144"></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-resistance">Resistance (key: value)</label>
+                <textarea id="wizard-resistance" rows="6" placeholder="Fire: 0.2&#10;Ice: 0.4"></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-skills">Skills (one per line)</label>
+                <textarea id="wizard-skills" rows="6" placeholder="Normal Attack: ...&#10;Skill: ..."></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-talents">Talents / Constellations / Traces</label>
+                <textarea id="wizard-talents" rows="6" placeholder="Talent 1 ...&#10;Constellation 1 ..."></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-notes">Notes</label>
+                <textarea id="wizard-notes" rows="6" placeholder="Any additional notes"></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-raw-text">Raw Text</label>
+                <textarea id="wizard-raw-text" rows="6" placeholder="Raw text for reference"></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-featured-five">Featured Five Star (JSON array)</label>
+                <textarea id="wizard-featured-five" rows="6" placeholder='[{"N":"Emilie","X":2}]'></textarea>
+              </div>
+              <div class="row">
+                <label for="wizard-featured-four">Featured Four Star (JSON array)</label>
+                <textarea id="wizard-featured-four" rows="6" placeholder='[{"N":"Yaoyao","X":5}]'></textarea>
+              </div>
+            </div>
+            <div class="row">
+              <label for="wizard-extra-json">Extra Fields (JSON object)</label>
+              <textarea id="wizard-extra-json" rows="8" placeholder='{"camp":{"id":"0"},"icon":"..."}'></textarea>
+            </div>
+          </fieldset>
+        </section>
+
+        <section id="panel-human" class="tabpanel active" role="tabpanel" aria-labelledby="tab-human">
+          <p class="hint">Edit old JSON as grouped fields. Use \"Apply Categories To JSON\" before saving JSON.</p>
+          <div class="actions compact">
+            <button id="load-human-btn" type="button">Load From JSON</button>
+            <button id="apply-human-btn" type="button">Apply Categories To JSON</button>
+          </div>
+
+          <fieldset class="group">
+            <legend>Basic Info</legend>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="human-id">ID</label>
+                <input id="human-id" type="text" readonly>
+              </div>
+              <div class="row">
+                <label for="human-name">Name</label>
+                <input id="human-name" type="text" placeholder="Entity display name">
+              </div>
+              <div class="row">
+                <label for="human-title">Title</label>
+                <input id="human-title" type="text" placeholder="Optional title">
+              </div>
+              <div class="row">
+                <label for="human-version">Version</label>
+                <input id="human-version" type="text" placeholder="e.g. 5.7, 3.8 Live">
+              </div>
+              <div class="row">
+                <label for="human-rarity">Rarity</label>
+                <input id="human-rarity" type="number" min="1" max="6" step="1" placeholder="4 / 5">
+              </div>
+              <div class="row">
+                <label for="human-weaponType">Weapon Type</label>
+                <input id="human-weaponType" type="text" placeholder="Sword / Catalyst / 1">
+              </div>
+            </div>
+            <div class="row">
+              <label for="human-description">Description</label>
+              <textarea id="human-description" rows="4" placeholder="Short description"></textarea>
+            </div>
+          </fieldset>
+
+          <fieldset class="group">
+            <legend>Combat Identity</legend>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="human-element">Element</label>
+                <input id="human-element" type="text" placeholder="Pyro / Wind / Elec">
+              </div>
+              <div class="row">
+                <label for="human-path">Path</label>
+                <input id="human-path" type="text" placeholder="Erudition / Destruction">
+              </div>
+              <div class="row">
+                <label for="human-nation">Nation</label>
+                <input id="human-nation" type="text" placeholder="Inazuma / Fontaine">
+              </div>
+              <div class="row">
+                <label for="human-affiliation">Affiliation</label>
+                <input id="human-affiliation" type="text" placeholder="Organization / region">
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="group">
+            <legend>Materials And Tags</legend>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="human-material-refs">Material Refs (one per line)</label>
+                <textarea id="human-material-refs" rows="6" placeholder="101206&#10;113060"></textarea>
+              </div>
+              <div class="row">
+                <label for="human-weakness">Weakness (one per line)</label>
+                <textarea id="human-weakness" rows="6" placeholder="Fire&#10;Wind"></textarea>
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="group">
+            <legend>Stats (Key: Value Per Line)</legend>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="human-base-stats">Base Stats</label>
+                <textarea id="human-base-stats" rows="6" placeholder="HP: 12736&#10;ATK: 215"></textarea>
+              </div>
+              <div class="row">
+                <label for="human-max-stats">Max Stats</label>
+                <textarea id="human-max-stats" rows="6" placeholder="HP: 13641&#10;ATK: 264"></textarea>
+              </div>
+              <div class="row">
+                <label for="human-stats">Enemy Stats</label>
+                <textarea id="human-stats" rows="6" placeholder="HP: 82.5&#10;SPD: 144"></textarea>
+              </div>
+              <div class="row">
+                <label for="human-resistance">Resistance</label>
+                <textarea id="human-resistance" rows="6" placeholder="Fire: 0.2&#10;Ice: 0.4"></textarea>
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="group">
+            <legend>Skills And Notes</legend>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="human-skills">Skills (one per line)</label>
+                <textarea id="human-skills" rows="6" placeholder="Normal Attack: ...&#10;Skill: ..."></textarea>
+              </div>
+              <div class="row">
+                <label for="human-talents">Talents / Constellations / Traces</label>
+                <textarea id="human-talents" rows="6" placeholder="Talent 1 ...&#10;Constellation 1 ..."></textarea>
+              </div>
+              <div class="row">
+                <label for="human-notes">Notes</label>
+                <textarea id="human-notes" rows="6" placeholder="Any additional notes"></textarea>
+              </div>
+              <div class="row">
+                <label for="human-raw-text">Raw Text</label>
+                <textarea id="human-raw-text" rows="6" placeholder="Raw text used for parsing"></textarea>
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset class="group">
+            <legend>Advanced Blocks (JSON)</legend>
+            <div class="grid grid-two">
+              <div class="row">
+                <label for="human-combat">Combat JSON</label>
+                <textarea id="human-combat" rows="8" placeholder='{"_avatarskill_": {...}}'></textarea>
+              </div>
+              <div class="row">
+                <label for="human-analysis">Analysis JSON</label>
+                <textarea id="human-analysis" rows="8" placeholder='{"Name":"...","DescList":[...]}'></textarea>
+              </div>
+              <div class="row">
+                <label for="human-detail">Detail JSON</label>
+                <textarea id="human-detail" rows="8" placeholder='{"skillText":"..."}'></textarea>
+              </div>
+              <div class="row">
+                <label for="human-source">Source JSON</label>
+                <textarea id="human-source" rows="8" placeholder='{"file":"..."}'></textarea>
+              </div>
+              <div class="row">
+                <label for="human-featured-five">Featured Five Star JSON Array</label>
+                <textarea id="human-featured-five" rows="8" placeholder='[{"N":"Emilie","X":2}]'></textarea>
+              </div>
+              <div class="row">
+                <label for="human-featured-four">Featured Four Star JSON Array</label>
+                <textarea id="human-featured-four" rows="8" placeholder='[{"N":"Yaoyao","X":5}]'></textarea>
+              </div>
+            </div>
+            <div class="row">
+              <label for="human-other-json">Other Top-Level Fields (JSON Object)</label>
+              <textarea id="human-other-json" rows="7" placeholder='{"camp":{"id":"0"},"icon":"..."}'></textarea>
+            </div>
+          </fieldset>
+        </section>
+
+        <section id="panel-draft" class="tabpanel" role="tabpanel" aria-labelledby="tab-draft" hidden>
+          <div class="row">
+            <label for="entity-text">Human-readable source text</label>
+            <textarea id="entity-text" rows="10" placeholder="Paste raw text notes, in CN/EN labels."></textarea>
+          </div>
+          <div class="grid grid-two">
+            <div class="row">
+              <label for="skills-text">Skills / Actions (one per line)</label>
+              <textarea id="skills-text" rows="6" placeholder="Normal Attack: ...&#10;Skill: ...&#10;Ultimate: ..."></textarea>
+            </div>
+            <div class="row">
+              <label for="materials-text">Materials / Costs</label>
+              <textarea id="materials-text" rows="6" placeholder="104312&#10;113002"></textarea>
+            </div>
+            <div class="row">
+              <label for="talents-text">Talents / Constellations / Traces</label>
+              <textarea id="talents-text" rows="6" placeholder="Talent 1 ...&#10;Constellation 1 ..."></textarea>
+            </div>
+            <div class="row">
+              <label for="notes-text">Extra Notes</label>
+              <textarea id="notes-text" rows="6" placeholder="Any extra fields to preserve"></textarea>
+            </div>
+          </div>
+        </section>
+
+        <section id="panel-json" class="tabpanel" role="tabpanel" aria-labelledby="tab-json" hidden>
+          <div class="actions compact">
+            <button id="format-json-btn" type="button">Format JSON</button>
+            <button id="validate-json-btn" type="button">Validate JSON</button>
+          </div>
+          <div class="row">
+            <label for="entity-json">Canonical entity JSON</label>
+            <textarea id="entity-json" rows="18" placeholder='{"id":"1001","name":"..."}'></textarea>
+          </div>
+        </section>
+
+        <section id="panel-preview" class="tabpanel" role="tabpanel" aria-labelledby="tab-preview" hidden>
+          <pre id="preview-json" class="json"></pre>
+        </section>
+
+        <div class="actions">
+          <button id="preview-btn" type="button">Parse Draft</button>
+          <button id="save-btn" type="button">Save Draft + Sync</button>
+          <button id="save-json-btn" type="button">Save JSON + Sync</button>
+          <button id="logout-btn" type="button">Logout</button>
+        </div>
+        <p id="editor-status" class="status" role="status" aria-live="polite"></p>
+      </section>
     </section>
 
     <section class="card hidden" id="github-card">
-      <h2>GitHub PR (Optional)</h2>
-      <p class="hint">For hosted workflow, submit changed local files to a new branch and open PR via GitHub API.</p>
-      <div class="grid">
-        <div class="row">
-          <label for="gh-repo">Repo (owner/name)</label>
-          <input id="gh-repo" type="text" placeholder="mixuanda/MHYwiki">
+      <details>
+        <summary>
+          <h2>GitHub PR (Optional)</h2>
+        </summary>
+        <p class="hint">Push changed local files to a new branch and open a PR via GitHub API.</p>
+        <div class="grid grid-two">
+          <div class="row">
+            <label for="gh-repo">Repo (owner/name)</label>
+            <input id="gh-repo" type="text" placeholder="mixuanda/MHYwiki">
+          </div>
+          <div class="row">
+            <label for="gh-base">Base branch</label>
+            <input id="gh-base" type="text" value="main">
+          </div>
+          <div class="row">
+            <label for="gh-token">GitHub Token</label>
+            <input id="gh-token" type="password" placeholder="ghp_xxx">
+          </div>
+          <div class="row">
+            <label for="gh-title">PR Title</label>
+            <input id="gh-title" type="text" value="admin: content update">
+          </div>
         </div>
         <div class="row">
-          <label for="gh-base">Base branch</label>
-          <input id="gh-base" type="text" value="main">
+          <label for="gh-body">PR Body</label>
+          <textarea id="gh-body" rows="6">Created from local admin workflow.</textarea>
         </div>
         <div class="row">
-          <label for="gh-token">GitHub Token</label>
-          <input id="gh-token" type="password" placeholder="ghp_xxx">
+          <label for="gh-paths">Changed file paths (one per line)</label>
+          <textarea id="gh-paths" rows="5" placeholder="combat-wiki/data/gi/characters/xxxx.json&#10;web/gi/CH/avatar.js"></textarea>
         </div>
-        <div class="row">
-          <label for="gh-title">PR Title</label>
-          <input id="gh-title" type="text" value="admin: content update">
+        <div class="actions">
+          <button id="gh-pr-btn" type="button">Create PR from Local Files</button>
         </div>
-      </div>
-      <div class="row">
-        <label for="gh-body">PR Body</label>
-        <textarea id="gh-body" rows="6">Created from local admin workflow.</textarea>
-      </div>
-      <div class="row">
-        <label for="gh-paths">Changed file paths (one per line)</label>
-        <textarea id="gh-paths" rows="6" placeholder="combat-wiki/data/gi/characters/xxxx.json&#10;web/gi/CH/avatar.js"></textarea>
-      </div>
-      <button id="gh-pr-btn">Create PR from Local Files</button>
-      <p id="gh-status" class="status"></p>
+        <p id="gh-status" class="status" role="status" aria-live="polite"></p>
+      </details>
     </section>
-  </div>
+
+  </main>
 
   <script src="/javascripts/admin.js"></script>
 </body>
