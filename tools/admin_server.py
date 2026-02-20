@@ -313,7 +313,7 @@ def main() -> None:
     parser.add_argument("--data", default="./combat-wiki/data")
     parser.add_argument(
         "--password",
-        default=os.getenv("ADMIN_PASSWORD", ""),
+        default=os.getenv("ADMIN_PASSWORD", "admin123"),
         help="Admin password (or set ADMIN_PASSWORD env)",
     )
     args = parser.parse_args()
@@ -329,6 +329,8 @@ def main() -> None:
         raise NotADirectoryError(f"Data root not found: {data_root}")
     if not password:
         raise ValueError("Admin password is required. Use --password or ADMIN_PASSWORD env.")
+    if password == "admin123":
+        print("[admin] using default password: admin123 (set ADMIN_PASSWORD to override)")
 
     app = create_app(
         project_root=project_root,

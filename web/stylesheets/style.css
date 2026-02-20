@@ -19,11 +19,11 @@ body {
 }
 
 .bg {
-    background: #29105a url('..https://homdgcat.wiki/images/bg.jpg') no-repeat right center/cover;
+    background: #29105a url('https://homdgcat.wiki/images/bg.jpg') no-repeat right center/cover;
 }
 
 .bg_2 {
-    background: url('..https://homdgcat.wiki/images/bg.jpg');
+    background: url('https://homdgcat.wiki/images/bg.jpg');
     background-repeat: repeat-y;
     height: auto;
 }

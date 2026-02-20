@@ -35,7 +35,7 @@ NEW_GI = [
         "Rarity": 5,
         "Link": "/gi/char/15043",
         "Icon": "https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15043_4.png",
-        "Type": "../..https://homdgcat.wiki/images/GCG_UI/3004"
+        "Type": "https://homdgcat.wiki/images/GCG_UI/3004"
     },
     {
         "Name": {
@@ -47,7 +47,7 @@ NEW_GI = [
         "Rarity": 5,
         "Link": "/gi/char/15044",
         "Icon": "https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15044_4.png",
-        "Type": "../..https://homdgcat.wiki/images/GCG_UI/3004"
+        "Type": "https://homdgcat.wiki/images/GCG_UI/3004"
     },
     {
         "Name": {

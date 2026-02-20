@@ -176,6 +176,21 @@ def _verify_character_details(web_root: Path) -> list[str]:
     return issues
 
 
+def _verify_no_malformed_remote_urls(web_root: Path) -> list[str]:
+    issues: list[str] = []
+    bad_patterns = ["..https://", "https://homdgcat.wikihttps://"]
+    for path in web_root.rglob("*"):
+        if not path.is_file():
+            continue
+        if path.suffix.lower() not in {".html", ".js", ".css"}:
+            continue
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        for pattern in bad_patterns:
+            if pattern in text:
+                issues.append(f"{path.relative_to(web_root)} contains malformed url pattern `{pattern}`")
+    return issues
+
+
 def _start_server(web_root: Path, port: int) -> subprocess.Popen[str]:
     return subprocess.Popen(
         [sys.executable, "-m", "http.server", str(port)],
@@ -215,6 +230,7 @@ def run_checks(web_root: Path, base_url: str) -> list[str]:
             issues.append(f"{route} expected non-200 (blocked), got 200")
 
     issues.extend(_verify_character_details(web_root))
+    issues.extend(_verify_no_malformed_remote_urls(web_root))
     return issues
 
 

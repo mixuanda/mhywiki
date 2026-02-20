@@ -92,6 +92,7 @@ REMOTE_ASSET_REWRITES = {
     "/EnemyChart/": "https://homdgcat.wiki/EnemyChart/",
     "/SREnemyChart/": "https://homdgcat.wiki/SREnemyChart/",
 }
+REMOTE_ASSET_PREFIXES = ("images", "homdgcat-res", "EnemyChart", "SREnemyChart")
 
 
 COMBAT_PATCH_JS = r"""(function () {
@@ -281,7 +282,24 @@ def _rewrite_text_file(
         text = text.replace('id="IMGPRE" value="/"', 'id="IMGPRE" value="https://homdgcat.wiki/"')
         text = text.replace("id='IMGPRE' value='/'", "id='IMGPRE' value='https://homdgcat.wiki/'")
         for before, after in REMOTE_ASSET_REWRITES.items():
-            text = text.replace(before, after)
+            text = re.sub(
+                rf'([\'"`(=:\s]){re.escape(before)}',
+                rf"\1{after}",
+                text,
+            )
+            text = re.sub(
+                rf'([\'"`(=:\s])(?:\.\./)+{re.escape(before.lstrip("/"))}',
+                rf"\1{after}",
+                text,
+            )
+            text = re.sub(
+                rf'^{re.escape(before)}',
+                after,
+                text,
+                flags=re.MULTILINE,
+            )
+        for prefix in REMOTE_ASSET_PREFIXES:
+            text = text.replace(f"..https://homdgcat.wiki/{prefix}/", f"../{prefix}/")
 
     if path.suffix.lower() == ".html" and not str(path.as_posix()).endswith("/admin/index.html"):
         marker = '<script src="/javascripts/combat_patch.js" type="text/javascript"></script>'

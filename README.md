@@ -85,27 +85,26 @@ python tools/verify_web.py --web ./web
 ## Run Local Web (Static)
 
 ```bash
-cd web
-python3 -m http.server 3000
+npm run dev
 ```
 
-Open: `http://localhost:3000`
+Open: `http://localhost:8787`
+
+Important:
+- `npm run dev` serves `web/` as the web root.
+- Do not serve repo root then open `/web/index/`; that causes missing JS/CSS and a blank/purple shell.
 
 ## Run Local Admin Web + API
 
 Password-gated local admin with ingest/sync endpoints:
 
 ```bash
-export ADMIN_PASSWORD='your-password'
-python tools/admin_server.py \
-  --project-root . \
-  --web ./web \
-  --data ./combat-wiki/data \
-  --port 3000
+export ADMIN_PASSWORD='your-password'   # optional; default is admin123
+npm run dev:admin
 ```
 
 Open:
-- `http://localhost:3000/admin/`
+- `http://localhost:8899/admin/`
 
 Admin features:
 - Parse free-form text into entity draft

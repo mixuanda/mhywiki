@@ -44,7 +44,7 @@ body {
 }
 
 .bg_2, .bg_3 {
-    background: url('..https://homdgcat.wiki/images/bg.jpg');
+    background: url('https://homdgcat.wiki/images/bg.jpg');
     background-repeat: repeat-y;
     height: auto;
 }
