@@ -1,0 +1,32 @@
+# Ignore everything by default, then whitelist only runtime-required files.
+*
+
+# Core deploy config and Python deps.
+!.vercelignore
+!vercel.json
+!requirements.txt
+
+# Vercel server entrypoint.
+!api/
+!api/index.py
+
+# Runtime modules imported by api/index.py -> tools/admin_server.py.
+!tools/
+!tools/admin_server.py
+!tools/ingest_human_text.py
+!tools/legacy_sync.py
+!tools/normalize.py
+
+# Canonical data used by admin APIs.
+!combat-wiki/
+!combat-wiki/data/
+!combat-wiki/data/**
+
+# Admin web assets.
+!web/
+!web/admin/
+!web/admin/**
+!web/javascripts/
+!web/javascripts/admin.js
+!web/stylesheets/
+!web/stylesheets/admin.css
