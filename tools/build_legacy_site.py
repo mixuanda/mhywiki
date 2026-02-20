@@ -172,6 +172,8 @@ COMBAT_PATCH_JS = r"""(function () {
     anchor.dataset.combatBlocked = "1";
     anchor.style.opacity = "0.65";
     anchor.title = "Removed in combat-only mode";
+    anchor.style.pointerEvents = "none";
+    anchor.style.cursor = "not-allowed";
   }
 
   function sanitizeAnchors() {
@@ -186,9 +188,11 @@ COMBAT_PATCH_JS = r"""(function () {
       }
       if (isAllowed(path)) continue;
       markBlockedLink(anchor);
-      const maybeCard = anchor.closest(".hover-shadow, .panel, .panelw, .new_block, .new_section, .menu_CTRL section, .dir");
-      if (maybeCard) {
-        maybeCard.remove();
+      if (BLOCKED_EXACT.has(path)) {
+        const maybeCard = anchor.closest(".hover-shadow, .new_block, .new_section, .dir");
+        if (maybeCard) {
+          maybeCard.remove();
+        }
       }
     }
   }
